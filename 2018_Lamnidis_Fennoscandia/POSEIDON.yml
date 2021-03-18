@@ -1,20 +1,21 @@
 poseidonVersion: 2.1.0
 title: 2018_Lamnidis_Fennoscandia
-description: Genetic data published in Lamnidis et al. 2019
+description: Genetic data published in Lamnidis et al. 2018
 contributor:
 - name: Thiseas Lamnidis
-  email: lamnidis@shh.mpg.de
-packageVersion: 1.0.0
-lastModified: 2020-08-10
+  email: lamnidisi@shh.mpg.de
+packageVersion: 1.1.0
+lastModified: 2021-03-18
 genotypeData:
   format: PLINK
-  genoFile: Lamnidis_Fennoscandia.bed
-  genoFileChkSum: 2b54c7f0634639ef8e04834ed3455a8a
-  snpFile: Lamnidis_Fennoscandia.bim
-  snpFileChkSum: f50e0bd1536d4d170be96ad54026188d
-  indFile: Lamnidis_Fennoscandia.fam
-  indFileChkSum: 1c1304f74973384ab14652c28e1aa4a0
-jannoFile: Lamnidis_Fennoscandia.janno
-jannoFileChkSum: dd8749d5b441a9b353bcf5b043e55aa3
-bibFile: LITERATURE.bib
-bibFileChkSum: 0d6902625e90e81892c6261742b98d66
+  genoFile: 2018_Lamnidis_Fennoscandia.bed
+  genoFileChkSum: 74d8d52d45a0d2f6ed1212af5d2f4268
+  snpFile: 2018_Lamnidis_Fennoscandia.bim
+  snpFileChkSum: 10fe736b07171086524ec92dc5e06a22
+  indFile: 2018_Lamnidis_Fennoscandia.fam
+  indFileChkSum: 90c1b106d15bceccc1e25c34d3060d75
+jannoFile: 2018_Lamnidis_Fennoscandia.janno
+jannoFileChkSum: 0746b30bfa8132e29dbe6485bfa49918
+bibFile: 2018_Lamnidis_Fennoscandia.bib
+bibFileChkSum: a71998b3e9c81f23402dcd1905f66755
+changelogFile: CHANGELOG.txt

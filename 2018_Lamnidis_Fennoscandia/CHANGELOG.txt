@@ -1,0 +1,1 @@
+V 1.1.0: Added the modern sample Finland_Saami_Modern.SG to the package
