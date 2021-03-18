@@ -15,7 +15,6 @@ genotypeData:
   indFile: 2018_Lamnidis_Fennoscandia.fam
   indFileChkSum: 90c1b106d15bceccc1e25c34d3060d75
 jannoFile: 2018_Lamnidis_Fennoscandia.janno
-jannoFileChkSum: 0746b30bfa8132e29dbe6485bfa49918
+jannoFileChkSum: cfb135f873264c25ce0adfa1cbe555f9
 bibFile: 2018_Lamnidis_Fennoscandia.bib
 bibFileChkSum: a71998b3e9c81f23402dcd1905f66755
-changelogFile: CHANGELOG.txt
