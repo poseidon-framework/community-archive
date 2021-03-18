@@ -6,17 +6,18 @@ contributor:
   email: ghalichi@shh.mpg.de
 - name: Clemens Schmid
   email: schmid@shh.mpg.de
-packageVersion: 1.0.0
-lastModified: 2020-12-02
+packageVersion: 1.1.0
+lastModified: 2021-03-18
 genotypeData:
   format: PLINK
-  genoFile: Wang_EastAsia.bed
-  genoFileChkSum: e57266b3516df2e64c593e15a8d84bdf
-  snpFile: Wang_EastAsia.bim
-  snpFileChkSum: af11e95c92befba8d0c9873e7378ac08
-  indFile: Wang_EastAsia.fam
-  indFileChkSum: 65298c211f0d42f07c84c0c93dd5e8ac
-jannoFile: Wang_EastAsia.janno
-jannoFileChkSum: 504b999aa623138ed3a0bc7958d264a0
-bibFile: LITERATURE.bib
-bibFileChkSum: c764f97ce25b5f4b87a9846337b46006
+  genoFile: 2020_Wang_EastAsia.bed
+  genoFileChkSum: 1ff99c00d9191f69a057fb99f5350cff
+  snpFile: 2020_Wang_EastAsia.bim
+  snpFileChkSum: 9a4bc58c2a6842bcb68d875143ee3b85
+  indFile: 2020_Wang_EastAsia.fam
+  indFileChkSum: 07112a5954755d7ee910de00a6b15f91
+jannoFile: 2020_Wang_EastAsia.janno
+jannoFileChkSum: 2942a95cc667351675fe27428caaff10
+bibFile: 2020_Wang_EastAsia.bib
+bibFileChkSum: 38c067306833496bfc3498ed86dd8a91
+changelogFile: CHANGELOG.txt
