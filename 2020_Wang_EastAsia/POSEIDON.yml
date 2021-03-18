@@ -17,7 +17,7 @@ genotypeData:
   indFile: 2020_Wang_EastAsia.fam
   indFileChkSum: 07112a5954755d7ee910de00a6b15f91
 jannoFile: 2020_Wang_EastAsia.janno
-jannoFileChkSum: 2942a95cc667351675fe27428caaff10
+jannoFileChkSum: eb0e8fe442adbaf016fc0205f6b5489a
 bibFile: 2020_Wang_EastAsia.bib
 bibFileChkSum: 38c067306833496bfc3498ed86dd8a91
 changelogFile: CHANGELOG.txt
