@@ -1,0 +1,35 @@
+# genotype data
+## eigenstrat
+*.snp
+*.geno
+*.ind
+# plink binary
+*.bed
+*.bim
+# *.fam -> fam files are tracked!
+
+# log files
+*.log
+.Rhistory
+
+# libre office lock
+*.~lock.*
+
+# macOS
+## General
+.DS_Store
+.AppleDouble
+.LSOverride
+## Icon must end with two \r
+Icon
+## Thumbnails
+._*
+## Directories potentially created on remote AFP share
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
+
+## ZIP files on Poseidon Server
+*.zip
