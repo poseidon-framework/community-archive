@@ -1,0 +1,20 @@
+poseidonVersion: 2.1.0
+title: 2020_AgranatTamir_LevantBA
+description: Genetic data published in AgranatTamir et al. 2020
+contributor:
+- name: Ayshin Ghalichi
+  email: ghalichi@shh.mpg.de
+packageVersion: 1.0.0
+lastModified: 2020-09-08
+genotypeData:
+  format: PLINK
+  genoFile: AgranatTamir_LevantBA.bed
+  genoFileChkSum: 7e39ae3334c6d42ae031e8f9f81359eb
+  snpFile: AgranatTamir_LevantBA.bim
+  snpFileChkSum: bc8f9c8e75fca49c6a15d725bddb77c1
+  indFile: AgranatTamir_LevantBA.fam
+  indFileChkSum: 19aebbed36a2fbf086f10b1969f84d4f
+jannoFile: AgranatTamir_LevantBA.janno
+jannoFileChkSum: 0271f889f5d4ce1531d779558b4b4d97
+bibFile: LITERATURE.bib
+bibFileChkSum: c3bfacc57e7c91d0371eb480a0ded218

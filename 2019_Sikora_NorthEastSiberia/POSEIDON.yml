@@ -1,0 +1,22 @@
+poseidonVersion: 2.1.0
+title: 2019_Sikora_NorthEastSiberia
+description: Genetic data published in Sikora et al. 2019
+contributor:
+- name: Ayshin Ghalichi
+  email: ghalichi@shh.mpg.de
+- name: Clemens Schmid
+  email: schmid@shh.mpg.de
+packageVersion: 1.0.0
+lastModified: 2020-12-02
+genotypeData:
+  format: PLINK
+  genoFile: Sikora_NorthEastSiberia.bed
+  genoFileChkSum: 8ce4ef939226115acf523001ddaec30a
+  snpFile: Sikora_NorthEastSiberia.bim
+  snpFileChkSum: d980b9c8093b7a4fe3b9723116339bba
+  indFile: Sikora_NorthEastSiberia.fam
+  indFileChkSum: 25fa495a0d588995f88d164e67ea52d3
+jannoFile: Sikora_NorthEastSiberia.janno
+jannoFileChkSum: 6786e3c9cab4742804f62d45a83038ef
+bibFile: LITERATURE.bib
+bibFileChkSum: 0faacc859cc75d23249e2437cf986b55

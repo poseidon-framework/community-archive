@@ -1,0 +1,20 @@
+poseidonVersion: 2.1.0
+title: 2020_Haber_NearEast
+description: Genetic data published in Haber et al. 2020
+contributor:
+- name: Ayshin Ghalichi
+  email: ghalichi@shh.mpg.de
+packageVersion: 1.0.0
+lastModified: 2021-03-05
+genotypeData:
+  format: PLINK
+  genoFile: Haber_NearEast.bed
+  genoFileChkSum: fcf9de00a5bf12d16ecc069fd8f9f2b1
+  snpFile: Haber_NearEast.bim
+  snpFileChkSum: c8ccb925589fc80b22ffb3dc7acb1d65
+  indFile: Haber_NearEast.fam
+  indFileChkSum: 09e1023a1bdb3581271057443b52178d
+jannoFile: Haber_NearEast.janno
+jannoFileChkSum: 1c90031ceb067bfe51acb14a185ec9f1
+bibFile: LITERATURE.bib
+bibFileChkSum: e6bdc6fc38a0e4a28779822aea8f6689

@@ -1,0 +1,20 @@
+poseidonVersion: 2.1.0
+title: 2016_KilincCurrentBiology
+description: Empty package template. Please add a description
+contributor:
+- name: Ayshin Ghalichi
+  email: ghalichi@shh.mpg.de
+packageVersion: 1.0.0
+lastModified: 2021-03-07
+genotypeData:
+  format: PLINK
+  genoFile: 2016_KilincCurrentBiology.bed
+  genoFileChkSum: 9966ea64e9dd773a64eaec71cf7c9a07
+  snpFile: 2016_KilincCurrentBiology.bim
+  snpFileChkSum: 7a7ef4d4f9c78a0bba32a329b6162dbd
+  indFile: 2016_KilincCurrentBiology.fam
+  indFileChkSum: a96f2a7d10ebdccb82d7171dc8c953f0
+jannoFile: 2016_KilincCurrentBiology.janno
+jannoFileChkSum: 7d15eb761a2d2155a42a5e35c964f759
+bibFile: 2016_KilincCurrentBiology.bib
+bibFileChkSum: f7202d417ce07fd302016f3c12633b3c

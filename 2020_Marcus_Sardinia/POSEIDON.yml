@@ -1,0 +1,20 @@
+poseidonVersion: 2.1.0
+title: 2020_Marcus_Sardinia
+description: Genetic data published in Marcus et al. 2020
+contributor:
+- name: Ayshin Ghalichi
+  email: ghalichi@shh.mpg.de
+packageVersion: 1.0.0
+lastModified: 2021-03-05
+genotypeData:
+  format: PLINK
+  genoFile: Marcus_Sardinia.bed
+  genoFileChkSum: 6dde32c3b2fbbce82ff8fef88c8cffac
+  snpFile: Marcus_Sardinia.bim
+  snpFileChkSum: 67b7d5338d32af7349628eefe4ed87b8
+  indFile: Marcus_Sardinia.fam
+  indFileChkSum: b433e38d99df4d22cf72fbed23865482
+jannoFile: Marcus_Sardinia.janno
+jannoFileChkSum: 3c58c9a028449426663ddba645d9ef74
+bibFile: LITERATURE.bib
+bibFileChkSum: 6dad4f159f6218e3885a36ad80d95639

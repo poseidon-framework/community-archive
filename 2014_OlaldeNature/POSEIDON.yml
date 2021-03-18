@@ -1,0 +1,22 @@
+poseidonVersion: 2.1.0
+title: 2014_OlaldeNature
+description: This package was initially constructed based on the Allen Ancient DNA
+  Resource (https://reich.hms.harvard.edu/allen-ancient-dna-resource-aadr-downloadable-genotypes-present-day-and-ancient-dna-data,
+  version 37.2)
+contributor:
+- name: Ayshin Ghalichi
+  email: ghalichi@shh.mpg.de
+packageVersion: 1.0.0
+lastModified: 2021-03-07
+genotypeData:
+  format: PLINK
+  genoFile: 2014_OlaldeNature.bed
+  genoFileChkSum: 43e000517702037c04f7cdd2573feb3a
+  snpFile: 2014_OlaldeNature.bim
+  snpFileChkSum: 7a7ef4d4f9c78a0bba32a329b6162dbd
+  indFile: 2014_OlaldeNature.fam
+  indFileChkSum: 2e9d0c5c7704646aa7d02eefc0470fe8
+jannoFile: 2014_OlaldeNature.janno
+jannoFileChkSum: dc0bb144da68c25ea8dbf2a00677674b
+bibFile: 2014_OlaldeNature.bib
+bibFileChkSum: d2fa34c400637ac31a46c8d344697d4e

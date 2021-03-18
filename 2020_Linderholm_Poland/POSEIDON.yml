@@ -1,0 +1,22 @@
+poseidonVersion: 2.1.0
+title: 2020_Linderholm_Poland
+description: Genetic data published in Linderholm et al. 2020
+contributor:
+- name: Ayshin Ghalichi
+  email: ghalichi@shh.mpg.de
+- name: Clemens Schmid
+  email: schmid@shh.mpg.de
+packageVersion: 1.1.0
+lastModified: 2020-10-14
+genotypeData:
+  format: PLINK
+  genoFile: Linderholm_Poland.bed
+  genoFileChkSum: b97f1e46e13a46406bed0d2d26915a3b
+  snpFile: Linderholm_Poland.bim
+  snpFileChkSum: 750d04ae19a1b9204f2769d3c9e91c2f
+  indFile: Linderholm_Poland.fam
+  indFileChkSum: 20dd0111a968bc7de8fde78a615a2f6b
+jannoFile: Linderholm_Poland.janno
+jannoFileChkSum: 58e45fa4f2e22e6601af175714e8e627
+bibFile: LITERATURE.bib
+bibFileChkSum: 8668019f31008092b5b5bbaf4f4a3c7b

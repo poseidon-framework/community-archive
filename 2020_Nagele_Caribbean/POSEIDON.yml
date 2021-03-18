@@ -1,0 +1,20 @@
+poseidonVersion: 2.1.0
+title: 2020_Nagele_Caribbean
+description: Genetic data published in Nägele et al. 2020
+contributor:
+- name: Ayshin Ghalichi
+  email: ghalichi@shh.mpg.de
+packageVersion: 1.0.0
+lastModified: 2021-03-05
+genotypeData:
+  format: PLINK
+  genoFile: Nagele_Caribbean.bed
+  genoFileChkSum: 9e024c152da6d8398c221d2d76b070aa
+  snpFile: Nagele_Caribbean.bim
+  snpFileChkSum: 539b2b72e02105372f2acaefa5f079e8
+  indFile: Nagele_Caribbean.fam
+  indFileChkSum: a31df03e943a5f7bee9f97e40f72da4a
+jannoFile: Nagele_Caribbean.janno
+jannoFileChkSum: 0b437cfbe1828f315c70a2f2a4204d41
+bibFile: LITERATURE.bib
+bibFileChkSum: 9ba54a4998f8f276052f842bf9e7b9e4

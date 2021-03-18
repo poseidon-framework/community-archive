@@ -1,0 +1,20 @@
+poseidonVersion: 2.1.0
+title: 2020_Wang_subSaharanAfrica
+description: Genetic data published in Wang et al. 2020
+contributor:
+- name: Ke Wang
+  email: kwang@shh.mpg.de
+packageVersion: 1.0.0
+lastModified: 2020-08-10
+genotypeData:
+  format: PLINK
+  genoFile: Wang_subSaharanAfrica.bed
+  genoFileChkSum: 8e34af720b73dccd945acccc2947b326
+  snpFile: Wang_subSaharanAfrica.bim
+  snpFileChkSum: 1ec906a6999d8c4a85c00f5ef4d90353
+  indFile: Wang_subSaharanAfrica.fam
+  indFileChkSum: dd21a814ca1926f9813fd3f0f92c165c
+jannoFile: Wang_subSaharanAfrica.janno
+jannoFileChkSum: 61bbb01a6c42c9c14d047316a2b6ea2c
+bibFile: LITERATURE.bib
+bibFileChkSum: 1cebf3be3b99ab789a42b503c25bd710

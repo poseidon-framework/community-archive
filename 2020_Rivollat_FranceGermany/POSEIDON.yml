@@ -1,0 +1,22 @@
+poseidonVersion: 2.1.0
+title: 2020_Rivollat_FranceGermany
+description: Genetic data published in Rivollat et al. 2020
+contributor:
+- name: Maite Rivollat
+  email: rivollat@shh.mpg.de
+- name: Clemens Schmid
+  email: schmid@shh.mpg.de
+packageVersion: 1.0.0
+lastModified: 2020-12-02
+genotypeData:
+  format: PLINK
+  genoFile: Rivollat_FranceGermany.bed
+  genoFileChkSum: dd1405dbaffd8a0d3558e6fe4c26dfb7
+  snpFile: Rivollat_FranceGermany.bim
+  snpFileChkSum: ac99e726a8af0fd4a50f88fcac538c49
+  indFile: Rivollat_FranceGermany.fam
+  indFileChkSum: 66b829c9cb57a2948683f6e357a73cec
+jannoFile: Rivollat_FranceGermany.janno
+jannoFileChkSum: 22fddbce3207e8b1426bd62d61dd566d
+bibFile: LITERATURE.bib
+bibFileChkSum: de3cd695ade10dc99cd6bc3fdc577e3f

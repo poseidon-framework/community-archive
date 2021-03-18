@@ -1,0 +1,22 @@
+poseidonVersion: 2.1.0
+title: 2016_JeongPNAS
+description: This package was initially constructed based on the Allen Ancient DNA
+  Resource (https://reich.hms.harvard.edu/allen-ancient-dna-resource-aadr-downloadable-genotypes-present-day-and-ancient-dna-data,
+  version 37.2)
+contributor:
+- name: Ayshin Ghalichi
+  email: ghalichi@shh.mpg.de
+packageVersion: 1.0.0
+lastModified: 2021-03-08
+genotypeData:
+  format: PLINK
+  genoFile: 2016_JeongPNAS.bed
+  genoFileChkSum: 5e463465e533408935fec4b43fd8e15e
+  snpFile: 2016_JeongPNAS.bim
+  snpFileChkSum: 7a7ef4d4f9c78a0bba32a329b6162dbd
+  indFile: 2016_JeongPNAS.fam
+  indFileChkSum: d6028a03b0f6814ac427d7e53a67dad5
+jannoFile: 2016_JeongPNAS.janno
+jannoFileChkSum: 3e878ffb505dca63c076ee797ebed591
+bibFile: 2016_JeongPNAS.bib
+bibFileChkSum: 53c559b3c482acfa7a47b63cb86f4af4

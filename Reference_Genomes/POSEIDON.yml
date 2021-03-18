@@ -1,0 +1,22 @@
+poseidonVersion: 2.1.0
+title: Reference_Genomes
+description: Genetic data for Reference Genomes
+contributor:
+- name: Ayshin Ghalichi
+  email: ghalichi@shh.mpg.de
+- name: Clemens Schmid
+  email: schmid@shh.mpg.de
+packageVersion: 1.0.1
+lastModified: 2021-02-24
+genotypeData:
+  format: PLINK
+  genoFile: Reference_Genomes.bed
+  genoFileChkSum: 360f972039700b47450ecc2d82d08231
+  snpFile: Reference_Genomes.bim
+  snpFileChkSum: eab20e48e3cc509f0519d1670ad5e1bf
+  indFile: Reference_Genomes.fam
+  indFileChkSum: 9b370b2061682fa168095db174f6073e
+jannoFile: Reference_Genomes.janno
+jannoFileChkSum: 75ac3110944c52a4b5a2fc55c8cfbadd
+bibFile: Reference_Genomes.bib
+bibFileChkSum: 0d80ceb444d1d05202c1773119cf1e27

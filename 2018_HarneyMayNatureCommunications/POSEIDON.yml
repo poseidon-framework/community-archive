@@ -1,0 +1,20 @@
+poseidonVersion: 2.1.0
+title: 2018_HarneyMayNatureCommunications
+description: Empty package template. Please add a description
+contributor:
+- name: Ayshin Ghalichi
+  email: ghalichi@shh.mpg.de
+packageVersion: 1.0.0
+lastModified: 2021-03-07
+genotypeData:
+  format: PLINK
+  genoFile: 2018_HarneyMayNatureCommunications.bed
+  genoFileChkSum: 221b96c75804ad20215ad3ad1f4975d7
+  snpFile: 2018_HarneyMayNatureCommunications.bim
+  snpFileChkSum: 7a7ef4d4f9c78a0bba32a329b6162dbd
+  indFile: 2018_HarneyMayNatureCommunications.fam
+  indFileChkSum: 9bcd911853839ca5a4127796ec6c3adb
+jannoFile: 2018_HarneyMayNatureCommunications.janno
+jannoFileChkSum: edf8848a273ed3d970fa7a0a06070158
+bibFile: 2018_HarneyMayNatureCommunications.bib
+bibFileChkSum: cac343f653c4aef473da2981bf40a3e2

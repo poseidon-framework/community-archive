@@ -1,0 +1,20 @@
+poseidonVersion: 2.1.0
+title: 2018_BostonDatashare_modern_published
+description: Genetic data for modern samples
+contributor:
+- name: Ayshin Ghalichi
+  email: ghalichi@shh.mpg.de
+packageVersion: 1.0.0
+lastModified: 2020-08-10
+genotypeData:
+  format: PLINK
+  genoFile: Boston_modern.bed
+  genoFileChkSum: d29e4c4c4ce04eebded9c49bf66bccf2
+  snpFile: Boston_modern.bim
+  snpFileChkSum: 7b9b61e744bae9620c9b4981d91308a8
+  indFile: Boston_modern.fam
+  indFileChkSum: d272e0a16c112cb722623ee2eb51be36
+jannoFile: Boston_modern.janno
+jannoFileChkSum: 7e2451b79bf6401947f30bd9915f25ae
+bibFile: LITERATURE.bib
+bibFileChkSum: 4270f188e6ed1b16a9bef23bd155b9f4

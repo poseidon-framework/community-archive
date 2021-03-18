@@ -1,0 +1,20 @@
+poseidonVersion: 2.1.0
+title: 2020_Margaryan_Viking
+description: Genetic data published in Margaryan et al. 2020
+contributor:
+- name: Ayshin Ghalichi
+  email: ghalichi@shh.mpg.de
+packageVersion: 1.0.0
+lastModified: 2021-03-05
+genotypeData:
+  format: PLINK
+  genoFile: Margaryan_Viking.bed
+  genoFileChkSum: b88d0957af01f523a4566ae5f1c47790
+  snpFile: Margaryan_Viking.bim
+  snpFileChkSum: 94ececb8f56067b5dd7bb7a7705f7559
+  indFile: Margaryan_Viking.fam
+  indFileChkSum: b15954e49137a7ef0c33ce65b2f7cb90
+jannoFile: Margaryan_Viking.janno
+jannoFileChkSum: 38cfe021789920a101185e2032d7ea45
+bibFile: LITERATURE.bib
+bibFileChkSum: 2257ab6c2cc25fdc59abbc8bb05ce4a5

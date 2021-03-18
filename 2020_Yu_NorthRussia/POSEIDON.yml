@@ -1,0 +1,20 @@
+poseidonVersion: 2.1.0
+title: 2020_Yu_NorthRussia
+description: Genetic data published in Yu et al. 2020
+contributor:
+- name: He Yu
+  email: yu@shh.mpg.de
+packageVersion: 1.0.0
+lastModified: 2020-08-10
+genotypeData:
+  format: PLINK
+  genoFile: Yu_NorthRussia.bed
+  genoFileChkSum: 1c9fffacd40f8570db59ca7892383424
+  snpFile: Yu_NorthRussia.bim
+  snpFileChkSum: 89f52c8c76dbb5ccbde93d4bc9557bf0
+  indFile: Yu_NorthRussia.fam
+  indFileChkSum: fa2cabfa888571d607825cfd633e6205
+jannoFile: Yu_NorthRussia.janno
+jannoFileChkSum: 94b92748505ce748aedc9043d1c37aa4
+bibFile: LITERATURE.bib
+bibFileChkSum: 80fbd93a297fd6633b00f153ff7a86fd

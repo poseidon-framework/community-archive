@@ -1,0 +1,20 @@
+poseidonVersion: 2.1.0
+title: 2018_Zalloua_Phoenician
+description: Genetic data published in [NAME] et al. [YEAR]
+contributor:
+- name: Ayshin Ghalichi
+  email: ghalichi@shh.mpg.de
+packageVersion: 1.0.0
+lastModified: 2020-08-10
+genotypeData:
+  format: PLINK
+  genoFile: Zalloua_Phoenician.bed
+  genoFileChkSum: b73a6bbdfb083dfb18768946d7408810
+  snpFile: Zalloua_Phoenician.bim
+  snpFileChkSum: 4e3c7cb17bd8d880ab8a68db1001095b
+  indFile: Zalloua_Phoenician.fam
+  indFileChkSum: 3041efcd382bd6d30771725dbc8f39e6
+jannoFile: Zalloua_Phoenician.janno
+jannoFileChkSum: 39eb767957cf047346124931f62cbea8
+bibFile: LITERATURE.bib
+bibFileChkSum: 225a386fb1607ba3340337bd08e3f343

@@ -1,0 +1,20 @@
+poseidonVersion: 2.1.0
+title: 2019_Saag_EasternBaltic
+description: Genetic data published in Saag et al. 2019
+contributor:
+- name: Ayshin Ghalichi
+  email: ghalichi@shh.mpg.de
+packageVersion: 1.0.0
+lastModified: 2020-08-10
+genotypeData:
+  format: PLINK
+  genoFile: Saag_EasternBaltic.bed
+  genoFileChkSum: 19b80bc89745d24240f4f805fbd2d51e
+  snpFile: Saag_EasternBaltic.bim
+  snpFileChkSum: 68e38ef0bfc4a9d3f335ac1f31233fb9
+  indFile: Saag_EasternBaltic.fam
+  indFileChkSum: a24f751fb490646efef59920e67a8823
+jannoFile: Saag_EasternBaltic.janno
+jannoFileChkSum: 44563287d887233bea451f28f9448424
+bibFile: LITERATURE.bib
+bibFileChkSum: 91c0c98a3c91de8040612c4b37a75527

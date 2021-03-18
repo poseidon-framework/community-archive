@@ -1,0 +1,22 @@
+poseidonVersion: 2.1.0
+title: 2017_RodriguezVarelaCurrentBiology
+description: This package was initially constructed based on the Allen Ancient DNA
+  Resource (https://reich.hms.harvard.edu/allen-ancient-dna-resource-aadr-downloadable-genotypes-present-day-and-ancient-dna-data,
+  version 37.2)
+contributor:
+- name: Ayshin Ghalichi
+  email: ghalichi@shh.mpg.de
+packageVersion: 1.0.0
+lastModified: 2021-03-07
+genotypeData:
+  format: PLINK
+  genoFile: 2017_RodriguezVarelaCurrentBiology.bed
+  genoFileChkSum: c29847da1d0c3544bcfd84ce393f792b
+  snpFile: 2017_RodriguezVarelaCurrentBiology.bim
+  snpFileChkSum: 7a7ef4d4f9c78a0bba32a329b6162dbd
+  indFile: 2017_RodriguezVarelaCurrentBiology.fam
+  indFileChkSum: c5154bb79de76e48c2f04614c9c4441f
+jannoFile: 2017_RodriguezVarelaCurrentBiology.janno
+jannoFileChkSum: 957123c401c4759cce7f845d3b1b8e90
+bibFile: 2017_RodriguezVarelaCurrentBiology.bib
+bibFileChkSum: 64ab328a26c77462159fa14fe1f062a5

@@ -1,0 +1,20 @@
+poseidonVersion: 2.1.0
+title: 2016_Mallick_SGDP1240K_diploid_pulldown
+description: Genetic data published in Mallick et al. 2016
+contributor:
+- name: Ayshin Ghalichi
+  email: ghalichi@shh.mpg.de
+packageVersion: 1.0.0
+lastModified: 2020-08-10
+genotypeData:
+  format: PLINK
+  genoFile: SGDP.bed
+  genoFileChkSum: a474be3c9b1ef234fb02c1c84ae9c4e5
+  snpFile: SGDP.bim
+  snpFileChkSum: ccced70a057a513fcc32239634cce5c1
+  indFile: SGDP.fam
+  indFileChkSum: 890f6ce36d14c8053dbc0de45db7905f
+jannoFile: SGDP.janno
+jannoFileChkSum: e8946da640c9b45c7e2dda1aaa73e7af
+bibFile: LITERATURE.bib
+bibFileChkSum: 1cca8ed8cbf2658df0bffbb3a88c6b68

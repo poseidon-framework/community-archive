@@ -1,0 +1,22 @@
+poseidonVersion: 2.1.0
+title: 2014_RaghavanScience
+description: This package was initially constructed based on the Allen Ancient DNA
+  Resource (https://reich.hms.harvard.edu/allen-ancient-dna-resource-aadr-downloadable-genotypes-present-day-and-ancient-dna-data,
+  version 37.2)
+contributor:
+- name: Ayshin Ghalichi
+  email: ghalichi@shh.mpg.de
+packageVersion: 1.0.0
+lastModified: 2021-03-08
+genotypeData:
+  format: PLINK
+  genoFile: 2014_RaghavanScience.bed
+  genoFileChkSum: 07584d8a525a663606eecb17fdd79735
+  snpFile: 2014_RaghavanScience.bim
+  snpFileChkSum: 7a7ef4d4f9c78a0bba32a329b6162dbd
+  indFile: 2014_RaghavanScience.fam
+  indFileChkSum: d05aab20397bbbdc994bd6adc96bf222
+jannoFile: 2014_RaghavanScience.janno
+jannoFileChkSum: 09335d6787669cc2cd41f6bb138c60b5
+bibFile: 2014_RaghavanScience.bib
+bibFileChkSum: fe26d4e06ee1d507f3ef86f602e7c2c4

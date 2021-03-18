@@ -1,0 +1,20 @@
+poseidonVersion: 2.1.0
+title: 2020_Bergstrom_HGDP
+description: Genetic data published in Bergstrom et al. 2020
+contributor:
+- name: Ayshin Ghalichi
+  email: ghalichi@shh.mpg.de
+packageVersion: 1.0.0
+lastModified: 2021-03-05
+genotypeData:
+  format: PLINK
+  genoFile: Bergstrom_HGDP.bed
+  genoFileChkSum: 5870f16e25f8a3d83433439a81620500
+  snpFile: Bergstrom_HGDP.bim
+  snpFileChkSum: 6bfff818b8911f5642d572b125bd4307
+  indFile: Bergstrom_HGDP.fam
+  indFileChkSum: 2fc07fa1832fa5dbf2f39286a9da1a07
+jannoFile: Bergstrom_HGDP.janno
+jannoFileChkSum: 1711d759401c03324b425ccc48502c82
+bibFile: LITERATURE.bib
+bibFileChkSum: 79ad620a7903ec265de098efe5331bc0

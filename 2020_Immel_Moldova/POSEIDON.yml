@@ -1,0 +1,22 @@
+poseidonVersion: 2.1.0
+title: 2020_Immel_Moldova
+description: Genetic data published in Immel et al. 2020
+contributor:
+- name: Ayshin Ghalichi
+  email: ghalichi@shh.mpg.de
+- name: Clemens Schmid
+  email: schmid@shh.mpg.de
+packageVersion: 1.0.0
+lastModified: 2020-12-02
+genotypeData:
+  format: PLINK
+  genoFile: Immel_Moldova.bed
+  genoFileChkSum: 44b1167e37c140575cd7393056729424
+  snpFile: Immel_Moldova.bim
+  snpFileChkSum: 0d6a205f917da7578865bd0720713dfa
+  indFile: Immel_Moldova.fam
+  indFileChkSum: 3c306fad89d72170022ca9dc33b4c33f
+jannoFile: Immel_Moldova.janno
+jannoFileChkSum: c36f4da7f6a2ff076cf5e6b8f7ac426c
+bibFile: LITERATURE.bib
+bibFileChkSum: b12b643e2483157e7d41a89883921562

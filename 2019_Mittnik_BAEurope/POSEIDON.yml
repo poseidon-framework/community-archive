@@ -1,0 +1,20 @@
+poseidonVersion: 2.1.0
+title: 2019_Mittnik_BAEurope
+description: Genetic data published in Mittnik et al. 2019
+contributor:
+- name: Ayshin Ghalichi
+  email: ghalichi@shh.mpg.de
+packageVersion: 1.0.0
+lastModified: 2020-08-10
+genotypeData:
+  format: PLINK
+  genoFile: Mittnik_BAEurope.bed
+  genoFileChkSum: f3503e98849918340854285768102a66
+  snpFile: Mittnik_BAEurope.bim
+  snpFileChkSum: 2f1b363b600eadc2685ab38afcaf6ddf
+  indFile: Mittnik_BAEurope.fam
+  indFileChkSum: d8b665ed39f47a594b19adaccfb90106
+jannoFile: Mittnik_BAEurope.janno
+jannoFileChkSum: abf0be67b1a5563308da397e1d2514a0
+bibFile: LITERATURE.bib
+bibFileChkSum: f0d59c58296902dc434e19114433f3fd

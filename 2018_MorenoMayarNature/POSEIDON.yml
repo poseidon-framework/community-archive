@@ -1,0 +1,22 @@
+poseidonVersion: 2.1.0
+title: 2018_MorenoMayarNature
+description: This package was initially constructed based on the Allen Ancient DNA
+  Resource (https://reich.hms.harvard.edu/allen-ancient-dna-resource-aadr-downloadable-genotypes-present-day-and-ancient-dna-data,
+  version 37.2)
+contributor:
+- name: Ayshin Ghalichi
+  email: ghalichi@shh.mpg.de
+packageVersion: 1.0.0
+lastModified: 2021-03-07
+genotypeData:
+  format: PLINK
+  genoFile: 2018_MorenoMayarNature.bed
+  genoFileChkSum: 6d837e47485f58ef4e499a6c22332b68
+  snpFile: 2018_MorenoMayarNature.bim
+  snpFileChkSum: 7a7ef4d4f9c78a0bba32a329b6162dbd
+  indFile: 2018_MorenoMayarNature.fam
+  indFileChkSum: b4b9047531f9a50c5cd00812d2eefc60
+jannoFile: 2018_MorenoMayarNature.janno
+jannoFileChkSum: a080b4ec3294eda93c1038a8188c5014
+bibFile: 2018_MorenoMayarNature.bib
+bibFileChkSum: f57a46007351ea5d63ebb185a2cdfef6

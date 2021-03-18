@@ -1,0 +1,20 @@
+poseidonVersion: 2.1.0
+title: 2019_Narasimhan_centralSouthAsia
+description: Genetic data published in Narasimhan et al. 2019
+contributor:
+- name: Ayshin Ghalichi
+  email: ghalichi@shh.mpg.de
+packageVersion: 1.0.0
+lastModified: 2020-08-10
+genotypeData:
+  format: PLINK
+  genoFile: Narasimhan_centralSouthAsia.bed
+  genoFileChkSum: 983b008b376b6389800ec4dac873b733
+  snpFile: Narasimhan_centralSouthAsia.bim
+  snpFileChkSum: 6ee61577eb75104aa3b3600dba07dde7
+  indFile: Narasimhan_centralSouthAsia.fam
+  indFileChkSum: d6b3f368f154783e58a29126c28f23b3
+jannoFile: Narasimhan_centralSouthAsia.janno
+jannoFileChkSum: 50c7a041766ed89c4a81f84414899a38
+bibFile: LITERATURE.bib
+bibFileChkSum: 57909e695be2bb3962f12580bd6b4f5d

@@ -1,0 +1,20 @@
+poseidonVersion: 2.1.0
+title: 2016_OmrakCurrentBiology
+description: Empty package template. Please add a description
+contributor:
+- name: Ayshin Ghalichi
+  email: ghalichi@shh.mpg.de
+packageVersion: 1.0.0
+lastModified: 2021-03-07
+genotypeData:
+  format: PLINK
+  genoFile: 2016_OmrakCurrentBiology.bed
+  genoFileChkSum: c11410ab70788af6574ecdb765b99906
+  snpFile: 2016_OmrakCurrentBiology.bim
+  snpFileChkSum: 7a7ef4d4f9c78a0bba32a329b6162dbd
+  indFile: 2016_OmrakCurrentBiology.fam
+  indFileChkSum: 8f59ba14704991079fd88717b31c4154
+jannoFile: 2016_OmrakCurrentBiology.janno
+jannoFileChkSum: 10efc43dbb6028be3a12f0b2d57d883d
+bibFile: 2016_OmrakCurrentBiology.bib
+bibFileChkSum: 48b27b29ab8adbfda8e301adb1cc8e65

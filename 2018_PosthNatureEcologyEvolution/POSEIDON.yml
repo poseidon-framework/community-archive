@@ -1,0 +1,22 @@
+poseidonVersion: 2.1.0
+title: 2018_PosthNatureEcologyEvolution
+description: This package was initially constructed based on the Allen Ancient DNA
+  Resource (https://reich.hms.harvard.edu/allen-ancient-dna-resource-aadr-downloadable-genotypes-present-day-and-ancient-dna-data,
+  version 37.2)
+contributor:
+- name: Ayshin Ghalichi
+  email: ghalichi@shh.mpg.de
+packageVersion: 1.0.0
+lastModified: 2021-03-07
+genotypeData:
+  format: PLINK
+  genoFile: 2018_PosthNatureEcologyEvolution.bed
+  genoFileChkSum: 29cdd595cac76887310927c790e99413
+  snpFile: 2018_PosthNatureEcologyEvolution.bim
+  snpFileChkSum: 7a7ef4d4f9c78a0bba32a329b6162dbd
+  indFile: 2018_PosthNatureEcologyEvolution.fam
+  indFileChkSum: 82994c5d2d7c5e31a5578ec7aa9b6ada
+jannoFile: 2018_PosthNatureEcologyEvolution.janno
+jannoFileChkSum: bc49dc193b696f5279c8c2a57b99583f
+bibFile: 2018_PosthNatureEcologyEvolution.bib
+bibFileChkSum: a892522b9721902f11c2e5bfc5b8e942

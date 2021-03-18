@@ -1,0 +1,20 @@
+poseidonVersion: 2.1.0
+title: 2020_Lipson_WestAfrica
+description: Genetic data published in Lipson et al. 2020
+contributor:
+- name: Ayshin Ghalichi
+  email: ghalichi@shh.mpg.de
+packageVersion: 1.0.0
+lastModified: 2020-08-10
+genotypeData:
+  format: PLINK
+  genoFile: Lipson_WestAfrica.bed
+  genoFileChkSum: 7c5f95aa07efb5403d260b62b8ce1afc
+  snpFile: Lipson_WestAfrica.bim
+  snpFileChkSum: deb976beafd76ef7c74280b23b594800
+  indFile: Lipson_WestAfrica.fam
+  indFileChkSum: f7ed17c9ea0b2dbec19acf6ccc7b96d1
+jannoFile: Lipson_WestAfrica.janno
+jannoFileChkSum: 5a8d155cc6029034599cd5419aa7e12e
+bibFile: LITERATURE.bib
+bibFileChkSum: eb9e806bafac4f6a38a0fac02da1d145

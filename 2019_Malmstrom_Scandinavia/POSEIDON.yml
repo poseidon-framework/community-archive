@@ -1,0 +1,20 @@
+poseidonVersion: 2.1.0
+title: 2019_Malmstrom_Scandinavia
+description: Genetic data published in Malmstrom et al. 2019
+contributor:
+- name: Ayshin Ghalichi
+  email: ghalichi@shh.mpg.de
+packageVersion: 1.0.0
+lastModified: 2020-08-10
+genotypeData:
+  format: PLINK
+  genoFile: Malmstrom_Scandinavia.bed
+  genoFileChkSum: c87906f80ac25a6af7de993799f113c5
+  snpFile: Malmstrom_Scandinavia.bim
+  snpFileChkSum: 7c106592cab2989c2ff913a936ec9218
+  indFile: Malmstrom_Scandinavia.fam
+  indFileChkSum: f305d36d4f746c85e4a647d3893cf627
+jannoFile: Malmstrom_Scandinavia.janno
+jannoFileChkSum: 08b5e57dd5d3c528eeb8aa41299a3d40
+bibFile: LITERATURE.bib
+bibFileChkSum: 4e1d7b1cf9db869755fc51c61626125b

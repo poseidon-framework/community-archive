@@ -1,0 +1,21 @@
+poseidonVersion: 2.1.0
+title: 2020_Bongers_SouthPeru
+description: Six individuals from two cemeteries in the Chincha Valley of southern
+  Peru
+contributor:
+- name: Clemens Schmid
+  email: schmid@shh.mpg.de
+packageVersion: 1.0.0
+lastModified: 2021-02-16
+genotypeData:
+  format: PLINK
+  genoFile: Bongers_SouthPeru.bed
+  genoFileChkSum: deafb5b7896bf7469313c7be6ff140da
+  snpFile: Bongers_SouthPeru.bim
+  snpFileChkSum: a2d415e2b937164c0cc890f8be599a36
+  indFile: Bongers_SouthPeru.fam
+  indFileChkSum: b2dd0a3251ecf17679ec7a743e4748df
+jannoFile: Bongers_SouthPeru.janno
+jannoFileChkSum: 30420124769cb1cf3ca9e57e33303f83
+bibFile: Bongers_SouthPeru.bib
+bibFileChkSum: 5e23b63a54994a016af7b2778d891c53

@@ -1,0 +1,22 @@
+poseidonVersion: 2.1.0
+title: 2018_FernandesScientificReports
+description: This package was initially constructed based on the Allen Ancient DNA
+  Resource (https://reich.hms.harvard.edu/allen-ancient-dna-resource-aadr-downloadable-genotypes-present-day-and-ancient-dna-data,
+  version 37.2)
+contributor:
+- name: Ayshin Ghalichi
+  email: ghalichi@shh.mpg.de
+packageVersion: 1.0.0
+lastModified: 2021-03-07
+genotypeData:
+  format: PLINK
+  genoFile: 2018_FernandesScientificReports.bed
+  genoFileChkSum: 70f9a0786a7a1d594296c6e0a73ad095
+  snpFile: 2018_FernandesScientificReports.bim
+  snpFileChkSum: 7a7ef4d4f9c78a0bba32a329b6162dbd
+  indFile: 2018_FernandesScientificReports.fam
+  indFileChkSum: 619563b41686b81029486693e4e899cb
+jannoFile: 2018_FernandesScientificReports.janno
+jannoFileChkSum: b99480320527ed45abe223c17ff5221a
+bibFile: 2018_FernandesScientificReports.bib
+bibFileChkSum: 40a7363f2a6322fca3cdaffdd9908c75

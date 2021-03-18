@@ -1,0 +1,22 @@
+poseidonVersion: 2.1.0
+title: 2020_Wang_EastAsia
+description: Genetic data published in Wang et al. 2020
+contributor:
+- name: Ayshin Ghalichi
+  email: ghalichi@shh.mpg.de
+- name: Clemens Schmid
+  email: schmid@shh.mpg.de
+packageVersion: 1.0.0
+lastModified: 2020-12-02
+genotypeData:
+  format: PLINK
+  genoFile: Wang_EastAsia.bed
+  genoFileChkSum: e57266b3516df2e64c593e15a8d84bdf
+  snpFile: Wang_EastAsia.bim
+  snpFileChkSum: af11e95c92befba8d0c9873e7378ac08
+  indFile: Wang_EastAsia.fam
+  indFileChkSum: 65298c211f0d42f07c84c0c93dd5e8ac
+jannoFile: Wang_EastAsia.janno
+jannoFileChkSum: 504b999aa623138ed3a0bc7958d264a0
+bibFile: LITERATURE.bib
+bibFileChkSum: c764f97ce25b5f4b87a9846337b46006

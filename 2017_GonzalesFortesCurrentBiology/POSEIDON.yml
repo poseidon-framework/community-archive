@@ -1,0 +1,22 @@
+poseidonVersion: 2.1.0
+title: 2017_GonzalesFortesCurrentBiology
+description: This package was initially constructed based on the Allen Ancient DNA
+  Resource (https://reich.hms.harvard.edu/allen-ancient-dna-resource-aadr-downloadable-genotypes-present-day-and-ancient-dna-data,
+  version 37.2)
+contributor:
+- name: Ayshin Ghalichi
+  email: ghalichi@shh.mpg.de
+packageVersion: 1.0.0
+lastModified: 2021-03-07
+genotypeData:
+  format: PLINK
+  genoFile: 2017_GonzalesFortesCurrentBiology.bed
+  genoFileChkSum: fbb27ff50a6502827801958071765dbb
+  snpFile: 2017_GonzalesFortesCurrentBiology.bim
+  snpFileChkSum: 7a7ef4d4f9c78a0bba32a329b6162dbd
+  indFile: 2017_GonzalesFortesCurrentBiology.fam
+  indFileChkSum: 239b0b040265593fd244d88edfb89615
+jannoFile: 2017_GonzalesFortesCurrentBiology.janno
+jannoFileChkSum: 41f9fe4abdf34ea075de0c49aa27afb6
+bibFile: 2017_GonzalesFortesCurrentBiology.bib
+bibFileChkSum: 7b989103b7b027d42c3209cd800f16d5

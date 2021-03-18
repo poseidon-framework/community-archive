@@ -1,0 +1,20 @@
+poseidonVersion: 2.1.0
+title: 2019_Flegontov_PalaeoEskimo
+description: Genetic data published in Flegontov et al. 2019
+contributor:
+- name: Ayshin Ghalichi
+  email: ghalichi@shh.mpg.de
+packageVersion: 1.0.0
+lastModified: 2020-08-10
+genotypeData:
+  format: PLINK
+  genoFile: Flegontov_PalaeoEskimo.bed
+  genoFileChkSum: 629898e3d256268255714b331f02e4d2
+  snpFile: Flegontov_PalaeoEskimo.bim
+  snpFileChkSum: 68d25c83f0aa4f769649435e2e7cedc3
+  indFile: Flegontov_PalaeoEskimo.fam
+  indFileChkSum: c5de1555cefed9859f5df866033c595d
+jannoFile: Flegontov_PalaeoEskimo.janno
+jannoFileChkSum: d7271a32667848b8d41bdeb0f2366a19
+bibFile: LITERATURE.bib
+bibFileChkSum: 1294223a799918b3b2134ee7a16f8e02

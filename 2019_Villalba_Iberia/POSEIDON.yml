@@ -1,0 +1,20 @@
+poseidonVersion: 2.1.0
+title: 2019_Villalba_Iberia
+description: Genetic data published in Villalba et al. 2019
+contributor:
+- name: Vanessa Villalba
+  email: villalba@shh.mpg.de
+packageVersion: 1.0.0
+lastModified: 2020-08-10
+genotypeData:
+  format: PLINK
+  genoFile: Villalba_Iberia.bed
+  genoFileChkSum: b5a6bd778e18d5148ffd09f803be6e82
+  snpFile: Villalba_Iberia.bim
+  snpFileChkSum: 25519e37896dd138cda32b6c2dd690d2
+  indFile: Villalba_Iberia.fam
+  indFileChkSum: 994782f427775c08f653cbc02a0ee137
+jannoFile: Villalba_Iberia.janno
+jannoFileChkSum: 6aa524f145f6c4b0e945078a84d3a99e
+bibFile: LITERATURE.bib
+bibFileChkSum: 11defb31b4e384b4d5192fbc85f0beb5

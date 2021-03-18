@@ -1,0 +1,22 @@
+poseidonVersion: 2.1.0
+title: 2019_Jarve_Scythian
+description: Genetic data published in Jarve] et al. 2019
+contributor:
+- name: Ayshin Ghalichi
+  email: ghalichi@shh.mpg.de
+- name: Clemens Schmid
+  email: schmid@shh.mpg.de
+packageVersion: 1.0.0
+lastModified: 2020-12-02
+genotypeData:
+  format: PLINK
+  genoFile: Jarve_Scythian.bed
+  genoFileChkSum: b0647048a2dbf3671f6a67fcbd9770f1
+  snpFile: Jarve_Scythian.bim
+  snpFileChkSum: fbd5f1263a949dfce690943da4d9a24c
+  indFile: Jarve_Scythian.fam
+  indFileChkSum: 45519039f657a23bda1a823583d02826
+jannoFile: Jarve_Scythian.janno
+jannoFileChkSum: a89158d6a54c6779b6b77ad1afbb2bc7
+bibFile: LITERATURE.bib
+bibFileChkSum: f6c415cd7c244ada01f827cb670dc0f1

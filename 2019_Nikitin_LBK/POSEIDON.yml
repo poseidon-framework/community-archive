@@ -1,0 +1,20 @@
+poseidonVersion: 2.1.0
+title: 2019_Nikitin_LBK
+description: Genetic data published in Nikitin et al. 2019
+contributor:
+- name: Ayshin Ghalichi
+  email: ghalichi@shh.mpg.de
+packageVersion: 1.0.0
+lastModified: 2020-08-10
+genotypeData:
+  format: PLINK
+  genoFile: Nikitin_LBK.bed
+  genoFileChkSum: 90cfa8fc6cbb3d0b72bbd173dc79a033
+  snpFile: Nikitin_LBK.bim
+  snpFileChkSum: ad91d7b156cd9796813068485d294f5c
+  indFile: Nikitin_LBK.fam
+  indFileChkSum: 3abe2144e4f5aea3aa0b83395ba9b355
+jannoFile: Nikitin_LBK.janno
+jannoFileChkSum: 4dedd209cdc4d4a986c184d70dedecd1
+bibFile: LITERATURE.bib
+bibFileChkSum: cca005b00e7df1a37d41e11ba8a77cd9

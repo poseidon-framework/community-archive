@@ -1,0 +1,20 @@
+poseidonVersion: 2.1.0
+title: 2014_SkoglundScience
+description: Empty package template. Please add a description
+contributor:
+- name: Ayshin Ghalichi
+  email: ghalichi@shh.mpg.de
+packageVersion: 1.0.0
+lastModified: 2021-03-07
+genotypeData:
+  format: PLINK
+  genoFile: 2014_SkoglundScience.bed
+  genoFileChkSum: bdcb72ff3101993576d6af11b5dad749
+  snpFile: 2014_SkoglundScience.bim
+  snpFileChkSum: 7a7ef4d4f9c78a0bba32a329b6162dbd
+  indFile: 2014_SkoglundScience.fam
+  indFileChkSum: d20f506eaba22542352c39459d07ad48
+jannoFile: 2014_SkoglundScience.janno
+jannoFileChkSum: 36f111cb4e413ef243afad7f1e5f05c8
+bibFile: 2014_SkoglundScience.bib
+bibFileChkSum: acb6b16ade2ebe828336a84b447e8daf

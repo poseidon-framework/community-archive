@@ -1,0 +1,20 @@
+poseidonVersion: 2.1.0
+title: 2020_Fernandes_westernMediterranean
+description: Genetic data published in Fernandes et al. 2020
+contributor:
+- name: Ayshin Ghalichi
+  email: ghalichi@shh.mpg.de
+packageVersion: 1.0.0
+lastModified: 2021-02-05
+genotypeData:
+  format: PLINK
+  genoFile: Fernandes_westernMediterranean.bed
+  genoFileChkSum: e18d1132ff6eab09cf667a0f2d992643
+  snpFile: Fernandes_westernMediterranean.bim
+  snpFileChkSum: 265602a97132912fd95930ff67dbccf0
+  indFile: Fernandes_westernMediterranean.fam
+  indFileChkSum: 32fb60eab2583576539d2c3c1ec11926
+jannoFile: Fernandes_westernMediterranean.janno
+jannoFileChkSum: a57ba83a5524b8f9a166d6a2cfb6e392
+bibFile: LITERATURE.bib
+bibFileChkSum: fd72e09ba96d8a32ae3a850f32d1f41d

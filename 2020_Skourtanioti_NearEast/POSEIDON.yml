@@ -1,0 +1,20 @@
+poseidonVersion: 2.1.0
+title: 2020_Skourtanioti_NearEast
+description: Genetic data published in Skourtanioti et al. 2020
+contributor:
+- name: Eirini Skourtanioti
+  email: skourtanioti@shh.mpg.de
+packageVersion: 1.0.0
+lastModified: 2020-08-10
+genotypeData:
+  format: PLINK
+  genoFile: Skourtanioti_NearEast.bed
+  genoFileChkSum: 9baa520cc0b02453c043b0f1e7527913
+  snpFile: Skourtanioti_NearEast.bim
+  snpFileChkSum: d90cad69eb22dfe85079f542b6dde97a
+  indFile: Skourtanioti_NearEast.fam
+  indFileChkSum: 185c8731eb8527bcb169e6795ec9252f
+jannoFile: Skourtanioti_NearEast.janno
+jannoFileChkSum: 510358fe1bdd8581d482376a1509434b
+bibFile: LITERATURE.bib
+bibFileChkSum: 59969072aa6e348e05e3d24c2306862b

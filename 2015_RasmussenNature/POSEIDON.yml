@@ -1,0 +1,22 @@
+poseidonVersion: 2.1.0
+title: 2015_RasmussenNature
+description: This package was initially constructed based on the Allen Ancient DNA
+  Resource (https://reich.hms.harvard.edu/allen-ancient-dna-resource-aadr-downloadable-genotypes-present-day-and-ancient-dna-data,
+  version 37.2)
+contributor:
+- name: Ayshin Ghalichi
+  email: ghalichi@shh.mpg.de
+packageVersion: 1.0.0
+lastModified: 2021-03-07
+genotypeData:
+  format: PLINK
+  genoFile: 2015_RasmussenNature.bed
+  genoFileChkSum: c90535a81b0ccac69c85d9ea4876ff11
+  snpFile: 2015_RasmussenNature.bim
+  snpFileChkSum: 7a7ef4d4f9c78a0bba32a329b6162dbd
+  indFile: 2015_RasmussenNature.fam
+  indFileChkSum: 105f9c4e51f291f72cd56ef0dd017edf
+jannoFile: 2015_RasmussenNature.janno
+jannoFileChkSum: 0fcdefcdd50b55e3a9d25339c684b22e
+bibFile: 2015_RasmussenNature.bib
+bibFileChkSum: e4253d2cf43b51e630b8235b643f93ed

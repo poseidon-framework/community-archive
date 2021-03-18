@@ -1,0 +1,20 @@
+poseidonVersion: 2.1.0
+title: 2018_Ebenesersdottir_Iceland
+description: Genetic data published in Ebenesersdottir et al. 2018
+contributor:
+- name: Ayshin Ghalichi
+  email: ghalichi@shh.mpg.de
+packageVersion: 1.0.0
+lastModified: 2020-08-10
+genotypeData:
+  format: PLINK
+  genoFile: Ebenesersdottir_Iceland.bed
+  genoFileChkSum: 0872a7634e887d7b04439f86cf8c8215
+  snpFile: Ebenesersdottir_Iceland.bim
+  snpFileChkSum: cdc2d36d2b543156bcef3d23e824e669
+  indFile: Ebenesersdottir_Iceland.fam
+  indFileChkSum: c74c87347a9b215978e9f9449eef1aa5
+jannoFile: Ebenesersdottir_Iceland.janno
+jannoFileChkSum: 03498f718d822f9253e876c1e33666d7
+bibFile: LITERATURE.bib
+bibFileChkSum: 5e4a11099a406890786772634ee81df0

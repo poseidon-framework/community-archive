@@ -1,0 +1,22 @@
+poseidonVersion: 2.1.0
+title: 2017_MartinianoPLoSGenetics
+description: This package was initially constructed based on the Allen Ancient DNA
+  Resource (https://reich.hms.harvard.edu/allen-ancient-dna-resource-aadr-downloadable-genotypes-present-day-and-ancient-dna-data,
+  version 37.2)
+contributor:
+- name: Ayshin Ghalichi
+  email: ghalichi@shh.mpg.de
+packageVersion: 1.0.0
+lastModified: 2021-03-07
+genotypeData:
+  format: PLINK
+  genoFile: 2017_MartinianoPLoSGenetics.bed
+  genoFileChkSum: 72490c12669d5bc2c8e162164ffcb308
+  snpFile: 2017_MartinianoPLoSGenetics.bim
+  snpFileChkSum: 7a7ef4d4f9c78a0bba32a329b6162dbd
+  indFile: 2017_MartinianoPLoSGenetics.fam
+  indFileChkSum: 28b3fce62d949d71f7728fe9b83b31fd
+jannoFile: 2017_MartinianoPLoSGenetics.janno
+jannoFileChkSum: 528b0f43d471c8b0a304df6af1ece5ce
+bibFile: 2017_MartinianoPLoSGenetics.bib
+bibFileChkSum: e51647832570c2891eeec61d1f1cfeb5

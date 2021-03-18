@@ -1,0 +1,20 @@
+poseidonVersion: 2.1.0
+title: 2020_Nakatsuka_SouthPatagonia
+description: Genetic data published in Nakatsuka et al. 2020
+contributor:
+- name: Ayshin Ghalichi
+  email: ghalichi@shh.mpg.de
+packageVersion: 1.0.0
+lastModified: 2020-09-08
+genotypeData:
+  format: PLINK
+  genoFile: Nakatsuka_SouthPatagonia.bed
+  genoFileChkSum: 44a3d43c04cad943ae0cfe6b0e20ec90
+  snpFile: Nakatsuka_SouthPatagonia.bim
+  snpFileChkSum: 1e2346f22af653b45f0320485ced3699
+  indFile: Nakatsuka_SouthPatagonia.fam
+  indFileChkSum: 3a537caa5f74fc22c7baebee33ac5f27
+jannoFile: Nakatsuka_SouthPatagonia.janno
+jannoFileChkSum: ca3a5f74eac6f9ade778e28da6567bf5
+bibFile: LITERATURE.bib
+bibFileChkSum: 1c8380603eacd89d4d8973563031d1e0

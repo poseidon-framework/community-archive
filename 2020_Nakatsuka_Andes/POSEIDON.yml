@@ -1,0 +1,20 @@
+poseidonVersion: 2.1.0
+title: 2020_Nakatsuka_Andes
+description: Genetic data published in Nakatsuka et al. 2020
+contributor:
+- name: Ayshin Ghalichi
+  email: ghalichi@shh.mpg.de
+packageVersion: 1.0.0
+lastModified: 2020-09-08
+genotypeData:
+  format: PLINK
+  genoFile: Nakatsuka_Andes.bed
+  genoFileChkSum: 04da7c4086bbefa1a7ae94af0815c0ad
+  snpFile: Nakatsuka_Andes.bim
+  snpFileChkSum: 1ef5c502f625ff38faeec1d5ecd1ef82
+  indFile: Nakatsuka_Andes.fam
+  indFileChkSum: dfd776fffe7c92c0e34ad541d3dc0b42
+jannoFile: Nakatsuka_Andes.janno
+jannoFileChkSum: 110872ef61f59d85afd9477802e130d6
+bibFile: LITERATURE.bib
+bibFileChkSum: 9b2970150a48b984f16f8aa2d4419b73

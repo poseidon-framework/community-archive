@@ -1,0 +1,20 @@
+poseidonVersion: 2.1.0
+title: 2019_Shinde_Harappan
+description: Genetic data published in Shinde et al. 2019
+contributor:
+- name: Ayshin Ghalichi
+  email: ghalichi@shh.mpg.de
+packageVersion: 1.0.0
+lastModified: 2020-08-10
+genotypeData:
+  format: PLINK
+  genoFile: Shinde_Harappan.bed
+  genoFileChkSum: 294c23ff6301be3f21bff34637eb9653
+  snpFile: Shinde_Harappan.bim
+  snpFileChkSum: b3bdc87e6c850108d12b84c85c3afc7a
+  indFile: Shinde_Harappan.fam
+  indFileChkSum: fa20540b6ab232088e3cdf8ac1a50aca
+jannoFile: Shinde_Harappan.janno
+jannoFileChkSum: 5a9461c50297a65e44da235a5159968e
+bibFile: LITERATURE.bib
+bibFileChkSum: 0c26b1e02438f49eb563256b1c54fc4e

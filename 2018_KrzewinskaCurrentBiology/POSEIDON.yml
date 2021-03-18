@@ -1,0 +1,20 @@
+poseidonVersion: 2.1.0
+title: 2018_KrzewinskaCurrentBiology
+description: Empty package template. Please add a description
+contributor:
+- name: Ayshin Ghalichi
+  email: ghalichi@shh.mpg.de
+packageVersion: 1.0.0
+lastModified: 2021-03-07
+genotypeData:
+  format: PLINK
+  genoFile: 2018_KrzewinskaCurrentBiology.bed
+  genoFileChkSum: 30a278f990b20440630ac2841ddf9c4e
+  snpFile: 2018_KrzewinskaCurrentBiology.bim
+  snpFileChkSum: 7a7ef4d4f9c78a0bba32a329b6162dbd
+  indFile: 2018_KrzewinskaCurrentBiology.fam
+  indFileChkSum: 0aa6434007d425d908bb54829a29c6bc
+jannoFile: 2018_KrzewinskaCurrentBiology.janno
+jannoFileChkSum: 90a670bfaa12427c30d8c8b6cd954a7b
+bibFile: 2018_KrzewinskaCurrentBiology.bib
+bibFileChkSum: 61fb06fe6116f0a1fa0f8fe7b2c4cdf2

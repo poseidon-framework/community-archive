@@ -1,0 +1,22 @@
+poseidonVersion: 2.1.0
+title: 2019_SanchezQuinto_Megalithic
+description: Genetic data published in SanchezQuinto et al. 2019
+contributor:
+- name: Ayshin Ghalichi
+  email: ghalichi@shh.mpg.de
+- name: Clemens Schmid
+  email: schmid@shh.mpg.de
+packageVersion: 1.0.0
+lastModified: 2020-12-02
+genotypeData:
+  format: PLINK
+  genoFile: SanchezQuinto_Megalithic.bed
+  genoFileChkSum: a0870316f1bc01114a774f4bf5c016de
+  snpFile: SanchezQuinto_Megalithic.bim
+  snpFileChkSum: d6082a63c7edd0ab70add7d0ad7ed086
+  indFile: SanchezQuinto_Megalithic.fam
+  indFileChkSum: aceef4e561050330370c8a7f0f50a5f8
+jannoFile: SanchezQuinto_Megalithic.janno
+jannoFileChkSum: 0702b49dd75556a513bf5fabbb5e89d2
+bibFile: LITERATURE.bib
+bibFileChkSum: 40e32db44e67de8bf5d289bd2e7bed56

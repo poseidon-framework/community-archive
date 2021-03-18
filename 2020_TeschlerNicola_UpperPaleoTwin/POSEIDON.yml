@@ -1,0 +1,20 @@
+poseidonVersion: 2.1.0
+title: 2020_TeschlerNicola_UpperPaleoTwin
+description: Genetic data published in TeschlerNicola et al. 2020
+contributor:
+- name: Ayshin Ghalichi
+  email: ghalichi@shh.mpg.de
+packageVersion: 1.0.0
+lastModified: 2021-03-05
+genotypeData:
+  format: PLINK
+  genoFile: TeschlerNicola_UpperPaleoTwin.bed
+  genoFileChkSum: 351545da80d834235c1807862519331e
+  snpFile: TeschlerNicola_UpperPaleoTwin.bim
+  snpFileChkSum: b5ae20579b3560947e249908f03b0806
+  indFile: TeschlerNicola_UpperPaleoTwin.fam
+  indFileChkSum: ac17d7aca838569a3855cfd7803bc2eb
+jannoFile: TeschlerNicola_UpperPaleoTwin.janno
+jannoFileChkSum: 6be46c80c17f9989ed3df4c0c84ab987
+bibFile: LITERATURE.bib
+bibFileChkSum: e2d825ac304df8353dab78b9c4a51c8e

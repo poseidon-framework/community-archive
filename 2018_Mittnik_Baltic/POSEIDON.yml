@@ -1,0 +1,20 @@
+poseidonVersion: 2.1.0
+title: 2018_Mittnik_Baltic
+description: Genetic data published in Mittnik et al. 2018
+contributor:
+- name: Ayshin Ghalichi
+  email: ghalichi@shh.mpg.de
+packageVersion: 1.0.0
+lastModified: 2020-08-10
+genotypeData:
+  format: PLINK
+  genoFile: Mittnik_Baltic.bed
+  genoFileChkSum: 22e5ca5cb6f6aee652fdc09daff2ae81
+  snpFile: Mittnik_Baltic.bim
+  snpFileChkSum: b01b50e4b9aea59924dd5a17cd5c2f77
+  indFile: Mittnik_Baltic.fam
+  indFileChkSum: d9293d7bd7139187a7836bad1f8a2e50
+jannoFile: Mittnik_Baltic.janno
+jannoFileChkSum: 70802f368b81ad7bc10ac3acedc099a6
+bibFile: LITERATURE.bib
+bibFileChkSum: 6950a1aa4a56ef4431c6dc335ef065ed

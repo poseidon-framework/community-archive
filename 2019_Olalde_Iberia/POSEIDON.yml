@@ -1,0 +1,22 @@
+poseidonVersion: 2.1.0
+title: 2019_Olalde_Iberia
+description: Genetic data published in Olalde et al. 2019
+contributor:
+- name: Ayshin Ghalichi
+  email: ghalichi@shh.mpg.de
+- name: Clemens Schmid
+  email: schmid@shh.mpg.de
+packageVersion: 1.0.0
+lastModified: 2020-12-02
+genotypeData:
+  format: PLINK
+  genoFile: Olalde_Iberia.bed
+  genoFileChkSum: a1bb62bfd563ac20f0b3e4004e23ecf3
+  snpFile: Olalde_Iberia.bim
+  snpFileChkSum: d054d6a32c63eaa92ef182db73b8cbd4
+  indFile: Olalde_Iberia.fam
+  indFileChkSum: cc57f1f73ad442acd81e72eeef6cc6ff
+jannoFile: Olalde_Iberia.janno
+jannoFileChkSum: e2ad5a4e15565c59b69d9d322bc09df5
+bibFile: LITERATURE.bib
+bibFileChkSum: 6dbfa15f90654e4307379641cf4614fe

@@ -1,0 +1,20 @@
+poseidonVersion: 2.1.0
+title: 2019_Ning_Tianshan
+description: Genetic data published in Ning et al. 2019
+contributor:
+- name: Ayshin Ghalichi
+  email: ghalichi@shh.mpg.de
+packageVersion: 1.0.0
+lastModified: 2020-08-10
+genotypeData:
+  format: PLINK
+  genoFile: Ning_Tianshan.bed
+  genoFileChkSum: 6dfb85956f74d3df5394ef7ecc3cad75
+  snpFile: Ning_Tianshan.bim
+  snpFileChkSum: 1f5ed75f173447c9bb95b2f0ae22fe1e
+  indFile: Ning_Tianshan.fam
+  indFileChkSum: 14ce88790c2dff1ff5a009a37e22e5ce
+jannoFile: Ning_Tianshan.janno
+jannoFileChkSum: 4f58bb495108071e4077284bad581aef
+bibFile: LITERATURE.bib
+bibFileChkSum: 5de7c2a48e39bce39a2f6b702027b98f

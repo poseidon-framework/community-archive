@@ -1,0 +1,22 @@
+poseidonVersion: 2.1.0
+title: 2017_KennettNatureCommunications
+description: This package was initially constructed based on the Allen Ancient DNA
+  Resource (https://reich.hms.harvard.edu/allen-ancient-dna-resource-aadr-downloadable-genotypes-present-day-and-ancient-dna-data,
+  version 37.2)
+contributor:
+- name: Ayshin Ghalichi
+  email: ghalichi@shh.mpg.de
+packageVersion: 1.0.0
+lastModified: 2021-03-07
+genotypeData:
+  format: PLINK
+  genoFile: 2017_KennettNatureCommunications.bed
+  genoFileChkSum: 09ada72f70ddb6cec66e18b7d192f767
+  snpFile: 2017_KennettNatureCommunications.bim
+  snpFileChkSum: 7a7ef4d4f9c78a0bba32a329b6162dbd
+  indFile: 2017_KennettNatureCommunications.fam
+  indFileChkSum: a7baf7b67603cafc7b4f0e4b5e064cf7
+jannoFile: 2017_KennettNatureCommunications.janno
+jannoFileChkSum: 004f02f58170dc012878c1dbb4976ceb
+bibFile: 2017_KennettNatureCommunications.bib
+bibFileChkSum: 946f77faf70117ea6d6098df7ddbf3d5

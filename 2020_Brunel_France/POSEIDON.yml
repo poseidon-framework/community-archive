@@ -1,0 +1,20 @@
+poseidonVersion: 2.1.0
+title: 2020_Brunel_France
+description: Genetic data published in Brunel et al. 2020
+contributor:
+- name: Ayshin Ghalichi
+  email: ghalichi@shh.mpg.de
+packageVersion: 1.0.0
+lastModified: 2020-08-10
+genotypeData:
+  format: PLINK
+  genoFile: Brunel_France.bed
+  genoFileChkSum: 9b6a7dbfd3fd178c7aac42b07a9f9f9a
+  snpFile: Brunel_France.bim
+  snpFileChkSum: 084f2e41946bf2272ad4a4e23798633d
+  indFile: Brunel_France.fam
+  indFileChkSum: 2652762778e9d86216cb6ee16189f409
+jannoFile: Brunel_France.janno
+jannoFileChkSum: bf9f99031d89d744d1fe2c27f128f391
+bibFile: LITERATURE.bib
+bibFileChkSum: a5ae9dbdca8c1276ef1a99c29b490e54

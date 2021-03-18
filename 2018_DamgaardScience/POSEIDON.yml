@@ -1,0 +1,20 @@
+poseidonVersion: 2.1.0
+title: 2018_DamgaardScience
+description: Empty package template. Please add a description
+contributor:
+- name: Ayshin Ghalichi
+  email: ghalichi@shh.mpg.de
+packageVersion: 1.0.0
+lastModified: 2021-03-07
+genotypeData:
+  format: PLINK
+  genoFile: 2018_DamgaardScience.bed
+  genoFileChkSum: 86ccf994246266b24049bc7f9e1b6507
+  snpFile: 2018_DamgaardScience.bim
+  snpFileChkSum: 7a7ef4d4f9c78a0bba32a329b6162dbd
+  indFile: 2018_DamgaardScience.fam
+  indFileChkSum: 0afd6eefdbe25c7c4bd82925c4920176
+jannoFile: 2018_DamgaardScience.janno
+jannoFileChkSum: 915a3dfb0c236251e2b3d66b01ed92f5
+bibFile: 2018_DamgaardScience.bib
+bibFileChkSum: b6d696b8330238cf1b028d75b7ce0a50

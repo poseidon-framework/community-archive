@@ -1,0 +1,20 @@
+poseidonVersion: 2.1.0
+title: 2019_Biagini_Spain
+description: Genetic data published in Biagini et al. 2019
+contributor:
+- name: Ayshin Ghalichi
+  email: ghalichi@shh.mpg.de
+packageVersion: 1.0.0
+lastModified: 2020-08-10
+genotypeData:
+  format: PLINK
+  genoFile: Biagini_Spain.bed
+  genoFileChkSum: a74459b847556e7bf43f0b894076ecb8
+  snpFile: Biagini_Spain.bim
+  snpFileChkSum: b6816826fd8ae42f3151163611a28337
+  indFile: Biagini_Spain.fam
+  indFileChkSum: d5095ad4920fc3c95bbfb250cd99f90f
+jannoFile: Biagini_Spain.janno
+jannoFileChkSum: 48f65107871e242663fd09c1d6b5f4ca
+bibFile: LITERATURE.bib
+bibFileChkSum: 84ed6dfe198af4eca7eaa536a046a730

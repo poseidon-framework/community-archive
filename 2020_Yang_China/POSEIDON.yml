@@ -1,0 +1,22 @@
+poseidonVersion: 2.1.0
+title: 2020_Yang_China
+description: Genetic data published in Yang et al. 2020
+contributor:
+- name: Ayshin Ghalichi
+  email: ghalichi@shh.mpg.de
+- name: Clemens Schmid
+  email: schmid@shh.mpg.de
+packageVersion: 1.0.0
+lastModified: 2020-12-02
+genotypeData:
+  format: PLINK
+  genoFile: Yang_China.bed
+  genoFileChkSum: e46b2a4de2138e249e887360d82b251b
+  snpFile: Yang_China.bim
+  snpFileChkSum: 43cac6692649c3c4f3dff2fac714bda9
+  indFile: Yang_China.fam
+  indFileChkSum: 74d165b3197d3f12d01dd3e74fbb55db
+jannoFile: Yang_China.janno
+jannoFileChkSum: 17860d0484d5814a1acf30c93bcdbcf7
+bibFile: LITERATURE.bib
+bibFileChkSum: 9469cd1c4a47d49068b80734837b05cf
