@@ -9,7 +9,13 @@ lastModified: 2021-03-18
 genotypeData:
   format: PLINK
   genoFile: 2019_Jeong_InnerEurasia.bed
+  genoFileChkSum: 7e8207019df974e2a5a9d6c555958bc9
   snpFile: 2019_Jeong_InnerEurasia.bim
+  snpFileChkSum: 71c40efb829c18b7149996d951097e45
   indFile: 2019_Jeong_InnerEurasia.fam
+  indFileChkSum: 025d01115b36e19ab2689b714104b680
 jannoFile: 2019_Jeong_InnerEurasia.janno
+jannoFileChkSum: 3a6bd57058c6e4d3944aca698a6115ad
 bibFile: 2019_Jeong_InnerEurasia.bib
+bibFileChkSum: f4e6fb7d7bcef3c79d200c88c4e2a250
+changelogFile: CHANGELOG.txt
