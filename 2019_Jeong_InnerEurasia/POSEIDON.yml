@@ -4,17 +4,12 @@ description: Genetic data published in Jeong et al. 2019
 contributor:
 - name: Ayshin Ghalichi
   email: ghalichi@shh.mpg.de
-packageVersion: 1.0.0
-lastModified: 2020-08-10
+packageVersion: 1.1.0
+lastModified: 2021-03-18
 genotypeData:
   format: PLINK
-  genoFile: Jeong_InnerEurasia.bed
-  genoFileChkSum: 7a3c8adc5eb3fdb5532bff7e3f12f038
-  snpFile: Jeong_InnerEurasia.bim
-  snpFileChkSum: 01c61291d66cafa12be1e774c5ec2183
-  indFile: Jeong_InnerEurasia.fam
-  indFileChkSum: 49700004846c9b9b4bb04f9929c497d1
-jannoFile: Jeong_InnerEurasia.janno
-jannoFileChkSum: be16c0fcfee2d7f55bb5f45ced8fb9b4
-bibFile: LITERATURE.bib
-bibFileChkSum: 6f2da54ac313164583fc7f401a515849
+  genoFile: 2019_Jeong_InnerEurasia.bed
+  snpFile: 2019_Jeong_InnerEurasia.bim
+  indFile: 2019_Jeong_InnerEurasia.fam
+jannoFile: 2019_Jeong_InnerEurasia.janno
+bibFile: 2019_Jeong_InnerEurasia.bib
