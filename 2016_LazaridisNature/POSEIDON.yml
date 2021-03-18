@@ -6,17 +6,14 @@ description: This package was initially constructed based on the Allen Ancient D
 contributor:
 - name: Ayshin Ghalichi
   email: ghalichi@shh.mpg.de
-packageVersion: 1.0.0
-lastModified: 2021-03-07
+- name: Clemens Schmid
+  email: schmid@shh.mpg.de
+packageVersion: 1.1.0
+lastModified: 2021-03-18
 genotypeData:
   format: PLINK
   genoFile: 2016_LazaridisNature.bed
-  genoFileChkSum: e06e5b18b23f24da7ab3345d9c5d3de1
   snpFile: 2016_LazaridisNature.bim
-  snpFileChkSum: 7a7ef4d4f9c78a0bba32a329b6162dbd
   indFile: 2016_LazaridisNature.fam
-  indFileChkSum: 4dd087112a406a79a778624ec860060f
 jannoFile: 2016_LazaridisNature.janno
-jannoFileChkSum: 5418cc97b4f95cacb1ca17c2a146e4af
 bibFile: 2016_LazaridisNature.bib
-bibFileChkSum: 6bd5050576a9b2517c747cd531a573ee

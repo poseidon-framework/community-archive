@@ -6,17 +6,14 @@ description: This package was initially constructed based on the Allen Ancient D
 contributor:
 - name: Ayshin Ghalichi
   email: ghalichi@shh.mpg.de
-packageVersion: 1.0.0
-lastModified: 2021-03-07
+- name: Clemens Schmid
+  email: schmid@shh.mpg.de
+packageVersion: 1.1.0
+lastModified: 2021-03-18
 genotypeData:
   format: PLINK
   genoFile: 2017_SkoglundCell.bed
-  genoFileChkSum: 0708be0807a4ef8498e893ebadd6659c
   snpFile: 2017_SkoglundCell.bim
-  snpFileChkSum: 7a7ef4d4f9c78a0bba32a329b6162dbd
   indFile: 2017_SkoglundCell.fam
-  indFileChkSum: fc607ea8ed5171df8e09fe8e4717ee40
 jannoFile: 2017_SkoglundCell.janno
-jannoFileChkSum: c6e324da59dcb5771db91e26b5fde2fa
 bibFile: 2017_SkoglundCell.bib
-bibFileChkSum: 842e0d906c06c030c94598b0b0fcc881
