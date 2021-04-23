@@ -1,20 +1,15 @@
 poseidonVersion: 2.1.0
-title: 2021_Saag_EastEuropean
+title: Saag_EastEurope
 description: Genetic data published in Saag et al. 2021
 contributor:
 - name: Ayshin Ghalichi
   email: ghalichi@shh.mpg.de
-packageVersion: 1.0.0
-lastModified: 2021-02-23
+packageVersion: 0.1.1
+lastModified: 2021-04-23
 genotypeData:
   format: PLINK
   genoFile: Saag_EastEurope.bed
-  genoFileChkSum: 524451508f39b87e6a170c1345ceb080
   snpFile: Saag_EastEurope.bim
-  snpFileChkSum: e79741f669b66f1e882a55d25b3219c8
   indFile: Saag_EastEurope.fam
-  indFileChkSum: dbfd0d2bd524d5f73ef7124dab67efef
 jannoFile: Saag_EastEurope.janno
-jannoFileChkSum: a29eee2911dce2846dedd45530ae4175
 bibFile: LITERATURE.bib
-bibFileChkSum: d6b86d154d54a9c31704036adcd11d95
