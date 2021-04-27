@@ -4,17 +4,17 @@ description: Genetic data published in Saag et al. 2021
 contributor:
 - name: Ayshin Ghalichi
   email: ghalichi@shh.mpg.de
-packageVersion: 1.0.0
-lastModified: 2021-02-23
+packageVersion: 2.0.0
+lastModified: 2021-04-23
 genotypeData:
   format: PLINK
   genoFile: Saag_EastEurope.bed
-  genoFileChkSum: 524451508f39b87e6a170c1345ceb080
+  genoFileChkSum: d770c06fe0635aa7da1274496d5c73f7
   snpFile: Saag_EastEurope.bim
-  snpFileChkSum: e79741f669b66f1e882a55d25b3219c8
+  snpFileChkSum: 433fa85a23f3123bade02348e4628b75
   indFile: Saag_EastEurope.fam
-  indFileChkSum: dbfd0d2bd524d5f73ef7124dab67efef
+  indFileChkSum: 3a49e62579b8818d4d4c0c264bc27c09
 jannoFile: Saag_EastEurope.janno
-jannoFileChkSum: a29eee2911dce2846dedd45530ae4175
+jannoFileChkSum: ce7a205aa0ca6d74d91ec56014bca08c
 bibFile: LITERATURE.bib
 bibFileChkSum: d6b86d154d54a9c31704036adcd11d95
