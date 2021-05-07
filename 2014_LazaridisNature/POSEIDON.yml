@@ -1,19 +1,25 @@
-poseidonVersion: 2.1.0
+poseidonVersion: 2.3.1
 title: 2014_LazaridisNature
-description: This package was initially constructed based on the Allen Ancient DNA
-  Resource (https://reich.hms.harvard.edu/allen-ancient-dna-resource-aadr-downloadable-genotypes-present-day-and-ancient-dna-data,
+description: Early Farmers and Hunter Gatherers from Central and Northern Europe.
+  This package was initially constructed based on the Allen Ancient DNA Resource (https://reich.hms.harvard.edu/allen-ancient-dna-resource-aadr-downloadable-genotypes-present-day-and-ancient-dna-data,
   version 37.2)
 contributor:
 - name: Ayshin Ghalichi
   email: ghalichi@shh.mpg.de
 - name: Clemens Schmid
   email: schmid@shh.mpg.de
-packageVersion: 1.1.0
-lastModified: 2021-03-18
+packageVersion: 1.1.1
+lastModified: 2021-05-07
 genotypeData:
   format: PLINK
   genoFile: 2014_LazaridisNature.bed
+  genoFileChkSum: 3c2544e1cb8795ab400b47dbad4267ca
   snpFile: 2014_LazaridisNature.bim
+  snpFileChkSum: c989854c6bae2cfd99c3c87f083d8674
   indFile: 2014_LazaridisNature.fam
+  indFileChkSum: c5de11b6d96fae325e4259142826be6d
+  snpSet: 1240K
 jannoFile: 2014_LazaridisNature.janno
+jannoFileChkSum: 25c266bdb5c5e52aadf915d3b688d3c5
 bibFile: 2014_LazaridisNature.bib
+bibFileChkSum: ad2fc6cce5570206c0d5b16da8feb21b

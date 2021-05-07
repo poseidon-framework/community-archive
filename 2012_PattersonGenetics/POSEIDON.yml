@@ -1,6 +1,7 @@
-poseidonVersion: 2.1.0
+poseidonVersion: 2.3.1
 title: 2012_PattersonGenetics
-description: This package was initially constructed based on the Allen Ancient DNA
+description: A large collection of modern samples from all around the world.
+  This package was initially constructed based on the Allen Ancient DNA
   Resource (https://reich.hms.harvard.edu/allen-ancient-dna-resource-aadr-downloadable-genotypes-present-day-and-ancient-dna-data,
   version 37.2)
 contributor:
@@ -8,12 +9,18 @@ contributor:
   email: ghalichi@shh.mpg.de
 - name: Clemens Schmid
   email: schmid@shh.mpg.de
-packageVersion: 1.0.0
-lastModified: 2021-03-18
+packageVersion: 1.0.1
+lastModified: 2021-05-07
 genotypeData:
   format: PLINK
   genoFile: 2012_PattersonGenetics.bed
+  genoFileChkSum: 8138eae972836271c8baab588f050a2e
   snpFile: 2012_PattersonGenetics.bim
+  snpFileChkSum: 1fa4fd6b43fdf93bdda133d42d56f78d
   indFile: 2012_PattersonGenetics.fam
+  indFileChkSum: 224fd9ab583dc6ca3ee805e3c818e4ad
+  snpSet: HumanOrigins
 jannoFile: 2012_PattersonGenetics.janno
+jannoFileChkSum: 184b647c4f22780a939ae1689db41558
 bibFile: 2012_PattersonGenetics.bib
+bibFileChkSum: 10230256e631099fbe5f314a520bc3fb
