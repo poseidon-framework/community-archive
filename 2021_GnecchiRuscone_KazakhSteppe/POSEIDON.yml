@@ -17,7 +17,7 @@ genotypeData:
   snpFileChkSum: 433fa85a23f3123bade02348e4628b75
   indFile: 2021_GnecchiRuscone_KazakhSteppe.fam
   indFileChkSum: a79e1983bdcacd0ce1e1c26a152a1f79
-  snpSet: 1240k
+  snpSet: 1240K
 jannoFile: GnecchiRuscone_KazakhSteppe.janno
 jannoFileChkSum: c6d6515aa20517e1dcf5c5945d0ca48d
 bibFile: GnecchiRuscone_KazakhSteppe.bib
