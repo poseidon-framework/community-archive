@@ -1,13 +1,14 @@
-poseidonVersion: 2.1.0
+poseidonVersion: 2.3.1
 title: 2014_OlaldeNature
-description: This package was initially constructed based on the Allen Ancient DNA
+description: A Mesolithic individual from Spain.
+  This package was initially constructed based on the Allen Ancient DNA
   Resource (https://reich.hms.harvard.edu/allen-ancient-dna-resource-aadr-downloadable-genotypes-present-day-and-ancient-dna-data,
   version 37.2)
 contributor:
 - name: Ayshin Ghalichi
   email: ghalichi@shh.mpg.de
-packageVersion: 1.0.0
-lastModified: 2021-03-07
+packageVersion: 1.0.1
+lastModified: 2021-05-10
 genotypeData:
   format: PLINK
   genoFile: 2014_OlaldeNature.bed
@@ -16,6 +17,7 @@ genotypeData:
   snpFileChkSum: 7a7ef4d4f9c78a0bba32a329b6162dbd
   indFile: 2014_OlaldeNature.fam
   indFileChkSum: 2e9d0c5c7704646aa7d02eefc0470fe8
+  snpSet: 1240K
 jannoFile: 2014_OlaldeNature.janno
 jannoFileChkSum: 176690c14cdedeb3a0f4c21a280279c0
 bibFile: 2014_OlaldeNature.bib
