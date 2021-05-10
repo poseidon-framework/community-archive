@@ -1,11 +1,11 @@
-poseidonVersion: 2.1.0
+poseidonVersion: 2.3.1
 title: 2015_FuNature
-description: Empty package template. Please add a description
+description: A Palaeolithic sample from Romania (Oase1).
 contributor:
 - name: Ayshin Ghalichi
   email: ghalichi@shh.mpg.de
-packageVersion: 1.0.0
-lastModified: 2021-03-07
+packageVersion: 1.0.1
+lastModified: 2021-05-10
 genotypeData:
   format: PLINK
   genoFile: 2015_FuNature.bed
@@ -14,6 +14,7 @@ genotypeData:
   snpFileChkSum: 7a7ef4d4f9c78a0bba32a329b6162dbd
   indFile: 2015_FuNature.fam
   indFileChkSum: b06728d15f9561d85755c86134f83de6
+  snpSet: 1240K
 jannoFile: 2015_FuNature.janno
 jannoFileChkSum: 8ae413df9d206301c61cf5b6b2371992
 bibFile: 2015_FuNature.bib
