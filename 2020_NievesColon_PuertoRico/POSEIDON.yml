@@ -1,11 +1,11 @@
-poseidonVersion: 2.1.0
+poseidonVersion: 2.3.1
 title: 2020_NievesColon_PuertoRico
-description: Genetic data published in NievesColon et al. 2020
+description: Pre-contact samples from Puerto Rico.
 contributor:
 - name: Ayshin Ghalichi
   email: ghalichi@shh.mpg.de
-packageVersion: 1.0.0
-lastModified: 2021-03-05
+packageVersion: 1.0.1
+lastModified: 2021-05-11
 genotypeData:
   format: PLINK
   genoFile: NievesColon_PuertoRico.bed
@@ -14,6 +14,7 @@ genotypeData:
   snpFileChkSum: 16f08168f442b8ea820819dbfbfbe81d
   indFile: NievesColon_PuertoRico.fam
   indFileChkSum: 22956fb6ac2b380d2bbe8ceace6b5b65
+  snpSet: 1240K
 jannoFile: NievesColon_PuertoRico.janno
 jannoFileChkSum: d6dce3ab8eef8ac619711ef07553a647
 bibFile: LITERATURE.bib

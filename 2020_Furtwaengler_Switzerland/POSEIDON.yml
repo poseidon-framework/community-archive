@@ -1,13 +1,13 @@
-poseidonVersion: 2.1.0
+poseidonVersion: 2.3.1
 title: 2020_Furtwaengler_Switzerland
-description: Genetic data published in Furtwängler et al. 2020
+description: Late Neolithic samples from Switzerland.
 contributor:
 - name: Ayshin Ghalichi
   email: ghalichi@shh.mpg.de
 - name: Clemens Schmid
   email: schmid@shh.mpg.de
-packageVersion: 1.0.0
-lastModified: 2020-12-02
+packageVersion: 1.0.1
+lastModified: 2021-05-11
 genotypeData:
   format: PLINK
   genoFile: Furtwaengler_SwissLN.bed
@@ -16,6 +16,7 @@ genotypeData:
   snpFileChkSum: 5d96247342706633e3135443b59d2b85
   indFile: Furtwaengler_SwissLN.fam
   indFileChkSum: 61469dcafea7134c76150d9f667cc413
+  snpSet: 1240K
 jannoFile: Furtwaengler_SwissLN.janno
 jannoFileChkSum: e174617f7e6bb9a5be97a3e41853bb76
 bibFile: LITERATURE.bib

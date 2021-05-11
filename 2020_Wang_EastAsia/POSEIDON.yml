@@ -1,13 +1,13 @@
-poseidonVersion: 2.1.0
+poseidonVersion: 2.3.1
 title: 2020_Wang_EastAsia
-description: Genetic data published in Wang et al. 2020
+description: Diachronic ancient and modern data from East Asia.
 contributor:
 - name: Ayshin Ghalichi
   email: ghalichi@shh.mpg.de
 - name: Clemens Schmid
   email: schmid@shh.mpg.de
-packageVersion: 1.1.0
-lastModified: 2021-03-18
+packageVersion: 1.1.1
+lastModified: 2021-05-11
 genotypeData:
   format: PLINK
   genoFile: 2020_Wang_EastAsia.bed
@@ -16,6 +16,7 @@ genotypeData:
   snpFileChkSum: 9a4bc58c2a6842bcb68d875143ee3b85
   indFile: 2020_Wang_EastAsia.fam
   indFileChkSum: 07112a5954755d7ee910de00a6b15f91
+  snpSet: 1240K
 jannoFile: 2020_Wang_EastAsia.janno
 jannoFileChkSum: eb0e8fe442adbaf016fc0205f6b5489a
 bibFile: 2020_Wang_EastAsia.bib
