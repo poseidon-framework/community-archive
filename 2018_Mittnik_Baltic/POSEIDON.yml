@@ -1,11 +1,11 @@
-poseidonVersion: 2.1.0
+poseidonVersion: 2.3.1
 title: 2018_Mittnik_Baltic
-description: Genetic data published in Mittnik et al. 2018
+description: Genetic data published in Mittnik et al. 2018. Ancient genomes from around the Baltic Sea
 contributor:
 - name: Ayshin Ghalichi
   email: ghalichi@shh.mpg.de
-packageVersion: 1.0.0
-lastModified: 2020-08-10
+packageVersion: 1.0.1
+lastModified: 2021-05-11
 genotypeData:
   format: PLINK
   genoFile: Mittnik_Baltic.bed
@@ -14,6 +14,7 @@ genotypeData:
   snpFileChkSum: b01b50e4b9aea59924dd5a17cd5c2f77
   indFile: Mittnik_Baltic.fam
   indFileChkSum: d9293d7bd7139187a7836bad1f8a2e50
+  snpSet: 1240K
 jannoFile: Mittnik_Baltic.janno
 jannoFileChkSum: 70802f368b81ad7bc10ac3acedc099a6
 bibFile: LITERATURE.bib

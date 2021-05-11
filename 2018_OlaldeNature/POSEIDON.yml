@@ -1,13 +1,13 @@
-poseidonVersion: 2.1.0
+poseidonVersion: 2.3.1
 title: 2018_OlaldeNature
 description: This package was initially constructed based on the Allen Ancient DNA
   Resource (https://reich.hms.harvard.edu/allen-ancient-dna-resource-aadr-downloadable-genotypes-present-day-and-ancient-dna-data,
-  version 37.2)
+  version 37.2). Ancient genomes from the Bell Beaker period in Europe.
 contributor:
 - name: Ayshin Ghalichi
   email: ghalichi@shh.mpg.de
-packageVersion: 1.0.0
-lastModified: 2021-03-07
+packageVersion: 1.0.1
+lastModified: 2021-05-11
 genotypeData:
   format: PLINK
   genoFile: 2018_OlaldeNature.bed
@@ -16,6 +16,7 @@ genotypeData:
   snpFileChkSum: 7a7ef4d4f9c78a0bba32a329b6162dbd
   indFile: 2018_OlaldeNature.fam
   indFileChkSum: 95f51d4ef3797b556e6c0154bf8d443d
+  snpSet: 1240K
 jannoFile: 2018_OlaldeNature.janno
 jannoFileChkSum: 76018627bafa73116cf31b8be58c2ce0
 bibFile: 2018_OlaldeNature.bib

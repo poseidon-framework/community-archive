@@ -1,13 +1,13 @@
-poseidonVersion: 2.1.0
+poseidonVersion: 2.3.1
 title: 2018_PosthNatureEcologyEvolution
 description: This package was initially constructed based on the Allen Ancient DNA
   Resource (https://reich.hms.harvard.edu/allen-ancient-dna-resource-aadr-downloadable-genotypes-present-day-and-ancient-dna-data,
-  version 37.2)
+  version 37.2). Ancient genomes from Remote Oceania
 contributor:
 - name: Ayshin Ghalichi
   email: ghalichi@shh.mpg.de
-packageVersion: 1.0.0
-lastModified: 2021-03-07
+packageVersion: 1.0.1
+lastModified: 2021-05-11
 genotypeData:
   format: PLINK
   genoFile: 2018_PosthNatureEcologyEvolution.bed
@@ -16,6 +16,7 @@ genotypeData:
   snpFileChkSum: 7a7ef4d4f9c78a0bba32a329b6162dbd
   indFile: 2018_PosthNatureEcologyEvolution.fam
   indFileChkSum: 82994c5d2d7c5e31a5578ec7aa9b6ada
+  snpSet: 1240K
 jannoFile: 2018_PosthNatureEcologyEvolution.janno
 jannoFileChkSum: 09a90a06515e202e00215ab14a78aefd
 bibFile: 2018_PosthNatureEcologyEvolution.bib
