@@ -1,13 +1,14 @@
-poseidonVersion: 2.1.0
+poseidonVersion: 2.3.1
 title: 2016_SchiffelsNatureCommunications
-description: This package was initially constructed based on the Allen Ancient DNA
+description: Iron Age and Early Medieval samples from Great Britain.
+  This package was initially constructed based on the Allen Ancient DNA
   Resource (https://reich.hms.harvard.edu/allen-ancient-dna-resource-aadr-downloadable-genotypes-present-day-and-ancient-dna-data,
   version 37.2)
 contributor:
 - name: Ayshin Ghalichi
   email: ghalichi@shh.mpg.de
-packageVersion: 1.0.0
-lastModified: 2021-03-07
+packageVersion: 1.0.1
+lastModified: 2021-05-11
 genotypeData:
   format: PLINK
   genoFile: 2016_SchiffelsNatureCommunications.bed
@@ -16,6 +17,7 @@ genotypeData:
   snpFileChkSum: 7a7ef4d4f9c78a0bba32a329b6162dbd
   indFile: 2016_SchiffelsNatureCommunications.fam
   indFileChkSum: c04aba898cfd2f02981f4c2464d06e97
+  snpSet: 1240K
 jannoFile: 2016_SchiffelsNatureCommunications.janno
 jannoFileChkSum: 5d913caf5ed0d17545a42fb02799ebb4
 bibFile: 2016_SchiffelsNatureCommunications.bib
