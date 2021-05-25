@@ -14,6 +14,7 @@ genotypeData:
   snpFileChkSum: 1f5ed75f173447c9bb95b2f0ae22fe1e
   indFile: Ning_Tianshan.fam
   indFileChkSum: 14ce88790c2dff1ff5a009a37e22e5ce
+  snpSet: 1240K
 jannoFile: Ning_Tianshan.janno
 jannoFileChkSum: 4f58bb495108071e4077284bad581aef
 bibFile: LITERATURE.bib

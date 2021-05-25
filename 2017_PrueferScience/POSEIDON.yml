@@ -16,6 +16,7 @@ genotypeData:
   snpFileChkSum: 7a7ef4d4f9c78a0bba32a329b6162dbd
   indFile: 2017_PrueferScience.fam
   indFileChkSum: 25bb55ad53f761ae191fcac235683ba1
+  snpSet: 1240K
 jannoFile: 2017_PrueferScience.janno
 jannoFileChkSum: f99dc182d623f159ad3905ee3e981daf
 bibFile: 2017_PrueferScience.bib

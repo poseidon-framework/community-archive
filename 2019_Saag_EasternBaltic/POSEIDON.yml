@@ -14,6 +14,7 @@ genotypeData:
   snpFileChkSum: 68e38ef0bfc4a9d3f335ac1f31233fb9
   indFile: Saag_EasternBaltic.fam
   indFileChkSum: a24f751fb490646efef59920e67a8823
+  snpSet: 1240K
 jannoFile: Saag_EasternBaltic.janno
 jannoFileChkSum: 44563287d887233bea451f28f9448424
 bibFile: LITERATURE.bib

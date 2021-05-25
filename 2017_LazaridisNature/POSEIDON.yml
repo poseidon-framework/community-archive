@@ -16,6 +16,7 @@ genotypeData:
   snpFileChkSum: 7a7ef4d4f9c78a0bba32a329b6162dbd
   indFile: 2017_LazaridisNature.fam
   indFileChkSum: ebb5fcc32d5e2ad119ca352d01f1c1be
+  snpSet: 1240K
 jannoFile: 2017_LazaridisNature.janno
 jannoFileChkSum: 527c8136f53e08567b64ec5f65b69fc8
 bibFile: 2017_LazaridisNature.bib

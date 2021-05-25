@@ -16,6 +16,6 @@ genotypeData:
   genoFile: 2016_MondalNatureGenetics.bed
   snpFile: 2016_MondalNatureGenetics.bim
   indFile: 2016_MondalNatureGenetics.fam
-  snpSet: 1240K
+  snpSet: HumanOrigins
 jannoFile: 2016_MondalNatureGenetics.janno
 bibFile: 2016_MondalNatureGenetics.bib

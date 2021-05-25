@@ -15,5 +15,6 @@ genotypeData:
   genoFile: 2017_SkoglundCell.bed
   snpFile: 2017_SkoglundCell.bim
   indFile: 2017_SkoglundCell.fam
+  snpSet: 1240K
 jannoFile: 2017_SkoglundCell.janno
 bibFile: 2017_SkoglundCell.bib

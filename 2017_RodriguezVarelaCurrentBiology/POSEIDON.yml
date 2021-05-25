@@ -16,6 +16,7 @@ genotypeData:
   snpFileChkSum: 7a7ef4d4f9c78a0bba32a329b6162dbd
   indFile: 2017_RodriguezVarelaCurrentBiology.fam
   indFileChkSum: c5154bb79de76e48c2f04614c9c4441f
+  snpSet: 1240K
 jannoFile: 2017_RodriguezVarelaCurrentBiology.janno
 jannoFileChkSum: 3c69b1a37b420db7dafe9734f2ffd4ff
 bibFile: 2017_RodriguezVarelaCurrentBiology.bib

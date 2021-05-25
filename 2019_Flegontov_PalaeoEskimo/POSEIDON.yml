@@ -15,5 +15,6 @@ genotypeData:
   genoFile: 2019_Flegontov_PalaeoEskimo.bed
   snpFile: 2019_Flegontov_PalaeoEskimo.bim
   indFile: 2019_Flegontov_PalaeoEskimo.fam
+  snpSet: 1240K
 jannoFile: 2019_Flegontov_PalaeoEskimo.janno
 bibFile: 2019_Flegontov_PalaeoEskimo.bib

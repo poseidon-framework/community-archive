@@ -15,5 +15,6 @@ genotypeData:
   genoFile: 2017_VyasAJPA.bed
   snpFile: 2017_VyasAJPA.bim
   indFile: 2017_VyasAJPA.fam
+  snpSet: HumanOrigins
 jannoFile: 2017_VyasAJPA.janno
 bibFile: 2017_VyasAJPA.bib

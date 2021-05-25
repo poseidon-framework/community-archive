@@ -14,6 +14,7 @@ genotypeData:
   snpFileChkSum: 268592d7b8a6bb684b2bc0b3df603453
   indFile: Haber_Crusaders.fam
   indFileChkSum: 12d3f30a40834fbd5a177b658dc8aa04
+  snpSet: 1240K
 jannoFile: Haber_Crusaders.janno
 jannoFileChkSum: fe5a57b5a47a405a5dfdb0aac5b35815
 bibFile: LITERATURE.bib

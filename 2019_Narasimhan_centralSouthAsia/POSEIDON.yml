@@ -14,6 +14,7 @@ genotypeData:
   snpFileChkSum: 6ee61577eb75104aa3b3600dba07dde7
   indFile: Narasimhan_centralSouthAsia.fam
   indFileChkSum: d6b3f368f154783e58a29126c28f23b3
+  snpSet: 1240K
 jannoFile: Narasimhan_centralSouthAsia.janno
 jannoFileChkSum: 50c7a041766ed89c4a81f84414899a38
 bibFile: LITERATURE.bib

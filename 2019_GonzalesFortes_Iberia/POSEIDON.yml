@@ -14,6 +14,7 @@ genotypeData:
   snpFileChkSum: 60fe1097cdc55309c501a6a2cd7401c3
   indFile: GonzalesFortes_Iberia.fam
   indFileChkSum: d8f7e19d3430ba0ddeaee3b948f11eb6
+  snpSet: 1240K
 jannoFile: GonzalesFortes_Iberia.janno
 jannoFileChkSum: 7ae661b8d9198b338c23ecd1ce4fe991
 bibFile: LITERATURE.bib

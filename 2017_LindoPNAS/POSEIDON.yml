@@ -14,6 +14,7 @@ genotypeData:
   snpFileChkSum: 7a7ef4d4f9c78a0bba32a329b6162dbd
   indFile: 2017_LindoPNAS.fam
   indFileChkSum: 2499d568ef81d3a222ebfec4bb986c25
+  snpSet: 1240K
 jannoFile: 2017_LindoPNAS.janno
 jannoFileChkSum: 447a4bade55c9507cc3203fdd5881c78
 bibFile: 2017_LindoPNAS.bib

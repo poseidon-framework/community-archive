@@ -14,6 +14,7 @@ genotypeData:
   snpFileChkSum: b904ec5949398fefa8b658746470f3fd
   indFile: Prendergast_EastAfrica.fam
   indFileChkSum: cf302be58ea101e0f13e42395b9cc044
+  snpSet: 1240K
 jannoFile: Prendergast_EastAfrica.janno
 jannoFileChkSum: e0e47f5bff981e64bc2ca3cd95ccff31
 bibFile: LITERATURE.bib

@@ -16,6 +16,7 @@ genotypeData:
   snpFileChkSum: 7a7ef4d4f9c78a0bba32a329b6162dbd
   indFile: 2017_JonesCurrentBiology.fam
   indFileChkSum: 8bdd78a3f1b83132773397543c56b408
+  snpSet: 1240K
 jannoFile: 2017_JonesCurrentBiology.janno
 jannoFileChkSum: d15d0b7096ce6fb44bf70275e47be4b0
 bibFile: 2017_JonesCurrentBiology.bib

@@ -14,6 +14,7 @@ genotypeData:
   snpFileChkSum: b6816826fd8ae42f3151163611a28337
   indFile: Biagini_Spain.fam
   indFileChkSum: d5095ad4920fc3c95bbfb250cd99f90f
+  snpSet: HumanOrigins
 jannoFile: Biagini_Spain.janno
 jannoFileChkSum: 48f65107871e242663fd09c1d6b5f4ca
 bibFile: LITERATURE.bib

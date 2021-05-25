@@ -16,6 +16,6 @@ genotypeData:
   genoFile: 2014_RaghavanNature.bed
   snpFile: 2014_RaghavanNature.bim
   indFile: 2014_RaghavanNature.fam
-  snpSet: 1240K
+  snpSet: HumanOrigins
 jannoFile: 2014_RaghavanNature.janno
 bibFile: 2014_RaghavanNature.bib

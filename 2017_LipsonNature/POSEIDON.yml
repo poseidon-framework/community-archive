@@ -16,6 +16,7 @@ genotypeData:
   snpFileChkSum: 7a7ef4d4f9c78a0bba32a329b6162dbd
   indFile: 2017_LipsonNature.fam
   indFileChkSum: f4f32889b2396065799979d8cb455875
+  snpSet: 1240K
 jannoFile: 2017_LipsonNature.janno
 jannoFileChkSum: a15cd84720758b8de5cff343ecab478a
 bibFile: 2017_LipsonNature.bib

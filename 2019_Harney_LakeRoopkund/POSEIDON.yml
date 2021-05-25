@@ -14,6 +14,7 @@ genotypeData:
   snpFileChkSum: adb00d8c8f0fa776d2069afd9101b70d
   indFile: Harney_LakeRoopkund.fam
   indFileChkSum: c47b2e103e6d287e3ae878c62d0bfeb2
+  snpSet: 1240K
 jannoFile: Harney_LakeRoopkund.janno
 jannoFileChkSum: 5fa254f29240a0526f0add6b656b80d8
 bibFile: LITERATURE.bib

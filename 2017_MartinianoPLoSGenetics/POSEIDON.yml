@@ -16,6 +16,7 @@ genotypeData:
   snpFileChkSum: 7a7ef4d4f9c78a0bba32a329b6162dbd
   indFile: 2017_MartinianoPLoSGenetics.fam
   indFileChkSum: 28b3fce62d949d71f7728fe9b83b31fd
+  snpSet: 1240K
 jannoFile: 2017_MartinianoPLoSGenetics.janno
 jannoFileChkSum: ecf7c193e8769cf504cf19359f49058b
 bibFile: 2017_MartinianoPLoSGenetics.bib

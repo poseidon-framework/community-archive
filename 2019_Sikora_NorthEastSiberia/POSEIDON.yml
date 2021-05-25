@@ -16,6 +16,7 @@ genotypeData:
   snpFileChkSum: d980b9c8093b7a4fe3b9723116339bba
   indFile: Sikora_NorthEastSiberia.fam
   indFileChkSum: 25fa495a0d588995f88d164e67ea52d3
+  snpSet: 1240K
 jannoFile: Sikora_NorthEastSiberia.janno
 jannoFileChkSum: 6786e3c9cab4742804f62d45a83038ef
 bibFile: LITERATURE.bib

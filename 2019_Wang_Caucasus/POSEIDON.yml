@@ -14,6 +14,7 @@ genotypeData:
   snpFileChkSum: a13870b329e1010a4af81010e1928859
   indFile: Wang_Caucasus.fam
   indFileChkSum: 8fb787751dbc900660be309ef03eddaf
+  snpSet: 1240K
 jannoFile: Wang_Caucasus.janno
 jannoFileChkSum: 47e2a2841b262952f01a4bdecf0feb77
 bibFile: LITERATURE.bib

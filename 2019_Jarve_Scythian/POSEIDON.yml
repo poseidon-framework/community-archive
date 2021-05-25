@@ -16,6 +16,7 @@ genotypeData:
   snpFileChkSum: fbd5f1263a949dfce690943da4d9a24c
   indFile: Jarve_Scythian.fam
   indFileChkSum: 45519039f657a23bda1a823583d02826
+  snpSet: 1240K
 jannoFile: Jarve_Scythian.janno
 jannoFileChkSum: a89158d6a54c6779b6b77ad1afbb2bc7
 bibFile: LITERATURE.bib

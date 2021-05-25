@@ -16,6 +16,7 @@ genotypeData:
   snpFileChkSum: d6082a63c7edd0ab70add7d0ad7ed086
   indFile: SanchezQuinto_Megalithic.fam
   indFileChkSum: aceef4e561050330370c8a7f0f50a5f8
+  snpSet: 1240K
 jannoFile: SanchezQuinto_Megalithic.janno
 jannoFileChkSum: 0702b49dd75556a513bf5fabbb5e89d2
 bibFile: LITERATURE.bib

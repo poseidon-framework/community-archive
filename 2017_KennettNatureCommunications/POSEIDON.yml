@@ -16,6 +16,7 @@ genotypeData:
   snpFileChkSum: 7a7ef4d4f9c78a0bba32a329b6162dbd
   indFile: 2017_KennettNatureCommunications.fam
   indFileChkSum: a7baf7b67603cafc7b4f0e4b5e064cf7
+  snpSet: 1240K
 jannoFile: 2017_KennettNatureCommunications.janno
 jannoFileChkSum: e4505190b5b8fedf47ea3a414dddd6ba
 bibFile: 2017_KennettNatureCommunications.bib

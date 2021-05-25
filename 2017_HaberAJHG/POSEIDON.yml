@@ -16,6 +16,7 @@ genotypeData:
   snpFileChkSum: 7a7ef4d4f9c78a0bba32a329b6162dbd
   indFile: 2017_HaberAJHG.fam
   indFileChkSum: dbc23075dbb1a60e1b5f7482bab12172
+  snpSet: 1240K
 jannoFile: 2017_HaberAJHG.janno
 jannoFileChkSum: 204644f161c845016c2f3bb209858b4a
 bibFile: 2017_HaberAJHG.bib

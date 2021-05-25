@@ -14,6 +14,7 @@ genotypeData:
   snpFileChkSum: 433fa85a23f3123bade02348e4628b75
   indFile: Saag_EastEurope.fam
   indFileChkSum: 3a49e62579b8818d4d4c0c264bc27c09
+  snpSet: 1240K
 jannoFile: Saag_EastEurope.janno
 jannoFileChkSum: ce7a205aa0ca6d74d91ec56014bca08c
 bibFile: LITERATURE.bib

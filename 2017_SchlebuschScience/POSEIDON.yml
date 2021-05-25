@@ -16,6 +16,7 @@ genotypeData:
   snpFileChkSum: 7a7ef4d4f9c78a0bba32a329b6162dbd
   indFile: 2017_SchlebuschScience.fam
   indFileChkSum: 258b56c21bbbb377de098de2b2722e63
+  snpSet: 1240K
 jannoFile: 2017_SchlebuschScience.janno
 jannoFileChkSum: ec265fce09cb5b91f55a08bcce64c9f7
 bibFile: 2017_SchlebuschScience.bib

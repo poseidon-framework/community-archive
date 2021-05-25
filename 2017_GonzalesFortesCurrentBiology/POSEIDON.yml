@@ -16,6 +16,7 @@ genotypeData:
   snpFileChkSum: 7a7ef4d4f9c78a0bba32a329b6162dbd
   indFile: 2017_GonzalesFortesCurrentBiology.fam
   indFileChkSum: 239b0b040265593fd244d88edfb89615
+  snpSet: 1240K
 jannoFile: 2017_GonzalesFortesCurrentBiology.janno
 jannoFileChkSum: 5647644cf80abfa287369b002a4eebd5
 bibFile: 2017_GonzalesFortesCurrentBiology.bib

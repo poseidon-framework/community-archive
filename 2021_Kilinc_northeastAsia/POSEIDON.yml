@@ -14,6 +14,7 @@ genotypeData:
   snpFileChkSum: e79741f669b66f1e882a55d25b3219c8
   indFile: Kilinc_northeastAsia.fam
   indFileChkSum: c908d20d62e4bf02e2d258e46ec6bf37
+  snpSet: 1240K
 jannoFile: Kilinc_northeastAsia.janno
 jannoFileChkSum: 5925462b72c681f4dfc0373347c81df1
 bibFile: LITERATURE.bib

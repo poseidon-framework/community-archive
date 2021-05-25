@@ -16,6 +16,7 @@ genotypeData:
   snpFileChkSum: 7a7ef4d4f9c78a0bba32a329b6162dbd
   indFile: 2017_YangCurrentBiology.fam
   indFileChkSum: 35346d385ab3dc1698d4d11feff2b9ee
+  snpSet: 1240K
 jannoFile: 2017_YangCurrentBiology.janno
 jannoFileChkSum: b200f230d3c03faeab8643e8a6203cb5
 bibFile: 2017_YangCurrentBiology.bib

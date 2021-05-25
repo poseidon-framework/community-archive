@@ -16,6 +16,7 @@ genotypeData:
   snpFileChkSum: 7a7ef4d4f9c78a0bba32a329b6162dbd
   indFile: 2017_VanDenBrink.fam
   indFileChkSum: 7be9d65e0f8e5b2632ff27056cd47754
+  snpSet: 1240K
 jannoFile: 2017_VanDenBrink.janno
 jannoFileChkSum: c72c144e91e07a84c4c219d709b2340e
 bibFile: 2017_VanDenBrink.bib

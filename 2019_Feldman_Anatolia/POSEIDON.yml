@@ -14,6 +14,7 @@ genotypeData:
   snpFileChkSum: efb862602ab4d476ef65a26428f89be4
   indFile: Feldman_Anatolia.fam
   indFileChkSum: b7ef11314bdd229ffd554702bb4ca65b
+  snpSet: 1240K
 jannoFile: Feldman_Anatolia.janno
 jannoFileChkSum: 9166f4d43bf26123d3bcef9b56e1ee02
 bibFile: LITERATURE.bib

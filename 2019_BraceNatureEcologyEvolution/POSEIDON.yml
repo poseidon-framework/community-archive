@@ -14,6 +14,7 @@ genotypeData:
   snpFileChkSum: 7a7ef4d4f9c78a0bba32a329b6162dbd
   indFile: 2019_BraceNatureEcologyEvolution.fam
   indFileChkSum: c561c00bb52d668f68b15f6125da310e
+  snpSet: 1240K
 jannoFile: 2019_BraceNatureEcologyEvolution.janno
 jannoFileChkSum: ab801c47c00c47650b4f3b82f4ff75bf
 bibFile: 2019_BraceNatureEcologyEvolution.bib

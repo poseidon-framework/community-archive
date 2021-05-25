@@ -14,6 +14,7 @@ genotypeData:
   snpFileChkSum: 838baca6c6e0531a1430a5944c412274
   indFile: Brace_Britain.fam
   indFileChkSum: 13edb4396603aad88829d12cdc4ed594
+  snpSet: 1240K
 jannoFile: Brace_Britain.janno
 jannoFileChkSum: 5c211db49d5c78a02dcfa07c23592d57
 bibFile: LITERATURE.bib

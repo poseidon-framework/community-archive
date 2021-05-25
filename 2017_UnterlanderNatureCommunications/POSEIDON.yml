@@ -16,6 +16,7 @@ genotypeData:
   snpFileChkSum: 7a7ef4d4f9c78a0bba32a329b6162dbd
   indFile: 2017_UnterlanderNatureCommunications.fam
   indFileChkSum: c384b1aeed0228b27826b91d2ac6478b
+  snpSet: 1240K
 jannoFile: 2017_UnterlanderNatureCommunications.janno
 jannoFileChkSum: 4c74070884285e810344d44eb9888f9d
 bibFile: 2017_UnterlanderNatureCommunications.bib

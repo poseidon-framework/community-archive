@@ -14,6 +14,7 @@ genotypeData:
   snpFileChkSum: ad91d7b156cd9796813068485d294f5c
   indFile: Nikitin_LBK.fam
   indFileChkSum: 3abe2144e4f5aea3aa0b83395ba9b355
+  snpSet: 1240K
 jannoFile: Nikitin_LBK.janno
 jannoFileChkSum: 4dedd209cdc4d4a986c184d70dedecd1
 bibFile: LITERATURE.bib

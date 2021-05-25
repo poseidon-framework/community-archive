@@ -16,6 +16,7 @@ genotypeData:
   snpFileChkSum: 7a7ef4d4f9c78a0bba32a329b6162dbd
   indFile: 2017_SikoraScience.fam
   indFileChkSum: 4bdf3f3ff2ad27c0a916309083ed8d58
+  snpSet: 1240K
 jannoFile: 2017_SikoraScience.janno
 jannoFileChkSum: f5b8260ab7a9c4100e5f85318d418f6b
 bibFile: 2017_SikoraScience.bib

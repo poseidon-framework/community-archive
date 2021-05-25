@@ -14,6 +14,7 @@ genotypeData:
   snpFileChkSum: cea79f97f00e0f3537a01983ae2868a9
   indFile: Antonio_AncRome.fam
   indFileChkSum: 0466dcbb68f122c8848f51e0900125a6
+  snpSet: 1240K
 jannoFile: Antonio_AncRome.janno
 jannoFileChkSum: dd57a82b69e93937f14340b8764b1ca3
 bibFile: LITERATURE.bib

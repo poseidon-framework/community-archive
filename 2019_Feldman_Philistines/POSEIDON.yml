@@ -14,6 +14,7 @@ genotypeData:
   snpFileChkSum: 0af38571cf92e01bee9fc19b4bea7958
   indFile: Feldman_Philistines.fam
   indFileChkSum: 911caa826fe758275d5946c25f4edad8
+  snpSet: 1240K
 jannoFile: Feldman_Philistines.janno
 jannoFileChkSum: 237d922e9c0e9f1e39c23a676c938dc8
 bibFile: LITERATURE.bib
