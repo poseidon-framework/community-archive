@@ -1,4 +1,4 @@
-poseidonVersion: 2.3.1
+poseidonVersion: 2.4.0
 title: 2015_1000Genomes_1240K_haploid_pulldown
 description: 1000 Genomes project data pulled down to the 1240K SNP array.
 contributor:
