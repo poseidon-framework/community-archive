@@ -4,7 +4,7 @@ description: Neolithic to Iron Age samples from Western Eurasia.
 contributor:
 - name: Ayshin Ghalichi
   email: ghalichi@shh.mpg.de
-packageVersion: 1.0.1
+packageVersion: 1.0.2
 lastModified: 2021-05-10
 genotypeData:
   format: PLINK
@@ -16,6 +16,6 @@ genotypeData:
   indFileChkSum: ed38f4c8f00f9a580f0cc16049153856
   snpSet: 1240K
 jannoFile: 2015_MathiesonNature.janno
-jannoFileChkSum: 4fb0cd17daf69148ee6a4bbdc046b3c4
+jannoFileChkSum: 95de24322bbb471e6547b9d4bf24f0c6
 bibFile: 2015_MathiesonNature.bib
 bibFileChkSum: 48a14abc88da9fbe79c0bc4da57b8057

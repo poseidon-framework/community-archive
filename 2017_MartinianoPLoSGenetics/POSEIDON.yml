@@ -6,7 +6,7 @@ description: This package was initially constructed based on the Allen Ancient D
 contributor:
 - name: Ayshin Ghalichi
   email: ghalichi@shh.mpg.de
-packageVersion: 1.0.1
+packageVersion: 1.0.2
 lastModified: 2021-05-31
 genotypeData:
   format: PLINK
@@ -18,6 +18,6 @@ genotypeData:
   indFileChkSum: 28b3fce62d949d71f7728fe9b83b31fd
   snpSet: 1240K
 jannoFile: 2017_MartinianoPLoSGenetics.janno
-jannoFileChkSum: ecf7c193e8769cf504cf19359f49058b
+jannoFileChkSum: bef2dfb2231857e98bca0f3d23c498b0
 bibFile: 2017_MartinianoPLoSGenetics.bib
 bibFileChkSum: e51647832570c2891eeec61d1f1cfeb5

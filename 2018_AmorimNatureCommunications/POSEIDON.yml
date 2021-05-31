@@ -2,11 +2,12 @@ poseidonVersion: 2.4.0
 title: 2018_AmorimNatureCommunications
 description: This package was initially constructed based on the Allen Ancient DNA
   Resource (https://reich.hms.harvard.edu/allen-ancient-dna-resource-aadr-downloadable-genotypes-present-day-and-ancient-dna-data,
-  version 37.2). The package contains individuals from early Medieval Hungary and Italy
+  version 37.2). The package contains individuals from early Medieval Hungary and
+  Italy
 contributor:
 - name: Ayshin Ghalichi
   email: ghalichi@shh.mpg.de
-packageVersion: 1.0.1
+packageVersion: 1.0.2
 lastModified: 2021-05-11
 genotypeData:
   format: PLINK
@@ -18,6 +19,6 @@ genotypeData:
   indFileChkSum: b5c41ad10ae5820fc5b918db4c0b7127
   snpSet: 1240K
 jannoFile: 2018_AmorimNatureCommunications.janno
-jannoFileChkSum: 5ebd9229c242460df23374479aabe241
+jannoFileChkSum: e18c2d833a4a397014a7283a3b3e07ff
 bibFile: 2018_AmorimNatureCommunications.bib
 bibFileChkSum: d77dad216848ac27d1ffa0445d29da73

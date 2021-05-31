@@ -1,13 +1,12 @@
 poseidonVersion: 2.4.0
 title: 2016_SchiffelsNatureCommunications
-description: Iron Age and Early Medieval samples from Great Britain.
-  This package was initially constructed based on the Allen Ancient DNA
-  Resource (https://reich.hms.harvard.edu/allen-ancient-dna-resource-aadr-downloadable-genotypes-present-day-and-ancient-dna-data,
+description: Iron Age and Early Medieval samples from Great Britain. This package
+  was initially constructed based on the Allen Ancient DNA Resource (https://reich.hms.harvard.edu/allen-ancient-dna-resource-aadr-downloadable-genotypes-present-day-and-ancient-dna-data,
   version 37.2)
 contributor:
 - name: Ayshin Ghalichi
   email: ghalichi@shh.mpg.de
-packageVersion: 1.0.1
+packageVersion: 1.0.2
 lastModified: 2021-05-11
 genotypeData:
   format: PLINK
@@ -19,6 +18,6 @@ genotypeData:
   indFileChkSum: c04aba898cfd2f02981f4c2464d06e97
   snpSet: 1240K
 jannoFile: 2016_SchiffelsNatureCommunications.janno
-jannoFileChkSum: 5d913caf5ed0d17545a42fb02799ebb4
+jannoFileChkSum: 044bcfd3ae3cd8bd3dea7fb6da889844
 bibFile: 2016_SchiffelsNatureCommunications.bib
 bibFileChkSum: eef70944d82698f526c522204b1a22f9

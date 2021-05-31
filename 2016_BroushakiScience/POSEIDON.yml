@@ -1,13 +1,12 @@
 poseidonVersion: 2.4.0
 title: 2016_BroushakiScience
-description: Early Neolithic samples from Iran.
-  This package was initially constructed based on the Allen Ancient DNA
-  Resource (https://reich.hms.harvard.edu/allen-ancient-dna-resource-aadr-downloadable-genotypes-present-day-and-ancient-dna-data,
+description: Early Neolithic samples from Iran. This package was initially constructed
+  based on the Allen Ancient DNA Resource (https://reich.hms.harvard.edu/allen-ancient-dna-resource-aadr-downloadable-genotypes-present-day-and-ancient-dna-data,
   version 37.2)
 contributor:
 - name: Ayshin Ghalichi
   email: ghalichi@shh.mpg.de
-packageVersion: 1.0.1
+packageVersion: 1.0.2
 lastModified: 2021-05-11
 genotypeData:
   format: PLINK
@@ -19,6 +18,6 @@ genotypeData:
   indFileChkSum: 856e7fbd4e0e4b52f52c14853870d4c1
   snpSet: 1240K
 jannoFile: 2016_BroushakiScience.janno
-jannoFileChkSum: d7f3b158921f155d7d8096faac4d1b96
+jannoFileChkSum: 7eb5c42b9716bd71bd19165c4c7a0865
 bibFile: 2016_BroushakiScience.bib
 bibFileChkSum: b1acb1bd292016bc2e7edbae96341e90

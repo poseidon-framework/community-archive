@@ -4,7 +4,7 @@ description: Jomon period samples from Japan.
 contributor:
 - name: Ayshin Ghalichi
   email: ghalichi@shh.mpg.de
-packageVersion: 1.0.1
+packageVersion: 1.0.2
 lastModified: 2021-05-11
 genotypeData:
   format: PLINK
@@ -16,6 +16,6 @@ genotypeData:
   indFileChkSum: 97e32c92dfc3165c9d0785fcbce0c097
   snpSet: 1240K
 jannoFile: 2016_KanzawaJHG.janno
-jannoFileChkSum: 13d59b2b123afe8fe5a6a3f57d263ba5
+jannoFileChkSum: 4b43b5802bf5edc1a8bbb8064dc1a06d
 bibFile: 2016_KanzawaJHG.bib
 bibFileChkSum: 1f720fdc3784d46f80cb40cc79e2748e

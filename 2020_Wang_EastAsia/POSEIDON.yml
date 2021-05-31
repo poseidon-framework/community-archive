@@ -6,7 +6,7 @@ contributor:
   email: ghalichi@shh.mpg.de
 - name: Clemens Schmid
   email: schmid@shh.mpg.de
-packageVersion: 1.1.1
+packageVersion: 1.1.2
 lastModified: 2021-05-11
 genotypeData:
   format: PLINK
@@ -18,7 +18,7 @@ genotypeData:
   indFileChkSum: 07112a5954755d7ee910de00a6b15f91
   snpSet: 1240K
 jannoFile: 2020_Wang_EastAsia.janno
-jannoFileChkSum: eb0e8fe442adbaf016fc0205f6b5489a
+jannoFileChkSum: fffe83d0e52f3b418fc55b7b050e7bea
 bibFile: 2020_Wang_EastAsia.bib
 bibFileChkSum: 38c067306833496bfc3498ed86dd8a91
 changelogFile: CHANGELOG.txt

@@ -4,7 +4,7 @@ description: Genetic data published in Jeong et al. 2019
 contributor:
 - name: Ayshin Ghalichi
   email: ghalichi@shh.mpg.de
-packageVersion: 1.1.1
+packageVersion: 1.1.2
 lastModified: 2021-05-31
 genotypeData:
   format: PLINK
@@ -16,7 +16,7 @@ genotypeData:
   indFileChkSum: 025d01115b36e19ab2689b714104b680
   snpSet: 1240K
 jannoFile: 2019_Jeong_InnerEurasia.janno
-jannoFileChkSum: 3a6bd57058c6e4d3944aca698a6115ad
+jannoFileChkSum: e784986431629d61a942de442ef67b92
 bibFile: 2019_Jeong_InnerEurasia.bib
 bibFileChkSum: f4e6fb7d7bcef3c79d200c88c4e2a250
 changelogFile: CHANGELOG.txt

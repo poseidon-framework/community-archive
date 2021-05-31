@@ -8,7 +8,7 @@ contributor:
   email: ghalichi@shh.mpg.de
 - name: Clemens Schmid
   email: schmid@shh.mpg.de
-packageVersion: 1.1.1
+packageVersion: 1.1.2
 lastModified: 2021-05-11
 genotypeData:
   format: PLINK
@@ -20,6 +20,6 @@ genotypeData:
   indFileChkSum: 596e43e8597669b21a8cfadffca56817
   snpSet: 1240K
 jannoFile: 2018_McCollScience.janno
-jannoFileChkSum: 6c212a6197cc958c0ff0a8e176e680e3
+jannoFileChkSum: cde8cd3a0307e1a86f6e880986f61a42
 bibFile: 2018_McCollScience.bib
 bibFileChkSum: 7ab5065615df760759d82c51b2bbec60

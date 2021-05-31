@@ -8,13 +8,18 @@ contributor:
   email: ghalichi@shh.mpg.de
 - name: Clemens Schmid
   email: schmid@shh.mpg.de
-packageVersion: 1.1.1
+packageVersion: 1.1.2
 lastModified: 2021-05-31
 genotypeData:
   format: PLINK
   genoFile: 2019_Flegontov_PalaeoEskimo.bed
+  genoFileChkSum: 927d1756b5466e3a63e9ec34f982ed80
   snpFile: 2019_Flegontov_PalaeoEskimo.bim
+  snpFileChkSum: 800e4b7227652bb1dc5b0aa4769035d2
   indFile: 2019_Flegontov_PalaeoEskimo.fam
+  indFileChkSum: 978a0f5e8925ac29077bbc490660ce16
   snpSet: 1240K
 jannoFile: 2019_Flegontov_PalaeoEskimo.janno
+jannoFileChkSum: 7fd3086ad975598e488cec20cb9dbfce
 bibFile: 2019_Flegontov_PalaeoEskimo.bib
+bibFileChkSum: b03c30b90b48cd515423c5daecc08206

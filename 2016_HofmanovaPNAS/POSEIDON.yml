@@ -1,13 +1,12 @@
 poseidonVersion: 2.4.0
 title: 2016_HofmanovaPNAS
-description: Neolithic samples from Turkey and Greece.
-  This package was initially constructed based on the Allen Ancient DNA
-  Resource (https://reich.hms.harvard.edu/allen-ancient-dna-resource-aadr-downloadable-genotypes-present-day-and-ancient-dna-data,
+description: Neolithic samples from Turkey and Greece. This package was initially
+  constructed based on the Allen Ancient DNA Resource (https://reich.hms.harvard.edu/allen-ancient-dna-resource-aadr-downloadable-genotypes-present-day-and-ancient-dna-data,
   version 37.2)
 contributor:
 - name: Ayshin Ghalichi
   email: ghalichi@shh.mpg.de
-packageVersion: 1.0.1
+packageVersion: 1.0.2
 lastModified: 2021-05-11
 genotypeData:
   format: PLINK
@@ -19,6 +18,6 @@ genotypeData:
   indFileChkSum: a2ae4be9d6476f6a91a23a36f08bf5d2
   snpSet: 1240K
 jannoFile: 2016_HofmanovaPNAS.janno
-jannoFileChkSum: 45e3145bf3509fb7d2ca9fdc4f7e26a6
+jannoFileChkSum: cb07a5290acc67385b261cc06de932a7
 bibFile: 2016_HofmanovaPNAS.bib
 bibFileChkSum: 2b4136f2afc135b17547367ef136a1ef

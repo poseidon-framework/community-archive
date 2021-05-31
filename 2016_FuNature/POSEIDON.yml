@@ -1,13 +1,12 @@
 poseidonVersion: 2.4.0
 title: 2016_FuNature
-description: Upper Palaeolithic samples from Europe.
-  This package was initially constructed based on the Allen Ancient DNA
-  Resource (https://reich.hms.harvard.edu/allen-ancient-dna-resource-aadr-downloadable-genotypes-present-day-and-ancient-dna-data,
+description: Upper Palaeolithic samples from Europe. This package was initially constructed
+  based on the Allen Ancient DNA Resource (https://reich.hms.harvard.edu/allen-ancient-dna-resource-aadr-downloadable-genotypes-present-day-and-ancient-dna-data,
   version 37.2)
 contributor:
 - name: Ayshin Ghalichi
   email: ghalichi@shh.mpg.de
-packageVersion: 1.0.1
+packageVersion: 1.0.2
 lastModified: 2021-05-11
 genotypeData:
   format: PLINK
@@ -19,6 +18,6 @@ genotypeData:
   indFileChkSum: 81b1ff78e0423e632935cf4729e6be2a
   snpSet: 1240K
 jannoFile: 2016_FuNature.janno
-jannoFileChkSum: f954a0043b9c647abee54db645a5ca1f
+jannoFileChkSum: ad67b66c5721b8b07bb08dbd650effa6
 bibFile: 2016_FuNature.bib
 bibFileChkSum: 08d03503c9c755346713bfc94726fa60

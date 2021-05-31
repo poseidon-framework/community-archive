@@ -1,13 +1,12 @@
 poseidonVersion: 2.4.0
 title: 2014_SeguinOrlandoScience
 description: A Paleolithic modern human sample from European Russia (Kostenki14).
-  This package was initially constructed based on the Allen Ancient DNA
-  Resource (https://reich.hms.harvard.edu/allen-ancient-dna-resource-aadr-downloadable-genotypes-present-day-and-ancient-dna-data,
+  This package was initially constructed based on the Allen Ancient DNA Resource (https://reich.hms.harvard.edu/allen-ancient-dna-resource-aadr-downloadable-genotypes-present-day-and-ancient-dna-data,
   version 37.2)
 contributor:
 - name: Ayshin Ghalichi
   email: ghalichi@shh.mpg.de
-packageVersion: 1.0.1
+packageVersion: 1.0.2
 lastModified: 2021-05-10
 genotypeData:
   format: PLINK
@@ -19,6 +18,6 @@ genotypeData:
   indFileChkSum: 8c4bf7c39675e52152606cf8c6583dfc
   snpSet: 1240K
 jannoFile: 2014_SeguinOrlandoScience.janno
-jannoFileChkSum: 6c5af9d6440ec1dbfbfd701726433d70
+jannoFileChkSum: 024faa699cbc07aeb0e5a969a92c147d
 bibFile: 2014_SeguinOrlandoScience.bib
 bibFileChkSum: 116e832fd84c2f65f1da7388fe4dd7e8

@@ -4,7 +4,7 @@ description: A Palaeolithic sample from Romania (Oase1).
 contributor:
 - name: Ayshin Ghalichi
   email: ghalichi@shh.mpg.de
-packageVersion: 1.0.1
+packageVersion: 1.0.2
 lastModified: 2021-05-10
 genotypeData:
   format: PLINK
@@ -16,6 +16,6 @@ genotypeData:
   indFileChkSum: b06728d15f9561d85755c86134f83de6
   snpSet: 1240K
 jannoFile: 2015_FuNature.janno
-jannoFileChkSum: 8ae413df9d206301c61cf5b6b2371992
+jannoFileChkSum: 5d0a16f24c9bae10a380248a18f12ad5
 bibFile: 2015_FuNature.bib
 bibFileChkSum: 3520ec803fa2581800711163fdd508a1

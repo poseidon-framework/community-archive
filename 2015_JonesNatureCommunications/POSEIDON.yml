@@ -1,13 +1,12 @@
 poseidonVersion: 2.4.0
 title: 2015_JonesNatureCommunications
 description: Upper Palaeolithic and Mesolithic samples from Switzerland and Georgia.
-  This package was initially constructed based on the Allen Ancient DNA
-  Resource (https://reich.hms.harvard.edu/allen-ancient-dna-resource-aadr-downloadable-genotypes-present-day-and-ancient-dna-data,
+  This package was initially constructed based on the Allen Ancient DNA Resource (https://reich.hms.harvard.edu/allen-ancient-dna-resource-aadr-downloadable-genotypes-present-day-and-ancient-dna-data,
   version 37.2)
 contributor:
 - name: Ayshin Ghalichi
   email: ghalichi@shh.mpg.de
-packageVersion: 1.0.1
+packageVersion: 1.0.2
 lastModified: 2021-05-10
 genotypeData:
   format: PLINK
@@ -19,6 +18,6 @@ genotypeData:
   indFileChkSum: 0d0ce64a25a2646c478c94150a1096bc
   snpSet: 1240K
 jannoFile: 2015_JonesNatureCommunications.janno
-jannoFileChkSum: df223b00b979d05c873a6946be3f6195
+jannoFileChkSum: 0a3852f621a9dcb255bde722a89e4637
 bibFile: 2015_JonesNatureCommunications.bib
 bibFileChkSum: 1991ace8725ffe3c0aa00fe8071edafe

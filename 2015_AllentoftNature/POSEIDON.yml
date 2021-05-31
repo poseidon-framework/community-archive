@@ -4,7 +4,7 @@ description: Bronze Age samples from Europe.
 contributor:
 - name: Ayshin Ghalichi
   email: ghalichi@shh.mpg.de
-packageVersion: 1.0.1
+packageVersion: 1.0.2
 lastModified: 2021-05-10
 genotypeData:
   format: PLINK
@@ -16,6 +16,6 @@ genotypeData:
   indFileChkSum: d59e66306cb1d98bf62d4c0bc0d2cc69
   snpSet: 1240K
 jannoFile: 2015_AllentoftNature.janno
-jannoFileChkSum: c482d440afae2df23e7acf37af0d0072
+jannoFileChkSum: a0b788c539ca37a870ed1d93e4990646
 bibFile: 2015_AllentoftNature.bib
 bibFileChkSum: b819dd175820e02a1a5f108f9a5a2a52
