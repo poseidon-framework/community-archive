@@ -5,7 +5,7 @@ contributor:
 - name: Ayshin Ghalichi
   email: ghalichi@shh.mpg.de
 packageVersion: 1.0.1
-lastModified: 2021-03-07
+lastModified: 2021-05-31
 genotypeData:
   format: PLINK
   genoFile: 2017_LindoPNAS.bed

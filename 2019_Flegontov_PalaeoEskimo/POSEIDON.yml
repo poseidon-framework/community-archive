@@ -9,7 +9,7 @@ contributor:
 - name: Clemens Schmid
   email: schmid@shh.mpg.de
 packageVersion: 1.1.0
-lastModified: 2021-03-18
+lastModified: 2021-05-31
 genotypeData:
   format: PLINK
   genoFile: 2019_Flegontov_PalaeoEskimo.bed

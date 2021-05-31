@@ -5,7 +5,7 @@ contributor:
 - name: Vanessa Villalba
   email: villalba@shh.mpg.de
 packageVersion: 1.0.1
-lastModified: 2020-08-10
+lastModified: 2021-05-31
 genotypeData:
   format: PLINK
   genoFile: Villalba_Iberia.bed

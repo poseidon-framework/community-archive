@@ -7,7 +7,7 @@ contributor:
 - name: Clemens Schmid
   email: schmid@shh.mpg.de
 packageVersion: 1.0.1
-lastModified: 2020-12-02
+lastModified: 2021-05-31
 genotypeData:
   format: PLINK
   genoFile: Sikora_NorthEastSiberia.bed
