@@ -1,8 +1,7 @@
 poseidonVersion: 2.4.0
 title: 2015_LlorenteScience
-description: An ancient Ethiopian individual (Mota).
-  This package was initially constructed based on the Allen Ancient DNA
-  Resource (https://reich.hms.harvard.edu/allen-ancient-dna-resource-aadr-downloadable-genotypes-present-day-and-ancient-dna-data,
+description: An ancient Ethiopian individual (Mota). This package was initially constructed
+  based on the Allen Ancient DNA Resource (https://reich.hms.harvard.edu/allen-ancient-dna-resource-aadr-downloadable-genotypes-present-day-and-ancient-dna-data,
   version 37.2)
 contributor:
 - name: Ayshin Ghalichi
@@ -19,6 +18,6 @@ genotypeData:
   indFileChkSum: 688dd4800f7bf6ea8d83a56718c79a50
   snpSet: 1240K
 jannoFile: 2015_LlorenteScience.janno
-jannoFileChkSum: 879be9f213a05def2a6668364c487923
+jannoFileChkSum: 7679f1f66ebc6c158990108c63b526f7
 bibFile: 2015_LlorenteScience.bib
 bibFileChkSum: 6467f8410ec7738201a0efb091ec072e

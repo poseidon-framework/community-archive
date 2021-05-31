@@ -1,6 +1,7 @@
 poseidonVersion: 2.4.0
 title: 2018_Lamnidis_Fennoscandia
-description: Genetic data published in Lamnidis et al. 2018, ancient genomes from Finland and Russia.
+description: Genetic data published in Lamnidis et al. 2018, ancient genomes from
+  Finland and Russia.
 contributor:
 - name: Thiseas Lamnidis
   email: lamnidisi@shh.mpg.de
@@ -16,6 +17,6 @@ genotypeData:
   indFileChkSum: 90c1b106d15bceccc1e25c34d3060d75
   snpSet: 1240K
 jannoFile: 2018_Lamnidis_Fennoscandia.janno
-jannoFileChkSum: cfb135f873264c25ce0adfa1cbe555f9
+jannoFileChkSum: 5eb935ffb077e79ff6be8387b1d8381a
 bibFile: 2018_Lamnidis_Fennoscandia.bib
 bibFileChkSum: a71998b3e9c81f23402dcd1905f66755

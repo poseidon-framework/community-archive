@@ -1,8 +1,7 @@
 poseidonVersion: 2.4.0
 title: 2014_FuNature
-description: A 45000-year-old modern human from Siberia.
-  This package was initially constructed based on the Allen Ancient DNA
-  Resource (https://reich.hms.harvard.edu/allen-ancient-dna-resource-aadr-downloadable-genotypes-present-day-and-ancient-dna-data,
+description: A 45000-year-old modern human from Siberia. This package was initially
+  constructed based on the Allen Ancient DNA Resource (https://reich.hms.harvard.edu/allen-ancient-dna-resource-aadr-downloadable-genotypes-present-day-and-ancient-dna-data,
   version 37.2)
 contributor:
 - name: Ayshin Ghalichi
@@ -19,6 +18,6 @@ genotypeData:
   indFileChkSum: a37a0443575618e933a7d3c4d35ffb71
   snpSet: 1240K
 jannoFile: 2014_FuNature.janno
-jannoFileChkSum: d1a0cb921f3aa80267629608dacb0478
+jannoFileChkSum: 70ef8f2860aa00581b901d4e42c8555f
 bibFile: 2014_FuNature.bib
 bibFileChkSum: 51ec283e2307a79b44b1009a56fe01f6

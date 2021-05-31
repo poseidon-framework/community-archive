@@ -13,8 +13,13 @@ lastModified: 2021-05-31
 genotypeData:
   format: PLINK
   genoFile: 2017_SkoglundCell.bed
+  genoFileChkSum: 9aa8d4a6b60e6e6a218f26ece596d79b
   snpFile: 2017_SkoglundCell.bim
+  snpFileChkSum: c989854c6bae2cfd99c3c87f083d8674
   indFile: 2017_SkoglundCell.fam
+  indFileChkSum: 36db50175f0c4d444fa6ea781cb25661
   snpSet: 1240K
 jannoFile: 2017_SkoglundCell.janno
+jannoFileChkSum: 77121ec0439153d6a80d43332e07927d
 bibFile: 2017_SkoglundCell.bib
+bibFileChkSum: a2e8725913b58e7cc688ae0eeb0aa0aa

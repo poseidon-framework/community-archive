@@ -13,8 +13,13 @@ lastModified: 2021-05-31
 genotypeData:
   format: PLINK
   genoFile: 2017_VyasAJPA.bed
+  genoFileChkSum: 5c0d2a8da46f9da764b1d0c3d2ec5dd2
   snpFile: 2017_VyasAJPA.bim
+  snpFileChkSum: 1fa4fd6b43fdf93bdda133d42d56f78d
   indFile: 2017_VyasAJPA.fam
+  indFileChkSum: 62d430c20439946aef6b53cc2b6b6e19
   snpSet: HumanOrigins
 jannoFile: 2017_VyasAJPA.janno
+jannoFileChkSum: 0ef90df5b7dd5d689cfd34c9b3c9d128
 bibFile: 2017_VyasAJPA.bib
+bibFileChkSum: cc4b10d6ff133aa8f16c929b27993954

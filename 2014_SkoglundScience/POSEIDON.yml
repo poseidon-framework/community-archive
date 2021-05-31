@@ -1,8 +1,7 @@
 poseidonVersion: 2.4.0
 title: 2014_SkoglundScience
-description: Mesolithic and Neolithic samples from Sweden and Gotland.
-  This package was initially constructed based on the Allen Ancient DNA
-  Resource (https://reich.hms.harvard.edu/allen-ancient-dna-resource-aadr-downloadable-genotypes-present-day-and-ancient-dna-data,
+description: Mesolithic and Neolithic samples from Sweden and Gotland. This package
+  was initially constructed based on the Allen Ancient DNA Resource (https://reich.hms.harvard.edu/allen-ancient-dna-resource-aadr-downloadable-genotypes-present-day-and-ancient-dna-data,
   version 37.2)
 contributor:
 - name: Ayshin Ghalichi
@@ -19,6 +18,6 @@ genotypeData:
   indFileChkSum: d20f506eaba22542352c39459d07ad48
   snpSet: 1240K
 jannoFile: 2014_SkoglundScience.janno
-jannoFileChkSum: 8f6688be42ce1045b161e7662bef3442
+jannoFileChkSum: e2c6f2a656ef7d4b414caac3b3cf6833
 bibFile: 2014_SkoglundScience.bib
 bibFileChkSum: acb6b16ade2ebe828336a84b447e8daf

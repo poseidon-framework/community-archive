@@ -1,8 +1,7 @@
 poseidonVersion: 2.4.0
 title: 2010_RasmussenNature
-description: A Palaeo-Eskimo from Greenland.
-  This package was initially constructed based on the Allen Ancient DNA
-  Resource (https://reich.hms.harvard.edu/allen-ancient-dna-resource-aadr-downloadable-genotypes-present-day-and-ancient-dna-data,
+description: A Palaeo-Eskimo from Greenland. This package was initially constructed
+  based on the Allen Ancient DNA Resource (https://reich.hms.harvard.edu/allen-ancient-dna-resource-aadr-downloadable-genotypes-present-day-and-ancient-dna-data,
   version 37.2)
 contributor:
 - name: Ayshin Ghalichi
@@ -19,6 +18,6 @@ genotypeData:
   indFileChkSum: 4683eab4610f21210bcda5a0ae3a9c97
   snpSet: 1240K
 jannoFile: 2010_RasmussenNature.janno
-jannoFileChkSum: be608149c1c941aa62b0f80b16db8708
+jannoFileChkSum: 3b1afba7889c98b46c6102a5a3db6528
 bibFile: 2010_RasmussenNature.bib
 bibFileChkSum: ad875f5d0a0bade21e94c8116fc6198f

@@ -1,8 +1,7 @@
 poseidonVersion: 2.4.0
 title: 2015_GuntherPNAS
-description: Neolithic and Bronze Age samples from Spain.
-  This package was initially constructed based on the Allen Ancient DNA
-  Resource (https://reich.hms.harvard.edu/allen-ancient-dna-resource-aadr-downloadable-genotypes-present-day-and-ancient-dna-data,
+description: Neolithic and Bronze Age samples from Spain. This package was initially
+  constructed based on the Allen Ancient DNA Resource (https://reich.hms.harvard.edu/allen-ancient-dna-resource-aadr-downloadable-genotypes-present-day-and-ancient-dna-data,
   version 37.2)
 contributor:
 - name: Ayshin Ghalichi
@@ -19,6 +18,6 @@ genotypeData:
   indFileChkSum: 7c157f8d93c32c3b699ae8f394e89db6
   snpSet: 1240K
 jannoFile: 2015_GuntherPNAS.janno
-jannoFileChkSum: 2b5fa98fc459e3c1d74fcb2d87c891e1
+jannoFileChkSum: 5305c12d0456a75e531bd13cdb0e23c2
 bibFile: 2015_GuntherPNAS.bib
 bibFileChkSum: b105bc162303f775dda7b93ca0d58419

@@ -1,8 +1,8 @@
 poseidonVersion: 2.4.0
 title: 2014_RaghavanNature
-description: Two Paleolithic individuals from Mal’ta and Afontova Gora in Siberia with multiple modern Eurasian reference samples.
-  This package was initially constructed based on the Allen Ancient DNA
-  Resource (https://reich.hms.harvard.edu/allen-ancient-dna-resource-aadr-downloadable-genotypes-present-day-and-ancient-dna-data,
+description: Two Paleolithic individuals from Mal’ta and Afontova Gora in Siberia
+  with multiple modern Eurasian reference samples. This package was initially constructed
+  based on the Allen Ancient DNA Resource (https://reich.hms.harvard.edu/allen-ancient-dna-resource-aadr-downloadable-genotypes-present-day-and-ancient-dna-data,
   version 37.2)
 contributor:
 - name: Ayshin Ghalichi
@@ -14,8 +14,13 @@ lastModified: 2021-03-18
 genotypeData:
   format: PLINK
   genoFile: 2014_RaghavanNature.bed
+  genoFileChkSum: c5b4ab8180704c48d351b2478ff3f7b0
   snpFile: 2014_RaghavanNature.bim
+  snpFileChkSum: 1fa4fd6b43fdf93bdda133d42d56f78d
   indFile: 2014_RaghavanNature.fam
+  indFileChkSum: ad3364f079d62a8580c0fcd65fd75355
   snpSet: HumanOrigins
 jannoFile: 2014_RaghavanNature.janno
+jannoFileChkSum: 2bef44cf55e15f3e6017341da8b01e30
 bibFile: 2014_RaghavanNature.bib
+bibFileChkSum: b5c3bc3df3ad1696550fe48a99d75066
