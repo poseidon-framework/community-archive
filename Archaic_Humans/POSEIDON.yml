@@ -4,7 +4,8 @@ description: Genetic data of Archaic Humans
 contributor:
 - name: Ayshin Ghalichi
   email: ghalichi@shh.mpg.de
-lastModified: 2020-08-10
+packageVersion: 1.0.0
+lastModified: 2020-05-31
 genotypeData:
   format: PLINK
   genoFile: Archaic_Humans.bed
@@ -13,5 +14,6 @@ genotypeData:
   snpFileChkSum: f9bc787cf31f868ecab408f03e6f331a
   indFile: Archaic_Humans.fam
   indFileChkSum: 8a3b7068152ce3cb94dc163281f313d3
+  snpSet: 1240K
 jannoFile: Archaic_Humans.janno
 jannoFileChkSum: 890d931f5a650fba5ca90ef5b7db1530
