@@ -1,11 +1,11 @@
-poseidonVersion: 2.1.0
+poseidonVersion: 2.4.0
 title: 2020_Nagele_Caribbean
-description: Genetic data published in Nägele et al. 2020
+description: A diachronic set of ancient samples from the Caribbean.
 contributor:
 - name: Ayshin Ghalichi
   email: ghalichi@shh.mpg.de
-packageVersion: 1.0.0
-lastModified: 2021-03-05
+packageVersion: 1.0.1
+lastModified: 2021-05-11
 genotypeData:
   format: PLINK
   genoFile: Nagele_Caribbean.bed
@@ -14,6 +14,7 @@ genotypeData:
   snpFileChkSum: 539b2b72e02105372f2acaefa5f079e8
   indFile: Nagele_Caribbean.fam
   indFileChkSum: a31df03e943a5f7bee9f97e40f72da4a
+  snpSet: 1240K
 jannoFile: Nagele_Caribbean.janno
 jannoFileChkSum: 0b437cfbe1828f315c70a2f2a4204d41
 bibFile: LITERATURE.bib

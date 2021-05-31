@@ -1,11 +1,11 @@
-poseidonVersion: 2.1.0
+poseidonVersion: 2.4.0
 title: 2019_Jeong_InnerEurasia
 description: Genetic data published in Jeong et al. 2019
 contributor:
 - name: Ayshin Ghalichi
   email: ghalichi@shh.mpg.de
-packageVersion: 1.1.0
-lastModified: 2021-03-18
+packageVersion: 1.1.1
+lastModified: 2021-05-31
 genotypeData:
   format: PLINK
   genoFile: 2019_Jeong_InnerEurasia.bed
@@ -14,6 +14,7 @@ genotypeData:
   snpFileChkSum: 71c40efb829c18b7149996d951097e45
   indFile: 2019_Jeong_InnerEurasia.fam
   indFileChkSum: 025d01115b36e19ab2689b714104b680
+  snpSet: 1240K
 jannoFile: 2019_Jeong_InnerEurasia.janno
 jannoFileChkSum: 3a6bd57058c6e4d3944aca698a6115ad
 bibFile: 2019_Jeong_InnerEurasia.bib

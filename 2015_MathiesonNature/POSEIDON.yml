@@ -1,11 +1,11 @@
-poseidonVersion: 2.1.0
+poseidonVersion: 2.4.0
 title: 2015_MathiesonNature
-description: Empty package template. Please add a description
+description: Neolithic to Iron Age samples from Western Eurasia.
 contributor:
 - name: Ayshin Ghalichi
   email: ghalichi@shh.mpg.de
-packageVersion: 1.0.0
-lastModified: 2021-03-07
+packageVersion: 1.0.1
+lastModified: 2021-05-10
 genotypeData:
   format: PLINK
   genoFile: 2015_MathiesonNature.bed
@@ -14,6 +14,7 @@ genotypeData:
   snpFileChkSum: 7a7ef4d4f9c78a0bba32a329b6162dbd
   indFile: 2015_MathiesonNature.fam
   indFileChkSum: ed38f4c8f00f9a580f0cc16049153856
+  snpSet: 1240K
 jannoFile: 2015_MathiesonNature.janno
 jannoFileChkSum: 4fb0cd17daf69148ee6a4bbdc046b3c4
 bibFile: 2015_MathiesonNature.bib

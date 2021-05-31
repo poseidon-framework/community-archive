@@ -1,6 +1,7 @@
-poseidonVersion: 2.1.0
+poseidonVersion: 2.4.0
 title: 2012_MeyerScience
-description: This package was initially constructed based on the Allen Ancient DNA
+description: One archaic Denisovan individual.
+  This package was initially constructed based on the Allen Ancient DNA
   Resource (https://reich.hms.harvard.edu/allen-ancient-dna-resource-aadr-downloadable-genotypes-present-day-and-ancient-dna-data,
   version 37.2)
 contributor:
@@ -8,12 +9,18 @@ contributor:
   email: ghalichi@shh.mpg.de
 - name: Clemens Schmid
   email: schmid@shh.mpg.de
-packageVersion: 1.0.0
-lastModified: 2021-03-18
+packageVersion: 1.0.1
+lastModified: 2021-05-07
 genotypeData:
   format: PLINK
   genoFile: 2012_MeyerScience.bed
+  genoFileChkSum: 781fbf7f4573cd286133457690b0ddb3
   snpFile: 2012_MeyerScience.bim
+  snpFileChkSum: 1fa4fd6b43fdf93bdda133d42d56f78d
   indFile: 2012_MeyerScience.fam
+  indFileChkSum: 0c6a50cb207e46e01d89a295ee6ab91e
+  snpSet: HumanOrigins
 jannoFile: 2012_MeyerScience.janno
+jannoFileChkSum: 24911af2a41cdf2c08ccc8928b3bfcb4
 bibFile: 2012_MeyerScience.bib
+bibFileChkSum: dcb267669199c37cedbc4e917d56a200

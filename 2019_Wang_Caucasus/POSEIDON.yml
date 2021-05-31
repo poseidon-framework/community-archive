@@ -1,11 +1,11 @@
-poseidonVersion: 2.1.0
+poseidonVersion: 2.4.0
 title: 2019_Wang_Caucasus
 description: Genetic data published in Wang et al. 2019
 contributor:
 - name: Ayshin Ghalichi
   email: ghalichi@shh.mpg.de
-packageVersion: 1.0.0
-lastModified: 2020-08-10
+packageVersion: 1.0.1
+lastModified: 2021-05-31
 genotypeData:
   format: PLINK
   genoFile: Wang_Caucasus.bed
@@ -14,6 +14,7 @@ genotypeData:
   snpFileChkSum: a13870b329e1010a4af81010e1928859
   indFile: Wang_Caucasus.fam
   indFileChkSum: 8fb787751dbc900660be309ef03eddaf
+  snpSet: 1240K
 jannoFile: Wang_Caucasus.janno
 jannoFileChkSum: 47e2a2841b262952f01a4bdecf0feb77
 bibFile: LITERATURE.bib

@@ -1,4 +1,4 @@
-poseidonVersion: 2.1.0
+poseidonVersion: 2.4.0
 title: 2017_LipsonNature
 description: This package was initially constructed based on the Allen Ancient DNA
   Resource (https://reich.hms.harvard.edu/allen-ancient-dna-resource-aadr-downloadable-genotypes-present-day-and-ancient-dna-data,
@@ -6,8 +6,8 @@ description: This package was initially constructed based on the Allen Ancient D
 contributor:
 - name: Ayshin Ghalichi
   email: ghalichi@shh.mpg.de
-packageVersion: 1.0.0
-lastModified: 2021-03-07
+packageVersion: 1.0.1
+lastModified: 2021-05-31
 genotypeData:
   format: PLINK
   genoFile: 2017_LipsonNature.bed
@@ -16,6 +16,7 @@ genotypeData:
   snpFileChkSum: 7a7ef4d4f9c78a0bba32a329b6162dbd
   indFile: 2017_LipsonNature.fam
   indFileChkSum: f4f32889b2396065799979d8cb455875
+  snpSet: 1240K
 jannoFile: 2017_LipsonNature.janno
 jannoFileChkSum: a15cd84720758b8de5cff343ecab478a
 bibFile: 2017_LipsonNature.bib

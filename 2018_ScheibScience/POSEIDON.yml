@@ -1,13 +1,13 @@
-poseidonVersion: 2.1.0
+poseidonVersion: 2.4.0
 title: 2018_ScheibScience
 description: This package was initially constructed based on the Allen Ancient DNA
   Resource (https://reich.hms.harvard.edu/allen-ancient-dna-resource-aadr-downloadable-genotypes-present-day-and-ancient-dna-data,
-  version 37.2)
+  version 37.2). Ancient genomes from North America.
 contributor:
 - name: Ayshin Ghalichi
   email: ghalichi@shh.mpg.de
-packageVersion: 1.0.0
-lastModified: 2021-03-07
+packageVersion: 1.0.1
+lastModified: 2021-05-11
 genotypeData:
   format: PLINK
   genoFile: 2018_ScheibScience.bed
@@ -16,6 +16,7 @@ genotypeData:
   snpFileChkSum: 7a7ef4d4f9c78a0bba32a329b6162dbd
   indFile: 2018_ScheibScience.fam
   indFileChkSum: 8bc155c0772cc65c807de686b9960a2c
+  snpSet: 1240K
 jannoFile: 2018_ScheibScience.janno
 jannoFileChkSum: 93f639132fb25cbfd2444a8bcc6c8604
 bibFile: 2018_ScheibScience.bib

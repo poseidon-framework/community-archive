@@ -1,4 +1,4 @@
-poseidonVersion: 2.1.0
+poseidonVersion: 2.4.0
 title: 2017_UnterlanderNatureCommunications
 description: This package was initially constructed based on the Allen Ancient DNA
   Resource (https://reich.hms.harvard.edu/allen-ancient-dna-resource-aadr-downloadable-genotypes-present-day-and-ancient-dna-data,
@@ -6,8 +6,8 @@ description: This package was initially constructed based on the Allen Ancient D
 contributor:
 - name: Ayshin Ghalichi
   email: ghalichi@shh.mpg.de
-packageVersion: 1.0.0
-lastModified: 2021-03-08
+packageVersion: 1.0.1
+lastModified: 2021-05-31
 genotypeData:
   format: PLINK
   genoFile: 2017_UnterlanderNatureCommunications.bed
@@ -16,6 +16,7 @@ genotypeData:
   snpFileChkSum: 7a7ef4d4f9c78a0bba32a329b6162dbd
   indFile: 2017_UnterlanderNatureCommunications.fam
   indFileChkSum: c384b1aeed0228b27826b91d2ac6478b
+  snpSet: 1240K
 jannoFile: 2017_UnterlanderNatureCommunications.janno
 jannoFileChkSum: 4c74070884285e810344d44eb9888f9d
 bibFile: 2017_UnterlanderNatureCommunications.bib

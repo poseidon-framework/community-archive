@@ -1,11 +1,11 @@
-poseidonVersion: 2.1.0
+poseidonVersion: 2.4.0
 title: 2020_Skourtanioti_NearEast
-description: Genetic data published in Skourtanioti et al. 2020
+description: Late Neolithic to Late Bronze Age samples from the Near East.
 contributor:
 - name: Eirini Skourtanioti
   email: skourtanioti@shh.mpg.de
-packageVersion: 1.0.0
-lastModified: 2020-08-10
+packageVersion: 1.0.1
+lastModified: 2021-05-11
 genotypeData:
   format: PLINK
   genoFile: Skourtanioti_NearEast.bed
@@ -14,7 +14,8 @@ genotypeData:
   snpFileChkSum: d90cad69eb22dfe85079f542b6dde97a
   indFile: Skourtanioti_NearEast.fam
   indFileChkSum: 185c8731eb8527bcb169e6795ec9252f
+  snpSet: 1240K
 jannoFile: Skourtanioti_NearEast.janno
 jannoFileChkSum: 510358fe1bdd8581d482376a1509434b
 bibFile: LITERATURE.bib
-bibFileChkSum: 59969072aa6e348e05e3d24c2306862b
+bibFileChkSum: 29a75d259df8d540c018c58defada497

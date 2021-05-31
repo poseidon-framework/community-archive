@@ -1,13 +1,13 @@
-poseidonVersion: 2.1.0
+poseidonVersion: 2.4.0
 title: 2020_Ning_China
-description: Genetic data published in Ning et al. 2020
+description: A transect of ancient samples from northern China.
 contributor:
 - name: Guido Gnecchi Ruscone
   email: gnecchiruscone@shh.mpg.de
 - name: Clemens Schmid
   email: schmid@shh.mpg.de
-packageVersion: 1.0.0
-lastModified: 2020-12-02
+packageVersion: 1.0.1
+lastModified: 2021-05-11
 genotypeData:
   format: PLINK
   genoFile: Ning_China.bed
@@ -16,7 +16,8 @@ genotypeData:
   snpFileChkSum: c578b6a2092849921ea8c8e332c4f8a8
   indFile: Ning_China.fam
   indFileChkSum: dd3c2fcfee2361edaa0c56d0aa502927
+  snpSet: 1240K
 jannoFile: Ning_China.janno
 jannoFileChkSum: 8fab92e7c48cb12c0588ea5508f1a2cc
 bibFile: LITERATURE.bib
-bibFileChkSum: 9d26b1e732cd766cadfe4aa047bf660a
+bibFileChkSum: 225baf6285f3ab7bd0de8099460f4d0e

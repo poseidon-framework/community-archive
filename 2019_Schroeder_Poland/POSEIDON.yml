@@ -1,11 +1,11 @@
-poseidonVersion: 2.1.0
+poseidonVersion: 2.4.0
 title: 2019_Schroeder_Poland
 description: Genetic data published in Schroeder et al. 2019
 contributor:
 - name: Ayshin Ghalichi
   email: ghalichi@shh.mpg.de
-packageVersion: 1.0.0
-lastModified: 2020-08-10
+packageVersion: 1.0.1
+lastModified: 2021-05-31
 genotypeData:
   format: PLINK
   genoFile: Schroeder_Poland.bed
@@ -14,6 +14,7 @@ genotypeData:
   snpFileChkSum: 012e98036773cb57c83dfdfaa8b4b066
   indFile: Schroeder_Poland.fam
   indFileChkSum: 9558bbb5d5686f43771f8f96f032cf7c
+  snpSet: 1240K
 jannoFile: Schroeder_Poland.janno
 jannoFileChkSum: 2d29a4bdc35b7b58f2feebed6a68b1f5
 bibFile: LITERATURE.bib

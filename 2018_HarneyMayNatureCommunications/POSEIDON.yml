@@ -1,11 +1,11 @@
-poseidonVersion: 2.1.0
+poseidonVersion: 2.4.0
 title: 2018_HarneyMayNatureCommunications
-description: Empty package template. Please add a description
+description: This package contains individuals from Chalcolithic Israel
 contributor:
 - name: Ayshin Ghalichi
   email: ghalichi@shh.mpg.de
-packageVersion: 1.0.0
-lastModified: 2021-03-07
+packageVersion: 1.0.1
+lastModified: 2021-05-11
 genotypeData:
   format: PLINK
   genoFile: 2018_HarneyMayNatureCommunications.bed
@@ -14,6 +14,7 @@ genotypeData:
   snpFileChkSum: 7a7ef4d4f9c78a0bba32a329b6162dbd
   indFile: 2018_HarneyMayNatureCommunications.fam
   indFileChkSum: 9bcd911853839ca5a4127796ec6c3adb
+  snpSet: 1240K
 jannoFile: 2018_HarneyMayNatureCommunications.janno
 jannoFileChkSum: 0930af325d5bca068d983b9e608e5b45
 bibFile: 2018_HarneyMayNatureCommunications.bib

@@ -1,19 +1,25 @@
-poseidonVersion: 2.1.0
+poseidonVersion: 2.4.0
 title: 2018_McCollScience
 description: This package was initially constructed based on the Allen Ancient DNA
   Resource (https://reich.hms.harvard.edu/allen-ancient-dna-resource-aadr-downloadable-genotypes-present-day-and-ancient-dna-data,
-  version 37.2)
+  version 37.2). Ancient genomes from Southeast Asia
 contributor:
 - name: Ayshin Ghalichi
   email: ghalichi@shh.mpg.de
 - name: Clemens Schmid
   email: schmid@shh.mpg.de
-packageVersion: 1.1.0
-lastModified: 2021-03-18
+packageVersion: 1.1.1
+lastModified: 2021-05-11
 genotypeData:
   format: PLINK
   genoFile: 2018_McCollScience.bed
+  genoFileChkSum: 61084f542c180bcc464c3b36b4e96d73
   snpFile: 2018_McCollScience.bim
+  snpFileChkSum: c989854c6bae2cfd99c3c87f083d8674
   indFile: 2018_McCollScience.fam
+  indFileChkSum: 596e43e8597669b21a8cfadffca56817
+  snpSet: 1240K
 jannoFile: 2018_McCollScience.janno
+jannoFileChkSum: 6c212a6197cc958c0ff0a8e176e680e3
 bibFile: 2018_McCollScience.bib
+bibFileChkSum: 7ab5065615df760759d82c51b2bbec60

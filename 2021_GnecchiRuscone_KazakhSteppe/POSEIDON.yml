@@ -1,4 +1,4 @@
-poseidonVersion: 2.1.0
+poseidonVersion: 2.4.0
 title: 2021_GnecchiRuscone_KazakhSteppe
 description: Published (March 26th 2021) 1240K capture data from Central steppe Iron
   Age project
@@ -7,7 +7,7 @@ contributor:
   email: gnecchiruscone@shh.mpg.de
 - name: Clemens Schmid
   email: schmid@shh.mpg.de
-packageVersion: 1.0.1
+packageVersion: 1.0.2
 lastModified: 2021-05-07
 genotypeData:
   format: PLINK

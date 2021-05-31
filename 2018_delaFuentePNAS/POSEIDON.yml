@@ -1,13 +1,13 @@
-poseidonVersion: 2.1.0
+poseidonVersion: 2.4.0
 title: 2018_delaFuentePNAS
 description: This package was initially constructed based on the Allen Ancient DNA
   Resource (https://reich.hms.harvard.edu/allen-ancient-dna-resource-aadr-downloadable-genotypes-present-day-and-ancient-dna-data,
-  version 37.2)
+  version 37.2). The package contains ancient individuals from Patagonia.
 contributor:
 - name: Ayshin Ghalichi
   email: ghalichi@shh.mpg.de
-packageVersion: 1.0.0
-lastModified: 2021-03-08
+packageVersion: 1.0.1
+lastModified: 2021-05-11
 genotypeData:
   format: PLINK
   genoFile: 2018_delaFuentePNAS.bed
@@ -16,6 +16,7 @@ genotypeData:
   snpFileChkSum: 7a7ef4d4f9c78a0bba32a329b6162dbd
   indFile: 2018_delaFuentePNAS.fam
   indFileChkSum: 76b46ff253e0d169219043528f702b15
+  snpSet: 1240K
 jannoFile: 2018_delaFuentePNAS.janno
 jannoFileChkSum: a3f40e71df87cd887f4be1dc311e2a2d
 bibFile: 2018_delaFuentePNAS.bib

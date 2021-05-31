@@ -1,11 +1,11 @@
-poseidonVersion: 2.1.0
+poseidonVersion: 2.4.0
 title: 2019_Prendergast_EastAfrica
 description: Genetic data published in Prendergast et al. 2019
 contributor:
 - name: Ayshin Ghalichi
   email: ghalichi@shh.mpg.de
-packageVersion: 1.0.0
-lastModified: 2020-08-10
+packageVersion: 1.0.1
+lastModified: 2021-05-31
 genotypeData:
   format: PLINK
   genoFile: Prendergast_EastAfrica.bed
@@ -14,6 +14,7 @@ genotypeData:
   snpFileChkSum: b904ec5949398fefa8b658746470f3fd
   indFile: Prendergast_EastAfrica.fam
   indFileChkSum: cf302be58ea101e0f13e42395b9cc044
+  snpSet: 1240K
 jannoFile: Prendergast_EastAfrica.janno
 jannoFileChkSum: e0e47f5bff981e64bc2ca3cd95ccff31
 bibFile: LITERATURE.bib

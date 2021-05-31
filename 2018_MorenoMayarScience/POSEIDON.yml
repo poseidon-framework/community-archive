@@ -1,11 +1,11 @@
-poseidonVersion: 2.1.0
+poseidonVersion: 2.4.0
 title: 2018_MorenoMayarScience
-description: Empty package template. Please add a description
+description: Ancient genomes from South America.
 contributor:
 - name: Ayshin Ghalichi
   email: ghalichi@shh.mpg.de
-packageVersion: 1.0.0
-lastModified: 2021-03-07
+packageVersion: 1.0.1
+lastModified: 2021-05-11
 genotypeData:
   format: PLINK
   genoFile: 2018_MorenoMayarScience.bed
@@ -14,6 +14,7 @@ genotypeData:
   snpFileChkSum: 7a7ef4d4f9c78a0bba32a329b6162dbd
   indFile: 2018_MorenoMayarScience.fam
   indFileChkSum: 1ae6521cfdb99607adb2ffb94b7da94c
+  snpSet: 1240K
 jannoFile: 2018_MorenoMayarScience.janno
 jannoFileChkSum: d77826d294e26f7135c97bb616fcab13
 bibFile: 2018_MorenoMayarScience.bib

@@ -1,11 +1,11 @@
-poseidonVersion: 2.1.0
+poseidonVersion: 2.4.0
 title: 2020_Fernandes_Caribbean
-description: Genetic data published in Fernandes et al. 2020
+description: Diachronic collection of samples from the pre-contact Caribbean.
 contributor:
 - name: Ayshin Ghalichi
   email: ghalichi@shh.mpg.de
-packageVersion: 1.0.0
-lastModified: 2020-08-10
+packageVersion: 1.0.1
+lastModified: 2021-05-11
 genotypeData:
   format: PLINK
   genoFile: Fernandes_Caribbean.bed
@@ -14,6 +14,7 @@ genotypeData:
   snpFileChkSum: 80dc2de106fd782e6bf99fdb8f77fd14
   indFile: Fernandes_Caribbean.fam
   indFileChkSum: 9b574ade55aa287b74eae1bb6b5f7dfd
+  snpSet: 1240K
 jannoFile: Fernandes_Caribbean.janno
 jannoFileChkSum: 66c7ebecec2428e0557a10310eaab738
 bibFile: LITERATURE.bib
