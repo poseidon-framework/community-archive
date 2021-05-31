@@ -1,12 +1,14 @@
 poseidonVersion: 2.4.0
 title: 2021_GnecchiRuscone_KazakhSteppe
-description: Published (March 26th 2021) 1240K caputre data from Central steppe Iron
+description: Published (March 26th 2021) 1240K capture data from Central steppe Iron
   Age project
 contributor:
 - name: Guido Alberto Gnecchi-Ruscone
   email: gnecchiruscone@shh.mpg.de
-packageVersion: 0.1.0
-lastModified: 2021-03-18
+- name: Clemens Schmid
+  email: schmid@shh.mpg.de
+packageVersion: 1.0.1
+lastModified: 2021-05-07
 genotypeData:
   format: PLINK
   genoFile: 2021_GnecchiRuscone_KazakhSteppe.bed
@@ -17,6 +19,6 @@ genotypeData:
   indFileChkSum: a79e1983bdcacd0ce1e1c26a152a1f79
   snpSet: 1240K
 jannoFile: GnecchiRuscone_KazakhSteppe.janno
-jannoFileChkSum: 4ba241d60e940fe7c5374aab9a8f9511
+jannoFileChkSum: c6d6515aa20517e1dcf5c5945d0ca48d
 bibFile: GnecchiRuscone_KazakhSteppe.bib
 bibFileChkSum: 814e780e4f458d17259e25276b284c5b
