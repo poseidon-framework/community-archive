@@ -5,7 +5,7 @@ description: Genetic data published in Lamnidis et al. 2018, ancient genomes fro
 contributor:
 - name: Thiseas Lamnidis
   email: lamnidisi@shh.mpg.de
-packageVersion: 1.1.1
+packageVersion: 1.1.2
 lastModified: 2021-05-11
 genotypeData:
   format: PLINK

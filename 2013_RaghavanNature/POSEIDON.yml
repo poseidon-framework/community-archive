@@ -5,7 +5,7 @@ description: Two Paleolithic individuals from Mal’ta and Afontova Gora in Sibe
 contributor:
 - name: Ayshin Ghalichi
   email: ghalichi@shh.mpg.de
-packageVersion: 1.0.1
+packageVersion: 1.0.2
 lastModified: 2021-05-07
 genotypeData:
   format: PLINK

@@ -6,7 +6,7 @@ description: A 45000-year-old modern human from Siberia. This package was initia
 contributor:
 - name: Ayshin Ghalichi
   email: ghalichi@shh.mpg.de
-packageVersion: 1.0.1
+packageVersion: 1.0.2
 lastModified: 2021-05-07
 genotypeData:
   format: PLINK
