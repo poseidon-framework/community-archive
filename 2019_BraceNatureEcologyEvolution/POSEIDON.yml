@@ -4,7 +4,7 @@ description: Empty package template. Please add a description
 contributor:
 - name: Ayshin Ghalichi
   email: ghalichi@shh.mpg.de
-packageVersion: 1.0.0
+packageVersion: 1.0.1
 lastModified: 2021-03-07
 genotypeData:
   format: PLINK

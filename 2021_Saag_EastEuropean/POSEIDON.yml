@@ -4,7 +4,7 @@ description: Genetic data published in Saag et al. 2021
 contributor:
 - name: Ayshin Ghalichi
   email: ghalichi@shh.mpg.de
-packageVersion: 2.0.0
+packageVersion: 2.0.1
 lastModified: 2021-04-23
 genotypeData:
   format: PLINK

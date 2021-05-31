@@ -4,7 +4,7 @@ description: Genetic data published in Schuenemann et al. 2017
 contributor:
 - name: Ayshin Ghalichi
   email: ghalichi@shh.mpg.de
-packageVersion: 1.0.0
+packageVersion: 1.0.1
 lastModified: 2020-08-10
 genotypeData:
   format: PLINK

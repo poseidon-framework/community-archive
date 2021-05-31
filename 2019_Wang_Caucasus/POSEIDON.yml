@@ -4,7 +4,7 @@ description: Genetic data published in Wang et al. 2019
 contributor:
 - name: Ayshin Ghalichi
   email: ghalichi@shh.mpg.de
-packageVersion: 1.0.0
+packageVersion: 1.0.1
 lastModified: 2020-08-10
 genotypeData:
   format: PLINK

@@ -6,7 +6,7 @@ description: This package was initially constructed based on the Allen Ancient D
 contributor:
 - name: Ayshin Ghalichi
   email: ghalichi@shh.mpg.de
-packageVersion: 1.0.0
+packageVersion: 1.0.1
 lastModified: 2021-03-07
 genotypeData:
   format: PLINK

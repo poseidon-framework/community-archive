@@ -8,7 +8,7 @@ contributor:
   email: ghalichi@shh.mpg.de
 - name: Clemens Schmid
   email: schmid@shh.mpg.de
-packageVersion: 1.0.0
+packageVersion: 1.0.1
 lastModified: 2021-03-18
 genotypeData:
   format: PLINK
