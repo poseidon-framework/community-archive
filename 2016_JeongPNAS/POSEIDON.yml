@@ -6,8 +6,8 @@ description: Diachronic samples from the Himalayan arc. This package was initial
 contributor:
 - name: Ayshin Ghalichi
   email: ghalichi@shh.mpg.de
-packageVersion: 1.0.1
-lastModified: 2021-05-11
+packageVersion: 1.1.0
+lastModified: 2021-06-01
 genotypeData:
   format: PLINK
   genoFile: 2016_JeongPNAS.bed
@@ -15,9 +15,10 @@ genotypeData:
   snpFile: 2016_JeongPNAS.bim
   snpFileChkSum: 7a7ef4d4f9c78a0bba32a329b6162dbd
   indFile: 2016_JeongPNAS.fam
-  indFileChkSum: d6028a03b0f6814ac427d7e53a67dad5
+  indFileChkSum: 79629543b604878b574cd00e183b7499
   snpSet: 1240K
 jannoFile: 2016_JeongPNAS.janno
-jannoFileChkSum: d8c74bc9a6cfb054fb6279d08df58a63
+jannoFileChkSum: 4a99f1c656a1e04f1ef5d768d46521fc
 bibFile: 2016_JeongPNAS.bib
 bibFileChkSum: 53c559b3c482acfa7a47b63cb86f4af4
+changelogFile: CHANGELOG.txt
