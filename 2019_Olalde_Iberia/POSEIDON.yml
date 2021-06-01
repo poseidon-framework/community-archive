@@ -18,6 +18,6 @@ genotypeData:
   indFileChkSum: cc57f1f73ad442acd81e72eeef6cc6ff
   snpSet: 1240K
 jannoFile: Olalde_Iberia.janno
-jannoFileChkSum: d21d53546d12482ea65678c8dfc9ebbf
 bibFile: LITERATURE.bib
 bibFileChkSum: 6dbfa15f90654e4307379641cf4614fe
+changelogFile: CHANGELOG.txt
