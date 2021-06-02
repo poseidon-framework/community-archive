@@ -6,8 +6,8 @@ contributor:
   email: ghalichi@shh.mpg.de
 - name: Clemens Schmid
   email: schmid@shh.mpg.de
-packageVersion: 1.0.3
-lastModified: 2021-06-01
+packageVersion: 1.1.0
+lastModified: 2021-06-02
 genotypeData:
   format: PLINK
   genoFile: Olalde_Iberia.bed
@@ -18,7 +18,7 @@ genotypeData:
   indFileChkSum: cc57f1f73ad442acd81e72eeef6cc6ff
   snpSet: 1240K
 jannoFile: Olalde_Iberia.janno
-jannoFileChkSum: 7a7ff64564bcf50868b2dc0714db76af
+jannoFileChkSum: 79f462321de661d276d13cea54d2746a
 bibFile: LITERATURE.bib
 bibFileChkSum: 6dbfa15f90654e4307379641cf4614fe
 changelogFile: CHANGELOG.txt
