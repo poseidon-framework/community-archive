@@ -1,0 +1,3 @@
+V 1.1.0: Added the many modern reference samples to the package
+V 1.1.1: Update of the POSEIDON.yml file
+V 2.0.0: Renamed package from 2020_Wang_EastAsia to 2021_Wang_EastAsia and added correct citation
