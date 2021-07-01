@@ -17,3 +17,5 @@ genotypeData:
   snpSet: 1240K
 jannoFile: Archaic_Humans.janno
 jannoFileChkSum: 890d931f5a650fba5ca90ef5b7db1530
+bibFile: Archaic_Humans.bib
+bibFileChkSum: 4618cc402c05c8961fd042d7055567a6
