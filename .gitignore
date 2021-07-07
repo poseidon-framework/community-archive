@@ -1,11 +1,11 @@
 # genotype data
 ## eigenstrat
-*.snp
-*.geno
-*.ind
+# *.snp
+# *.geno
+# *.ind
 # plink binary
-*.bed
-*.bim
+# *.bed
+# *.bim
 # *.fam -> fam files are tracked!
 
 # log files
