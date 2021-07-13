@@ -1,0 +1,24 @@
+poseidonVersion: 2.4.0
+title: 2021_Wang_EastAsia
+description: Diachronic ancient and modern data from East Asia.
+contributor:
+- name: Ayshin Ghalichi
+  email: ghalichi@shh.mpg.de
+- name: Clemens Schmid
+  email: schmid@shh.mpg.de
+packageVersion: 2.0.1
+lastModified: 2021-06-01
+genotypeData:
+  format: PLINK
+  genoFile: 2021_Wang_EastAsia.bed
+  genoFileChkSum: 1ff99c00d9191f69a057fb99f5350cff
+  snpFile: 2021_Wang_EastAsia.bim
+  snpFileChkSum: 9a4bc58c2a6842bcb68d875143ee3b85
+  indFile: 2021_Wang_EastAsia.fam
+  indFileChkSum: 07112a5954755d7ee910de00a6b15f91
+  snpSet: 1240K
+jannoFile: 2021_Wang_EastAsia.janno
+jannoFileChkSum: a62c5c9e65a3a7d4d12d218b2ca8206a
+bibFile: 2021_Wang_EastAsia.bib
+bibFileChkSum: abf2686c4dba8a3166982cdb8f42ea6b
+changelogFile: CHANGELOG.txt
