@@ -2,3 +2,5 @@
 * text eol=lf
 *.bed filter=lfs diff=lfs merge=lfs -text
 *.bim filter=lfs diff=lfs merge=lfs -text
+*.snp filter=lfs diff=lfs merge=lfs -text
+*.geno filter=lfs diff=lfs merge=lfs -text
