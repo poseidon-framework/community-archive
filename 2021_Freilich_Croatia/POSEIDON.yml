@@ -1,14 +1,22 @@
-poseidonVersion: 2.0.1
+poseidonVersion: 2.4.0
 title: 2021_Freilich_Croatia
-description: 1240K pulldown of whole genome shotgun data from 28 genomes from eastern Croatia
+description: 1240K pulldown of whole genome shotgun data from 28 genomes from eastern
+  Croatia
 contributor:
-  - name: Suzanne Freilich
-    email: freilich@shh.mpg.de
-lastModified: 2021-08-12
-bibFile: 2021_Freilich_Croatia.bib
+- name: Suzanne Freilich
+  email: freilich@shh.mpg.de
+packageVersion: 0.1.0
+lastModified: 2021-08-23
 genotypeData:
   format: EIGENSTRAT
   genoFile: 2021_Freilich_Croatia.geno
+  genoFileChkSum: 13c312b0ab941b82d93a2b8f95eb8fb4
   snpFile: 2021_Freilich_Croatia.snp
+  snpFileChkSum: 13bf6f4f9c9b33090ff52197534cab29
   indFile: 2021_Freilich_Croatia.ind
+  indFileChkSum: 448f4c1d18ebf3f066fc45b102e34d42
 jannoFile: 2021_Freilich_Croatia.janno
+jannoFileChkSum: e2dee21d2e04b1c0a64426ebc57f6337
+bibFile: 2021_Freilich_Croatia.bib
+bibFileChkSum: 15666523b1c6dfee5bf656581d99c10d
+changelogFile: CHANGELOG.md
