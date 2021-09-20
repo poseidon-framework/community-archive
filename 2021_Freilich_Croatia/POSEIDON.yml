@@ -5,15 +5,20 @@ description: 1240K pulldown of whole genome shotgun data from 28 genomes from ea
 contributor:
 - name: Suzanne Freilich
   email: freilich@shh.mpg.de
-packageVersion: 0.1.0
-lastModified: 2021-08-23
+- name: Clemens Schmid
+  email: schmid@shh.mpg.de
+packageVersion: 0.2.0
+lastModified: 2021-09-20
 genotypeData:
   format: PLINK
   genoFile: 2021_Freilich_Croatia.bed
+  genoFileChkSum: ef7d055df406e9ef32f4dedd3b2c5bf2
   snpFile: 2021_Freilich_Croatia.bim
+  snpFileChkSum: f1e5fc379562fc5e889d7d354ffec3b2
   indFile: 2021_Freilich_Croatia.fam
+  indFileChkSum: d9b7454c2858e2fc4a37446fbe0e119d
 jannoFile: 2021_Freilich_Croatia.janno
-jannoFileChkSum: e2dee21d2e04b1c0a64426ebc57f6337
+jannoFileChkSum: d33c31495e0105ecb2b7e7d6e0963081
 bibFile: 2021_Freilich_Croatia.bib
 bibFileChkSum: 15666523b1c6dfee5bf656581d99c10d
 changelogFile: CHANGELOG.md
