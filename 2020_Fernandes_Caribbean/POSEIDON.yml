@@ -4,8 +4,10 @@ description: Diachronic collection of samples from the pre-contact Caribbean.
 contributor:
 - name: Ayshin Ghalichi
   email: ghalichi@shh.mpg.de
-packageVersion: 1.0.1
-lastModified: 2021-05-11
+- name: Clemens Schmid
+  email: schmid@shh.mpg.de
+packageVersion: 1.0.2
+lastModified: 2021-09-25
 genotypeData:
   format: PLINK
   genoFile: Fernandes_Caribbean.bed
@@ -16,6 +18,7 @@ genotypeData:
   indFileChkSum: 9b574ade55aa287b74eae1bb6b5f7dfd
   snpSet: 1240K
 jannoFile: Fernandes_Caribbean.janno
-jannoFileChkSum: 66c7ebecec2428e0557a10310eaab738
+jannoFileChkSum: ac0fc4e7e98b856e6968e64a8883c820
 bibFile: LITERATURE.bib
 bibFileChkSum: 049513d5cc0f16f8e72c8a09d04ae5ad
+changelogFile: CHANGELOG.md
