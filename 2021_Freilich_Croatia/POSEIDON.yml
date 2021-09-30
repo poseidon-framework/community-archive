@@ -7,8 +7,8 @@ contributor:
   email: freilich@shh.mpg.de
 - name: Clemens Schmid
   email: schmid@shh.mpg.de
-packageVersion: 0.2.0
-lastModified: 2021-09-20
+packageVersion: 0.2.1
+lastModified: 2021-09-30
 genotypeData:
   format: PLINK
   genoFile: 2021_Freilich_Croatia.bed
@@ -18,7 +18,7 @@ genotypeData:
   indFile: 2021_Freilich_Croatia.fam
   indFileChkSum: d9b7454c2858e2fc4a37446fbe0e119d
 jannoFile: 2021_Freilich_Croatia.janno
-jannoFileChkSum: d33c31495e0105ecb2b7e7d6e0963081
+jannoFileChkSum: cfac6dd91c989774d0cae30dad77bf8d
 bibFile: 2021_Freilich_Croatia.bib
 bibFileChkSum: 15666523b1c6dfee5bf656581d99c10d
 changelogFile: CHANGELOG.md
