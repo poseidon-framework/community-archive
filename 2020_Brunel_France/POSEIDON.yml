@@ -6,8 +6,8 @@ contributor:
   email: ghalichi@shh.mpg.de
 - name: Dhananjaya Aththanayaka
   email: dhananjaya_aththanayaka@eva.mpg.de
-packageVersion: 1.0.2
-lastModified: 2021-10-12
+packageVersion: 1.0.3
+lastModified: 2021-10-13
 genotypeData:
   format: PLINK
   genoFile: Brunel_France.bed
@@ -18,7 +18,7 @@ genotypeData:
   indFileChkSum: 2652762778e9d86216cb6ee16189f409
   snpSet: 1240K
 jannoFile: Brunel_France.janno
-jannoFileChkSum: 4c1c52513b3c708179f51e39b1e06620
+jannoFileChkSum: dff4b70da7896333f756da4a91f392b4
 bibFile: LITERATURE.bib
 bibFileChkSum: e88319775a5491ad40362fbc5f293f7e
 changelogFile: CHANGELOG.md
