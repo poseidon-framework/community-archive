@@ -1,0 +1,21 @@
+poseidonVersion: 2.4.0
+title: 2021_ZegaracScientificReports
+description: This article provides provide insights into family structure and the
+  heredity of social status in the early Bronze Age of southeastern Europe
+contributor:
+- name: Dhananjaya Aththanayaka
+  email: dhananjaya.aththanayaka@eva.mpg.de
+packageVersion: 0.1.1
+lastModified: 2021-12-01
+genotypeData:
+  format: PLINK
+  genoFile: 2021_ZegaracScientificReports.bed
+  genoFileChkSum: fd946258fee4bdef74e5ed35f9efe55b
+  snpFile: 2021_ZegaracScientificReports.bim
+  snpFileChkSum: 433fa85a23f3123bade02348e4628b75
+  indFile: 2021_ZegaracScientificReports.fam
+  indFileChkSum: 11ca9cacf580e026a7fcffc8f11c5605
+  snpSet: 1240K
+jannoFile: 2021_ZegaracScientificReports.janno
+jannoFileChkSum: 1cf4e5e3e053a5db90089ee425c1c2a3
+
