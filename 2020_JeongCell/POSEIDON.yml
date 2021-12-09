@@ -1,11 +1,11 @@
 poseidonVersion: 2.4.0
-title: 2020_JeongCell
+title: JeongCell2020
 description: A Dynamic 6,000-Year Genetic History of Eurasia’s Eastern Steppe
 contributor:
 - name: Dhananjaya Aththanayaka
   email: dhananjaya_aththanayaka@eva.map.de
-packageVersion: 0.1.2
-lastModified: 2021-12-02
+packageVersion: 0.1.3
+lastModified: 2021-12-09
 genotypeData:
   format: PLINK
   genoFile: 2020_JeongCell.bed
@@ -16,7 +16,7 @@ genotypeData:
   indFileChkSum: 3c8fd0bc581d2c682bb052560b850bb7
   snpSet: 1240K
 jannoFile: 2020_JeongCell.janno
-jannoFileChkSum: a097e9d90729644b20ee0252a8266295
+jannoFileChkSum: 4546f4ff0256d9188cc809b1f87071cd
 bibFile: 2020_JeongCell.bib
 bibFileChkSum: 7ffea33cd60401bd61e2c26a3ff6009b
 changelogFile: CHANGELOG.md
