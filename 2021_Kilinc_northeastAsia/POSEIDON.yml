@@ -5,13 +5,13 @@ contributor:
 - name: Ayshin Ghalichi
   email: ghalichi@shh.mpg.de
 packageVersion: 1.0.1
-lastModified: 2021-05-31
+lastModified: 2021-12-12
 genotypeData:
   format: PLINK
   genoFile: Kilinc_northeastAsia.bed
   genoFileChkSum: b66dc55718c61d8dfc00e0492e441c4e
   snpFile: Kilinc_northeastAsia.bim
-  snpFileChkSum: e79741f669b66f1e882a55d25b3219c8
+  snpFileChkSum: c49ce38e794a43f6c1ba0b4360d74314
   indFile: Kilinc_northeastAsia.fam
   indFileChkSum: c908d20d62e4bf02e2d258e46ec6bf37
   snpSet: 1240K
