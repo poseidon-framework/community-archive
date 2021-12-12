@@ -4,8 +4,8 @@ description: Ancient samples from sub-Saharan Africa.
 contributor:
 - name: Ke Wang
   email: kwang@shh.mpg.de
-packageVersion: 1.0.1
-lastModified: 2021-05-11
+packageVersion: 1.0.3
+lastModified: 2021-12-12
 genotypeData:
   format: PLINK
   genoFile: Wang_subSaharanAfrica.bed
@@ -16,6 +16,7 @@ genotypeData:
   indFileChkSum: dd21a814ca1926f9813fd3f0f92c165c
   snpSet: 1240K
 jannoFile: Wang_subSaharanAfrica.janno
-jannoFileChkSum: 61bbb01a6c42c9c14d047316a2b6ea2c
+jannoFileChkSum: aec79935f431a30663124da914275d5d
 bibFile: LITERATURE.bib
 bibFileChkSum: 1cebf3be3b99ab789a42b503c25bd710
+changelogFile: CHANGELOG.md
