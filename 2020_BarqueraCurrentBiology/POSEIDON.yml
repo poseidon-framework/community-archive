@@ -4,7 +4,7 @@ description: First generation enslaved Africans from Mexico City Royal Hospital 
 contributor:
 - name: Rodrigo Barquera
   email: rodrigo_barquera@eva.mpg.de
-packageVersion: 0.1.0
+packageVersion: 1.0.0
 lastModified: 2021-11-15
 genotypeData:
   format: PLINK
