@@ -1,0 +1,21 @@
+poseidonVersion: 2.4.0
+title: 2021_CarlhoffNature
+description: Genome of a Middle Holocene hunter-gatherer from Wallacea
+contributor:
+- name: Selina Carlhoff
+  email: selina_carlhoff@eva.mpg.de
+packageVersion: 1.0.0
+lastModified: 2022-01-05
+genotypeData:
+  format: PLINK
+  genoFile: 2021_CarlhoffNature.bed
+  genoFileChkSum: a8515d2d5be9496fe21a6cdf2cfbe366
+  snpFile: 2021_CarlhoffNature.bim
+  snpFileChkSum: 43207f1abb5123291680ae95e8b8aac0
+  indFile: 2021_CarlhoffNature.fam
+  indFileChkSum: a8371f1bea71610234f180750c2b9aef
+  snpSet: 1240K
+jannoFile: 2021_CarlhoffNature.janno
+jannoFileChkSum: a5a396721d59fec4bad7cf81b1b66270
+bibFile: 2021_CarlhoffNature.bib
+bibFileChkSum: ccf159d140f91c28702da2cba75dbf46
