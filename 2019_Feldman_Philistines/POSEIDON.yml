@@ -1,11 +1,11 @@
-poseidonVersion: 2.4.0
+poseidonVersion: 2.5.0
 title: 2019_Feldman_Philistines
 description: Genetic data published in Feldman et al. 2019
 contributor:
 - name: Michal Feldman
   email: feldman@shh.mpg.de
-packageVersion: 1.0.1
-lastModified: 2021-05-31
+packageVersion: 2.0.0
+lastModified: 2022-01-28
 genotypeData:
   format: PLINK
   genoFile: Feldman_Philistines.bed
@@ -16,6 +16,7 @@ genotypeData:
   indFileChkSum: 911caa826fe758275d5946c25f4edad8
   snpSet: 1240K
 jannoFile: Feldman_Philistines.janno
-jannoFileChkSum: 237d922e9c0e9f1e39c23a676c938dc8
+jannoFileChkSum: b72ea2ca3218adc40da11adb69499441
 bibFile: LITERATURE.bib
 bibFileChkSum: cdc9bedcee91b5b3731c0c295b14a255
+changelogFile: CHANGELOG.md

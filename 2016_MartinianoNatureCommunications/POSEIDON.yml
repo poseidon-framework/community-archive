@@ -1,4 +1,4 @@
-poseidonVersion: 2.4.0
+poseidonVersion: 2.5.0
 title: 2016_MartinianoNatureCommunications
 description: Iron Age, Roman Era and Early Medieval samples from Great Britain. This
   package was initially constructed based on the Allen Ancient DNA Resource (https://reich.hms.harvard.edu/allen-ancient-dna-resource-aadr-downloadable-genotypes-present-day-and-ancient-dna-data,
@@ -6,8 +6,8 @@ description: Iron Age, Roman Era and Early Medieval samples from Great Britain. 
 contributor:
 - name: Ayshin Ghalichi
   email: ghalichi@shh.mpg.de
-packageVersion: 1.0.1
-lastModified: 2021-05-11
+packageVersion: 2.0.0
+lastModified: 2022-01-28
 genotypeData:
   format: PLINK
   genoFile: 2016_MartinianoNatureCommunications.bed
@@ -18,6 +18,7 @@ genotypeData:
   indFileChkSum: 4a4a9bfc6c12987879421a331f90249f
   snpSet: 1240K
 jannoFile: 2016_MartinianoNatureCommunications.janno
-jannoFileChkSum: 7b7ec4ba9dc604762f0d277e2614e5a2
+jannoFileChkSum: e2ddb20d7ae2875e0b55d1aefe1dac63
 bibFile: 2016_MartinianoNatureCommunications.bib
 bibFileChkSum: 425a979600fc935f2529ab8b9f9a9f59
+changelogFile: CHANGELOG.md

@@ -1,4 +1,4 @@
-poseidonVersion: 2.4.0
+poseidonVersion: 2.5.0
 title: 2018_DamgaardNature
 description: This package was initially constructed based on the Allen Ancient DNA
   Resource (https://reich.hms.harvard.edu/allen-ancient-dna-resource-aadr-downloadable-genotypes-present-day-and-ancient-dna-data,
@@ -6,8 +6,8 @@ description: This package was initially constructed based on the Allen Ancient D
 contributor:
 - name: Ayshin Ghalichi
   email: ghalichi@shh.mpg.de
-packageVersion: 1.0.2
-lastModified: 2021-05-11
+packageVersion: 2.0.0
+lastModified: 2022-01-28
 genotypeData:
   format: PLINK
   genoFile: 2018_DamgaardNature.bed
@@ -18,6 +18,7 @@ genotypeData:
   indFileChkSum: c2a1e9516dd2121032f65c851226a90f
   snpSet: 1240K
 jannoFile: 2018_DamgaardNature.janno
-jannoFileChkSum: 0d4fcb3a60b62e84ec8b473e9d410800
+jannoFileChkSum: 9ecf72d0852cc26399d47114d14c980f
 bibFile: 2018_DamgaardNature.bib
 bibFileChkSum: 869a1751cf642bf5f70f035d35c33031
+changelogFile: CHANGELOG.md

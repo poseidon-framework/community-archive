@@ -1,4 +1,4 @@
-poseidonVersion: 2.4.0
+poseidonVersion: 2.5.0
 title: 2019_Flegontov_PalaeoEskimo
 description: This package was initially constructed based on the Allen Ancient DNA
   Resource (https://reich.hms.harvard.edu/allen-ancient-dna-resource-aadr-downloadable-genotypes-present-day-and-ancient-dna-data,
@@ -8,8 +8,8 @@ contributor:
   email: ghalichi@shh.mpg.de
 - name: Clemens Schmid
   email: schmid@shh.mpg.de
-packageVersion: 1.1.2
-lastModified: 2021-05-31
+packageVersion: 2.0.0
+lastModified: 2022-01-28
 genotypeData:
   format: PLINK
   genoFile: 2019_Flegontov_PalaeoEskimo.bed
@@ -20,6 +20,7 @@ genotypeData:
   indFileChkSum: 978a0f5e8925ac29077bbc490660ce16
   snpSet: 1240K
 jannoFile: 2019_Flegontov_PalaeoEskimo.janno
-jannoFileChkSum: 7fd3086ad975598e488cec20cb9dbfce
+jannoFileChkSum: 8d67580432a1815f3edbe30520a264a1
 bibFile: 2019_Flegontov_PalaeoEskimo.bib
 bibFileChkSum: b03c30b90b48cd515423c5daecc08206
+changelogFile: CHANGELOG.md

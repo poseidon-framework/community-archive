@@ -1,4 +1,4 @@
-poseidonVersion: 2.4.0
+poseidonVersion: 2.5.0
 title: 2017_SaagCurrentBiology
 description: This package was initially constructed based on the Allen Ancient DNA
   Resource (https://reich.hms.harvard.edu/allen-ancient-dna-resource-aadr-downloadable-genotypes-present-day-and-ancient-dna-data,
@@ -6,8 +6,8 @@ description: This package was initially constructed based on the Allen Ancient D
 contributor:
 - name: Ayshin Ghalichi
   email: ghalichi@shh.mpg.de
-packageVersion: 1.0.2
-lastModified: 2021-05-31
+packageVersion: 2.0.0
+lastModified: 2022-01-28
 genotypeData:
   format: PLINK
   genoFile: 2017_SaagCurrentBiology.bed
@@ -18,6 +18,7 @@ genotypeData:
   indFileChkSum: 3698ed5b278e3607dd06d0d462221f27
   snpSet: 1240K
 jannoFile: 2017_SaagCurrentBiology.janno
-jannoFileChkSum: 0a240aeb72f832a205c950bee74a8f34
+jannoFileChkSum: dea39f7efe7f83d979ea362e79154493
 bibFile: 2017_SaagCurrentBiology.bib
 bibFileChkSum: 657bfbb1a28d1a4a6f5896a6f2b55fb4
+changelogFile: CHANGELOG.md

@@ -1,4 +1,4 @@
-poseidonVersion: 2.4.0
+poseidonVersion: 2.5.0
 title: 2020_Immel_Moldova
 description: Late Neolithic samples from Moldova.
 contributor:
@@ -6,8 +6,8 @@ contributor:
   email: ghalichi@shh.mpg.de
 - name: Clemens Schmid
   email: schmid@shh.mpg.de
-packageVersion: 1.0.1
-lastModified: 2021-05-11
+packageVersion: 2.0.0
+lastModified: 2022-01-28
 genotypeData:
   format: PLINK
   genoFile: Immel_Moldova.bed
@@ -18,6 +18,7 @@ genotypeData:
   indFileChkSum: 3c306fad89d72170022ca9dc33b4c33f
   snpSet: 1240K
 jannoFile: Immel_Moldova.janno
-jannoFileChkSum: c36f4da7f6a2ff076cf5e6b8f7ac426c
+jannoFileChkSum: 0b16ff6dcaf371b3f934a4b54071a804
 bibFile: LITERATURE.bib
 bibFileChkSum: e9afbf50d921af78d4fc0792622bf75b
+changelogFile: CHANGELOG.md

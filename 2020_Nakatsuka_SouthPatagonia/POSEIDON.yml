@@ -1,11 +1,11 @@
-poseidonVersion: 2.4.0
+poseidonVersion: 2.5.0
 title: 2020_Nakatsuka_SouthPatagonia
 description: Ancient samples from South Patagonia.
 contributor:
 - name: Ayshin Ghalichi
   email: ghalichi@shh.mpg.de
-packageVersion: 1.0.1
-lastModified: 2021-05-11
+packageVersion: 2.0.0
+lastModified: 2022-01-28
 genotypeData:
   format: PLINK
   genoFile: Nakatsuka_SouthPatagonia.bed
@@ -16,6 +16,7 @@ genotypeData:
   indFileChkSum: 3a537caa5f74fc22c7baebee33ac5f27
   snpSet: 1240K
 jannoFile: Nakatsuka_SouthPatagonia.janno
-jannoFileChkSum: ca3a5f74eac6f9ade778e28da6567bf5
+jannoFileChkSum: 529928ec41602fff1a6feccbfe86a5e4
 bibFile: LITERATURE.bib
 bibFileChkSum: d7ff8ee332d5ce11ea499d89d8d2616b
+changelogFile: CHANGELOG.md

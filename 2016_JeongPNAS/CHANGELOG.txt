@@ -1,1 +1,2 @@
+V 2.0.0: updated the package to Poseidon v2.5 and adjusted the .janno file accordingly
 V 1.1.0: Changed population name from Nepal_Samzdong_1500BP.SG to Nepal_Samdzong_1500BP.SG

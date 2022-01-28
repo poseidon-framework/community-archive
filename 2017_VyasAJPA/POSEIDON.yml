@@ -1,4 +1,4 @@
-poseidonVersion: 2.4.0
+poseidonVersion: 2.5.0
 title: 2017_VyasAJPA
 description: This package was initially constructed based on the Allen Ancient DNA
   Resource (https://reich.hms.harvard.edu/allen-ancient-dna-resource-aadr-downloadable-genotypes-present-day-and-ancient-dna-data,
@@ -8,8 +8,8 @@ contributor:
   email: ghalichi@shh.mpg.de
 - name: Clemens Schmid
   email: schmid@shh.mpg.de
-packageVersion: 1.0.2
-lastModified: 2021-05-31
+packageVersion: 2.0.0
+lastModified: 2022-01-28
 genotypeData:
   format: PLINK
   genoFile: 2017_VyasAJPA.bed
@@ -20,6 +20,7 @@ genotypeData:
   indFileChkSum: 62d430c20439946aef6b53cc2b6b6e19
   snpSet: HumanOrigins
 jannoFile: 2017_VyasAJPA.janno
-jannoFileChkSum: 0ef90df5b7dd5d689cfd34c9b3c9d128
+jannoFileChkSum: 42bd5bf33073bb37f30e1189c3a06e7e
 bibFile: 2017_VyasAJPA.bib
 bibFileChkSum: cc4b10d6ff133aa8f16c929b27993954
+changelogFile: CHANGELOG.md

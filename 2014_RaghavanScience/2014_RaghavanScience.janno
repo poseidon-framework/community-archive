@@ -1,5 +1,5 @@
-Individual_ID	Collection_ID	Source_Tissue	Country	Location	Site	Latitude	Longitude	Date_C14_Labnr	Date_C14_Uncal_BP	Date_C14_Uncal_BP_Err	Date_BC_AD_Median	Date_BC_AD_Start	Date_BC_AD_Stop	Date_Type	No_of_Libraries	Data_Type	Genotype_Ploidy	Group_Name	Genetic_Sex	Nr_autosomal_SNPs	Coverage_1240K	MT_Haplogroup	Y_Haplogroup	Endogenous	UDG	Library_Built	Damage	Xcontam	Xcontam_stderr	mtContam	mtContam_stderr	Primary_Contact	Publication_Status	Note	Keywords
-LateDorset-XIV-H_126.SG	LateDorset-XIV-H_126	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1150	800	1500	contextual	n/a	Shotgun	haploid	LateDorset.SG	M	315790	0.321	n/a	Q1a1	n/a	minus	ds	n/a	n/a	n/a	n/a	n/a	n/a	RaghavanScience2014	PASS (literature)	n/a
-MARC1491.SG	MARC1491	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	400	0	800	contextual	n/a	Shotgun	haploid	MDorset.SG	M	46998	4.0e-2	n/a	n/a	n/a	minus	ds	n/a	n/a	n/a	n/a	n/a	n/a	RaghavanScience2014	PASS (literature)	n/a
-MARC481.SG	MARC481	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	400	0	800	contextual	n/a	Shotgun	haploid	MDorset.SG	M	39559	3.4e-2	n/a	n/a	n/a	minus	ds	n/a	n/a	n/a	n/a	n/a	n/a	RaghavanScience2014	PASS (literature)	n/a
-XIV_C_748.SG	XIV_C_748	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1350	1100	1600	contextual	n/a	Shotgun	haploid	Thule.SG	M	92283	9.1e-2	n/a	P1	n/a	minus	ds	n/a	n/a	n/a	n/a	n/a	n/a	RaghavanScience2014	PASS (literature)	n/a
+Poseidon_ID	Genetic_Sex	Group_Name	Collection_ID	Date_Type	Date_BC_AD_Start	Date_BC_AD_Median	Date_BC_AD_Stop	Y_Haplogroup	Capture_Type	UDG	Library_Built	Genotype_Ploidy	Nr_SNPs	Coverage_on_Target_SNPs	Publication	Note
+LateDorset-XIV-H_126.SG	M	LateDorset.SG	LateDorset-XIV-H_126	contextual	800	1150	1500	Q1a1	Shotgun	minus	ds	haploid	315790	0.321	RaghavanScience2014	PASS (literature)
+MARC1491.SG	M	MDorset.SG	MARC1491	contextual	0	400	800	n/a	Shotgun	minus	ds	haploid	46998	4.0e-2	RaghavanScience2014	PASS (literature)
+MARC481.SG	M	MDorset.SG	MARC481	contextual	0	400	800	n/a	Shotgun	minus	ds	haploid	39559	3.4e-2	RaghavanScience2014	PASS (literature)
+XIV_C_748.SG	M	Thule.SG	XIV_C_748	contextual	1100	1350	1600	P1	Shotgun	minus	ds	haploid	92283	9.1e-2	RaghavanScience2014	PASS (literature)
