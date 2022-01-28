@@ -1,11 +1,11 @@
-poseidonVersion: 2.4.0
+poseidonVersion: 2.5.0
 title: 2018_Zalloua_Phoenician
 description: Ancient genomic data from Phoenician human remains
 contributor:
 - name: Ayshin Ghalichi
   email: ghalichi@shh.mpg.de
-packageVersion: 1.0.1
-lastModified: 2021-05-11
+packageVersion: 2.0.0
+lastModified: 2022-01-28
 genotypeData:
   format: PLINK
   genoFile: Zalloua_Phoenician.bed
@@ -16,6 +16,7 @@ genotypeData:
   indFileChkSum: 3041efcd382bd6d30771725dbc8f39e6
   snpSet: 1240K
 jannoFile: Zalloua_Phoenician.janno
-jannoFileChkSum: 39eb767957cf047346124931f62cbea8
+jannoFileChkSum: c0c00635025776bf5fe993d2ea444626
 bibFile: LITERATURE.bib
 bibFileChkSum: 225a386fb1607ba3340337bd08e3f343
+changelogFile: CHANGELOG.md

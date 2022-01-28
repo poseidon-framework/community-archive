@@ -1,11 +1,11 @@
-poseidonVersion: 2.4.0
+poseidonVersion: 2.5.0
 title: 2019_Haber_Crusaders
 description: Genetic data published in Haber et al. 2019
 contributor:
 - name: Ayshin Ghalichi
   email: ghalichi@shh.mpg.de
-packageVersion: 1.0.1
-lastModified: 2021-05-31
+packageVersion: 2.0.0
+lastModified: 2022-01-28
 genotypeData:
   format: PLINK
   genoFile: Haber_Crusaders.bed
@@ -16,6 +16,7 @@ genotypeData:
   indFileChkSum: 12d3f30a40834fbd5a177b658dc8aa04
   snpSet: 1240K
 jannoFile: Haber_Crusaders.janno
-jannoFileChkSum: fe5a57b5a47a405a5dfdb0aac5b35815
+jannoFileChkSum: 7e3ef3373b356e97b19c5f10aef83b5b
 bibFile: LITERATURE.bib
 bibFileChkSum: 3ca6ef276593c01f6ce4b063cbb1bb82
+changelogFile: CHANGELOG.md

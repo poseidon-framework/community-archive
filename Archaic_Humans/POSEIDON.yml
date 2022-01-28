@@ -1,11 +1,11 @@
-poseidonVersion: 2.4.0
+poseidonVersion: 2.5.0
 title: Archaic_Humans
 description: Genetic data of Archaic Humans
 contributor:
 - name: Ayshin Ghalichi
   email: ghalichi@shh.mpg.de
-packageVersion: 1.0.1
-lastModified: 2021-07-01
+packageVersion: 2.0.0
+lastModified: 2022-01-28
 genotypeData:
   format: PLINK
   genoFile: Archaic_Humans.bed
@@ -16,6 +16,7 @@ genotypeData:
   indFileChkSum: 8a3b7068152ce3cb94dc163281f313d3
   snpSet: 1240K
 jannoFile: Archaic_Humans.janno
-jannoFileChkSum: 890d931f5a650fba5ca90ef5b7db1530
+jannoFileChkSum: e2803f7b55bb8d24dadd4c04e3067307
 bibFile: Archaic_Humans.bib
 bibFileChkSum: 4618cc402c05c8961fd042d7055567a6
+changelogFile: CHANGELOG.md

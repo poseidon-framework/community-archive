@@ -1,4 +1,4 @@
-poseidonVersion: 2.4.0
+poseidonVersion: 2.5.0
 title: 2014_FuNature
 description: A 45000-year-old modern human from Siberia. This package was initially
   constructed based on the Allen Ancient DNA Resource (https://reich.hms.harvard.edu/allen-ancient-dna-resource-aadr-downloadable-genotypes-present-day-and-ancient-dna-data,
@@ -6,8 +6,8 @@ description: A 45000-year-old modern human from Siberia. This package was initia
 contributor:
 - name: Ayshin Ghalichi
   email: ghalichi@shh.mpg.de
-packageVersion: 1.0.2
-lastModified: 2021-05-07
+packageVersion: 2.0.0
+lastModified: 2022-01-28
 genotypeData:
   format: PLINK
   genoFile: 2014_FuNature.bed
@@ -18,6 +18,7 @@ genotypeData:
   indFileChkSum: a37a0443575618e933a7d3c4d35ffb71
   snpSet: 1240K
 jannoFile: 2014_FuNature.janno
-jannoFileChkSum: 70ef8f2860aa00581b901d4e42c8555f
+jannoFileChkSum: 6823725fbe3c937ef4bac960a4e87711
 bibFile: 2014_FuNature.bib
 bibFileChkSum: 51ec283e2307a79b44b1009a56fe01f6
+changelogFile: CHANGELOG.md

@@ -1,4 +1,4 @@
-poseidonVersion: 2.4.0
+poseidonVersion: 2.5.0
 title: 2017_VanDenBrink
 description: This package was initially constructed based on the Allen Ancient DNA
   Resource (https://reich.hms.harvard.edu/allen-ancient-dna-resource-aadr-downloadable-genotypes-present-day-and-ancient-dna-data,
@@ -6,8 +6,8 @@ description: This package was initially constructed based on the Allen Ancient D
 contributor:
 - name: Ayshin Ghalichi
   email: ghalichi@shh.mpg.de
-packageVersion: 1.0.2
-lastModified: 2021-05-31
+packageVersion: 2.0.0
+lastModified: 2022-01-28
 genotypeData:
   format: PLINK
   genoFile: 2017_VanDenBrink.bed
@@ -18,6 +18,7 @@ genotypeData:
   indFileChkSum: 7be9d65e0f8e5b2632ff27056cd47754
   snpSet: 1240K
 jannoFile: 2017_VanDenBrink.janno
-jannoFileChkSum: b34bffc844f35f3f90c19a1effc59914
+jannoFileChkSum: 0a4b6a6192a82eb2ea2244ad8d96086f
 bibFile: 2017_VanDenBrink.bib
 bibFileChkSum: 162474fb230c7838f34ed71c5c2c3190
+changelogFile: CHANGELOG.md

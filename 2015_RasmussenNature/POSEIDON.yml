@@ -1,4 +1,4 @@
-poseidonVersion: 2.4.0
+poseidonVersion: 2.5.0
 title: 2015_RasmussenNature
 description: An ancient North American individual (Kennewick Man). This package was
   initially constructed based on the Allen Ancient DNA Resource (https://reich.hms.harvard.edu/allen-ancient-dna-resource-aadr-downloadable-genotypes-present-day-and-ancient-dna-data,
@@ -6,8 +6,8 @@ description: An ancient North American individual (Kennewick Man). This package 
 contributor:
 - name: Ayshin Ghalichi
   email: ghalichi@shh.mpg.de
-packageVersion: 1.0.2
-lastModified: 2021-05-10
+packageVersion: 2.0.0
+lastModified: 2022-01-28
 genotypeData:
   format: PLINK
   genoFile: 2015_RasmussenNature.bed
@@ -18,6 +18,7 @@ genotypeData:
   indFileChkSum: 105f9c4e51f291f72cd56ef0dd017edf
   snpSet: 1240K
 jannoFile: 2015_RasmussenNature.janno
-jannoFileChkSum: cd4a3302b07d329dc1ae5387bce9cf56
+jannoFileChkSum: 28b31ec55461305087691b4ef2249057
 bibFile: 2015_RasmussenNature.bib
 bibFileChkSum: e4253d2cf43b51e630b8235b643f93ed
+changelogFile: CHANGELOG.md

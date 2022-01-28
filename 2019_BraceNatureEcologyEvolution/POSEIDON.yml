@@ -1,11 +1,11 @@
-poseidonVersion: 2.4.0
+poseidonVersion: 2.5.0
 title: 2019_BraceNatureEcologyEvolution
 description: Empty package template. Please add a description
 contributor:
 - name: Ayshin Ghalichi
   email: ghalichi@shh.mpg.de
-packageVersion: 1.0.2
-lastModified: 2021-05-31
+packageVersion: 2.0.0
+lastModified: 2022-01-28
 genotypeData:
   format: PLINK
   genoFile: 2019_BraceNatureEcologyEvolution.bed
@@ -16,6 +16,7 @@ genotypeData:
   indFileChkSum: c561c00bb52d668f68b15f6125da310e
   snpSet: 1240K
 jannoFile: 2019_BraceNatureEcologyEvolution.janno
-jannoFileChkSum: 82e9ad1c39d18a83466d181ad8e8e431
+jannoFileChkSum: c6ae5cec23d7e303c97e776007785457
 bibFile: 2019_BraceNatureEcologyEvolution.bib
 bibFileChkSum: 07e02b950c0d1630c65e29b5d0859bda
+changelogFile: CHANGELOG.md

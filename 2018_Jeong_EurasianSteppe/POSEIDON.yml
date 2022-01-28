@@ -1,12 +1,12 @@
-poseidonVersion: 2.4.0
+poseidonVersion: 2.5.0
 title: 2018_Jeong_EurasianSteppe
 description: Genetic data published in Jeong et al. 2018. Individuals from the Eastern
   Eurasian Steppe
 contributor:
 - name: Ayshin Ghalichi
   email: ghalichi@shh.mpg.de
-packageVersion: 1.0.1
-lastModified: 2021-05-11
+packageVersion: 2.0.0
+lastModified: 2022-01-28
 genotypeData:
   format: PLINK
   genoFile: Jeong_EurasianSteppe.bed
@@ -17,6 +17,7 @@ genotypeData:
   indFileChkSum: 8814322af830f3ebb253ef792432fb54
   snpSet: 1240K
 jannoFile: Jeong_EurasianSteppe.janno
-jannoFileChkSum: 1854d40351e948792a1863baa63eeb2f
+jannoFileChkSum: 323c970b5ce75f2f642b0e3f18f752a0
 bibFile: LITERATURE.bib
 bibFileChkSum: ab2165f16e24b703a5ea00d43f7d78ba
+changelogFile: CHANGELOG.md

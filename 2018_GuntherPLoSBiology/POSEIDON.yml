@@ -1,4 +1,4 @@
-poseidonVersion: 2.4.0
+poseidonVersion: 2.5.0
 title: 2018_GuntherPLoSBiology
 description: This package was initially constructed based on the Allen Ancient DNA
   Resource (https://reich.hms.harvard.edu/allen-ancient-dna-resource-aadr-downloadable-genotypes-present-day-and-ancient-dna-data,
@@ -6,8 +6,8 @@ description: This package was initially constructed based on the Allen Ancient D
 contributor:
 - name: Ayshin Ghalichi
   email: ghalichi@shh.mpg.de
-packageVersion: 1.0.1
-lastModified: 2021-05-11
+packageVersion: 2.0.0
+lastModified: 2022-01-28
 genotypeData:
   format: PLINK
   genoFile: 2018_GuntherPLoSBiology.bed
@@ -18,6 +18,7 @@ genotypeData:
   indFileChkSum: c9b5ac5901bc3f9f1a68af8e575158d8
   snpSet: 1240K
 jannoFile: 2018_GuntherPLoSBiology.janno
-jannoFileChkSum: 6e5cc9ed98a74ea1758110b58efb5c94
+jannoFileChkSum: 42d419aa8317deb22a35ea53b1613ac0
 bibFile: 2018_GuntherPLoSBiology.bib
 bibFileChkSum: 73a1fdd7a49d5ed88d719ce96095e654
+changelogFile: CHANGELOG.md

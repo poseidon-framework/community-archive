@@ -1,11 +1,11 @@
-poseidonVersion: 2.4.0
+poseidonVersion: 2.5.0
 title: 2020_Margaryan_Viking
 description: Viking age samples from Europe and Greenland.
 contributor:
 - name: Ayshin Ghalichi
   email: ghalichi@shh.mpg.de
-packageVersion: 1.0.1
-lastModified: 2021-05-11
+packageVersion: 2.0.0
+lastModified: 2022-01-28
 genotypeData:
   format: PLINK
   genoFile: Margaryan_Viking.bed
@@ -16,6 +16,7 @@ genotypeData:
   indFileChkSum: b15954e49137a7ef0c33ce65b2f7cb90
   snpSet: 1240K
 jannoFile: Margaryan_Viking.janno
-jannoFileChkSum: 38cfe021789920a101185e2032d7ea45
+jannoFileChkSum: 2e68a8d446749675f577016481d6742b
 bibFile: LITERATURE.bib
 bibFileChkSum: 2257ab6c2cc25fdc59abbc8bb05ce4a5
+changelogFile: CHANGELOG.md

@@ -1,12 +1,12 @@
-poseidonVersion: 2.4.0
+poseidonVersion: 2.5.0
 title: 2020_Bongers_SouthPeru
 description: Six Late Horizon individuals from two cemeteries in the Chincha Valley
   of southern Peru
 contributor:
 - name: Clemens Schmid
   email: schmid@shh.mpg.de
-packageVersion: 1.0.1
-lastModified: 2021-05-11
+packageVersion: 2.0.0
+lastModified: 2022-01-28
 genotypeData:
   format: PLINK
   genoFile: Bongers_SouthPeru.bed
@@ -17,6 +17,7 @@ genotypeData:
   indFileChkSum: b2dd0a3251ecf17679ec7a743e4748df
   snpSet: 1240K
 jannoFile: Bongers_SouthPeru.janno
-jannoFileChkSum: 30420124769cb1cf3ca9e57e33303f83
+jannoFileChkSum: 5b61549d86174b7561ccbba4b582d04c
 bibFile: Bongers_SouthPeru.bib
 bibFileChkSum: 5e23b63a54994a016af7b2778d891c53
+changelogFile: CHANGELOG.md

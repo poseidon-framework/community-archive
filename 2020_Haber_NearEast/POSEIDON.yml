@@ -1,11 +1,11 @@
-poseidonVersion: 2.4.0
+poseidonVersion: 2.5.0
 title: 2020_Haber_NearEast
 description: Iron Age to Medieval samples from the Near East.
 contributor:
 - name: Ayshin Ghalichi
   email: ghalichi@shh.mpg.de
-packageVersion: 1.0.1
-lastModified: 2021-05-11
+packageVersion: 2.0.0
+lastModified: 2022-01-28
 genotypeData:
   format: PLINK
   genoFile: Haber_NearEast.bed
@@ -16,6 +16,7 @@ genotypeData:
   indFileChkSum: 09e1023a1bdb3581271057443b52178d
   snpSet: 1240K
 jannoFile: Haber_NearEast.janno
-jannoFileChkSum: 1c90031ceb067bfe51acb14a185ec9f1
+jannoFileChkSum: d25b2b9463582505380a337842d016f0
 bibFile: LITERATURE.bib
 bibFileChkSum: 15799e155cd6159e3e35cb8e0f74251f
+changelogFile: CHANGELOG.md

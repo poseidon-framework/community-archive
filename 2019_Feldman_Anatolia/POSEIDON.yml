@@ -1,11 +1,11 @@
-poseidonVersion: 2.4.0
+poseidonVersion: 2.5.0
 title: 2019_Feldman_Anatolia
 description: Genetic data published in Feldman et al. 2019
 contributor:
 - name: Michal Feldman
   email: feldman@shh.mpg.de
-packageVersion: 1.0.1
-lastModified: 2021-05-31
+packageVersion: 2.0.0
+lastModified: 2022-01-28
 genotypeData:
   format: PLINK
   genoFile: Feldman_Anatolia.bed
@@ -16,6 +16,7 @@ genotypeData:
   indFileChkSum: b7ef11314bdd229ffd554702bb4ca65b
   snpSet: 1240K
 jannoFile: Feldman_Anatolia.janno
-jannoFileChkSum: 9166f4d43bf26123d3bcef9b56e1ee02
+jannoFileChkSum: 5a4f4d407ee3e944ad8732b5308b37e8
 bibFile: LITERATURE.bib
 bibFileChkSum: 90cd1500bf56d571ba0cad7308eecff1
+changelogFile: CHANGELOG.md

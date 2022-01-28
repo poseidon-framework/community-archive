@@ -1,4 +1,4 @@
-poseidonVersion: 2.4.0
+poseidonVersion: 2.5.0
 title: 2016_SkoglundNature
 description: Modern and ancient samples from Southeast Asia and Oceania. This package
   was initially constructed based on the Allen Ancient DNA Resource (https://reich.hms.harvard.edu/allen-ancient-dna-resource-aadr-downloadable-genotypes-present-day-and-ancient-dna-data,
@@ -8,8 +8,8 @@ contributor:
   email: ghalichi@shh.mpg.de
 - name: Clemens Schmid
   email: schmid@shh.mpg.de
-packageVersion: 1.2.0
-lastModified: 2021-06-01
+packageVersion: 2.0.0
+lastModified: 2022-01-28
 genotypeData:
   format: PLINK
   genoFile: 2016_SkoglundNature.bed
@@ -20,7 +20,7 @@ genotypeData:
   indFileChkSum: 115d3547ad3a8172d756de29fc6dfa1c
   snpSet: 1240K
 jannoFile: 2016_SkoglundNature.janno
-jannoFileChkSum: 2309bedfaac16d37cc5009a38a1fec61
+jannoFileChkSum: 08fd9da9ccc000aa05069feb6f9c027e
 bibFile: 2016_SkoglundNature.bib
 bibFileChkSum: 84d20420ee688a5e56c0ae336f0ce87a
 changelogFile: CHANGELOG.txt

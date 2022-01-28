@@ -1,4 +1,4 @@
-poseidonVersion: 2.4.0
+poseidonVersion: 2.5.0
 title: Reference_Genomes
 description: Genetic data for Reference Genomes
 contributor:
@@ -6,8 +6,8 @@ contributor:
   email: ghalichi@shh.mpg.de
 - name: Clemens Schmid
   email: schmid@shh.mpg.de
-packageVersion: 1.0.3
-lastModified: 2020-05-31
+packageVersion: 2.0.0
+lastModified: 2022-01-28
 genotypeData:
   format: PLINK
   genoFile: Reference_Genomes.bed
@@ -18,6 +18,7 @@ genotypeData:
   indFileChkSum: 9b370b2061682fa168095db174f6073e
   snpSet: 1240K
 jannoFile: Reference_Genomes.janno
-jannoFileChkSum: 8c4fd17737938dfb29c2ea8ff2761f0e
+jannoFileChkSum: 04b8a8a5d0c84ec1e03f35248f5d4c6b
 bibFile: Reference_Genomes.bib
 bibFileChkSum: 0d80ceb444d1d05202c1773119cf1e27
+changelogFile: CHANGELOG.md

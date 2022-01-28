@@ -1,4 +1,4 @@
-poseidonVersion: 2.4.0
+poseidonVersion: 2.5.0
 title: 2020_Rivollat_FranceGermany
 description: Mesolithic and Neolithic samples from France and Germany.
 contributor:
@@ -6,8 +6,8 @@ contributor:
   email: rivollat@shh.mpg.de
 - name: Clemens Schmid
   email: schmid@shh.mpg.de
-packageVersion: 1.0.1
-lastModified: 2021-05-11
+packageVersion: 2.0.0
+lastModified: 2022-01-28
 genotypeData:
   format: PLINK
   genoFile: Rivollat_FranceGermany.bed
@@ -18,6 +18,7 @@ genotypeData:
   indFileChkSum: 66b829c9cb57a2948683f6e357a73cec
   snpSet: 1240K
 jannoFile: Rivollat_FranceGermany.janno
-jannoFileChkSum: 22fddbce3207e8b1426bd62d61dd566d
+jannoFileChkSum: 378f33c31c708e002cecf65b25e613a2
 bibFile: LITERATURE.bib
 bibFileChkSum: 0a258804e7ea46aad07ae33e382d3edd
+changelogFile: CHANGELOG.md

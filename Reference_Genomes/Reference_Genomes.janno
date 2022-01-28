@@ -1,5 +1,5 @@
-Individual_ID	Collection_ID	Source_Tissue	Country	Location	Site	Latitude	Longitude	Date_C14_Labnr	Date_C14_Uncal_BP	Date_C14_Uncal_BP_Err	Date_BC_AD_Median	Date_BC_AD_Start	Date_BC_AD_Stop	Date_Type	No_of_Libraries	Data_Type	Genotype_Ploidy	Group_Name	Genetic_Sex	Nr_autosomal_SNPs	Coverage_1240K	MT_Haplogroup	Y_Haplogroup	Endogenous	UDG	Library_Built	Damage	Xcontam	Xcontam_stderr	mtContam	mtContam_stderr	Primary_Contact	Publication_Status	Note	Keywords
-Ancestor.REF	Ancestor	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	modern	n/a	ReferenceGenome	haploid	Ancestor.REF	M	1135001	n/a	n/a	n/a	n/a	n/a	ds	n/a	n/a	n/a	n/a	n/a	n/a	GRC_for_GRCh37_e71	GRCh37_e71	n/a
-Href.REF	Href	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	modern	n/a	ReferenceGenome	haploid	Href.REF	M	1150639	n/a	n/a	n/a	n/a	n/a	ds	n/a	n/a	n/a	n/a	n/a	n/a	1000_Genomes_Project_Consortium_2015	human_g1k_hs37d5	n/a
-Chimp.REF	Chimp	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	modern	n/a	ReferenceGenome	haploid	Chimp.REF	M	1102442	n/a	n/a	n/a	n/a	n/a	ds	n/a	n/a	n/a	n/a	n/a	n/a	WatersonNature2005	pt2__cs-hg19	n/a
-Gorilla.REF	Gorilla	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	modern	n/a	ReferenceGenome	haploid	Gorilla.REF	F	1054589	n/a	n/a	n/a	n/a	n/a	ds	n/a	n/a	n/a	n/a	n/a	n/a	GordonScience2016	gorGor__cs-hg19	n/a
+Poseidon_ID	Genetic_Sex	Group_Name	Collection_ID	Date_Type	Capture_Type	Library_Built	Genotype_Ploidy	Nr_SNPs	Publication	Note
+Ancestor.REF	M	Ancestor.REF	Ancestor	modern	ReferenceGenome	ds	haploid	1135001	GRC_for_GRCh37_e71	GRCh37_e71
+Href.REF	M	Href.REF	Href	modern	ReferenceGenome	ds	haploid	1150639	1000_Genomes_Project_Consortium_2015	human_g1k_hs37d5
+Chimp.REF	M	Chimp.REF	Chimp	modern	ReferenceGenome	ds	haploid	1102442	WatersonNature2005	pt2__cs-hg19
+Gorilla.REF	F	Gorilla.REF	Gorilla	modern	ReferenceGenome	ds	haploid	1054589	GordonScience2016	gorGor__cs-hg19
