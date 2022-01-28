@@ -1,11 +1,11 @@
-poseidonVersion: 2.4.0
+poseidonVersion: 2.5.0
 title: 2020_TeschlerNicola_UpperPaleoTwin
 description: Samples from two Upper Palaeolithic infants from Austria.
 contributor:
 - name: Ayshin Ghalichi
   email: ghalichi@shh.mpg.de
-packageVersion: 1.0.1
-lastModified: 2021-05-11
+packageVersion: 2.0.0
+lastModified: 2022-01-28
 genotypeData:
   format: PLINK
   genoFile: TeschlerNicola_UpperPaleoTwin.bed
@@ -16,6 +16,7 @@ genotypeData:
   indFileChkSum: ac17d7aca838569a3855cfd7803bc2eb
   snpSet: 1240K
 jannoFile: TeschlerNicola_UpperPaleoTwin.janno
-jannoFileChkSum: 6be46c80c17f9989ed3df4c0c84ab987
+jannoFileChkSum: 70d9bf4b1d4a49d97a36b050f1d03858
 bibFile: LITERATURE.bib
 bibFileChkSum: e2d825ac304df8353dab78b9c4a51c8e
+changelogFile: CHANGELOG.md

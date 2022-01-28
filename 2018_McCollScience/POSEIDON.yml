@@ -1,4 +1,4 @@
-poseidonVersion: 2.4.0
+poseidonVersion: 2.5.0
 title: 2018_McCollScience
 description: This package was initially constructed based on the Allen Ancient DNA
   Resource (https://reich.hms.harvard.edu/allen-ancient-dna-resource-aadr-downloadable-genotypes-present-day-and-ancient-dna-data,
@@ -8,8 +8,8 @@ contributor:
   email: ghalichi@shh.mpg.de
 - name: Clemens Schmid
   email: schmid@shh.mpg.de
-packageVersion: 1.1.2
-lastModified: 2021-05-11
+packageVersion: 2.0.0
+lastModified: 2022-01-28
 genotypeData:
   format: PLINK
   genoFile: 2018_McCollScience.bed
@@ -20,6 +20,7 @@ genotypeData:
   indFileChkSum: 596e43e8597669b21a8cfadffca56817
   snpSet: 1240K
 jannoFile: 2018_McCollScience.janno
-jannoFileChkSum: cde8cd3a0307e1a86f6e880986f61a42
+jannoFileChkSum: 74376856475414697d471ed9913b6765
 bibFile: 2018_McCollScience.bib
 bibFileChkSum: 7ab5065615df760759d82c51b2bbec60
+changelogFile: CHANGELOG.md

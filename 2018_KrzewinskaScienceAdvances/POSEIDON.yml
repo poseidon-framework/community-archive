@@ -1,4 +1,4 @@
-poseidonVersion: 2.4.0
+poseidonVersion: 2.5.0
 title: 2018_KrzewinskaScienceAdvances
 description: This package was initially constructed based on the Allen Ancient DNA
   Resource (https://reich.hms.harvard.edu/allen-ancient-dna-resource-aadr-downloadable-genotypes-present-day-and-ancient-dna-data,
@@ -6,8 +6,8 @@ description: This package was initially constructed based on the Allen Ancient D
 contributor:
 - name: Ayshin Ghalichi
   email: ghalichi@shh.mpg.de
-packageVersion: 1.0.2
-lastModified: 2021-05-11
+packageVersion: 2.0.0
+lastModified: 2022-01-28
 genotypeData:
   format: PLINK
   genoFile: 2018_KrzewinskaScienceAdvances.bed
@@ -18,6 +18,7 @@ genotypeData:
   indFileChkSum: 8efae3e0d2e93ef5b97e0a8f60e656f0
   snpSet: 1240K
 jannoFile: 2018_KrzewinskaScienceAdvances.janno
-jannoFileChkSum: 6dc15b3a9740c141cb0e00489b0226d6
+jannoFileChkSum: 4dcb34fc5c189dfaf0d051636562aab3
 bibFile: 2018_KrzewinskaScienceAdvances.bib
 bibFileChkSum: 0e957494b90b6b2262441d0441be2e24
+changelogFile: CHANGELOG.md

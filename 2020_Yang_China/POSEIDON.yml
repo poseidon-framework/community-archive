@@ -1,4 +1,4 @@
-poseidonVersion: 2.4.0
+poseidonVersion: 2.5.0
 title: 2020_Yang_China
 description: Diachronic ancient data from China.
 contributor:
@@ -6,8 +6,8 @@ contributor:
   email: ghalichi@shh.mpg.de
 - name: Clemens Schmid
   email: schmid@shh.mpg.de
-packageVersion: 1.0.2
-lastModified: 2021-09-25
+packageVersion: 2.0.0
+lastModified: 2022-01-28
 genotypeData:
   format: PLINK
   genoFile: Yang_China.bed
@@ -18,7 +18,7 @@ genotypeData:
   indFileChkSum: 74d165b3197d3f12d01dd3e74fbb55db
   snpSet: 1240K
 jannoFile: Yang_China.janno
-jannoFileChkSum: 21fcc4747e8f0bbfbc1f9a00dcd53e2d
+jannoFileChkSum: 14bffee50192742da76fbadb37f8a0e2
 bibFile: LITERATURE.bib
 bibFileChkSum: 9469cd1c4a47d49068b80734837b05cf
 changelogFile: CHANGELOG.md

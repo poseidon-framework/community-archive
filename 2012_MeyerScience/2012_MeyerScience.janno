@@ -1,7 +1,7 @@
-Individual_ID	Collection_ID	Source_Tissue	Country	Location	Site	Latitude	Longitude	Date_C14_Labnr	Date_C14_Uncal_BP	Date_C14_Uncal_BP_Err	Date_BC_AD_Median	Date_BC_AD_Start	Date_BC_AD_Stop	Date_Type	No_of_Libraries	Data_Type	Genotype_Ploidy	Group_Name	Genetic_Sex	Nr_autosomal_SNPs	Coverage_1240K	MT_Haplogroup	Y_Haplogroup	Endogenous	UDG	Library_Built	Damage	Xcontam	Xcontam_stderr	mtContam	mtContam_stderr	Primary_Contact	Publication_Status	Note	Keywords
-A_Mbuti-5.DG	HGDP00456	n/a	Congo	n/a	n/a	1.0	29.0	n/a	n/a	n/a	n/a	n/a	n/a	modern	n/a	Shotgun	diploid	Ignore_Mbuti(discovery).DG	M	593057	24.34	n/a	n/a	n/a	n/a	ds	n/a	n/a	n/a	n/a	n/a	n/a	MeyerScience2012	PASS	n/a
-A_Yoruba-4.DG	HGDP00927	n/a	Nigeria	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	modern	n/a	Shotgun	diploid	Ignore_Yoruba(discovery).DG	M	593097	32.12	n/a	n/a	n/a	n/a	ds	n/a	n/a	n/a	n/a	n/a	n/a	MeyerScience2012	PASS	n/a
-A_Sardinian-4.DG	HGDP00665	n/a	Italy	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	modern	n/a	Shotgun	diploid	Ignore_Sardinian(discovery).DG	M	593109	24.68	n/a	n/a	n/a	n/a	ds	n/a	n/a	n/a	n/a	n/a	n/a	MeyerScience2012	PASS	n/a
-A_French-4.DG	HGDP00521	n/a	France	n/a	n/a	46.0	2.0	n/a	n/a	n/a	n/a	n/a	n/a	modern	n/a	Shotgun	diploid	Ignore_French(discovery).DG	M	592535	26.73	n/a	n/a	n/a	n/a	ds	n/a	n/a	n/a	n/a	n/a	n/a	MeyerScience2012	PASS	n/a
-A_Dinka-4.DG	A_Dinka-4	n/a	Sudan	Aweil	n/a	8.78333	27.4	n/a	n/a	n/a	n/a	n/a	n/a	modern	n/a	Shotgun	diploid	Dinka.DG	M	593076	27.98	n/a	n/a	n/a	n/a	ds	n/a	n/a	n/a	n/a	n/a	n/a	MeyerScience2012	PASS	n/a
-A_Ju_hoan_North-5.DG	HGDP01029	n/a	Namibia	n/a	n/a	-18.93726	21.45245	n/a	n/a	n/a	n/a	n/a	n/a	modern	n/a	Shotgun	diploid	Ignore_Ju_hoan_North(discovery).DG	M	593045	32.74	n/a	n/a	n/a	n/a	ds	n/a	n/a	n/a	n/a	n/a	n/a	MeyerScience2012	PASS	n/a
+Poseidon_ID	Genetic_Sex	Group_Name	Collection_ID	Country	Location	Latitude	Longitude	Date_Type	Capture_Type	Library_Built	Genotype_Ploidy	Nr_SNPs	Coverage_on_Target_SNPs	Publication	Note
+A_Mbuti-5.DG	M	Ignore_Mbuti(discovery).DG	HGDP00456	Congo	"n/a"	1.0	29.0	modern	Shotgun	ds	diploid	593057	24.34	MeyerScience2012	PASS
+A_Yoruba-4.DG	M	Ignore_Yoruba(discovery).DG	HGDP00927	Nigeria	"n/a"	"n/a"	"n/a"	modern	Shotgun	ds	diploid	593097	32.12	MeyerScience2012	PASS
+A_Sardinian-4.DG	M	Ignore_Sardinian(discovery).DG	HGDP00665	Italy	"n/a"	"n/a"	"n/a"	modern	Shotgun	ds	diploid	593109	24.68	MeyerScience2012	PASS
+A_French-4.DG	M	Ignore_French(discovery).DG	HGDP00521	France	"n/a"	46.0	2.0	modern	Shotgun	ds	diploid	592535	26.73	MeyerScience2012	PASS
+A_Dinka-4.DG	M	Dinka.DG	A_Dinka-4	Sudan	Aweil	8.78333	27.4	modern	Shotgun	ds	diploid	593076	27.98	MeyerScience2012	PASS
+A_Ju_hoan_North-5.DG	M	Ignore_Ju_hoan_North(discovery).DG	HGDP01029	Namibia	"n/a"	-18.93726	21.45245	modern	Shotgun	ds	diploid	593045	32.74	MeyerScience2012	PASS

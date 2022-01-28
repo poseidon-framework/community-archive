@@ -1,4 +1,4 @@
-poseidonVersion: 2.4.0
+poseidonVersion: 2.5.0
 title: 2017_HaberAJHG
 description: This package was initially constructed based on the Allen Ancient DNA
   Resource (https://reich.hms.harvard.edu/allen-ancient-dna-resource-aadr-downloadable-genotypes-present-day-and-ancient-dna-data,
@@ -6,8 +6,8 @@ description: This package was initially constructed based on the Allen Ancient D
 contributor:
 - name: Ayshin Ghalichi
   email: ghalichi@shh.mpg.de
-packageVersion: 1.0.2
-lastModified: 2021-05-31
+packageVersion: 2.0.0
+lastModified: 2022-01-28
 genotypeData:
   format: PLINK
   genoFile: 2017_HaberAJHG.bed
@@ -18,6 +18,7 @@ genotypeData:
   indFileChkSum: dbc23075dbb1a60e1b5f7482bab12172
   snpSet: 1240K
 jannoFile: 2017_HaberAJHG.janno
-jannoFileChkSum: bfb16d8579e493582099a31b083b5439
+jannoFileChkSum: a20c428f2a2a05d1a6952c508300cab4
 bibFile: 2017_HaberAJHG.bib
 bibFileChkSum: bd2173142087b4bcb6c106ae6e0980c9
+changelogFile: CHANGELOG.md

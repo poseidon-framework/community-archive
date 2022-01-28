@@ -1,121 +1,121 @@
-Individual_ID	Collection_ID	Source_Tissue	Country	Location	Site	Latitude	Longitude	Date_C14_Labnr	Date_C14_Uncal_BP	Date_C14_Uncal_BP_Err	Date_BC_AD_Median	Date_BC_AD_Start	Date_BC_AD_Stop	Date_Type	No_of_Libraries	Data_Type	Genotype_Ploidy	Group_Name	Genetic_Sex	Nr_autosomal_SNPs	Coverage_1240K	MT_Haplogroup	Y_Haplogroup	Endogenous	UDG	Library_Built	Damage	Xcontam	Xcontam_stderr	mtContam	mtContam_stderr	Primary_Contact	Publication_Status	Note	Keywords
-ALB126	ALB126	n/a	Spain	Valencian Community, Val√®ncia	n/a	-0.43562	39.57764	n/a	n/a	n/a	n/a	n/a	n/a	modern	n/a	OtherCapture	haploid	Spanish	M	554054	n/a	n/a	n/a	n/a	n/a	ds	n/a	n/a	n/a	n/a	n/a	n/a	BiaginiEJHG2019	PASS (genotyping)	n/a
-ALB231	ALB231	n/a	Spain	Valencian Community, Castell√≥	n/a	-0.09371	40.3303	n/a	n/a	n/a	n/a	n/a	n/a	modern	n/a	OtherCapture	haploid	Spanish	M	551682	n/a	n/a	n/a	n/a	n/a	ds	n/a	n/a	n/a	n/a	n/a	n/a	BiaginiEJHG2019	PASS (genotyping)	n/a
-ALB389	ALB389	n/a	Spain	Valencian Community, Val√®ncia	n/a	-0.44968	39.12122	n/a	n/a	n/a	n/a	n/a	n/a	modern	n/a	OtherCapture	haploid	Spanish	M	552707	n/a	n/a	n/a	n/a	n/a	ds	n/a	n/a	n/a	n/a	n/a	n/a	BiaginiEJHG2019	PASS (genotyping)	n/a
-ALE005	ALE005	n/a	Spain	Valencian Community, Alacant	n/a	-0.16989	38.83273	n/a	n/a	n/a	n/a	n/a	n/a	modern	n/a	OtherCapture	haploid	Spanish	M	547830	n/a	n/a	n/a	n/a	n/a	ds	n/a	n/a	n/a	n/a	n/a	n/a	BiaginiEJHG2019	PASS (genotyping)	n/a
-ALE009	ALE009	n/a	Spain	Valencian Community, Alacant	n/a	-0.10025	38.80177	n/a	n/a	n/a	n/a	n/a	n/a	modern	n/a	OtherCapture	haploid	Spanish	M	553095	n/a	n/a	n/a	n/a	n/a	ds	n/a	n/a	n/a	n/a	n/a	n/a	BiaginiEJHG2019	PASS (genotyping)	n/a
-ALE088	ALE088	n/a	Spain	Catalonia, Pened√®s	n/a	1.62349	41.53126	n/a	n/a	n/a	n/a	n/a	n/a	modern	n/a	OtherCapture	haploid	Spanish	M	554785	n/a	n/a	n/a	n/a	n/a	ds	n/a	n/a	n/a	n/a	n/a	n/a	BiaginiEJHG2019	PASS (genotyping)	n/a
-ALE339	ALE339	n/a	Spain	Balearic Islands, Eivissa	n/a	2.4202	39.5745	n/a	n/a	n/a	n/a	n/a	n/a	modern	n/a	OtherCapture	haploid	Spanish	M	554196	n/a	n/a	n/a	n/a	n/a	ds	n/a	n/a	n/a	n/a	n/a	n/a	BiaginiEJHG2019	PASS (genotyping)	n/a
-ARM005	ARM005	n/a	Spain	Catalonia, Peri-Barcelona	n/a	2.00961	41.39113	n/a	n/a	n/a	n/a	n/a	n/a	modern	n/a	OtherCapture	haploid	Spanish	M	553529	n/a	n/a	n/a	n/a	n/a	ds	n/a	n/a	n/a	n/a	n/a	n/a	BiaginiEJHG2019	PASS (genotyping)	n/a
-BON076	BON076	n/a	Spain	Valencian Community, Val√®ncia	n/a	-0.3768	39.47024	n/a	n/a	n/a	n/a	n/a	n/a	modern	n/a	OtherCapture	haploid	Spanish	M	549228	n/a	n/a	n/a	n/a	n/a	ds	n/a	n/a	n/a	n/a	n/a	n/a	BiaginiEJHG2019	PASS (genotyping)	n/a
-BOS010	BOS010	n/a	Spain	Valencian Community, Val√®ncia	n/a	-0.7452	39.49645	n/a	n/a	n/a	n/a	n/a	n/a	modern	n/a	OtherCapture	haploid	Spanish	M	552132	n/a	n/a	n/a	n/a	n/a	ds	n/a	n/a	n/a	n/a	n/a	n/a	BiaginiEJHG2019	PASS (genotyping)	n/a
-BOS011	BOS011	n/a	Spain	Catalonia, Girona	n/a	2.94939	42.32317	n/a	n/a	n/a	n/a	n/a	n/a	modern	n/a	OtherCapture	haploid	Spanish	M	554238	n/a	n/a	n/a	n/a	n/a	ds	n/a	n/a	n/a	n/a	n/a	n/a	BiaginiEJHG2019	PASS (genotyping)	n/a
-BOS015	BOS015	n/a	Spain	Catalonia, Pened√®s	n/a	1.81122	41.23478	n/a	n/a	n/a	n/a	n/a	n/a	modern	n/a	OtherCapture	haploid	Spanish	M	554639	n/a	n/a	n/a	n/a	n/a	ds	n/a	n/a	n/a	n/a	n/a	n/a	BiaginiEJHG2019	PASS (genotyping)	n/a
-BOS027	BOS027	n/a	Spain	Valencian Community, Castell√≥	n/a	-0.21302	40.07278	n/a	n/a	n/a	n/a	n/a	n/a	modern	n/a	OtherCapture	haploid	Spanish	M	549526	n/a	n/a	n/a	n/a	n/a	ds	n/a	n/a	n/a	n/a	n/a	n/a	BiaginiEJHG2019	PASS (genotyping)	n/a
-BOS029	BOS029	n/a	Spain	Catalonia, Peri-Barcelona	n/a	2.0431	41.34738	n/a	n/a	n/a	n/a	n/a	n/a	modern	n/a	OtherCapture	haploid	Spanish	M	553546	n/a	n/a	n/a	n/a	n/a	ds	n/a	n/a	n/a	n/a	n/a	n/a	BiaginiEJHG2019	PASS (genotyping)	n/a
-CAL026	CAL026	n/a	Spain	Balearic Islands, Eivissa	n/a	2.59463	39.55273	n/a	n/a	n/a	n/a	n/a	n/a	modern	n/a	OtherCapture	haploid	Spanish	M	554902	n/a	n/a	n/a	n/a	n/a	ds	n/a	n/a	n/a	n/a	n/a	n/a	BiaginiEJHG2019	PASS (genotyping)	n/a
-CAL053	CAL053	n/a	Spain	Catalonia, Peri-Barcelona	n/a	2.42292	41.54653	n/a	n/a	n/a	n/a	n/a	n/a	modern	n/a	OtherCapture	haploid	Spanish	M	553156	n/a	n/a	n/a	n/a	n/a	ds	n/a	n/a	n/a	n/a	n/a	n/a	BiaginiEJHG2019	PASS (genotyping)	n/a
-CAL107	CAL107	n/a	Spain	Catalonia, Catalunya Central	n/a	1.78477	41.7353	n/a	n/a	n/a	n/a	n/a	n/a	modern	n/a	OtherCapture	haploid	Spanish	M	555061	n/a	n/a	n/a	n/a	n/a	ds	n/a	n/a	n/a	n/a	n/a	n/a	BiaginiEJHG2019	PASS (genotyping)	n/a
-CAR007	CAR007	n/a	Spain	Catalonia, Catalunya Central	n/a	1.50437	41.99556	n/a	n/a	n/a	n/a	n/a	n/a	modern	n/a	OtherCapture	haploid	Spanish	M	555012	n/a	n/a	n/a	n/a	n/a	ds	n/a	n/a	n/a	n/a	n/a	n/a	BiaginiEJHG2019	PASS (genotyping)	n/a
-CAR016	CAR016	n/a	Spain	Catalonia, Pirineu	n/a	1.02081	42.39928	n/a	n/a	n/a	n/a	n/a	n/a	modern	n/a	OtherCapture	haploid	Spanish	M	555082	n/a	n/a	n/a	n/a	n/a	ds	n/a	n/a	n/a	n/a	n/a	n/a	BiaginiEJHG2019	PASS (genotyping)	n/a
-CAR023	CAR023	n/a	Spain	Valencian Community, Castell√≥	n/a	0.04623	40.60295	n/a	n/a	n/a	n/a	n/a	n/a	modern	n/a	OtherCapture	haploid	Spanish	M	555116	n/a	n/a	n/a	n/a	n/a	ds	n/a	n/a	n/a	n/a	n/a	n/a	BiaginiEJHG2019	PASS (genotyping)	n/a
-CAR048	CAR048	n/a	Spain	Catalonia, Catalunya Central	n/a	1.54159	42.0016	n/a	n/a	n/a	n/a	n/a	n/a	modern	n/a	OtherCapture	haploid	Spanish	M	555119	n/a	n/a	n/a	n/a	n/a	ds	n/a	n/a	n/a	n/a	n/a	n/a	BiaginiEJHG2019	PASS (genotyping)	n/a
-CAR200	CAR200	n/a	Spain	Valencian Community, Castell√≥	n/a	0.17697	40.61301	n/a	n/a	n/a	n/a	n/a	n/a	modern	n/a	OtherCapture	haploid	Spanish	M	555029	n/a	n/a	n/a	n/a	n/a	ds	n/a	n/a	n/a	n/a	n/a	n/a	BiaginiEJHG2019	PASS (genotyping)	n/a
-CAR212	CAR212	n/a	Spain	Catalonia, Pirineu	n/a	0.93614	42.30008	n/a	n/a	n/a	n/a	n/a	n/a	modern	n/a	OtherCapture	haploid	Spanish	M	554858	n/a	n/a	n/a	n/a	n/a	ds	n/a	n/a	n/a	n/a	n/a	n/a	BiaginiEJHG2019	PASS (genotyping)	n/a
-CAR256	CAR256	n/a	Spain	Balearic Islands, Eivissa	n/a	1.39264	38.94886	n/a	n/a	n/a	n/a	n/a	n/a	modern	n/a	OtherCapture	haploid	Spanish	M	554964	n/a	n/a	n/a	n/a	n/a	ds	n/a	n/a	n/a	n/a	n/a	n/a	BiaginiEJHG2019	PASS (genotyping)	n/a
-CAR257	CAR257	n/a	Spain	Valencian Community, Alacant	n/a	0.05337	38.71623	n/a	n/a	n/a	n/a	n/a	n/a	modern	n/a	OtherCapture	haploid	Spanish	M	554994	n/a	n/a	n/a	n/a	n/a	ds	n/a	n/a	n/a	n/a	n/a	n/a	BiaginiEJHG2019	PASS (genotyping)	n/a
-COD068	COD068	n/a	Spain	Catalonia, Catalunya Central	n/a	2.22134	42.00559	n/a	n/a	n/a	n/a	n/a	n/a	modern	n/a	OtherCapture	haploid	Spanish	M	553801	n/a	n/a	n/a	n/a	n/a	ds	n/a	n/a	n/a	n/a	n/a	n/a	BiaginiEJHG2019	PASS (genotyping)	n/a
-COD147	COD147	n/a	Spain	Catalonia, Barcelon√®s	n/a	2.16992	41.38792	n/a	n/a	n/a	n/a	n/a	n/a	modern	n/a	OtherCapture	haploid	Spanish	M	554342	n/a	n/a	n/a	n/a	n/a	ds	n/a	n/a	n/a	n/a	n/a	n/a	BiaginiEJHG2019	PASS (genotyping)	n/a
-COM032	COM032	n/a	Spain	Catalonia, Peri-Barcelona	n/a	2.44528	41.5375	n/a	n/a	n/a	n/a	n/a	n/a	modern	n/a	OtherCapture	haploid	Spanish	M	554986	n/a	n/a	n/a	n/a	n/a	ds	n/a	n/a	n/a	n/a	n/a	n/a	BiaginiEJHG2019	PASS (genotyping)	n/a
-DAN072	DAN072	n/a	Spain	Catalonia, Girona	n/a	3.17481	42.26297	n/a	n/a	n/a	n/a	n/a	n/a	modern	n/a	OtherCapture	haploid	Spanish	M	554867	n/a	n/a	n/a	n/a	n/a	ds	n/a	n/a	n/a	n/a	n/a	n/a	BiaginiEJHG2019	PASS (genotyping)	n/a
-EST038	EST038	n/a	Spain	Valencian Community, Val√®ncia	n/a	-0.22249	38.92198	n/a	n/a	n/a	n/a	n/a	n/a	modern	n/a	OtherCapture	haploid	Spanish	M	554511	n/a	n/a	n/a	n/a	n/a	ds	n/a	n/a	n/a	n/a	n/a	n/a	BiaginiEJHG2019	PASS (genotyping)	n/a
-EST093	EST093	n/a	Spain	Valencian Community, Val√®ncia	n/a	-0.64479	38.85261	n/a	n/a	n/a	n/a	n/a	n/a	modern	n/a	OtherCapture	haploid	Spanish	M	554826	n/a	n/a	n/a	n/a	n/a	ds	n/a	n/a	n/a	n/a	n/a	n/a	BiaginiEJHG2019	PASS (genotyping)	n/a
-FER007	FER007	n/a	Spain	Catalonia, Lleida	n/a	1.18443	41.56411	n/a	n/a	n/a	n/a	n/a	n/a	modern	n/a	OtherCapture	haploid	Spanish	M	554840	n/a	n/a	n/a	n/a	n/a	ds	n/a	n/a	n/a	n/a	n/a	n/a	BiaginiEJHG2019	PASS (genotyping)	n/a
-FER015	FER015	n/a	Spain	Catalonia, Lleida	n/a	0.82541	41.54811	n/a	n/a	n/a	n/a	n/a	n/a	modern	n/a	OtherCapture	haploid	Spanish	M	551147	n/a	n/a	n/a	n/a	n/a	ds	n/a	n/a	n/a	n/a	n/a	n/a	BiaginiEJHG2019	PASS (genotyping)	n/a
-FER023	FER023	n/a	Spain	Catalonia, Pened√®s	n/a	1.59314	41.61102	n/a	n/a	n/a	n/a	n/a	n/a	modern	n/a	OtherCapture	haploid	Spanish	M	543622	n/a	n/a	n/a	n/a	n/a	ds	n/a	n/a	n/a	n/a	n/a	n/a	BiaginiEJHG2019	PASS (genotyping)	n/a
-FER033	FER033	n/a	Spain	Valencian Community, Castell√≥	n/a	0.25288	40.61385	n/a	n/a	n/a	n/a	n/a	n/a	modern	n/a	OtherCapture	haploid	Spanish	M	554844	n/a	n/a	n/a	n/a	n/a	ds	n/a	n/a	n/a	n/a	n/a	n/a	BiaginiEJHG2019	PASS (genotyping)	n/a
-FER039	FER039	n/a	Spain	Catalonia, Camp de Tarragona	n/a	1.10868	41.15482	n/a	n/a	n/a	n/a	n/a	n/a	modern	n/a	OtherCapture	haploid	Spanish	M	543958	n/a	n/a	n/a	n/a	n/a	ds	n/a	n/a	n/a	n/a	n/a	n/a	BiaginiEJHG2019	PASS (genotyping)	n/a
-FER052	FER052	n/a	Spain	Catalonia, Girona	n/a	2.81532	41.85362	n/a	n/a	n/a	n/a	n/a	n/a	modern	n/a	OtherCapture	haploid	Spanish	M	554945	n/a	n/a	n/a	n/a	n/a	ds	n/a	n/a	n/a	n/a	n/a	n/a	BiaginiEJHG2019	PASS (genotyping)	n/a
-FER054	FER054	n/a	Spain	Balearic Islands, Eivissa	n/a	3.8375	40.0015	n/a	n/a	n/a	n/a	n/a	n/a	modern	n/a	OtherCapture	haploid	Spanish	M	553503	n/a	n/a	n/a	n/a	n/a	ds	n/a	n/a	n/a	n/a	n/a	n/a	BiaginiEJHG2019	PASS (genotyping)	n/a
-FER097	FER097	n/a	Spain	Valencian Community, Val√®ncia	n/a	-0.35279	39.52642	n/a	n/a	n/a	n/a	n/a	n/a	modern	n/a	OtherCapture	haploid	Spanish	M	554263	n/a	n/a	n/a	n/a	n/a	ds	n/a	n/a	n/a	n/a	n/a	n/a	BiaginiEJHG2019	PASS (genotyping)	n/a
-FER101	FER101	n/a	Spain	Catalonia, Pirineu	n/a	1.09994	42.57829	n/a	n/a	n/a	n/a	n/a	n/a	modern	n/a	OtherCapture	haploid	Spanish	M	550257	n/a	n/a	n/a	n/a	n/a	ds	n/a	n/a	n/a	n/a	n/a	n/a	BiaginiEJHG2019	PASS (genotyping)	n/a
-FOR066	FOR066	n/a	Spain	Catalonia, Lleida	n/a	0.73134	41.88157	n/a	n/a	n/a	n/a	n/a	n/a	modern	n/a	OtherCapture	haploid	Spanish	M	553555	n/a	n/a	n/a	n/a	n/a	ds	n/a	n/a	n/a	n/a	n/a	n/a	BiaginiEJHG2019	PASS (genotyping)	n/a
-FOR067	FOR067	n/a	Spain	Catalonia, Camp de Tarragona	n/a	1.05581	41.13861	n/a	n/a	n/a	n/a	n/a	n/a	modern	n/a	OtherCapture	haploid	Spanish	M	554834	n/a	n/a	n/a	n/a	n/a	ds	n/a	n/a	n/a	n/a	n/a	n/a	BiaginiEJHG2019	PASS (genotyping)	n/a
-FOR094	FOR094	n/a	Spain	Catalonia, Camp de Tarragona	n/a	0.976	41.16768	n/a	n/a	n/a	n/a	n/a	n/a	modern	n/a	OtherCapture	haploid	Spanish	M	548884	n/a	n/a	n/a	n/a	n/a	ds	n/a	n/a	n/a	n/a	n/a	n/a	BiaginiEJHG2019	PASS (genotyping)	n/a
-GRA011	GRA011	n/a	Spain	Catalonia, Camp de Tarragona	n/a	1.32111	41.37015	n/a	n/a	n/a	n/a	n/a	n/a	modern	n/a	OtherCapture	haploid	Spanish	M	549485	n/a	n/a	n/a	n/a	n/a	ds	n/a	n/a	n/a	n/a	n/a	n/a	BiaginiEJHG2019	PASS (genotyping)	n/a
-GRA016	GRA016	n/a	Spain	Valencian Community, Val√®ncia	n/a	-0.26772	39.07167	n/a	n/a	n/a	n/a	n/a	n/a	modern	n/a	OtherCapture	haploid	Spanish	M	554697	n/a	n/a	n/a	n/a	n/a	ds	n/a	n/a	n/a	n/a	n/a	n/a	BiaginiEJHG2019	PASS (genotyping)	n/a
-GRA020	GRA020	n/a	Spain	Catalonia, Terres de l'Ebre	n/a	0.48119	40.54484	n/a	n/a	n/a	n/a	n/a	n/a	modern	n/a	OtherCapture	haploid	Spanish	M	553500	n/a	n/a	n/a	n/a	n/a	ds	n/a	n/a	n/a	n/a	n/a	n/a	BiaginiEJHG2019	PASS (genotyping)	n/a
-GRA029	GRA029	n/a	Spain	Catalonia, Pirineu	n/a	1.67522	42.34991	n/a	n/a	n/a	n/a	n/a	n/a	modern	n/a	OtherCapture	haploid	Spanish	M	554884	n/a	n/a	n/a	n/a	n/a	ds	n/a	n/a	n/a	n/a	n/a	n/a	BiaginiEJHG2019	PASS (genotyping)	n/a
-GRA035	GRA035	n/a	Spain	Catalonia, Camp de Tarragona	n/a	1.0884	41.38617	n/a	n/a	n/a	n/a	n/a	n/a	modern	n/a	OtherCapture	haploid	Spanish	M	553378	n/a	n/a	n/a	n/a	n/a	ds	n/a	n/a	n/a	n/a	n/a	n/a	BiaginiEJHG2019	PASS (genotyping)	n/a
-GRA135	GRA135	n/a	Spain	Balearic Islands, Eivissa	n/a	2.9594	39.5999	n/a	n/a	n/a	n/a	n/a	n/a	modern	n/a	OtherCapture	haploid	Spanish	M	555061	n/a	n/a	n/a	n/a	n/a	ds	n/a	n/a	n/a	n/a	n/a	n/a	BiaginiEJHG2019	PASS (genotyping)	n/a
-GUL190	GUL190	n/a	Spain	Catalonia, Camp de Tarragona	n/a	1.3971	41.14451	n/a	n/a	n/a	n/a	n/a	n/a	modern	n/a	OtherCapture	haploid	Spanish	M	555064	n/a	n/a	n/a	n/a	n/a	ds	n/a	n/a	n/a	n/a	n/a	n/a	BiaginiEJHG2019	PASS (genotyping)	n/a
-GUS007	GUS007	n/a	Spain	Balearic Islands, Eivissa	n/a	3.8375	40.0015	n/a	n/a	n/a	n/a	n/a	n/a	modern	n/a	OtherCapture	haploid	Spanish	M	554988	n/a	n/a	n/a	n/a	n/a	ds	n/a	n/a	n/a	n/a	n/a	n/a	BiaginiEJHG2019	PASS (genotyping)	n/a
-GUS008	GUS008	n/a	Spain	Catalonia, Terres de l'Ebre	n/a	0.49831	40.82039	n/a	n/a	n/a	n/a	n/a	n/a	modern	n/a	OtherCapture	haploid	Spanish	M	555164	n/a	n/a	n/a	n/a	n/a	ds	n/a	n/a	n/a	n/a	n/a	n/a	BiaginiEJHG2019	PASS (genotyping)	n/a
-GUS014	GUS014	n/a	Spain	Catalonia, Lleida	n/a	1.02216	41.55705	n/a	n/a	n/a	n/a	n/a	n/a	modern	n/a	OtherCapture	haploid	Spanish	M	554144	n/a	n/a	n/a	n/a	n/a	ds	n/a	n/a	n/a	n/a	n/a	n/a	BiaginiEJHG2019	PASS (genotyping)	n/a
-GUS029	GUS029	n/a	Spain	Catalonia, Pened√®s	n/a	1.94773	41.37268	n/a	n/a	n/a	n/a	n/a	n/a	modern	n/a	OtherCapture	haploid	Spanish	M	554976	n/a	n/a	n/a	n/a	n/a	ds	n/a	n/a	n/a	n/a	n/a	n/a	BiaginiEJHG2019	PASS (genotyping)	n/a
-GUS036	GUS036	n/a	Spain	Catalonia, Lleida	n/a	0.9185	41.54045	n/a	n/a	n/a	n/a	n/a	n/a	modern	n/a	OtherCapture	haploid	Spanish	M	555017	n/a	n/a	n/a	n/a	n/a	ds	n/a	n/a	n/a	n/a	n/a	n/a	BiaginiEJHG2019	PASS (genotyping)	n/a
-GUS040	GUS040	n/a	Spain	Catalonia, Barcelon√®s	n/a	2.16992	41.38792	n/a	n/a	n/a	n/a	n/a	n/a	modern	n/a	OtherCapture	haploid	Spanish	M	555084	n/a	n/a	n/a	n/a	n/a	ds	n/a	n/a	n/a	n/a	n/a	n/a	BiaginiEJHG2019	PASS (genotyping)	n/a
-GUS119	GUS119	n/a	Spain	Catalonia, Barcelon√®s	n/a	2.16992	41.38792	n/a	n/a	n/a	n/a	n/a	n/a	modern	n/a	OtherCapture	haploid	Spanish	M	555017	n/a	n/a	n/a	n/a	n/a	ds	n/a	n/a	n/a	n/a	n/a	n/a	BiaginiEJHG2019	PASS (genotyping)	n/a
-GUS199	GUS199	n/a	Spain	Balearic Islands, Eivissa	n/a	1.56496	39.03352	n/a	n/a	n/a	n/a	n/a	n/a	modern	n/a	OtherCapture	haploid	Spanish	M	552316	n/a	n/a	n/a	n/a	n/a	ds	n/a	n/a	n/a	n/a	n/a	n/a	BiaginiEJHG2019	PASS (genotyping)	n/a
-GUS202	GUS202	n/a	Spain	Catalonia, Camp de Tarragona	n/a	1.16824	41.41158	n/a	n/a	n/a	n/a	n/a	n/a	modern	n/a	OtherCapture	haploid	Spanish	M	553200	n/a	n/a	n/a	n/a	n/a	ds	n/a	n/a	n/a	n/a	n/a	n/a	BiaginiEJHG2019	PASS (genotyping)	n/a
-GUS203	GUS203	n/a	Spain	Balearic Islands, Eivissa	n/a	1.535	38.9853	n/a	n/a	n/a	n/a	n/a	n/a	modern	n/a	OtherCapture	haploid	Spanish	M	552097	n/a	n/a	n/a	n/a	n/a	ds	n/a	n/a	n/a	n/a	n/a	n/a	BiaginiEJHG2019	PASS (genotyping)	n/a
-MAS003	MAS003	n/a	Spain	Catalonia, Catalunya Central	n/a	1.8562	41.74348	n/a	n/a	n/a	n/a	n/a	n/a	modern	n/a	OtherCapture	haploid	Spanish	M	543371	n/a	n/a	n/a	n/a	n/a	ds	n/a	n/a	n/a	n/a	n/a	n/a	BiaginiEJHG2019	PASS (genotyping)	n/a
-MAS016	MAS016	n/a	Spain	Catalonia, Peri-Barcelona	n/a	2.45455	41.54622	n/a	n/a	n/a	n/a	n/a	n/a	modern	n/a	OtherCapture	haploid	Spanish	M	552745	n/a	n/a	n/a	n/a	n/a	ds	n/a	n/a	n/a	n/a	n/a	n/a	BiaginiEJHG2019	PASS (genotyping)	n/a
-MAS064	MAS064	n/a	Spain	Valencian Community, Alacant	n/a	-0.57922	38.16576	n/a	n/a	n/a	n/a	n/a	n/a	modern	n/a	OtherCapture	haploid	Spanish	M	553151	n/a	n/a	n/a	n/a	n/a	ds	n/a	n/a	n/a	n/a	n/a	n/a	BiaginiEJHG2019	PASS (genotyping)	n/a
-MAY035	MAY035	n/a	Spain	Balearic Islands, Eivissa	n/a	2.9079	39.7195	n/a	n/a	n/a	n/a	n/a	n/a	modern	n/a	OtherCapture	haploid	Spanish	M	554698	n/a	n/a	n/a	n/a	n/a	ds	n/a	n/a	n/a	n/a	n/a	n/a	BiaginiEJHG2019	PASS (genotyping)	n/a
-MEL022	MEL022	n/a	Spain	Balearic Islands, Eivissa	n/a	3.29922	39.64942	n/a	n/a	n/a	n/a	n/a	n/a	modern	n/a	OtherCapture	haploid	Spanish	M	549455	n/a	n/a	n/a	n/a	n/a	ds	n/a	n/a	n/a	n/a	n/a	n/a	BiaginiEJHG2019	PASS (genotyping)	n/a
-MIQ133	MIQ133	n/a	Spain	Catalonia, Lleida	n/a	0.98795	41.66488	n/a	n/a	n/a	n/a	n/a	n/a	modern	n/a	OtherCapture	haploid	Spanish	M	555088	n/a	n/a	n/a	n/a	n/a	ds	n/a	n/a	n/a	n/a	n/a	n/a	BiaginiEJHG2019	PASS (genotyping)	n/a
-MOR061	MOR061	n/a	Spain	Catalonia, Girona	n/a	2.51263	41.84801	n/a	n/a	n/a	n/a	n/a	n/a	modern	n/a	OtherCapture	haploid	Spanish	M	552920	n/a	n/a	n/a	n/a	n/a	ds	n/a	n/a	n/a	n/a	n/a	n/a	BiaginiEJHG2019	PASS (genotyping)	n/a
-MOR068	MOR068	n/a	Spain	Catalonia, Peri-Barcelona	n/a	2.34428	41.65194	n/a	n/a	n/a	n/a	n/a	n/a	modern	n/a	OtherCapture	haploid	Spanish	M	555028	n/a	n/a	n/a	n/a	n/a	ds	n/a	n/a	n/a	n/a	n/a	n/a	BiaginiEJHG2019	PASS (genotyping)	n/a
-MST073	MST073	n/a	Spain	Balearic Islands, Eivissa	n/a	3.2095	39.5698	n/a	n/a	n/a	n/a	n/a	n/a	modern	n/a	OtherCapture	haploid	Spanish	M	555009	n/a	n/a	n/a	n/a	n/a	ds	n/a	n/a	n/a	n/a	n/a	n/a	BiaginiEJHG2019	PASS (genotyping)	n/a
-MST075	MST075	n/a	Spain	Catalonia, Lleida	n/a	0.84277	41.4873	n/a	n/a	n/a	n/a	n/a	n/a	modern	n/a	OtherCapture	haploid	Spanish	M	554895	n/a	n/a	n/a	n/a	n/a	ds	n/a	n/a	n/a	n/a	n/a	n/a	BiaginiEJHG2019	PASS (genotyping)	n/a
-NAC135	NAC135	n/a	Spain	Valencian Community, Alacant	n/a	-0.52181	38.7733	n/a	n/a	n/a	n/a	n/a	n/a	modern	n/a	OtherCapture	haploid	Spanish	M	549888	n/a	n/a	n/a	n/a	n/a	ds	n/a	n/a	n/a	n/a	n/a	n/a	BiaginiEJHG2019	PASS (genotyping)	n/a
-PIT001	PIT001	n/a	Spain	Valencian Community, Castell√≥	n/a	-0.03737	40.07455	n/a	n/a	n/a	n/a	n/a	n/a	modern	n/a	OtherCapture	haploid	Spanish	M	555219	n/a	n/a	n/a	n/a	n/a	ds	n/a	n/a	n/a	n/a	n/a	n/a	BiaginiEJHG2019	PASS (genotyping)	n/a
-PON058	PON058	n/a	Spain	Balearic Islands, Eivissa	n/a	3.94342	39.9734	n/a	n/a	n/a	n/a	n/a	n/a	modern	n/a	OtherCapture	haploid	Spanish	M	554343	n/a	n/a	n/a	n/a	n/a	ds	n/a	n/a	n/a	n/a	n/a	n/a	BiaginiEJHG2019	PASS (genotyping)	n/a
-RAG111	RAG111	n/a	Spain	Catalonia, Terres de l'Ebre	n/a	0.44284	40.59736	n/a	n/a	n/a	n/a	n/a	n/a	modern	n/a	OtherCapture	haploid	Spanish	M	554849	n/a	n/a	n/a	n/a	n/a	ds	n/a	n/a	n/a	n/a	n/a	n/a	BiaginiEJHG2019	PASS (genotyping)	n/a
-REI087	REI087	n/a	Spain	Catalonia, Girona	n/a	2.43932	42.22502	n/a	n/a	n/a	n/a	n/a	n/a	modern	n/a	OtherCapture	haploid	Spanish	M	553441	n/a	n/a	n/a	n/a	n/a	ds	n/a	n/a	n/a	n/a	n/a	n/a	BiaginiEJHG2019	PASS (genotyping)	n/a
-RIC076	RIC076	n/a	Spain	Catalonia, Lleida	n/a	1.02927	41.70936	n/a	n/a	n/a	n/a	n/a	n/a	modern	n/a	OtherCapture	haploid	Spanish	M	554896	n/a	n/a	n/a	n/a	n/a	ds	n/a	n/a	n/a	n/a	n/a	n/a	BiaginiEJHG2019	PASS (genotyping)	n/a
-RIC106	RIC106	n/a	Spain	Catalonia, Peri-Barcelona	n/a	2.1885	41.48231	n/a	n/a	n/a	n/a	n/a	n/a	modern	n/a	OtherCapture	haploid	Spanish	M	554578	n/a	n/a	n/a	n/a	n/a	ds	n/a	n/a	n/a	n/a	n/a	n/a	BiaginiEJHG2019	PASS (genotyping)	n/a
-ROB016	ROB016	n/a	Spain	Catalonia, Pened√®s	n/a	1.76296	41.25036	n/a	n/a	n/a	n/a	n/a	n/a	modern	n/a	OtherCapture	haploid	Spanish	M	553684	n/a	n/a	n/a	n/a	n/a	ds	n/a	n/a	n/a	n/a	n/a	n/a	BiaginiEJHG2019	PASS (genotyping)	n/a
-ROB116	ROB116	n/a	Spain	Catalonia, Girona	n/a	2.77949	42.10481	n/a	n/a	n/a	n/a	n/a	n/a	modern	n/a	OtherCapture	haploid	Spanish	M	548361	n/a	n/a	n/a	n/a	n/a	ds	n/a	n/a	n/a	n/a	n/a	n/a	BiaginiEJHG2019	PASS (genotyping)	n/a
-ROB127	ROB127	n/a	Spain	Catalonia, Girona	n/a	2.83532	41.78069	n/a	n/a	n/a	n/a	n/a	n/a	modern	n/a	OtherCapture	haploid	Spanish	M	554490	n/a	n/a	n/a	n/a	n/a	ds	n/a	n/a	n/a	n/a	n/a	n/a	BiaginiEJHG2019	PASS (genotyping)	n/a
-ROI027	ROI027	n/a	Spain	Catalonia, Girona	n/a	3.08644	42.25629	n/a	n/a	n/a	n/a	n/a	n/a	modern	n/a	OtherCapture	haploid	Spanish	M	553726	n/a	n/a	n/a	n/a	n/a	ds	n/a	n/a	n/a	n/a	n/a	n/a	BiaginiEJHG2019	PASS (genotyping)	n/a
-ROI042	ROI042	n/a	Spain	Catalonia, Peri-Barcelona	n/a	1.98141	41.47467	n/a	n/a	n/a	n/a	n/a	n/a	modern	n/a	OtherCapture	haploid	Spanish	M	554439	n/a	n/a	n/a	n/a	n/a	ds	n/a	n/a	n/a	n/a	n/a	n/a	BiaginiEJHG2019	PASS (genotyping)	n/a
-ROI096	ROI096	n/a	Spain	Balearic Islands, Eivissa	n/a	3.0239	39.5156	n/a	n/a	n/a	n/a	n/a	n/a	modern	n/a	OtherCapture	haploid	Spanish	M	551907	n/a	n/a	n/a	n/a	n/a	ds	n/a	n/a	n/a	n/a	n/a	n/a	BiaginiEJHG2019	PASS (genotyping)	n/a
-ROS005	ROS005	n/a	Spain	Catalonia, Lleida	n/a	0.99327	41.82496	n/a	n/a	n/a	n/a	n/a	n/a	modern	n/a	OtherCapture	haploid	Spanish	M	555005	n/a	n/a	n/a	n/a	n/a	ds	n/a	n/a	n/a	n/a	n/a	n/a	BiaginiEJHG2019	PASS (genotyping)	n/a
-ROS008	ROS008	n/a	Spain	Catalonia, Peri-Barcelona	n/a	2.0381	41.34692	n/a	n/a	n/a	n/a	n/a	n/a	modern	n/a	OtherCapture	haploid	Spanish	M	554212	n/a	n/a	n/a	n/a	n/a	ds	n/a	n/a	n/a	n/a	n/a	n/a	BiaginiEJHG2019	PASS (genotyping)	n/a
-ROS025	ROS025	n/a	Spain	Catalonia, Pened√®s	n/a	1.61667	41.48333	n/a	n/a	n/a	n/a	n/a	n/a	modern	n/a	OtherCapture	haploid	Spanish	M	554237	n/a	n/a	n/a	n/a	n/a	ds	n/a	n/a	n/a	n/a	n/a	n/a	BiaginiEJHG2019	PASS (genotyping)	n/a
-SAB009	SAB009	n/a	Spain	Catalonia, Terres de l'Ebre	n/a	0.60054	41.00267	n/a	n/a	n/a	n/a	n/a	n/a	modern	n/a	OtherCapture	haploid	Spanish	M	549834	n/a	n/a	n/a	n/a	n/a	ds	n/a	n/a	n/a	n/a	n/a	n/a	BiaginiEJHG2019	PASS (genotyping)	n/a
-SAB014	SAB014	n/a	Spain	Catalonia, Pened√®s	n/a	1.75369	41.45572	n/a	n/a	n/a	n/a	n/a	n/a	modern	n/a	OtherCapture	haploid	Spanish	M	554267	n/a	n/a	n/a	n/a	n/a	ds	n/a	n/a	n/a	n/a	n/a	n/a	BiaginiEJHG2019	PASS (genotyping)	n/a
-SAB019	SAB019	n/a	Spain	Valencian Community, Castell√≥	n/a	-0.08369	39.88987	n/a	n/a	n/a	n/a	n/a	n/a	modern	n/a	OtherCapture	haploid	Spanish	M	555025	n/a	n/a	n/a	n/a	n/a	ds	n/a	n/a	n/a	n/a	n/a	n/a	BiaginiEJHG2019	PASS (genotyping)	n/a
-SAB131	SAB131	n/a	Spain	Catalonia, Terres de l'Ebre	n/a	0.49062	40.90643	n/a	n/a	n/a	n/a	n/a	n/a	modern	n/a	OtherCapture	haploid	Spanish	M	554603	n/a	n/a	n/a	n/a	n/a	ds	n/a	n/a	n/a	n/a	n/a	n/a	BiaginiEJHG2019	PASS (genotyping)	n/a
-SAB137	SAB137	n/a	Spain	Catalonia, Pirineu	n/a	0.97092	42.30884	n/a	n/a	n/a	n/a	n/a	n/a	modern	n/a	OtherCapture	haploid	Spanish	M	553019	n/a	n/a	n/a	n/a	n/a	ds	n/a	n/a	n/a	n/a	n/a	n/a	BiaginiEJHG2019	PASS (genotyping)	n/a
-SER011	SER011	n/a	Spain	Catalonia, Pirineu	n/a	1.76142	42.35558	n/a	n/a	n/a	n/a	n/a	n/a	modern	n/a	OtherCapture	haploid	Spanish	M	549734	n/a	n/a	n/a	n/a	n/a	ds	n/a	n/a	n/a	n/a	n/a	n/a	BiaginiEJHG2019	PASS (genotyping)	n/a
-SER015	SER015	n/a	Spain	Catalonia, Barcelon√®s	n/a	2.16992	41.38792	n/a	n/a	n/a	n/a	n/a	n/a	modern	n/a	OtherCapture	haploid	Spanish	M	552560	n/a	n/a	n/a	n/a	n/a	ds	n/a	n/a	n/a	n/a	n/a	n/a	BiaginiEJHG2019	PASS (genotyping)	n/a
-SER018	SER018	n/a	Spain	Catalonia, Girona	n/a	2.48819	42.18211	n/a	n/a	n/a	n/a	n/a	n/a	modern	n/a	OtherCapture	haploid	Spanish	M	550485	n/a	n/a	n/a	n/a	n/a	ds	n/a	n/a	n/a	n/a	n/a	n/a	BiaginiEJHG2019	PASS (genotyping)	n/a
-SER022	SER022	n/a	Spain	Catalonia, Pened√®s	n/a	1.72153	41.52662	n/a	n/a	n/a	n/a	n/a	n/a	modern	n/a	OtherCapture	haploid	Spanish	M	551927	n/a	n/a	n/a	n/a	n/a	ds	n/a	n/a	n/a	n/a	n/a	n/a	BiaginiEJHG2019	PASS (genotyping)	n/a
-SER027	SER027	n/a	Spain	Catalonia, Peri-Barcelona	n/a	2.40056	41.55555	n/a	n/a	n/a	n/a	n/a	n/a	modern	n/a	OtherCapture	haploid	Spanish	M	555091	n/a	n/a	n/a	n/a	n/a	ds	n/a	n/a	n/a	n/a	n/a	n/a	BiaginiEJHG2019	PASS (genotyping)	n/a
-SER064	SER064	n/a	Spain	Balearic Islands, Eivissa	n/a	1.4283	38.7055	n/a	n/a	n/a	n/a	n/a	n/a	modern	n/a	OtherCapture	haploid	Spanish	M	552762	n/a	n/a	n/a	n/a	n/a	ds	n/a	n/a	n/a	n/a	n/a	n/a	BiaginiEJHG2019	PASS (genotyping)	n/a
-SLA017	SLA017	n/a	Spain	Valencian Community, Alacant	n/a	-0.80438	38.39289	n/a	n/a	n/a	n/a	n/a	n/a	modern	n/a	OtherCapture	haploid	Spanish	M	555086	n/a	n/a	n/a	n/a	n/a	ds	n/a	n/a	n/a	n/a	n/a	n/a	BiaginiEJHG2019	PASS (genotyping)	n/a
-SLM078	SLM078	n/a	Spain	Balearic Islands, Eivissa	n/a	3.08345	39.66087	n/a	n/a	n/a	n/a	n/a	n/a	modern	n/a	OtherCapture	haploid	Spanish	M	550572	n/a	n/a	n/a	n/a	n/a	ds	n/a	n/a	n/a	n/a	n/a	n/a	BiaginiEJHG2019	PASS (genotyping)	n/a
-SOL051	SOL051	n/a	Spain	Catalonia, Catalunya Central	n/a	1.76338	41.76563	n/a	n/a	n/a	n/a	n/a	n/a	modern	n/a	OtherCapture	haploid	Spanish	M	553715	n/a	n/a	n/a	n/a	n/a	ds	n/a	n/a	n/a	n/a	n/a	n/a	BiaginiEJHG2019	PASS (genotyping)	n/a
-SOL053	SOL053	n/a	Spain	Balearic Islands, Eivissa	n/a	3.03222	39.7609	n/a	n/a	n/a	n/a	n/a	n/a	modern	n/a	OtherCapture	haploid	Spanish	M	555002	n/a	n/a	n/a	n/a	n/a	ds	n/a	n/a	n/a	n/a	n/a	n/a	BiaginiEJHG2019	PASS (genotyping)	n/a
-SOL083	SOL083	n/a	Spain	Catalonia, Catalunya Central	n/a	1.7832	41.98044	n/a	n/a	n/a	n/a	n/a	n/a	modern	n/a	OtherCapture	haploid	Spanish	M	554476	n/a	n/a	n/a	n/a	n/a	ds	n/a	n/a	n/a	n/a	n/a	n/a	BiaginiEJHG2019	PASS (genotyping)	n/a
-SOL084	SOL084	n/a	Spain	Valencian Community, Val√®ncia	n/a	-0.45603	38.95492	n/a	n/a	n/a	n/a	n/a	n/a	modern	n/a	OtherCapture	haploid	Spanish	M	548532	n/a	n/a	n/a	n/a	n/a	ds	n/a	n/a	n/a	n/a	n/a	n/a	BiaginiEJHG2019	PASS (genotyping)	n/a
-STC091	STC091	n/a	Spain	Catalonia, Pened√®s	n/a	1.66646	41.46383	n/a	n/a	n/a	n/a	n/a	n/a	modern	n/a	OtherCapture	haploid	Spanish	M	554869	n/a	n/a	n/a	n/a	n/a	ds	n/a	n/a	n/a	n/a	n/a	n/a	BiaginiEJHG2019	PASS (genotyping)	n/a
-VID003	VID003	n/a	Spain	Catalonia, Pened√®s	n/a	1.57728	41.23992	n/a	n/a	n/a	n/a	n/a	n/a	modern	n/a	OtherCapture	haploid	Spanish	M	553990	n/a	n/a	n/a	n/a	n/a	ds	n/a	n/a	n/a	n/a	n/a	n/a	BiaginiEJHG2019	PASS (genotyping)	n/a
-VID014	VID014	n/a	Spain	Catalonia, Barcelon√®s	n/a	2.24742	41.45014	n/a	n/a	n/a	n/a	n/a	n/a	modern	n/a	OtherCapture	haploid	Spanish	M	551453	n/a	n/a	n/a	n/a	n/a	ds	n/a	n/a	n/a	n/a	n/a	n/a	BiaginiEJHG2019	PASS (genotyping)	n/a
-VID016	VID016	n/a	Spain	Catalonia, Girona	n/a	2.70466	42.00718	n/a	n/a	n/a	n/a	n/a	n/a	modern	n/a	OtherCapture	haploid	Spanish	M	555078	n/a	n/a	n/a	n/a	n/a	ds	n/a	n/a	n/a	n/a	n/a	n/a	BiaginiEJHG2019	PASS (genotyping)	n/a
-VID037	VID037	n/a	Spain	Catalonia, Pened√®s	n/a	1.48652	41.70608	n/a	n/a	n/a	n/a	n/a	n/a	modern	n/a	OtherCapture	haploid	Spanish	M	554921	n/a	n/a	n/a	n/a	n/a	ds	n/a	n/a	n/a	n/a	n/a	n/a	BiaginiEJHG2019	PASS (genotyping)	n/a
-VID044	VID044	n/a	Spain	Catalonia, Catalunya Central	n/a	2.2262	42.33115	n/a	n/a	n/a	n/a	n/a	n/a	modern	n/a	OtherCapture	haploid	Spanish	M	554293	n/a	n/a	n/a	n/a	n/a	ds	n/a	n/a	n/a	n/a	n/a	n/a	BiaginiEJHG2019	PASS (genotyping)	n/a
-VID048	VID048	n/a	Spain	Catalonia, Camp de Tarragona	n/a	1.145	41.11095	n/a	n/a	n/a	n/a	n/a	n/a	modern	n/a	OtherCapture	haploid	Spanish	M	551567	n/a	n/a	n/a	n/a	n/a	ds	n/a	n/a	n/a	n/a	n/a	n/a	BiaginiEJHG2019	PASS (genotyping)	n/a
-VID057	VID057	n/a	Spain	Catalonia, Catalunya Central	n/a	1.88912	41.91361	n/a	n/a	n/a	n/a	n/a	n/a	modern	n/a	OtherCapture	haploid	Spanish	M	554924	n/a	n/a	n/a	n/a	n/a	ds	n/a	n/a	n/a	n/a	n/a	n/a	BiaginiEJHG2019	PASS (genotyping)	n/a
-EIV009_2	EIV009_2	n/a	Spain	Balearic Islands, Eivissa	n/a	1.4182	38.9794	n/a	n/a	n/a	n/a	n/a	n/a	modern	n/a	OtherCapture	haploid	Spanish	M	548558	n/a	n/a	n/a	n/a	n/a	ds	n/a	n/a	n/a	n/a	n/a	n/a	BiaginiEJHG2019	PASS (genotyping)	n/a
-EIV010_2	EIV010_2	n/a	Spain	Balearic Islands, Eivissa	n/a	1.39867	38.96208	n/a	n/a	n/a	n/a	n/a	n/a	modern	n/a	OtherCapture	haploid	Spanish	F	552562	n/a	n/a	n/a	n/a	n/a	ds	n/a	n/a	n/a	n/a	n/a	n/a	BiaginiEJHG2019	PASS (genotyping)	n/a
-EIV011_2	EIV011_2	n/a	Spain	Balearic Islands, Eivissa	n/a	1.38387	38.9069	n/a	n/a	n/a	n/a	n/a	n/a	modern	n/a	OtherCapture	haploid	Spanish	F	553098	n/a	n/a	n/a	n/a	n/a	ds	n/a	n/a	n/a	n/a	n/a	n/a	BiaginiEJHG2019	PASS (genotyping)	n/a
-EIV001_2	EIV001_2	n/a	Spain	Balearic Islands, Eivissa	n/a	1.4727	38.94267	n/a	n/a	n/a	n/a	n/a	n/a	modern	n/a	OtherCapture	haploid	Spanish	M	554994	n/a	n/a	n/a	n/a	n/a	ds	n/a	n/a	n/a	n/a	n/a	n/a	BiaginiEJHG2019	PASS (genotyping)	n/a
-EIV004_2	EIV004_2	n/a	Spain	Balearic Islands, Eivissa	n/a	1.42463	38.90897	n/a	n/a	n/a	n/a	n/a	n/a	modern	n/a	OtherCapture	haploid	Spanish	M	554896	n/a	n/a	n/a	n/a	n/a	ds	n/a	n/a	n/a	n/a	n/a	n/a	BiaginiEJHG2019	PASS (genotyping)	n/a
-EIV012_2	EIV012_2	n/a	Spain	Balearic Islands, Eivissa	n/a	1.40516	38.9488	n/a	n/a	n/a	n/a	n/a	n/a	modern	n/a	OtherCapture	haploid	Spanish	F	554232	n/a	n/a	n/a	n/a	n/a	ds	n/a	n/a	n/a	n/a	n/a	n/a	BiaginiEJHG2019	PASS (genotyping)	n/a
-EIV013_2	EIV013_2	n/a	Spain	Balearic Islands, Eivissa	n/a	1.42463	38.90897	n/a	n/a	n/a	n/a	n/a	n/a	modern	n/a	OtherCapture	haploid	Spanish	F	553839	n/a	n/a	n/a	n/a	n/a	ds	n/a	n/a	n/a	n/a	n/a	n/a	BiaginiEJHG2019	PASS (genotyping)	n/a
-EIV014_2	EIV014_2	n/a	Spain	Balearic Islands, Eivissa	n/a	1.42106	38.94624	n/a	n/a	n/a	n/a	n/a	n/a	modern	n/a	OtherCapture	haploid	Spanish	M	554528	n/a	n/a	n/a	n/a	n/a	ds	n/a	n/a	n/a	n/a	n/a	n/a	BiaginiEJHG2019	PASS (genotyping)	n/a
-EIV015_2	EIV015_2	n/a	Spain	Balearic Islands, Eivissa	n/a	1.51383	38.98979	n/a	n/a	n/a	n/a	n/a	n/a	modern	n/a	OtherCapture	haploid	Spanish	F	554311	n/a	n/a	n/a	n/a	n/a	ds	n/a	n/a	n/a	n/a	n/a	n/a	BiaginiEJHG2019	PASS (genotyping)	n/a
+Poseidon_ID	Genetic_Sex	Group_Name	Collection_ID	Country	Location	Latitude	Longitude	Date_Type	Capture_Type	Library_Built	Genotype_Ploidy	Nr_SNPs	Publication	Note
+ALB126	M	Spanish	ALB126	Spain	Valencian Community, Val√®ncia	-0.43562	39.57764	modern	OtherCapture	ds	haploid	554054	BiaginiEJHG2019	PASS (genotyping)
+ALB231	M	Spanish	ALB231	Spain	Valencian Community, Castell√≥	-0.09371	40.3303	modern	OtherCapture	ds	haploid	551682	BiaginiEJHG2019	PASS (genotyping)
+ALB389	M	Spanish	ALB389	Spain	Valencian Community, Val√®ncia	-0.44968	39.12122	modern	OtherCapture	ds	haploid	552707	BiaginiEJHG2019	PASS (genotyping)
+ALE005	M	Spanish	ALE005	Spain	Valencian Community, Alacant	-0.16989	38.83273	modern	OtherCapture	ds	haploid	547830	BiaginiEJHG2019	PASS (genotyping)
+ALE009	M	Spanish	ALE009	Spain	Valencian Community, Alacant	-0.10025	38.80177	modern	OtherCapture	ds	haploid	553095	BiaginiEJHG2019	PASS (genotyping)
+ALE088	M	Spanish	ALE088	Spain	Catalonia, Pened√®s	1.62349	41.53126	modern	OtherCapture	ds	haploid	554785	BiaginiEJHG2019	PASS (genotyping)
+ALE339	M	Spanish	ALE339	Spain	Balearic Islands, Eivissa	2.4202	39.5745	modern	OtherCapture	ds	haploid	554196	BiaginiEJHG2019	PASS (genotyping)
+ARM005	M	Spanish	ARM005	Spain	Catalonia, Peri-Barcelona	2.00961	41.39113	modern	OtherCapture	ds	haploid	553529	BiaginiEJHG2019	PASS (genotyping)
+BON076	M	Spanish	BON076	Spain	Valencian Community, Val√®ncia	-0.3768	39.47024	modern	OtherCapture	ds	haploid	549228	BiaginiEJHG2019	PASS (genotyping)
+BOS010	M	Spanish	BOS010	Spain	Valencian Community, Val√®ncia	-0.7452	39.49645	modern	OtherCapture	ds	haploid	552132	BiaginiEJHG2019	PASS (genotyping)
+BOS011	M	Spanish	BOS011	Spain	Catalonia, Girona	2.94939	42.32317	modern	OtherCapture	ds	haploid	554238	BiaginiEJHG2019	PASS (genotyping)
+BOS015	M	Spanish	BOS015	Spain	Catalonia, Pened√®s	1.81122	41.23478	modern	OtherCapture	ds	haploid	554639	BiaginiEJHG2019	PASS (genotyping)
+BOS027	M	Spanish	BOS027	Spain	Valencian Community, Castell√≥	-0.21302	40.07278	modern	OtherCapture	ds	haploid	549526	BiaginiEJHG2019	PASS (genotyping)
+BOS029	M	Spanish	BOS029	Spain	Catalonia, Peri-Barcelona	2.0431	41.34738	modern	OtherCapture	ds	haploid	553546	BiaginiEJHG2019	PASS (genotyping)
+CAL026	M	Spanish	CAL026	Spain	Balearic Islands, Eivissa	2.59463	39.55273	modern	OtherCapture	ds	haploid	554902	BiaginiEJHG2019	PASS (genotyping)
+CAL053	M	Spanish	CAL053	Spain	Catalonia, Peri-Barcelona	2.42292	41.54653	modern	OtherCapture	ds	haploid	553156	BiaginiEJHG2019	PASS (genotyping)
+CAL107	M	Spanish	CAL107	Spain	Catalonia, Catalunya Central	1.78477	41.7353	modern	OtherCapture	ds	haploid	555061	BiaginiEJHG2019	PASS (genotyping)
+CAR007	M	Spanish	CAR007	Spain	Catalonia, Catalunya Central	1.50437	41.99556	modern	OtherCapture	ds	haploid	555012	BiaginiEJHG2019	PASS (genotyping)
+CAR016	M	Spanish	CAR016	Spain	Catalonia, Pirineu	1.02081	42.39928	modern	OtherCapture	ds	haploid	555082	BiaginiEJHG2019	PASS (genotyping)
+CAR023	M	Spanish	CAR023	Spain	Valencian Community, Castell√≥	0.04623	40.60295	modern	OtherCapture	ds	haploid	555116	BiaginiEJHG2019	PASS (genotyping)
+CAR048	M	Spanish	CAR048	Spain	Catalonia, Catalunya Central	1.54159	42.0016	modern	OtherCapture	ds	haploid	555119	BiaginiEJHG2019	PASS (genotyping)
+CAR200	M	Spanish	CAR200	Spain	Valencian Community, Castell√≥	0.17697	40.61301	modern	OtherCapture	ds	haploid	555029	BiaginiEJHG2019	PASS (genotyping)
+CAR212	M	Spanish	CAR212	Spain	Catalonia, Pirineu	0.93614	42.30008	modern	OtherCapture	ds	haploid	554858	BiaginiEJHG2019	PASS (genotyping)
+CAR256	M	Spanish	CAR256	Spain	Balearic Islands, Eivissa	1.39264	38.94886	modern	OtherCapture	ds	haploid	554964	BiaginiEJHG2019	PASS (genotyping)
+CAR257	M	Spanish	CAR257	Spain	Valencian Community, Alacant	0.05337	38.71623	modern	OtherCapture	ds	haploid	554994	BiaginiEJHG2019	PASS (genotyping)
+COD068	M	Spanish	COD068	Spain	Catalonia, Catalunya Central	2.22134	42.00559	modern	OtherCapture	ds	haploid	553801	BiaginiEJHG2019	PASS (genotyping)
+COD147	M	Spanish	COD147	Spain	Catalonia, Barcelon√®s	2.16992	41.38792	modern	OtherCapture	ds	haploid	554342	BiaginiEJHG2019	PASS (genotyping)
+COM032	M	Spanish	COM032	Spain	Catalonia, Peri-Barcelona	2.44528	41.5375	modern	OtherCapture	ds	haploid	554986	BiaginiEJHG2019	PASS (genotyping)
+DAN072	M	Spanish	DAN072	Spain	Catalonia, Girona	3.17481	42.26297	modern	OtherCapture	ds	haploid	554867	BiaginiEJHG2019	PASS (genotyping)
+EST038	M	Spanish	EST038	Spain	Valencian Community, Val√®ncia	-0.22249	38.92198	modern	OtherCapture	ds	haploid	554511	BiaginiEJHG2019	PASS (genotyping)
+EST093	M	Spanish	EST093	Spain	Valencian Community, Val√®ncia	-0.64479	38.85261	modern	OtherCapture	ds	haploid	554826	BiaginiEJHG2019	PASS (genotyping)
+FER007	M	Spanish	FER007	Spain	Catalonia, Lleida	1.18443	41.56411	modern	OtherCapture	ds	haploid	554840	BiaginiEJHG2019	PASS (genotyping)
+FER015	M	Spanish	FER015	Spain	Catalonia, Lleida	0.82541	41.54811	modern	OtherCapture	ds	haploid	551147	BiaginiEJHG2019	PASS (genotyping)
+FER023	M	Spanish	FER023	Spain	Catalonia, Pened√®s	1.59314	41.61102	modern	OtherCapture	ds	haploid	543622	BiaginiEJHG2019	PASS (genotyping)
+FER033	M	Spanish	FER033	Spain	Valencian Community, Castell√≥	0.25288	40.61385	modern	OtherCapture	ds	haploid	554844	BiaginiEJHG2019	PASS (genotyping)
+FER039	M	Spanish	FER039	Spain	Catalonia, Camp de Tarragona	1.10868	41.15482	modern	OtherCapture	ds	haploid	543958	BiaginiEJHG2019	PASS (genotyping)
+FER052	M	Spanish	FER052	Spain	Catalonia, Girona	2.81532	41.85362	modern	OtherCapture	ds	haploid	554945	BiaginiEJHG2019	PASS (genotyping)
+FER054	M	Spanish	FER054	Spain	Balearic Islands, Eivissa	3.8375	40.0015	modern	OtherCapture	ds	haploid	553503	BiaginiEJHG2019	PASS (genotyping)
+FER097	M	Spanish	FER097	Spain	Valencian Community, Val√®ncia	-0.35279	39.52642	modern	OtherCapture	ds	haploid	554263	BiaginiEJHG2019	PASS (genotyping)
+FER101	M	Spanish	FER101	Spain	Catalonia, Pirineu	1.09994	42.57829	modern	OtherCapture	ds	haploid	550257	BiaginiEJHG2019	PASS (genotyping)
+FOR066	M	Spanish	FOR066	Spain	Catalonia, Lleida	0.73134	41.88157	modern	OtherCapture	ds	haploid	553555	BiaginiEJHG2019	PASS (genotyping)
+FOR067	M	Spanish	FOR067	Spain	Catalonia, Camp de Tarragona	1.05581	41.13861	modern	OtherCapture	ds	haploid	554834	BiaginiEJHG2019	PASS (genotyping)
+FOR094	M	Spanish	FOR094	Spain	Catalonia, Camp de Tarragona	0.976	41.16768	modern	OtherCapture	ds	haploid	548884	BiaginiEJHG2019	PASS (genotyping)
+GRA011	M	Spanish	GRA011	Spain	Catalonia, Camp de Tarragona	1.32111	41.37015	modern	OtherCapture	ds	haploid	549485	BiaginiEJHG2019	PASS (genotyping)
+GRA016	M	Spanish	GRA016	Spain	Valencian Community, Val√®ncia	-0.26772	39.07167	modern	OtherCapture	ds	haploid	554697	BiaginiEJHG2019	PASS (genotyping)
+GRA020	M	Spanish	GRA020	Spain	Catalonia, Terres de l'Ebre	0.48119	40.54484	modern	OtherCapture	ds	haploid	553500	BiaginiEJHG2019	PASS (genotyping)
+GRA029	M	Spanish	GRA029	Spain	Catalonia, Pirineu	1.67522	42.34991	modern	OtherCapture	ds	haploid	554884	BiaginiEJHG2019	PASS (genotyping)
+GRA035	M	Spanish	GRA035	Spain	Catalonia, Camp de Tarragona	1.0884	41.38617	modern	OtherCapture	ds	haploid	553378	BiaginiEJHG2019	PASS (genotyping)
+GRA135	M	Spanish	GRA135	Spain	Balearic Islands, Eivissa	2.9594	39.5999	modern	OtherCapture	ds	haploid	555061	BiaginiEJHG2019	PASS (genotyping)
+GUL190	M	Spanish	GUL190	Spain	Catalonia, Camp de Tarragona	1.3971	41.14451	modern	OtherCapture	ds	haploid	555064	BiaginiEJHG2019	PASS (genotyping)
+GUS007	M	Spanish	GUS007	Spain	Balearic Islands, Eivissa	3.8375	40.0015	modern	OtherCapture	ds	haploid	554988	BiaginiEJHG2019	PASS (genotyping)
+GUS008	M	Spanish	GUS008	Spain	Catalonia, Terres de l'Ebre	0.49831	40.82039	modern	OtherCapture	ds	haploid	555164	BiaginiEJHG2019	PASS (genotyping)
+GUS014	M	Spanish	GUS014	Spain	Catalonia, Lleida	1.02216	41.55705	modern	OtherCapture	ds	haploid	554144	BiaginiEJHG2019	PASS (genotyping)
+GUS029	M	Spanish	GUS029	Spain	Catalonia, Pened√®s	1.94773	41.37268	modern	OtherCapture	ds	haploid	554976	BiaginiEJHG2019	PASS (genotyping)
+GUS036	M	Spanish	GUS036	Spain	Catalonia, Lleida	0.9185	41.54045	modern	OtherCapture	ds	haploid	555017	BiaginiEJHG2019	PASS (genotyping)
+GUS040	M	Spanish	GUS040	Spain	Catalonia, Barcelon√®s	2.16992	41.38792	modern	OtherCapture	ds	haploid	555084	BiaginiEJHG2019	PASS (genotyping)
+GUS119	M	Spanish	GUS119	Spain	Catalonia, Barcelon√®s	2.16992	41.38792	modern	OtherCapture	ds	haploid	555017	BiaginiEJHG2019	PASS (genotyping)
+GUS199	M	Spanish	GUS199	Spain	Balearic Islands, Eivissa	1.56496	39.03352	modern	OtherCapture	ds	haploid	552316	BiaginiEJHG2019	PASS (genotyping)
+GUS202	M	Spanish	GUS202	Spain	Catalonia, Camp de Tarragona	1.16824	41.41158	modern	OtherCapture	ds	haploid	553200	BiaginiEJHG2019	PASS (genotyping)
+GUS203	M	Spanish	GUS203	Spain	Balearic Islands, Eivissa	1.535	38.9853	modern	OtherCapture	ds	haploid	552097	BiaginiEJHG2019	PASS (genotyping)
+MAS003	M	Spanish	MAS003	Spain	Catalonia, Catalunya Central	1.8562	41.74348	modern	OtherCapture	ds	haploid	543371	BiaginiEJHG2019	PASS (genotyping)
+MAS016	M	Spanish	MAS016	Spain	Catalonia, Peri-Barcelona	2.45455	41.54622	modern	OtherCapture	ds	haploid	552745	BiaginiEJHG2019	PASS (genotyping)
+MAS064	M	Spanish	MAS064	Spain	Valencian Community, Alacant	-0.57922	38.16576	modern	OtherCapture	ds	haploid	553151	BiaginiEJHG2019	PASS (genotyping)
+MAY035	M	Spanish	MAY035	Spain	Balearic Islands, Eivissa	2.9079	39.7195	modern	OtherCapture	ds	haploid	554698	BiaginiEJHG2019	PASS (genotyping)
+MEL022	M	Spanish	MEL022	Spain	Balearic Islands, Eivissa	3.29922	39.64942	modern	OtherCapture	ds	haploid	549455	BiaginiEJHG2019	PASS (genotyping)
+MIQ133	M	Spanish	MIQ133	Spain	Catalonia, Lleida	0.98795	41.66488	modern	OtherCapture	ds	haploid	555088	BiaginiEJHG2019	PASS (genotyping)
+MOR061	M	Spanish	MOR061	Spain	Catalonia, Girona	2.51263	41.84801	modern	OtherCapture	ds	haploid	552920	BiaginiEJHG2019	PASS (genotyping)
+MOR068	M	Spanish	MOR068	Spain	Catalonia, Peri-Barcelona	2.34428	41.65194	modern	OtherCapture	ds	haploid	555028	BiaginiEJHG2019	PASS (genotyping)
+MST073	M	Spanish	MST073	Spain	Balearic Islands, Eivissa	3.2095	39.5698	modern	OtherCapture	ds	haploid	555009	BiaginiEJHG2019	PASS (genotyping)
+MST075	M	Spanish	MST075	Spain	Catalonia, Lleida	0.84277	41.4873	modern	OtherCapture	ds	haploid	554895	BiaginiEJHG2019	PASS (genotyping)
+NAC135	M	Spanish	NAC135	Spain	Valencian Community, Alacant	-0.52181	38.7733	modern	OtherCapture	ds	haploid	549888	BiaginiEJHG2019	PASS (genotyping)
+PIT001	M	Spanish	PIT001	Spain	Valencian Community, Castell√≥	-0.03737	40.07455	modern	OtherCapture	ds	haploid	555219	BiaginiEJHG2019	PASS (genotyping)
+PON058	M	Spanish	PON058	Spain	Balearic Islands, Eivissa	3.94342	39.9734	modern	OtherCapture	ds	haploid	554343	BiaginiEJHG2019	PASS (genotyping)
+RAG111	M	Spanish	RAG111	Spain	Catalonia, Terres de l'Ebre	0.44284	40.59736	modern	OtherCapture	ds	haploid	554849	BiaginiEJHG2019	PASS (genotyping)
+REI087	M	Spanish	REI087	Spain	Catalonia, Girona	2.43932	42.22502	modern	OtherCapture	ds	haploid	553441	BiaginiEJHG2019	PASS (genotyping)
+RIC076	M	Spanish	RIC076	Spain	Catalonia, Lleida	1.02927	41.70936	modern	OtherCapture	ds	haploid	554896	BiaginiEJHG2019	PASS (genotyping)
+RIC106	M	Spanish	RIC106	Spain	Catalonia, Peri-Barcelona	2.1885	41.48231	modern	OtherCapture	ds	haploid	554578	BiaginiEJHG2019	PASS (genotyping)
+ROB016	M	Spanish	ROB016	Spain	Catalonia, Pened√®s	1.76296	41.25036	modern	OtherCapture	ds	haploid	553684	BiaginiEJHG2019	PASS (genotyping)
+ROB116	M	Spanish	ROB116	Spain	Catalonia, Girona	2.77949	42.10481	modern	OtherCapture	ds	haploid	548361	BiaginiEJHG2019	PASS (genotyping)
+ROB127	M	Spanish	ROB127	Spain	Catalonia, Girona	2.83532	41.78069	modern	OtherCapture	ds	haploid	554490	BiaginiEJHG2019	PASS (genotyping)
+ROI027	M	Spanish	ROI027	Spain	Catalonia, Girona	3.08644	42.25629	modern	OtherCapture	ds	haploid	553726	BiaginiEJHG2019	PASS (genotyping)
+ROI042	M	Spanish	ROI042	Spain	Catalonia, Peri-Barcelona	1.98141	41.47467	modern	OtherCapture	ds	haploid	554439	BiaginiEJHG2019	PASS (genotyping)
+ROI096	M	Spanish	ROI096	Spain	Balearic Islands, Eivissa	3.0239	39.5156	modern	OtherCapture	ds	haploid	551907	BiaginiEJHG2019	PASS (genotyping)
+ROS005	M	Spanish	ROS005	Spain	Catalonia, Lleida	0.99327	41.82496	modern	OtherCapture	ds	haploid	555005	BiaginiEJHG2019	PASS (genotyping)
+ROS008	M	Spanish	ROS008	Spain	Catalonia, Peri-Barcelona	2.0381	41.34692	modern	OtherCapture	ds	haploid	554212	BiaginiEJHG2019	PASS (genotyping)
+ROS025	M	Spanish	ROS025	Spain	Catalonia, Pened√®s	1.61667	41.48333	modern	OtherCapture	ds	haploid	554237	BiaginiEJHG2019	PASS (genotyping)
+SAB009	M	Spanish	SAB009	Spain	Catalonia, Terres de l'Ebre	0.60054	41.00267	modern	OtherCapture	ds	haploid	549834	BiaginiEJHG2019	PASS (genotyping)
+SAB014	M	Spanish	SAB014	Spain	Catalonia, Pened√®s	1.75369	41.45572	modern	OtherCapture	ds	haploid	554267	BiaginiEJHG2019	PASS (genotyping)
+SAB019	M	Spanish	SAB019	Spain	Valencian Community, Castell√≥	-0.08369	39.88987	modern	OtherCapture	ds	haploid	555025	BiaginiEJHG2019	PASS (genotyping)
+SAB131	M	Spanish	SAB131	Spain	Catalonia, Terres de l'Ebre	0.49062	40.90643	modern	OtherCapture	ds	haploid	554603	BiaginiEJHG2019	PASS (genotyping)
+SAB137	M	Spanish	SAB137	Spain	Catalonia, Pirineu	0.97092	42.30884	modern	OtherCapture	ds	haploid	553019	BiaginiEJHG2019	PASS (genotyping)
+SER011	M	Spanish	SER011	Spain	Catalonia, Pirineu	1.76142	42.35558	modern	OtherCapture	ds	haploid	549734	BiaginiEJHG2019	PASS (genotyping)
+SER015	M	Spanish	SER015	Spain	Catalonia, Barcelon√®s	2.16992	41.38792	modern	OtherCapture	ds	haploid	552560	BiaginiEJHG2019	PASS (genotyping)
+SER018	M	Spanish	SER018	Spain	Catalonia, Girona	2.48819	42.18211	modern	OtherCapture	ds	haploid	550485	BiaginiEJHG2019	PASS (genotyping)
+SER022	M	Spanish	SER022	Spain	Catalonia, Pened√®s	1.72153	41.52662	modern	OtherCapture	ds	haploid	551927	BiaginiEJHG2019	PASS (genotyping)
+SER027	M	Spanish	SER027	Spain	Catalonia, Peri-Barcelona	2.40056	41.55555	modern	OtherCapture	ds	haploid	555091	BiaginiEJHG2019	PASS (genotyping)
+SER064	M	Spanish	SER064	Spain	Balearic Islands, Eivissa	1.4283	38.7055	modern	OtherCapture	ds	haploid	552762	BiaginiEJHG2019	PASS (genotyping)
+SLA017	M	Spanish	SLA017	Spain	Valencian Community, Alacant	-0.80438	38.39289	modern	OtherCapture	ds	haploid	555086	BiaginiEJHG2019	PASS (genotyping)
+SLM078	M	Spanish	SLM078	Spain	Balearic Islands, Eivissa	3.08345	39.66087	modern	OtherCapture	ds	haploid	550572	BiaginiEJHG2019	PASS (genotyping)
+SOL051	M	Spanish	SOL051	Spain	Catalonia, Catalunya Central	1.76338	41.76563	modern	OtherCapture	ds	haploid	553715	BiaginiEJHG2019	PASS (genotyping)
+SOL053	M	Spanish	SOL053	Spain	Balearic Islands, Eivissa	3.03222	39.7609	modern	OtherCapture	ds	haploid	555002	BiaginiEJHG2019	PASS (genotyping)
+SOL083	M	Spanish	SOL083	Spain	Catalonia, Catalunya Central	1.7832	41.98044	modern	OtherCapture	ds	haploid	554476	BiaginiEJHG2019	PASS (genotyping)
+SOL084	M	Spanish	SOL084	Spain	Valencian Community, Val√®ncia	-0.45603	38.95492	modern	OtherCapture	ds	haploid	548532	BiaginiEJHG2019	PASS (genotyping)
+STC091	M	Spanish	STC091	Spain	Catalonia, Pened√®s	1.66646	41.46383	modern	OtherCapture	ds	haploid	554869	BiaginiEJHG2019	PASS (genotyping)
+VID003	M	Spanish	VID003	Spain	Catalonia, Pened√®s	1.57728	41.23992	modern	OtherCapture	ds	haploid	553990	BiaginiEJHG2019	PASS (genotyping)
+VID014	M	Spanish	VID014	Spain	Catalonia, Barcelon√®s	2.24742	41.45014	modern	OtherCapture	ds	haploid	551453	BiaginiEJHG2019	PASS (genotyping)
+VID016	M	Spanish	VID016	Spain	Catalonia, Girona	2.70466	42.00718	modern	OtherCapture	ds	haploid	555078	BiaginiEJHG2019	PASS (genotyping)
+VID037	M	Spanish	VID037	Spain	Catalonia, Pened√®s	1.48652	41.70608	modern	OtherCapture	ds	haploid	554921	BiaginiEJHG2019	PASS (genotyping)
+VID044	M	Spanish	VID044	Spain	Catalonia, Catalunya Central	2.2262	42.33115	modern	OtherCapture	ds	haploid	554293	BiaginiEJHG2019	PASS (genotyping)
+VID048	M	Spanish	VID048	Spain	Catalonia, Camp de Tarragona	1.145	41.11095	modern	OtherCapture	ds	haploid	551567	BiaginiEJHG2019	PASS (genotyping)
+VID057	M	Spanish	VID057	Spain	Catalonia, Catalunya Central	1.88912	41.91361	modern	OtherCapture	ds	haploid	554924	BiaginiEJHG2019	PASS (genotyping)
+EIV009_2	M	Spanish	EIV009_2	Spain	Balearic Islands, Eivissa	1.4182	38.9794	modern	OtherCapture	ds	haploid	548558	BiaginiEJHG2019	PASS (genotyping)
+EIV010_2	F	Spanish	EIV010_2	Spain	Balearic Islands, Eivissa	1.39867	38.96208	modern	OtherCapture	ds	haploid	552562	BiaginiEJHG2019	PASS (genotyping)
+EIV011_2	F	Spanish	EIV011_2	Spain	Balearic Islands, Eivissa	1.38387	38.9069	modern	OtherCapture	ds	haploid	553098	BiaginiEJHG2019	PASS (genotyping)
+EIV001_2	M	Spanish	EIV001_2	Spain	Balearic Islands, Eivissa	1.4727	38.94267	modern	OtherCapture	ds	haploid	554994	BiaginiEJHG2019	PASS (genotyping)
+EIV004_2	M	Spanish	EIV004_2	Spain	Balearic Islands, Eivissa	1.42463	38.90897	modern	OtherCapture	ds	haploid	554896	BiaginiEJHG2019	PASS (genotyping)
+EIV012_2	F	Spanish	EIV012_2	Spain	Balearic Islands, Eivissa	1.40516	38.9488	modern	OtherCapture	ds	haploid	554232	BiaginiEJHG2019	PASS (genotyping)
+EIV013_2	F	Spanish	EIV013_2	Spain	Balearic Islands, Eivissa	1.42463	38.90897	modern	OtherCapture	ds	haploid	553839	BiaginiEJHG2019	PASS (genotyping)
+EIV014_2	M	Spanish	EIV014_2	Spain	Balearic Islands, Eivissa	1.42106	38.94624	modern	OtherCapture	ds	haploid	554528	BiaginiEJHG2019	PASS (genotyping)
+EIV015_2	F	Spanish	EIV015_2	Spain	Balearic Islands, Eivissa	1.51383	38.98979	modern	OtherCapture	ds	haploid	554311	BiaginiEJHG2019	PASS (genotyping)

@@ -1,4 +1,4 @@
-poseidonVersion: 2.4.0
+poseidonVersion: 2.5.0
 title: 2017_YangCurrentBiology
 description: This package was initially constructed based on the Allen Ancient DNA
   Resource (https://reich.hms.harvard.edu/allen-ancient-dna-resource-aadr-downloadable-genotypes-present-day-and-ancient-dna-data,
@@ -6,8 +6,8 @@ description: This package was initially constructed based on the Allen Ancient D
 contributor:
 - name: Ayshin Ghalichi
   email: ghalichi@shh.mpg.de
-packageVersion: 1.0.2
-lastModified: 2021-05-31
+packageVersion: 2.0.0
+lastModified: 2022-01-28
 genotypeData:
   format: PLINK
   genoFile: 2017_YangCurrentBiology.bed
@@ -18,6 +18,7 @@ genotypeData:
   indFileChkSum: 35346d385ab3dc1698d4d11feff2b9ee
   snpSet: 1240K
 jannoFile: 2017_YangCurrentBiology.janno
-jannoFileChkSum: e122c7c8d78202c0471fdf4e9dad5c27
+jannoFileChkSum: c1a2bfeb719dead0d48cdabfc002a71d
 bibFile: 2017_YangCurrentBiology.bib
 bibFileChkSum: 45756177801b6b9c94dad4754cb11293
+changelogFile: CHANGELOG.md

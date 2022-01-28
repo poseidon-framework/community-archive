@@ -1,94 +1,94 @@
-Individual_ID	Collection_ID	Source_Tissue	Country	Location	Site	Latitude	Longitude	Date_C14_Labnr	Date_C14_Uncal_BP	Date_C14_Uncal_BP_Err	Date_BC_AD_Median	Date_BC_AD_Start	Date_BC_AD_Stop	Date_Type	No_of_Libraries	Data_Type	Genotype_Ploidy	Group_Name	Genetic_Sex	Nr_autosomal_SNPs	Coverage_1240K	MT_Haplogroup	Y_Haplogroup	Endogenous	UDG	Library_Built	Damage	Xcontam	Xcontam_stderr	mtContam	mtContam_stderr	Primary_Contact	Publication_Status	Note	Keywords
-Eritrean_1	Eritrean_1	n/a	Eritrea	Sampled.in.USA	n/a	15.0	39.0	n/a	n/a	n/a	n/a	n/a	n/a	modern	n/a	OtherCapture	haploid	Eritrea	M	540334	n/a	n/a	n/a	n/a	n/a	ds	n/a	n/a	n/a	n/a	n/a	n/a	VyasAJPA2017	PASS (genotyping)	n/a
-Eritrean_2	Eritrean_2	n/a	Eritrea	Sampled.in.USA	n/a	15.0	39.0	n/a	n/a	n/a	n/a	n/a	n/a	modern	n/a	OtherCapture	haploid	Eritrea	M	540617	n/a	n/a	n/a	n/a	n/a	ds	n/a	n/a	n/a	n/a	n/a	n/a	VyasAJPA2017	PASS (genotyping)	n/a
-Eritrean_3	Eritrean_3	n/a	Eritrea	Sampled.in.USA	n/a	15.0	39.0	n/a	n/a	n/a	n/a	n/a	n/a	modern	n/a	OtherCapture	haploid	Eritrea	M	540464	n/a	n/a	n/a	n/a	n/a	ds	n/a	n/a	n/a	n/a	n/a	n/a	VyasAJPA2017	PASS (genotyping)	n/a
-Y006	Y006	n/a	Yemen	Dhamar	n/a	14.55	44.40167	n/a	n/a	n/a	n/a	n/a	n/a	modern	n/a	OtherCapture	haploid	Yemeni_Highlands	M	540485	n/a	n/a	n/a	n/a	n/a	ds	n/a	n/a	n/a	n/a	n/a	n/a	VyasAJPA2017	PASS (genotyping)	n/a
-Y018	Y018	n/a	Yemen	Dhamar	n/a	14.55	44.40167	n/a	n/a	n/a	n/a	n/a	n/a	modern	n/a	OtherCapture	haploid	Yemeni_Highlands	M	540188	n/a	n/a	n/a	n/a	n/a	ds	n/a	n/a	n/a	n/a	n/a	n/a	VyasAJPA2017	PASS (genotyping)	n/a
-Y025	Y025	n/a	Yemen	Dhamar	n/a	14.55	44.40167	n/a	n/a	n/a	n/a	n/a	n/a	modern	n/a	OtherCapture	haploid	Yemeni_Highlands	M	540658	n/a	n/a	n/a	n/a	n/a	ds	n/a	n/a	n/a	n/a	n/a	n/a	VyasAJPA2017	PASS (genotyping)	n/a
-Y031	Y031	n/a	Yemen	Dhamar	n/a	14.55	44.40167	n/a	n/a	n/a	n/a	n/a	n/a	modern	n/a	OtherCapture	haploid	Yemeni_Highlands	M	540864	n/a	n/a	n/a	n/a	n/a	ds	n/a	n/a	n/a	n/a	n/a	n/a	VyasAJPA2017	PASS (genotyping)	n/a
-Y036	Y036	n/a	Yemen	Dhamar	n/a	14.55	44.40167	n/a	n/a	n/a	n/a	n/a	n/a	modern	n/a	OtherCapture	haploid	Yemeni_Highlands	M	540841	n/a	n/a	n/a	n/a	n/a	ds	n/a	n/a	n/a	n/a	n/a	n/a	VyasAJPA2017	PASS (genotyping)	n/a
-Y037	Y037	n/a	Yemen	Dhamar	n/a	14.55	44.40167	n/a	n/a	n/a	n/a	n/a	n/a	modern	n/a	OtherCapture	haploid	Yemeni_Highlands	M	540516	n/a	n/a	n/a	n/a	n/a	ds	n/a	n/a	n/a	n/a	n/a	n/a	VyasAJPA2017	PASS (genotyping)	n/a
-Y038	Y038	n/a	Yemen	Dhamar	n/a	14.55	44.40167	n/a	n/a	n/a	n/a	n/a	n/a	modern	n/a	OtherCapture	haploid	Yemeni_Highlands	M	538568	n/a	n/a	n/a	n/a	n/a	ds	n/a	n/a	n/a	n/a	n/a	n/a	VyasAJPA2017	PASS (genotyping)	n/a
-Y047	Y047	n/a	Yemen	Dhamar	n/a	14.55	44.40167	n/a	n/a	n/a	n/a	n/a	n/a	modern	n/a	OtherCapture	haploid	Yemeni_Highlands	M	540806	n/a	n/a	n/a	n/a	n/a	ds	n/a	n/a	n/a	n/a	n/a	n/a	VyasAJPA2017	PASS (genotyping)	n/a
-Y064	Y064	n/a	Yemen	Al Bayda	n/a	13.97639	45.57083	n/a	n/a	n/a	n/a	n/a	n/a	modern	n/a	OtherCapture	haploid	Yemeni_Highlands	M	539841	n/a	n/a	n/a	n/a	n/a	ds	n/a	n/a	n/a	n/a	n/a	n/a	VyasAJPA2017	PASS (genotyping)	n/a
-Y070	Y070	n/a	Yemen	Al Bayda	n/a	13.97639	45.57083	n/a	n/a	n/a	n/a	n/a	n/a	modern	n/a	OtherCapture	haploid	Yemeni_Highlands	F	537218	n/a	n/a	n/a	n/a	n/a	ds	n/a	n/a	n/a	n/a	n/a	n/a	VyasAJPA2017	PASS (genotyping)	n/a
-Y083	Y083	n/a	Yemen	Ibb	n/a	13.96667	44.16667	n/a	n/a	n/a	n/a	n/a	n/a	modern	n/a	OtherCapture	haploid	Yemeni_Highlands	M	537986	n/a	n/a	n/a	n/a	n/a	ds	n/a	n/a	n/a	n/a	n/a	n/a	VyasAJPA2017	PASS (genotyping)	n/a
-Y086	Y086	n/a	Yemen	Al Bayda	n/a	13.97639	45.57083	n/a	n/a	n/a	n/a	n/a	n/a	modern	n/a	OtherCapture	haploid	Yemeni_Highlands	F	540183	n/a	n/a	n/a	n/a	n/a	ds	n/a	n/a	n/a	n/a	n/a	n/a	VyasAJPA2017	PASS (genotyping)	n/a
-Y089	Y089	n/a	Yemen	Al Bayda	n/a	13.97639	45.57083	n/a	n/a	n/a	n/a	n/a	n/a	modern	n/a	OtherCapture	haploid	Yemeni_Highlands	F	540583	n/a	n/a	n/a	n/a	n/a	ds	n/a	n/a	n/a	n/a	n/a	n/a	VyasAJPA2017	PASS (genotyping)	n/a
-Y092	Y092	n/a	Yemen	Al Bayda	n/a	13.97639	45.57083	n/a	n/a	n/a	n/a	n/a	n/a	modern	n/a	OtherCapture	haploid	Yemeni_Highlands	M	540594	n/a	n/a	n/a	n/a	n/a	ds	n/a	n/a	n/a	n/a	n/a	n/a	VyasAJPA2017	PASS (genotyping)	n/a
-Y097	Y097	n/a	Yemen	Al Bayda	n/a	13.97639	45.57083	n/a	n/a	n/a	n/a	n/a	n/a	modern	n/a	OtherCapture	haploid	Yemeni_Highlands	F	539471	n/a	n/a	n/a	n/a	n/a	ds	n/a	n/a	n/a	n/a	n/a	n/a	VyasAJPA2017	PASS (genotyping)	n/a
-Y100	Y100	n/a	Yemen	Al Bayda	n/a	13.97639	45.57083	n/a	n/a	n/a	n/a	n/a	n/a	modern	n/a	OtherCapture	haploid	Yemeni_Highlands	F	539326	n/a	n/a	n/a	n/a	n/a	ds	n/a	n/a	n/a	n/a	n/a	n/a	VyasAJPA2017	PASS (genotyping)	n/a
-Y190	Y190	n/a	Yemen	Raymah	n/a	15.7	43.6	n/a	n/a	n/a	n/a	n/a	n/a	modern	n/a	OtherCapture	haploid	Yemeni_Highlands_Raymah	M	539948	n/a	n/a	n/a	n/a	n/a	ds	n/a	n/a	n/a	n/a	n/a	n/a	VyasAJPA2017	PASS (genotyping)	n/a
-Y205	Y205	n/a	Yemen	Ma'rib	n/a	15.41667	45.35	n/a	n/a	n/a	n/a	n/a	n/a	modern	n/a	OtherCapture	haploid	Yemeni_Northwest	M	540184	n/a	n/a	n/a	n/a	n/a	ds	n/a	n/a	n/a	n/a	n/a	n/a	VyasAJPA2017	PASS (genotyping)	n/a
-Y208	Y208	n/a	Yemen	Shabwah	n/a	14.55	46.83333	n/a	n/a	n/a	n/a	n/a	n/a	modern	n/a	OtherCapture	haploid	Yemeni_Desert	M	539955	n/a	n/a	n/a	n/a	n/a	ds	n/a	n/a	n/a	n/a	n/a	n/a	VyasAJPA2017	PASS (genotyping)	n/a
-Y210	Y210	n/a	Yemen	Ad Dali	n/a	13.69667	44.73083	n/a	n/a	n/a	n/a	n/a	n/a	modern	n/a	OtherCapture	haploid	Yemeni_Highlands	F	540503	n/a	n/a	n/a	n/a	n/a	ds	n/a	n/a	n/a	n/a	n/a	n/a	VyasAJPA2017	PASS (genotyping)	n/a
-Y211	Y211	n/a	Yemen	Shabwah	n/a	14.55	46.83333	n/a	n/a	n/a	n/a	n/a	n/a	modern	n/a	OtherCapture	haploid	Yemeni_Desert	M	540521	n/a	n/a	n/a	n/a	n/a	ds	n/a	n/a	n/a	n/a	n/a	n/a	VyasAJPA2017	PASS (genotyping)	n/a
-Y216	Y216	n/a	Yemen	Amanat Al Asimah	n/a	15.34833	44.20639	n/a	n/a	n/a	n/a	n/a	n/a	modern	n/a	OtherCapture	haploid	Yemeni_Highlands	M	540148	n/a	n/a	n/a	n/a	n/a	ds	n/a	n/a	n/a	n/a	n/a	n/a	VyasAJPA2017	PASS (genotyping)	n/a
-Y217	Y217	n/a	Yemen	Al Jawf	n/a	16.78333	45.51667	n/a	n/a	n/a	n/a	n/a	n/a	modern	n/a	OtherCapture	haploid	Yemeni_Northwest	M	540864	n/a	n/a	n/a	n/a	n/a	ds	n/a	n/a	n/a	n/a	n/a	n/a	VyasAJPA2017	PASS (genotyping)	n/a
-Y219	Y219	n/a	Yemen	Ma'rib	n/a	15.41667	45.35	n/a	n/a	n/a	n/a	n/a	n/a	modern	n/a	OtherCapture	haploid	Yemeni_Northwest	M	540454	n/a	n/a	n/a	n/a	n/a	ds	n/a	n/a	n/a	n/a	n/a	n/a	VyasAJPA2017	PASS (genotyping)	n/a
-Y221	Y221	n/a	Yemen	Al Jawf	n/a	16.78333	45.51667	n/a	n/a	n/a	n/a	n/a	n/a	modern	n/a	OtherCapture	haploid	Yemeni_Northwest	M	540558	n/a	n/a	n/a	n/a	n/a	ds	n/a	n/a	n/a	n/a	n/a	n/a	VyasAJPA2017	PASS (genotyping)	n/a
-Y223	Y223	n/a	Yemen	Al Jawf	n/a	16.78333	45.51667	n/a	n/a	n/a	n/a	n/a	n/a	modern	n/a	OtherCapture	haploid	Yemeni_Northwest	M	539927	n/a	n/a	n/a	n/a	n/a	ds	n/a	n/a	n/a	n/a	n/a	n/a	VyasAJPA2017	PASS (genotyping)	n/a
-Y224	Y224	n/a	Yemen	Ad Dali	n/a	13.69667	44.73083	n/a	n/a	n/a	n/a	n/a	n/a	modern	n/a	OtherCapture	haploid	Yemeni_Highlands	M	540833	n/a	n/a	n/a	n/a	n/a	ds	n/a	n/a	n/a	n/a	n/a	n/a	VyasAJPA2017	PASS (genotyping)	n/a
-Y225	Y225	n/a	Yemen	Al Jawf	n/a	16.78333	45.51667	n/a	n/a	n/a	n/a	n/a	n/a	modern	n/a	OtherCapture	haploid	Yemeni_Northwest	M	540704	n/a	n/a	n/a	n/a	n/a	ds	n/a	n/a	n/a	n/a	n/a	n/a	VyasAJPA2017	PASS (genotyping)	n/a
-Y226	Y226	n/a	Yemen	Ma'rib	n/a	15.41667	45.35	n/a	n/a	n/a	n/a	n/a	n/a	modern	n/a	OtherCapture	haploid	Yemeni_Northwest	M	540463	n/a	n/a	n/a	n/a	n/a	ds	n/a	n/a	n/a	n/a	n/a	n/a	VyasAJPA2017	PASS (genotyping)	n/a
-Y227	Y227	n/a	Yemen	Ad Dali	n/a	13.69667	44.73083	n/a	n/a	n/a	n/a	n/a	n/a	modern	n/a	OtherCapture	haploid	Yemeni_Highlands	M	532754	n/a	n/a	n/a	n/a	n/a	ds	n/a	n/a	n/a	n/a	n/a	n/a	VyasAJPA2017	PASS (genotyping)	n/a
-Y232	Y232	n/a	Yemen	Ad Dali	n/a	13.69667	44.73083	n/a	n/a	n/a	n/a	n/a	n/a	modern	n/a	OtherCapture	haploid	Yemeni_Highlands	M	540833	n/a	n/a	n/a	n/a	n/a	ds	n/a	n/a	n/a	n/a	n/a	n/a	VyasAJPA2017	PASS (genotyping)	n/a
-Y234	Y234	n/a	Yemen	Ad Dali	n/a	13.69667	44.73083	n/a	n/a	n/a	n/a	n/a	n/a	modern	n/a	OtherCapture	haploid	Yemeni_Highlands	M	540664	n/a	n/a	n/a	n/a	n/a	ds	n/a	n/a	n/a	n/a	n/a	n/a	VyasAJPA2017	PASS (genotyping)	n/a
-Y235	Y235	n/a	Yemen	Ad Dali	n/a	13.69667	44.73083	n/a	n/a	n/a	n/a	n/a	n/a	modern	n/a	OtherCapture	haploid	Yemeni_Highlands	M	540638	n/a	n/a	n/a	n/a	n/a	ds	n/a	n/a	n/a	n/a	n/a	n/a	VyasAJPA2017	PASS (genotyping)	n/a
-Y236	Y236	n/a	Yemen	Ma'rib	n/a	15.41667	45.35	n/a	n/a	n/a	n/a	n/a	n/a	modern	n/a	OtherCapture	haploid	Yemeni_Northwest	M	538940	n/a	n/a	n/a	n/a	n/a	ds	n/a	n/a	n/a	n/a	n/a	n/a	VyasAJPA2017	PASS (genotyping)	n/a
-Y237	Y237	n/a	Yemen	Ma'rib	n/a	15.41667	45.35	n/a	n/a	n/a	n/a	n/a	n/a	modern	n/a	OtherCapture	haploid	Yemeni_Northwest	M	539735	n/a	n/a	n/a	n/a	n/a	ds	n/a	n/a	n/a	n/a	n/a	n/a	VyasAJPA2017	PASS (genotyping)	n/a
-Y239	Y239	n/a	Yemen	Ma'rib	n/a	15.41667	45.35	n/a	n/a	n/a	n/a	n/a	n/a	modern	n/a	OtherCapture	haploid	Yemeni_Northwest	M	539566	n/a	n/a	n/a	n/a	n/a	ds	n/a	n/a	n/a	n/a	n/a	n/a	VyasAJPA2017	PASS (genotyping)	n/a
-Y241	Y241	n/a	Yemen	Ma'rib	n/a	15.41667	45.35	n/a	n/a	n/a	n/a	n/a	n/a	modern	n/a	OtherCapture	haploid	Yemeni_Northwest	M	540725	n/a	n/a	n/a	n/a	n/a	ds	n/a	n/a	n/a	n/a	n/a	n/a	VyasAJPA2017	PASS (genotyping)	n/a
-Y246	Y246	n/a	Yemen	Shabwah	n/a	14.55	46.83333	n/a	n/a	n/a	n/a	n/a	n/a	modern	n/a	OtherCapture	haploid	Yemeni_Desert2	M	540757	n/a	n/a	n/a	n/a	n/a	ds	n/a	n/a	n/a	n/a	n/a	n/a	VyasAJPA2017	PASS (genotyping)	n/a
-Y250	Y250	n/a	Yemen	Hadramout	n/a	16.66667	49.5	n/a	n/a	n/a	n/a	n/a	n/a	modern	n/a	OtherCapture	haploid	Yemeni_Desert2	M	540147	n/a	n/a	n/a	n/a	n/a	ds	n/a	n/a	n/a	n/a	n/a	n/a	VyasAJPA2017	PASS (genotyping)	n/a
-Y252	Y252	n/a	Yemen	Hadramout	n/a	16.66667	49.5	n/a	n/a	n/a	n/a	n/a	n/a	modern	n/a	OtherCapture	haploid	Yemeni_Desert2	M	539893	n/a	n/a	n/a	n/a	n/a	ds	n/a	n/a	n/a	n/a	n/a	n/a	VyasAJPA2017	PASS (genotyping)	n/a
-Y254	Y254	n/a	Yemen	Hadramout	n/a	16.66667	49.5	n/a	n/a	n/a	n/a	n/a	n/a	modern	n/a	OtherCapture	haploid	Yemeni_Desert	M	540728	n/a	n/a	n/a	n/a	n/a	ds	n/a	n/a	n/a	n/a	n/a	n/a	VyasAJPA2017	PASS (genotyping)	n/a
-Y258	Y258	n/a	Yemen	Hadramout	n/a	16.66667	49.5	n/a	n/a	n/a	n/a	n/a	n/a	modern	n/a	OtherCapture	haploid	Yemeni_Desert2	M	540647	n/a	n/a	n/a	n/a	n/a	ds	n/a	n/a	n/a	n/a	n/a	n/a	VyasAJPA2017	PASS (genotyping)	n/a
-Y264	Y264	n/a	Yemen	Hadramout	n/a	16.66667	49.5	n/a	n/a	n/a	n/a	n/a	n/a	modern	n/a	OtherCapture	haploid	Yemeni_Desert2	M	540197	n/a	n/a	n/a	n/a	n/a	ds	n/a	n/a	n/a	n/a	n/a	n/a	VyasAJPA2017	PASS (genotyping)	n/a
-Y276	Y276	n/a	Yemen	Hadramout	n/a	16.66667	49.5	n/a	n/a	n/a	n/a	n/a	n/a	modern	n/a	OtherCapture	haploid	Yemeni_Desert2	F	540270	n/a	n/a	n/a	n/a	n/a	ds	n/a	n/a	n/a	n/a	n/a	n/a	VyasAJPA2017	PASS (genotyping)	n/a
-Y279	Y279	n/a	Yemen	Hadramout	n/a	16.66667	49.5	n/a	n/a	n/a	n/a	n/a	n/a	modern	n/a	OtherCapture	haploid	Yemeni_Desert2	F	540475	n/a	n/a	n/a	n/a	n/a	ds	n/a	n/a	n/a	n/a	n/a	n/a	VyasAJPA2017	PASS (genotyping)	n/a
-Y281	Y281	n/a	Yemen	Hadramout	n/a	16.66667	49.5	n/a	n/a	n/a	n/a	n/a	n/a	modern	n/a	OtherCapture	haploid	Yemeni_Desert2	F	540802	n/a	n/a	n/a	n/a	n/a	ds	n/a	n/a	n/a	n/a	n/a	n/a	VyasAJPA2017	PASS (genotyping)	n/a
-Y283	Y283	n/a	Yemen	Hadramout	n/a	16.66667	49.5	n/a	n/a	n/a	n/a	n/a	n/a	modern	n/a	OtherCapture	haploid	Yemeni_Desert2	F	540647	n/a	n/a	n/a	n/a	n/a	ds	n/a	n/a	n/a	n/a	n/a	n/a	VyasAJPA2017	PASS (genotyping)	n/a
-Y288	Y288	n/a	Yemen	Hadramout	n/a	16.66667	49.5	n/a	n/a	n/a	n/a	n/a	n/a	modern	n/a	OtherCapture	haploid	Yemeni_Desert2	M	518238	n/a	n/a	n/a	n/a	n/a	ds	n/a	n/a	n/a	n/a	n/a	n/a	VyasAJPA2017	PASS (genotyping)	n/a
-Y292	Y292	n/a	Yemen	Hadramout	n/a	16.66667	49.5	n/a	n/a	n/a	n/a	n/a	n/a	modern	n/a	OtherCapture	haploid	Yemeni_Desert2	M	539179	n/a	n/a	n/a	n/a	n/a	ds	n/a	n/a	n/a	n/a	n/a	n/a	VyasAJPA2017	PASS (genotyping)	n/a
-Y299	Y299	n/a	Yemen	Hadramout	n/a	16.66667	49.5	n/a	n/a	n/a	n/a	n/a	n/a	modern	n/a	OtherCapture	haploid	Yemeni_Desert	M	540825	n/a	n/a	n/a	n/a	n/a	ds	n/a	n/a	n/a	n/a	n/a	n/a	VyasAJPA2017	PASS (genotyping)	n/a
-Y301	Y301	n/a	Yemen	Hadramout	n/a	16.66667	49.5	n/a	n/a	n/a	n/a	n/a	n/a	modern	n/a	OtherCapture	haploid	Yemeni_Desert	M	540641	n/a	n/a	n/a	n/a	n/a	ds	n/a	n/a	n/a	n/a	n/a	n/a	VyasAJPA2017	PASS (genotyping)	n/a
-Y303	Y303	n/a	Yemen	Hadramout	n/a	16.66667	49.5	n/a	n/a	n/a	n/a	n/a	n/a	modern	n/a	OtherCapture	haploid	Yemeni_Desert2	M	540481	n/a	n/a	n/a	n/a	n/a	ds	n/a	n/a	n/a	n/a	n/a	n/a	VyasAJPA2017	PASS (genotyping)	n/a
-Y311	Y311	n/a	Yemen	Mahra	n/a	16.8	51.73333	n/a	n/a	n/a	n/a	n/a	n/a	modern	n/a	OtherCapture	haploid	Yemeni_Desert	M	540372	n/a	n/a	n/a	n/a	n/a	ds	n/a	n/a	n/a	n/a	n/a	n/a	VyasAJPA2017	PASS (genotyping)	n/a
-Y312	Y312	n/a	Yemen	Mahra	n/a	16.8	51.73333	n/a	n/a	n/a	n/a	n/a	n/a	modern	n/a	OtherCapture	haploid	Yemeni_Desert	M	540656	n/a	n/a	n/a	n/a	n/a	ds	n/a	n/a	n/a	n/a	n/a	n/a	VyasAJPA2017	PASS (genotyping)	n/a
-Y313	Y313	n/a	Yemen	Mahra	n/a	16.8	51.73333	n/a	n/a	n/a	n/a	n/a	n/a	modern	n/a	OtherCapture	haploid	Yemeni_Desert	M	536518	n/a	n/a	n/a	n/a	n/a	ds	n/a	n/a	n/a	n/a	n/a	n/a	VyasAJPA2017	PASS (genotyping)	n/a
-Y325	Y325	n/a	Yemen	Mahra	n/a	16.8	51.73333	n/a	n/a	n/a	n/a	n/a	n/a	modern	n/a	OtherCapture	haploid	Yemeni_Desert	M	540816	n/a	n/a	n/a	n/a	n/a	ds	n/a	n/a	n/a	n/a	n/a	n/a	VyasAJPA2017	PASS (genotyping)	n/a
-Y326	Y326	n/a	Yemen	Mahra	n/a	16.8	51.73333	n/a	n/a	n/a	n/a	n/a	n/a	modern	n/a	OtherCapture	haploid	Yemeni_Desert	M	540587	n/a	n/a	n/a	n/a	n/a	ds	n/a	n/a	n/a	n/a	n/a	n/a	VyasAJPA2017	PASS (genotyping)	n/a
-Y330	Y330	n/a	Yemen	Mahra	n/a	16.8	51.73333	n/a	n/a	n/a	n/a	n/a	n/a	modern	n/a	OtherCapture	haploid	Yemeni_Desert	M	540045	n/a	n/a	n/a	n/a	n/a	ds	n/a	n/a	n/a	n/a	n/a	n/a	VyasAJPA2017	PASS (genotyping)	n/a
-Y333	Y333	n/a	Yemen	Mahra	n/a	16.8	51.73333	n/a	n/a	n/a	n/a	n/a	n/a	modern	n/a	OtherCapture	haploid	Yemeni_Desert2	M	535859	n/a	n/a	n/a	n/a	n/a	ds	n/a	n/a	n/a	n/a	n/a	n/a	VyasAJPA2017	PASS (genotyping)	n/a
-Y334	Y334	n/a	Yemen	Mahra	n/a	16.8	51.73333	n/a	n/a	n/a	n/a	n/a	n/a	modern	n/a	OtherCapture	haploid	Yemeni_Desert	M	540735	n/a	n/a	n/a	n/a	n/a	ds	n/a	n/a	n/a	n/a	n/a	n/a	VyasAJPA2017	PASS (genotyping)	n/a
-Y338	Y338	n/a	Yemen	Mahra	n/a	16.8	51.73333	n/a	n/a	n/a	n/a	n/a	n/a	modern	n/a	OtherCapture	haploid	Yemeni_Desert2	F	540673	n/a	n/a	n/a	n/a	n/a	ds	n/a	n/a	n/a	n/a	n/a	n/a	VyasAJPA2017	PASS (genotyping)	n/a
-Y341	Y341	n/a	Yemen	Mahra	n/a	16.8	51.73333	n/a	n/a	n/a	n/a	n/a	n/a	modern	n/a	OtherCapture	haploid	Yemeni_Desert	F	540053	n/a	n/a	n/a	n/a	n/a	ds	n/a	n/a	n/a	n/a	n/a	n/a	VyasAJPA2017	PASS (genotyping)	n/a
-Y345	Y345	n/a	Yemen	Mahra	n/a	16.8	51.73333	n/a	n/a	n/a	n/a	n/a	n/a	modern	n/a	OtherCapture	haploid	Yemeni_Desert	F	540639	n/a	n/a	n/a	n/a	n/a	ds	n/a	n/a	n/a	n/a	n/a	n/a	VyasAJPA2017	PASS (genotyping)	n/a
-Y349	Y349	n/a	Yemen	Mahra	n/a	16.8	51.73333	n/a	n/a	n/a	n/a	n/a	n/a	modern	n/a	OtherCapture	haploid	Yemeni_Desert	F	540052	n/a	n/a	n/a	n/a	n/a	ds	n/a	n/a	n/a	n/a	n/a	n/a	VyasAJPA2017	PASS (genotyping)	n/a
-Y354	Y354	n/a	Yemen	Mahra	n/a	16.8	51.73333	n/a	n/a	n/a	n/a	n/a	n/a	modern	n/a	OtherCapture	haploid	Yemeni_Desert	F	540526	n/a	n/a	n/a	n/a	n/a	ds	n/a	n/a	n/a	n/a	n/a	n/a	VyasAJPA2017	PASS (genotyping)	n/a
-Y361	Y361	n/a	Yemen	Mahra	n/a	16.8	51.73333	n/a	n/a	n/a	n/a	n/a	n/a	modern	n/a	OtherCapture	haploid	Yemeni_Desert2	F	540696	n/a	n/a	n/a	n/a	n/a	ds	n/a	n/a	n/a	n/a	n/a	n/a	VyasAJPA2017	PASS (genotyping)	n/a
-Y382	Y382	n/a	Yemen	Dhamar	n/a	14.55	44.40167	n/a	n/a	n/a	n/a	n/a	n/a	modern	n/a	OtherCapture	haploid	Yemeni_Highlands	M	540805	n/a	n/a	n/a	n/a	n/a	ds	n/a	n/a	n/a	n/a	n/a	n/a	VyasAJPA2017	PASS (genotyping)	n/a
-Y388	Y388	n/a	Yemen	Amanat Al Asimah	n/a	15.34833	44.20639	n/a	n/a	n/a	n/a	n/a	n/a	modern	n/a	OtherCapture	haploid	Yemeni_Highlands	F	540487	n/a	n/a	n/a	n/a	n/a	ds	n/a	n/a	n/a	n/a	n/a	n/a	VyasAJPA2017	PASS (genotyping)	n/a
-Y391	Y391	n/a	Yemen	Amanat Al Asimah	n/a	15.34833	44.20639	n/a	n/a	n/a	n/a	n/a	n/a	modern	n/a	OtherCapture	haploid	Yemeni_Highlands	F	540771	n/a	n/a	n/a	n/a	n/a	ds	n/a	n/a	n/a	n/a	n/a	n/a	VyasAJPA2017	PASS (genotyping)	n/a
-Y392	Y392	n/a	Yemen	Dhamar	n/a	14.55	44.40167	n/a	n/a	n/a	n/a	n/a	n/a	modern	n/a	OtherCapture	haploid	Yemeni_Highlands	F	539642	n/a	n/a	n/a	n/a	n/a	ds	n/a	n/a	n/a	n/a	n/a	n/a	VyasAJPA2017	PASS (genotyping)	n/a
-Y504	Y504	n/a	Yemen	Amran	n/a	15.66667	43.95	n/a	n/a	n/a	n/a	n/a	n/a	modern	n/a	OtherCapture	haploid	Yemeni_Northwest	M	540402	n/a	n/a	n/a	n/a	n/a	ds	n/a	n/a	n/a	n/a	n/a	n/a	VyasAJPA2017	PASS (genotyping)	n/a
-Y506	Y506	n/a	Yemen	Amran	n/a	15.66667	43.95	n/a	n/a	n/a	n/a	n/a	n/a	modern	n/a	OtherCapture	haploid	Yemeni_Northwest	M	540155	n/a	n/a	n/a	n/a	n/a	ds	n/a	n/a	n/a	n/a	n/a	n/a	VyasAJPA2017	PASS (genotyping)	n/a
-Y507	Y507	n/a	Yemen	Amran	n/a	15.66667	43.95	n/a	n/a	n/a	n/a	n/a	n/a	modern	n/a	OtherCapture	haploid	Ignore_Yemeni_Northwest_(PCA_outlier)	M	540719	n/a	n/a	n/a	n/a	n/a	ds	n/a	n/a	n/a	n/a	n/a	n/a	VyasAJPA2017	PASS (genotyping)	n/a
-Y517	Y517	n/a	Yemen	Amran	n/a	15.66667	43.95	n/a	n/a	n/a	n/a	n/a	n/a	modern	n/a	OtherCapture	haploid	Yemeni_Northwest	M	540721	n/a	n/a	n/a	n/a	n/a	ds	n/a	n/a	n/a	n/a	n/a	n/a	VyasAJPA2017	PASS (genotyping)	n/a
-Y518	Y518	n/a	Yemen	Amran	n/a	15.66667	43.95	n/a	n/a	n/a	n/a	n/a	n/a	modern	n/a	OtherCapture	haploid	Yemeni_Northwest	M	540670	n/a	n/a	n/a	n/a	n/a	ds	n/a	n/a	n/a	n/a	n/a	n/a	VyasAJPA2017	PASS (genotyping)	n/a
-Y519	Y519	n/a	Yemen	Amran	n/a	15.66667	43.95	n/a	n/a	n/a	n/a	n/a	n/a	modern	n/a	OtherCapture	haploid	Yemeni_Northwest	M	539831	n/a	n/a	n/a	n/a	n/a	ds	n/a	n/a	n/a	n/a	n/a	n/a	VyasAJPA2017	PASS (genotyping)	n/a
-Y520	Y520	n/a	Yemen	Amran	n/a	15.66667	43.95	n/a	n/a	n/a	n/a	n/a	n/a	modern	n/a	OtherCapture	haploid	Yemeni_Northwest	M	535361	n/a	n/a	n/a	n/a	n/a	ds	n/a	n/a	n/a	n/a	n/a	n/a	VyasAJPA2017	PASS (genotyping)	n/a
-Y522	Y522	n/a	Yemen	Amran	n/a	15.66667	43.95	n/a	n/a	n/a	n/a	n/a	n/a	modern	n/a	OtherCapture	haploid	Yemeni_Northwest	M	540584	n/a	n/a	n/a	n/a	n/a	ds	n/a	n/a	n/a	n/a	n/a	n/a	VyasAJPA2017	PASS (genotyping)	n/a
-Y524	Y524	n/a	Yemen	Amran	n/a	15.66667	43.95	n/a	n/a	n/a	n/a	n/a	n/a	modern	n/a	OtherCapture	haploid	Yemeni_Northwest	M	540371	n/a	n/a	n/a	n/a	n/a	ds	n/a	n/a	n/a	n/a	n/a	n/a	VyasAJPA2017	PASS (genotyping)	n/a
-Y528	Y528	n/a	Yemen	Amran	n/a	15.66667	43.95	n/a	n/a	n/a	n/a	n/a	n/a	modern	n/a	OtherCapture	haploid	Yemeni_Northwest	M	540049	n/a	n/a	n/a	n/a	n/a	ds	n/a	n/a	n/a	n/a	n/a	n/a	VyasAJPA2017	PASS (genotyping)	n/a
-Y529	Y529	n/a	Yemen	Amran	n/a	15.66667	43.95	n/a	n/a	n/a	n/a	n/a	n/a	modern	n/a	OtherCapture	haploid	Yemeni_Northwest	M	540830	n/a	n/a	n/a	n/a	n/a	ds	n/a	n/a	n/a	n/a	n/a	n/a	VyasAJPA2017	PASS (genotyping)	n/a
-Y531	Y531	n/a	Yemen	Amanat Al Asimah	n/a	15.34833	44.20639	n/a	n/a	n/a	n/a	n/a	n/a	modern	n/a	OtherCapture	haploid	Yemeni_Highlands	M	538635	n/a	n/a	n/a	n/a	n/a	ds	n/a	n/a	n/a	n/a	n/a	n/a	VyasAJPA2017	PASS (genotyping)	n/a
-Y532	Y532	n/a	Yemen	Amran	n/a	15.66667	43.95	n/a	n/a	n/a	n/a	n/a	n/a	modern	n/a	OtherCapture	haploid	Yemeni_Northwest	M	538342	n/a	n/a	n/a	n/a	n/a	ds	n/a	n/a	n/a	n/a	n/a	n/a	VyasAJPA2017	PASS (genotyping)	n/a
-Y536	Y536	n/a	Yemen	Amran	n/a	15.66667	43.95	n/a	n/a	n/a	n/a	n/a	n/a	modern	n/a	OtherCapture	haploid	Yemeni_Northwest	M	537873	n/a	n/a	n/a	n/a	n/a	ds	n/a	n/a	n/a	n/a	n/a	n/a	VyasAJPA2017	PASS (genotyping)	n/a
-Y537	Y537	n/a	Yemen	Ibb	n/a	13.96667	44.16667	n/a	n/a	n/a	n/a	n/a	n/a	modern	n/a	OtherCapture	haploid	Yemeni_Highlands	M	540855	n/a	n/a	n/a	n/a	n/a	ds	n/a	n/a	n/a	n/a	n/a	n/a	VyasAJPA2017	PASS (genotyping)	n/a
-Y540	Y540	n/a	Yemen	Amran	n/a	15.66667	43.95	n/a	n/a	n/a	n/a	n/a	n/a	modern	n/a	OtherCapture	haploid	Yemeni_Northwest	M	539724	n/a	n/a	n/a	n/a	n/a	ds	n/a	n/a	n/a	n/a	n/a	n/a	VyasAJPA2017	PASS (genotyping)	n/a
-Y541	Y541	n/a	Yemen	Amran	n/a	15.66667	43.95	n/a	n/a	n/a	n/a	n/a	n/a	modern	n/a	OtherCapture	haploid	Yemeni_Northwest	M	540760	n/a	n/a	n/a	n/a	n/a	ds	n/a	n/a	n/a	n/a	n/a	n/a	VyasAJPA2017	PASS (genotyping)	n/a
-Y542	Y542	n/a	Yemen	Amran	n/a	15.66667	43.95	n/a	n/a	n/a	n/a	n/a	n/a	modern	n/a	OtherCapture	haploid	Yemeni_Northwest	M	540915	n/a	n/a	n/a	n/a	n/a	ds	n/a	n/a	n/a	n/a	n/a	n/a	VyasAJPA2017	PASS (genotyping)	n/a
-Y544	Y544	n/a	Yemen	Amran	n/a	15.66667	43.95	n/a	n/a	n/a	n/a	n/a	n/a	modern	n/a	OtherCapture	haploid	Yemeni_Northwest	M	540900	n/a	n/a	n/a	n/a	n/a	ds	n/a	n/a	n/a	n/a	n/a	n/a	VyasAJPA2017	PASS (genotyping)	n/a
-Y546	Y546	n/a	Yemen	Amran	n/a	15.66667	43.95	n/a	n/a	n/a	n/a	n/a	n/a	modern	n/a	OtherCapture	haploid	Yemeni_Northwest	M	540272	n/a	n/a	n/a	n/a	n/a	ds	n/a	n/a	n/a	n/a	n/a	n/a	VyasAJPA2017	PASS (genotyping)	n/a
+Poseidon_ID	Genetic_Sex	Group_Name	Collection_ID	Country	Location	Latitude	Longitude	Date_Type	Capture_Type	Library_Built	Genotype_Ploidy	Nr_SNPs	Publication	Note
+Eritrean_1	M	Eritrea	Eritrean_1	Eritrea	Sampled.in.USA	15.0	39.0	modern	OtherCapture	ds	haploid	540334	VyasAJPA2017	PASS (genotyping)
+Eritrean_2	M	Eritrea	Eritrean_2	Eritrea	Sampled.in.USA	15.0	39.0	modern	OtherCapture	ds	haploid	540617	VyasAJPA2017	PASS (genotyping)
+Eritrean_3	M	Eritrea	Eritrean_3	Eritrea	Sampled.in.USA	15.0	39.0	modern	OtherCapture	ds	haploid	540464	VyasAJPA2017	PASS (genotyping)
+Y006	M	Yemeni_Highlands	Y006	Yemen	Dhamar	14.55	44.40167	modern	OtherCapture	ds	haploid	540485	VyasAJPA2017	PASS (genotyping)
+Y018	M	Yemeni_Highlands	Y018	Yemen	Dhamar	14.55	44.40167	modern	OtherCapture	ds	haploid	540188	VyasAJPA2017	PASS (genotyping)
+Y025	M	Yemeni_Highlands	Y025	Yemen	Dhamar	14.55	44.40167	modern	OtherCapture	ds	haploid	540658	VyasAJPA2017	PASS (genotyping)
+Y031	M	Yemeni_Highlands	Y031	Yemen	Dhamar	14.55	44.40167	modern	OtherCapture	ds	haploid	540864	VyasAJPA2017	PASS (genotyping)
+Y036	M	Yemeni_Highlands	Y036	Yemen	Dhamar	14.55	44.40167	modern	OtherCapture	ds	haploid	540841	VyasAJPA2017	PASS (genotyping)
+Y037	M	Yemeni_Highlands	Y037	Yemen	Dhamar	14.55	44.40167	modern	OtherCapture	ds	haploid	540516	VyasAJPA2017	PASS (genotyping)
+Y038	M	Yemeni_Highlands	Y038	Yemen	Dhamar	14.55	44.40167	modern	OtherCapture	ds	haploid	538568	VyasAJPA2017	PASS (genotyping)
+Y047	M	Yemeni_Highlands	Y047	Yemen	Dhamar	14.55	44.40167	modern	OtherCapture	ds	haploid	540806	VyasAJPA2017	PASS (genotyping)
+Y064	M	Yemeni_Highlands	Y064	Yemen	Al Bayda	13.97639	45.57083	modern	OtherCapture	ds	haploid	539841	VyasAJPA2017	PASS (genotyping)
+Y070	F	Yemeni_Highlands	Y070	Yemen	Al Bayda	13.97639	45.57083	modern	OtherCapture	ds	haploid	537218	VyasAJPA2017	PASS (genotyping)
+Y083	M	Yemeni_Highlands	Y083	Yemen	Ibb	13.96667	44.16667	modern	OtherCapture	ds	haploid	537986	VyasAJPA2017	PASS (genotyping)
+Y086	F	Yemeni_Highlands	Y086	Yemen	Al Bayda	13.97639	45.57083	modern	OtherCapture	ds	haploid	540183	VyasAJPA2017	PASS (genotyping)
+Y089	F	Yemeni_Highlands	Y089	Yemen	Al Bayda	13.97639	45.57083	modern	OtherCapture	ds	haploid	540583	VyasAJPA2017	PASS (genotyping)
+Y092	M	Yemeni_Highlands	Y092	Yemen	Al Bayda	13.97639	45.57083	modern	OtherCapture	ds	haploid	540594	VyasAJPA2017	PASS (genotyping)
+Y097	F	Yemeni_Highlands	Y097	Yemen	Al Bayda	13.97639	45.57083	modern	OtherCapture	ds	haploid	539471	VyasAJPA2017	PASS (genotyping)
+Y100	F	Yemeni_Highlands	Y100	Yemen	Al Bayda	13.97639	45.57083	modern	OtherCapture	ds	haploid	539326	VyasAJPA2017	PASS (genotyping)
+Y190	M	Yemeni_Highlands_Raymah	Y190	Yemen	Raymah	15.7	43.6	modern	OtherCapture	ds	haploid	539948	VyasAJPA2017	PASS (genotyping)
+Y205	M	Yemeni_Northwest	Y205	Yemen	Ma'rib	15.41667	45.35	modern	OtherCapture	ds	haploid	540184	VyasAJPA2017	PASS (genotyping)
+Y208	M	Yemeni_Desert	Y208	Yemen	Shabwah	14.55	46.83333	modern	OtherCapture	ds	haploid	539955	VyasAJPA2017	PASS (genotyping)
+Y210	F	Yemeni_Highlands	Y210	Yemen	Ad Dali	13.69667	44.73083	modern	OtherCapture	ds	haploid	540503	VyasAJPA2017	PASS (genotyping)
+Y211	M	Yemeni_Desert	Y211	Yemen	Shabwah	14.55	46.83333	modern	OtherCapture	ds	haploid	540521	VyasAJPA2017	PASS (genotyping)
+Y216	M	Yemeni_Highlands	Y216	Yemen	Amanat Al Asimah	15.34833	44.20639	modern	OtherCapture	ds	haploid	540148	VyasAJPA2017	PASS (genotyping)
+Y217	M	Yemeni_Northwest	Y217	Yemen	Al Jawf	16.78333	45.51667	modern	OtherCapture	ds	haploid	540864	VyasAJPA2017	PASS (genotyping)
+Y219	M	Yemeni_Northwest	Y219	Yemen	Ma'rib	15.41667	45.35	modern	OtherCapture	ds	haploid	540454	VyasAJPA2017	PASS (genotyping)
+Y221	M	Yemeni_Northwest	Y221	Yemen	Al Jawf	16.78333	45.51667	modern	OtherCapture	ds	haploid	540558	VyasAJPA2017	PASS (genotyping)
+Y223	M	Yemeni_Northwest	Y223	Yemen	Al Jawf	16.78333	45.51667	modern	OtherCapture	ds	haploid	539927	VyasAJPA2017	PASS (genotyping)
+Y224	M	Yemeni_Highlands	Y224	Yemen	Ad Dali	13.69667	44.73083	modern	OtherCapture	ds	haploid	540833	VyasAJPA2017	PASS (genotyping)
+Y225	M	Yemeni_Northwest	Y225	Yemen	Al Jawf	16.78333	45.51667	modern	OtherCapture	ds	haploid	540704	VyasAJPA2017	PASS (genotyping)
+Y226	M	Yemeni_Northwest	Y226	Yemen	Ma'rib	15.41667	45.35	modern	OtherCapture	ds	haploid	540463	VyasAJPA2017	PASS (genotyping)
+Y227	M	Yemeni_Highlands	Y227	Yemen	Ad Dali	13.69667	44.73083	modern	OtherCapture	ds	haploid	532754	VyasAJPA2017	PASS (genotyping)
+Y232	M	Yemeni_Highlands	Y232	Yemen	Ad Dali	13.69667	44.73083	modern	OtherCapture	ds	haploid	540833	VyasAJPA2017	PASS (genotyping)
+Y234	M	Yemeni_Highlands	Y234	Yemen	Ad Dali	13.69667	44.73083	modern	OtherCapture	ds	haploid	540664	VyasAJPA2017	PASS (genotyping)
+Y235	M	Yemeni_Highlands	Y235	Yemen	Ad Dali	13.69667	44.73083	modern	OtherCapture	ds	haploid	540638	VyasAJPA2017	PASS (genotyping)
+Y236	M	Yemeni_Northwest	Y236	Yemen	Ma'rib	15.41667	45.35	modern	OtherCapture	ds	haploid	538940	VyasAJPA2017	PASS (genotyping)
+Y237	M	Yemeni_Northwest	Y237	Yemen	Ma'rib	15.41667	45.35	modern	OtherCapture	ds	haploid	539735	VyasAJPA2017	PASS (genotyping)
+Y239	M	Yemeni_Northwest	Y239	Yemen	Ma'rib	15.41667	45.35	modern	OtherCapture	ds	haploid	539566	VyasAJPA2017	PASS (genotyping)
+Y241	M	Yemeni_Northwest	Y241	Yemen	Ma'rib	15.41667	45.35	modern	OtherCapture	ds	haploid	540725	VyasAJPA2017	PASS (genotyping)
+Y246	M	Yemeni_Desert2	Y246	Yemen	Shabwah	14.55	46.83333	modern	OtherCapture	ds	haploid	540757	VyasAJPA2017	PASS (genotyping)
+Y250	M	Yemeni_Desert2	Y250	Yemen	Hadramout	16.66667	49.5	modern	OtherCapture	ds	haploid	540147	VyasAJPA2017	PASS (genotyping)
+Y252	M	Yemeni_Desert2	Y252	Yemen	Hadramout	16.66667	49.5	modern	OtherCapture	ds	haploid	539893	VyasAJPA2017	PASS (genotyping)
+Y254	M	Yemeni_Desert	Y254	Yemen	Hadramout	16.66667	49.5	modern	OtherCapture	ds	haploid	540728	VyasAJPA2017	PASS (genotyping)
+Y258	M	Yemeni_Desert2	Y258	Yemen	Hadramout	16.66667	49.5	modern	OtherCapture	ds	haploid	540647	VyasAJPA2017	PASS (genotyping)
+Y264	M	Yemeni_Desert2	Y264	Yemen	Hadramout	16.66667	49.5	modern	OtherCapture	ds	haploid	540197	VyasAJPA2017	PASS (genotyping)
+Y276	F	Yemeni_Desert2	Y276	Yemen	Hadramout	16.66667	49.5	modern	OtherCapture	ds	haploid	540270	VyasAJPA2017	PASS (genotyping)
+Y279	F	Yemeni_Desert2	Y279	Yemen	Hadramout	16.66667	49.5	modern	OtherCapture	ds	haploid	540475	VyasAJPA2017	PASS (genotyping)
+Y281	F	Yemeni_Desert2	Y281	Yemen	Hadramout	16.66667	49.5	modern	OtherCapture	ds	haploid	540802	VyasAJPA2017	PASS (genotyping)
+Y283	F	Yemeni_Desert2	Y283	Yemen	Hadramout	16.66667	49.5	modern	OtherCapture	ds	haploid	540647	VyasAJPA2017	PASS (genotyping)
+Y288	M	Yemeni_Desert2	Y288	Yemen	Hadramout	16.66667	49.5	modern	OtherCapture	ds	haploid	518238	VyasAJPA2017	PASS (genotyping)
+Y292	M	Yemeni_Desert2	Y292	Yemen	Hadramout	16.66667	49.5	modern	OtherCapture	ds	haploid	539179	VyasAJPA2017	PASS (genotyping)
+Y299	M	Yemeni_Desert	Y299	Yemen	Hadramout	16.66667	49.5	modern	OtherCapture	ds	haploid	540825	VyasAJPA2017	PASS (genotyping)
+Y301	M	Yemeni_Desert	Y301	Yemen	Hadramout	16.66667	49.5	modern	OtherCapture	ds	haploid	540641	VyasAJPA2017	PASS (genotyping)
+Y303	M	Yemeni_Desert2	Y303	Yemen	Hadramout	16.66667	49.5	modern	OtherCapture	ds	haploid	540481	VyasAJPA2017	PASS (genotyping)
+Y311	M	Yemeni_Desert	Y311	Yemen	Mahra	16.8	51.73333	modern	OtherCapture	ds	haploid	540372	VyasAJPA2017	PASS (genotyping)
+Y312	M	Yemeni_Desert	Y312	Yemen	Mahra	16.8	51.73333	modern	OtherCapture	ds	haploid	540656	VyasAJPA2017	PASS (genotyping)
+Y313	M	Yemeni_Desert	Y313	Yemen	Mahra	16.8	51.73333	modern	OtherCapture	ds	haploid	536518	VyasAJPA2017	PASS (genotyping)
+Y325	M	Yemeni_Desert	Y325	Yemen	Mahra	16.8	51.73333	modern	OtherCapture	ds	haploid	540816	VyasAJPA2017	PASS (genotyping)
+Y326	M	Yemeni_Desert	Y326	Yemen	Mahra	16.8	51.73333	modern	OtherCapture	ds	haploid	540587	VyasAJPA2017	PASS (genotyping)
+Y330	M	Yemeni_Desert	Y330	Yemen	Mahra	16.8	51.73333	modern	OtherCapture	ds	haploid	540045	VyasAJPA2017	PASS (genotyping)
+Y333	M	Yemeni_Desert2	Y333	Yemen	Mahra	16.8	51.73333	modern	OtherCapture	ds	haploid	535859	VyasAJPA2017	PASS (genotyping)
+Y334	M	Yemeni_Desert	Y334	Yemen	Mahra	16.8	51.73333	modern	OtherCapture	ds	haploid	540735	VyasAJPA2017	PASS (genotyping)
+Y338	F	Yemeni_Desert2	Y338	Yemen	Mahra	16.8	51.73333	modern	OtherCapture	ds	haploid	540673	VyasAJPA2017	PASS (genotyping)
+Y341	F	Yemeni_Desert	Y341	Yemen	Mahra	16.8	51.73333	modern	OtherCapture	ds	haploid	540053	VyasAJPA2017	PASS (genotyping)
+Y345	F	Yemeni_Desert	Y345	Yemen	Mahra	16.8	51.73333	modern	OtherCapture	ds	haploid	540639	VyasAJPA2017	PASS (genotyping)
+Y349	F	Yemeni_Desert	Y349	Yemen	Mahra	16.8	51.73333	modern	OtherCapture	ds	haploid	540052	VyasAJPA2017	PASS (genotyping)
+Y354	F	Yemeni_Desert	Y354	Yemen	Mahra	16.8	51.73333	modern	OtherCapture	ds	haploid	540526	VyasAJPA2017	PASS (genotyping)
+Y361	F	Yemeni_Desert2	Y361	Yemen	Mahra	16.8	51.73333	modern	OtherCapture	ds	haploid	540696	VyasAJPA2017	PASS (genotyping)
+Y382	M	Yemeni_Highlands	Y382	Yemen	Dhamar	14.55	44.40167	modern	OtherCapture	ds	haploid	540805	VyasAJPA2017	PASS (genotyping)
+Y388	F	Yemeni_Highlands	Y388	Yemen	Amanat Al Asimah	15.34833	44.20639	modern	OtherCapture	ds	haploid	540487	VyasAJPA2017	PASS (genotyping)
+Y391	F	Yemeni_Highlands	Y391	Yemen	Amanat Al Asimah	15.34833	44.20639	modern	OtherCapture	ds	haploid	540771	VyasAJPA2017	PASS (genotyping)
+Y392	F	Yemeni_Highlands	Y392	Yemen	Dhamar	14.55	44.40167	modern	OtherCapture	ds	haploid	539642	VyasAJPA2017	PASS (genotyping)
+Y504	M	Yemeni_Northwest	Y504	Yemen	Amran	15.66667	43.95	modern	OtherCapture	ds	haploid	540402	VyasAJPA2017	PASS (genotyping)
+Y506	M	Yemeni_Northwest	Y506	Yemen	Amran	15.66667	43.95	modern	OtherCapture	ds	haploid	540155	VyasAJPA2017	PASS (genotyping)
+Y507	M	Ignore_Yemeni_Northwest_(PCA_outlier)	Y507	Yemen	Amran	15.66667	43.95	modern	OtherCapture	ds	haploid	540719	VyasAJPA2017	PASS (genotyping)
+Y517	M	Yemeni_Northwest	Y517	Yemen	Amran	15.66667	43.95	modern	OtherCapture	ds	haploid	540721	VyasAJPA2017	PASS (genotyping)
+Y518	M	Yemeni_Northwest	Y518	Yemen	Amran	15.66667	43.95	modern	OtherCapture	ds	haploid	540670	VyasAJPA2017	PASS (genotyping)
+Y519	M	Yemeni_Northwest	Y519	Yemen	Amran	15.66667	43.95	modern	OtherCapture	ds	haploid	539831	VyasAJPA2017	PASS (genotyping)
+Y520	M	Yemeni_Northwest	Y520	Yemen	Amran	15.66667	43.95	modern	OtherCapture	ds	haploid	535361	VyasAJPA2017	PASS (genotyping)
+Y522	M	Yemeni_Northwest	Y522	Yemen	Amran	15.66667	43.95	modern	OtherCapture	ds	haploid	540584	VyasAJPA2017	PASS (genotyping)
+Y524	M	Yemeni_Northwest	Y524	Yemen	Amran	15.66667	43.95	modern	OtherCapture	ds	haploid	540371	VyasAJPA2017	PASS (genotyping)
+Y528	M	Yemeni_Northwest	Y528	Yemen	Amran	15.66667	43.95	modern	OtherCapture	ds	haploid	540049	VyasAJPA2017	PASS (genotyping)
+Y529	M	Yemeni_Northwest	Y529	Yemen	Amran	15.66667	43.95	modern	OtherCapture	ds	haploid	540830	VyasAJPA2017	PASS (genotyping)
+Y531	M	Yemeni_Highlands	Y531	Yemen	Amanat Al Asimah	15.34833	44.20639	modern	OtherCapture	ds	haploid	538635	VyasAJPA2017	PASS (genotyping)
+Y532	M	Yemeni_Northwest	Y532	Yemen	Amran	15.66667	43.95	modern	OtherCapture	ds	haploid	538342	VyasAJPA2017	PASS (genotyping)
+Y536	M	Yemeni_Northwest	Y536	Yemen	Amran	15.66667	43.95	modern	OtherCapture	ds	haploid	537873	VyasAJPA2017	PASS (genotyping)
+Y537	M	Yemeni_Highlands	Y537	Yemen	Ibb	13.96667	44.16667	modern	OtherCapture	ds	haploid	540855	VyasAJPA2017	PASS (genotyping)
+Y540	M	Yemeni_Northwest	Y540	Yemen	Amran	15.66667	43.95	modern	OtherCapture	ds	haploid	539724	VyasAJPA2017	PASS (genotyping)
+Y541	M	Yemeni_Northwest	Y541	Yemen	Amran	15.66667	43.95	modern	OtherCapture	ds	haploid	540760	VyasAJPA2017	PASS (genotyping)
+Y542	M	Yemeni_Northwest	Y542	Yemen	Amran	15.66667	43.95	modern	OtherCapture	ds	haploid	540915	VyasAJPA2017	PASS (genotyping)
+Y544	M	Yemeni_Northwest	Y544	Yemen	Amran	15.66667	43.95	modern	OtherCapture	ds	haploid	540900	VyasAJPA2017	PASS (genotyping)
+Y546	M	Yemeni_Northwest	Y546	Yemen	Amran	15.66667	43.95	modern	OtherCapture	ds	haploid	540272	VyasAJPA2017	PASS (genotyping)

@@ -1,11 +1,11 @@
-poseidonVersion: 2.4.0
+poseidonVersion: 2.5.0
 title: 2017_LindoPNAS
 description: Empty package template. Please add a description
 contributor:
 - name: Ayshin Ghalichi
   email: ghalichi@shh.mpg.de
-packageVersion: 1.0.2
-lastModified: 2021-05-31
+packageVersion: 2.0.0
+lastModified: 2022-01-28
 genotypeData:
   format: PLINK
   genoFile: 2017_LindoPNAS.bed
@@ -16,6 +16,7 @@ genotypeData:
   indFileChkSum: 2499d568ef81d3a222ebfec4bb986c25
   snpSet: 1240K
 jannoFile: 2017_LindoPNAS.janno
-jannoFileChkSum: 6d2a744059ae40b268d8bda2983580de
+jannoFileChkSum: 8728c6a29ef6e76398d68a9d62ff1114
 bibFile: 2017_LindoPNAS.bib
 bibFileChkSum: 213b472e19aefb244dc579c3b78ec33b
+changelogFile: CHANGELOG.md

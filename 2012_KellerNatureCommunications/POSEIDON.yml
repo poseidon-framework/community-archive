@@ -1,4 +1,4 @@
-poseidonVersion: 2.4.0
+poseidonVersion: 2.5.0
 title: 2012_KellerNatureCommunications
 description: Copper age Tyrolean Iceman (Oetzi). This package was initially constructed
   based on the Allen Ancient DNA Resource (https://reich.hms.harvard.edu/allen-ancient-dna-resource-aadr-downloadable-genotypes-present-day-and-ancient-dna-data,
@@ -6,8 +6,8 @@ description: Copper age Tyrolean Iceman (Oetzi). This package was initially cons
 contributor:
 - name: Ayshin Ghalichi
   email: ghalichi@shh.mpg.de
-packageVersion: 1.0.2
-lastModified: 2021-05-07
+packageVersion: 2.0.0
+lastModified: 2022-01-28
 genotypeData:
   format: PLINK
   genoFile: 2012_KellerNatureCommunications.bed
@@ -18,6 +18,7 @@ genotypeData:
   indFileChkSum: a920cbe46c1f180b181c237793ec4d6e
   snpSet: 1240K
 jannoFile: 2012_KellerNatureCommunications.janno
-jannoFileChkSum: c221568a096a7b8454b6cf203f741efa
+jannoFileChkSum: 91bd9921f54e406805ef7fcf7c23ec5a
 bibFile: 2012_KellerNatureCommunications.bib
 bibFileChkSum: 3065d38f7ab6dc10355c1c716b2f8d41
+changelogFile: CHANGELOG.md

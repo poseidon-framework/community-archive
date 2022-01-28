@@ -1,4 +1,4 @@
-poseidonVersion: 2.4.0
+poseidonVersion: 2.5.0
 title: 2019_Schroeder_Poland
 description: Genetic data published in Schroeder et al. 2019
 contributor:
@@ -6,8 +6,8 @@ contributor:
   email: ghalichi@shh.mpg.de
 - name: Clemens Schmid
   email: schmid@shh.mpg.de
-packageVersion: 1.0.2
-lastModified: 2021-07-28
+packageVersion: 2.0.0
+lastModified: 2022-01-28
 genotypeData:
   format: PLINK
   genoFile: Schroeder_Poland.bed
@@ -18,7 +18,7 @@ genotypeData:
   indFileChkSum: 9558bbb5d5686f43771f8f96f032cf7c
   snpSet: 1240K
 jannoFile: Schroeder_Poland.janno
-jannoFileChkSum: 4906e22b5ee6c8811d50c82f20d011a1
+jannoFileChkSum: c436675747220fb85c866db915a034f4
 bibFile: LITERATURE.bib
 bibFileChkSum: 5ae5aa1062a43f4131c1c0f640c91a56
 changelogFile: CHANGELOG.md

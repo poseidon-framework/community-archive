@@ -1,11 +1,11 @@
-poseidonVersion: 2.4.0
+poseidonVersion: 2.5.0
 title: 2017_Schuenemann_EgyptianMummies
 description: Genetic data published in Schuenemann et al. 2017
 contributor:
 - name: Ayshin Ghalichi
   email: ghalichi@shh.mpg.de
-packageVersion: 1.0.1
-lastModified: 2021-05-31
+packageVersion: 2.0.0
+lastModified: 2022-01-28
 genotypeData:
   format: PLINK
   genoFile: EgyptianMummies.bed
@@ -16,6 +16,7 @@ genotypeData:
   indFileChkSum: a55aa3e7471481b9899829940d0db2d6
   snpSet: 1240K
 jannoFile: EgyptianMummies.janno
-jannoFileChkSum: 7ef209854eb30a59a33e4996dc931921
+jannoFileChkSum: bde74ae435fa37cfb0c15b153ab1516d
 bibFile: LITERATURE.bib
 bibFileChkSum: dcad99440978a7e45b30e9ae9e025c59
+changelogFile: CHANGELOG.md

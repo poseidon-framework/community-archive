@@ -1,4 +1,4 @@
-poseidonVersion: 2.4.0
+poseidonVersion: 2.5.0
 title: 2017_PrueferScience
 description: This package was initially constructed based on the Allen Ancient DNA
   Resource (https://reich.hms.harvard.edu/allen-ancient-dna-resource-aadr-downloadable-genotypes-present-day-and-ancient-dna-data,
@@ -6,8 +6,8 @@ description: This package was initially constructed based on the Allen Ancient D
 contributor:
 - name: Ayshin Ghalichi
   email: ghalichi@shh.mpg.de
-packageVersion: 1.0.2
-lastModified: 2021-05-31
+packageVersion: 2.0.0
+lastModified: 2022-01-28
 genotypeData:
   format: PLINK
   genoFile: 2017_PrueferScience.bed
@@ -18,6 +18,7 @@ genotypeData:
   indFileChkSum: 25bb55ad53f761ae191fcac235683ba1
   snpSet: 1240K
 jannoFile: 2017_PrueferScience.janno
-jannoFileChkSum: 051147407b9050e7676a8ac8c9a636dd
+jannoFileChkSum: bbec2bcea37098752db5644d10b18642
 bibFile: 2017_PrueferScience.bib
 bibFileChkSum: 10bdbe85677f9d5c21e28f971974bbee
+changelogFile: CHANGELOG.md

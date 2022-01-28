@@ -1,4 +1,4 @@
-poseidonVersion: 2.4.0
+poseidonVersion: 2.5.0
 title: 2016_LazaridisNature
 description: Ancient Near Eastern samples from the Mesolithic to the Bronze Age. Also
   modern reference samples from Europe, the Near East and Northern Africa. This package
@@ -9,8 +9,8 @@ contributor:
   email: ghalichi@shh.mpg.de
 - name: Clemens Schmid
   email: schmid@shh.mpg.de
-packageVersion: 1.1.2
-lastModified: 2021-05-11
+packageVersion: 2.0.0
+lastModified: 2022-01-28
 genotypeData:
   format: PLINK
   genoFile: 2016_LazaridisNature.bed
@@ -21,6 +21,7 @@ genotypeData:
   indFileChkSum: a64277293eb1fda5dd9a947ccc4a9b90
   snpSet: 1240K
 jannoFile: 2016_LazaridisNature.janno
-jannoFileChkSum: 79978be154d8bb235fa49a93588674d7
+jannoFileChkSum: bdebe3359916766d580ac400b9e575bf
 bibFile: 2016_LazaridisNature.bib
 bibFileChkSum: 48cd3ae3302237ae6e028cb29457b8ef
+changelogFile: CHANGELOG.md

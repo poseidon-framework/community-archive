@@ -1,11 +1,11 @@
-poseidonVersion: 2.4.0
+poseidonVersion: 2.5.0
 title: 2019_Antonio_AncientRome
 description: Genetic data published in Antonio et al. 2019
 contributor:
 - name: Ayshin Ghalichi
   email: ghalichi@shh.mpg.de
-packageVersion: 1.0.1
-lastModified: 2021-05-31
+packageVersion: 2.0.0
+lastModified: 2022-01-28
 genotypeData:
   format: PLINK
   genoFile: Antonio_AncRome.bed
@@ -16,6 +16,7 @@ genotypeData:
   indFileChkSum: 0466dcbb68f122c8848f51e0900125a6
   snpSet: 1240K
 jannoFile: Antonio_AncRome.janno
-jannoFileChkSum: dd57a82b69e93937f14340b8764b1ca3
+jannoFileChkSum: acc90ae576d88e5d894d248868284a87
 bibFile: LITERATURE.bib
 bibFileChkSum: 342be617512a1cf91d0fdc28eafdfc3a
+changelogFile: CHANGELOG.md

@@ -1,12 +1,12 @@
-poseidonVersion: 2.4.0
+poseidonVersion: 2.5.0
 title: 2020_Bergstrom_HGDP
 description: Modern genomes from all around the world (Human Genome Diversity Project
   - HGDP).
 contributor:
 - name: Ayshin Ghalichi
   email: ghalichi@shh.mpg.de
-packageVersion: 1.0.1
-lastModified: 2021-05-11
+packageVersion: 2.0.0
+lastModified: 2022-01-28
 genotypeData:
   format: PLINK
   genoFile: Bergstrom_HGDP.bed
@@ -17,6 +17,7 @@ genotypeData:
   indFileChkSum: 2fc07fa1832fa5dbf2f39286a9da1a07
   snpSet: 1240K
 jannoFile: Bergstrom_HGDP.janno
-jannoFileChkSum: 1711d759401c03324b425ccc48502c82
+jannoFileChkSum: 7ccf6694cd16496e18068f56767fa5d4
 bibFile: LITERATURE.bib
 bibFileChkSum: 79ad620a7903ec265de098efe5331bc0
+changelogFile: CHANGELOG.md
