@@ -5,7 +5,7 @@ description: This article provides provide insights into family structure and th
 contributor:
 - name: Dhananjaya Aththanayaka
   email: dhananjaya.aththanayaka@eva.mpg.de
-packageVersion: 0.1.2
+packageVersion: 1.0.0
 lastModified: 2021-12-09
 genotypeData:
   format: PLINK
@@ -18,4 +18,4 @@ genotypeData:
   snpSet: 1240K
 jannoFile: 2021_ZegaracScientificReports.janno
 jannoFileChkSum: 66672b5357e9fda3f6d1e9884426a69d
-changelogFile: CHANGELOG.md
+readmeFile: README.txt
