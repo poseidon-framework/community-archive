@@ -1,0 +1,1 @@
+This package was initially constructed based on the Allen Ancient DNA Resource (https://reich.hms.harvard.edu/allen-ancient-dna-resource-aadr-downloadable-genotypes-present-day-and-ancient-dna-data, version 50). The script which was used to convert the annotation data can be found here: https://github.com/poseidon-framework/AADR2Poseidon/tree/main/AADR50_to_Poseidon2.4.0
