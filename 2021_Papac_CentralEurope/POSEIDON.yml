@@ -1,5 +1,5 @@
 poseidonVersion: 2.5.0
-title: PapacScienceAdvances2021
+title: 2021_Papac_CentralEurope
 description: Dynamic changes in genomic and social structures in third millennium
   BCE central Europe
 contributor:
@@ -9,15 +9,15 @@ packageVersion: 1.0.0
 lastModified: 2021-12-09
 genotypeData:
   format: PLINK
-  genoFile: PapacScienceAdvances2021.bed
+  genoFile: 2021_Papac_CentralEurope.bed
   genoFileChkSum: f9fdbf52ef9ac9ea68624be836bbc394
-  snpFile: PapacScienceAdvances2021.bim
+  snpFile: 2021_Papac_CentralEurope.bim
   snpFileChkSum: 433fa85a23f3123bade02348e4628b75
-  indFile: PapacScienceAdvances2021.fam
+  indFile: 2021_Papac_CentralEurope.fam
   indFileChkSum: 0eddb1a589e30ec07eeaa20ec43834b7
   snpSet: 1240K
-jannoFile: PapacScienceAdvances2021.janno
+jannoFile: 2021_Papac_CentralEurope.janno
 jannoFileChkSum: f00aa0b550dd4f00abde044b2ab6fc8d
-bibFile: PapacScienceAdvances2021.bib
+bibFile: 2021_Papac_CentralEurope.bib
 bibFileChkSum: 6a55b62210c8db442d04674c4b9df02f
 readmeFile: README.txt
