@@ -1,4 +1,4 @@
-poseidonVersion: 2.4.0
+poseidonVersion: 2.5.0
 title: 2020_JeongCell
 description: A Dynamic 6,000-Year Genetic History of Eurasia’s Eastern Steppe
 contributor:
@@ -16,7 +16,7 @@ genotypeData:
   indFileChkSum: 3c8fd0bc581d2c682bb052560b850bb7
   snpSet: 1240K
 jannoFile: 2020_JeongCell.janno
-jannoFileChkSum: a097e9d90729644b20ee0252a8266295
+jannoFileChkSum: 587e1d783a89237a4c5f35ba7a4033b5
 bibFile: 2020_JeongCell.bib
 bibFileChkSum: 7ffea33cd60401bd61e2c26a3ff6009b
 readmeFile: README.txt
