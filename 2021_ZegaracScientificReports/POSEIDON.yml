@@ -1,4 +1,4 @@
-poseidonVersion: 2.4.0
+poseidonVersion: 2.5.0
 title: 2021_ZegaracScientificReports
 description: This article provides provide insights into family structure and the
   heredity of social status in the early Bronze Age of southeastern Europe.
@@ -17,6 +17,8 @@ genotypeData:
   indFileChkSum: 11ca9cacf580e026a7fcffc8f11c5605
   snpSet: 1240K
 jannoFile: 2021_ZegaracScientificReports.janno
-jannoFileChkSum: 1cf4e5e3e053a5db90089ee425c1c2a3
+jannoFileChkSum: a74824fe3c75462820b179c741f61c12
+bibFile: 2021_ZegaracScientificReports.bib
+bibFileChkSum: b44d1a6d8b58fbb80b99157ece06b87b
 readmeFile: README.txt
 
