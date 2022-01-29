@@ -6,7 +6,7 @@ contributor:
 - name: Dhananjaya Aththanayaka
   email: dhananjaya.aththanayaka@eva.mpg.de
 packageVersion: 1.0.0
-lastModified: 2021-12-09
+lastModified: 2022-01-29
 genotypeData:
   format: PLINK
   genoFile: 2021_ZegaracScientificReports.bed
@@ -17,5 +17,6 @@ genotypeData:
   indFileChkSum: 11ca9cacf580e026a7fcffc8f11c5605
   snpSet: 1240K
 jannoFile: 2021_ZegaracScientificReports.janno
-jannoFileChkSum: 66672b5357e9fda3f6d1e9884426a69d
+jannoFileChkSum: 1cf4e5e3e053a5db90089ee425c1c2a3
 readmeFile: README.txt
+
