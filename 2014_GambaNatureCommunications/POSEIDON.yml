@@ -4,8 +4,8 @@ description: Hungarian Neolithic, Copper, Bronze and Iron Age individuals
 contributor:
 - name: Ayshin Ghalichi
   email: ghalichi@shh.mpg.de
-packageVersion: 2.0.0
-lastModified: 2022-01-28
+packageVersion: 2.0.1
+lastModified: 2022-02-01
 genotypeData:
   format: PLINK
   genoFile: 2014_GambaNatureCommunications.bed
@@ -16,7 +16,7 @@ genotypeData:
   indFileChkSum: df9a726b70e681c96e147bccde8e75d5
   snpSet: 1240K
 jannoFile: 2014_GambaNatureCommunications.janno
-jannoFileChkSum: 2307eb1c89e3d889af7e678ab45183c3
+jannoFileChkSum: 08f44497d67ce47e792dba8d9986b93f
 bibFile: 2014_GambaNatureCommunications.bib
 bibFileChkSum: 2f9f707dbcbff0abda6c75139f9801bf
 changelogFile: CHANGELOG.md

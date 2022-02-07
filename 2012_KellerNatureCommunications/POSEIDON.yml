@@ -6,8 +6,8 @@ description: Copper age Tyrolean Iceman (Oetzi). This package was initially cons
 contributor:
 - name: Ayshin Ghalichi
   email: ghalichi@shh.mpg.de
-packageVersion: 2.0.0
-lastModified: 2022-01-28
+packageVersion: 2.0.1
+lastModified: 2022-02-01
 genotypeData:
   format: PLINK
   genoFile: 2012_KellerNatureCommunications.bed
@@ -18,7 +18,7 @@ genotypeData:
   indFileChkSum: a920cbe46c1f180b181c237793ec4d6e
   snpSet: 1240K
 jannoFile: 2012_KellerNatureCommunications.janno
-jannoFileChkSum: 91bd9921f54e406805ef7fcf7c23ec5a
+jannoFileChkSum: bc178a10e7c7dea58d980cb5243044f0
 bibFile: 2012_KellerNatureCommunications.bib
 bibFileChkSum: 3065d38f7ab6dc10355c1c716b2f8d41
 changelogFile: CHANGELOG.md
