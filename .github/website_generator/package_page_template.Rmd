@@ -1,0 +1,19 @@
+```{r echo=FALSE}
+library(magrittr)
+package_name <- "####package_name####"
+package_path <- file.path("../../..", package_name)
+janno_file <- list.files(package_path, pattern = ".janno", full.names = TRUE)
+janno <- poseidonR::read_janno(janno_file)
+```
+
+```{r echo=FALSE}
+if (all(c("Longitude", "Latitude", "Poseidon_ID") %in% colnames(janno))) {
+  leaflet::leaflet(janno) %>%
+    leaflet::addTiles() %>%
+    leaflet::addMarkers(
+      lng = ~Longitude,
+      lat = ~Latitude, 
+      popup = ~Poseidon_ID
+    )
+}
+```

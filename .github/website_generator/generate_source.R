@@ -2,12 +2,15 @@ total_janno <- poseidonR::read_janno("../../.", validate = F) # generation of ne
 
 pac_names <- total_janno$source_file |> unique() |> dirname()
 
+if (!dir.exists("website_source")) {
+  dir.create("website_source")
+}
+
 generate_Rmd <- function(x) {
   path <- file.path("website_source", paste0(x, ".Rmd"))
-  if (!dir.exists(dirname(path))) {
-    dir.create(dirname(path))
-  }
-  writeLines(paste("#", x, "\n\nhuhu"), con = path)
+  template <- readLines("package_page_template.Rmd")
+  template_mod <- gsub("####package_name####", x, template)
+  writeLines(template_mod, con = path)
 }
 
 purrr::walk(pac_names, generate_Rmd)
