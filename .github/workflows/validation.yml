@@ -25,3 +25,21 @@ jobs:
     - name: Validation
       run: |
         ./trident-Linux validate -d data --ignoreGeno
+        
+  buildWebsite:
+    needs: validate
+    name: build repo website
+    runs-on: ubuntu-latest
+    steps:
+
+    - name: Setup R
+      uses: r-lib/actions/setup-r@v2
+      
+    - name: Install Pandoc
+      uses: r-lib/actions/setup-pandoc@master
+      
+    - name: Install R depedencies
+      run: |
+        install.packages("dplyr","DT","knitr","leaflet","magrittr","purrr","rmarkdown","yaml","remotes")
+        remotes::install_github('poseidon-framework/poseidonR')
+      shell: Rscript {0}

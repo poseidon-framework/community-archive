@@ -1,0 +1,70 @@
+---
+title: ####package_name####
+editor_options: 
+  chunk_output_type: console
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(
+  echo = FALSE,
+  message = FALSE,
+  warning = FALSE
+)
+```
+
+```{r}
+library(magrittr)
+```
+
+```{r}
+package_name <- "####package_name####"
+package_path <- file.path("../../..", package_name)
+janno_file <- list.files(package_path, pattern = ".janno", full.names = TRUE)
+janno <- poseidonR::read_janno(janno_file)
+poseidon_yml_file <- list.files(package_path, pattern = "POSEIDON.yml", full.names = TRUE)
+```
+
+```{r}
+poseidon_yml <- yaml::read_yaml(poseidon_yml_file)
+contributors <- paste(purrr::map_chr(
+  poseidon_yml$contributor, function(x) {
+    paste0(x$name, " (", x$email, ")")
+  }), collapse = ", ")
+```
+
+**Package version:** `r poseidon_yml$packageVersion` (`r poseidon_yml$lastModified`), 
+**Poseidon version:** `r poseidon_yml$poseidonVersion`
+
+**Description:** `r poseidon_yml$description`
+
+**Contributors** `r contributors`
+
+```{r}
+if (all(c("Longitude", "Latitude", "Poseidon_ID") %in% colnames(janno))) {
+  leaflet::leaflet(
+    janno,
+    width = "100%"
+  ) %>%
+    leaflet::addTiles(
+      urlTemplate = "https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
+    ) %>%
+    leaflet::addMarkers(
+      lng = ~Longitude,
+      lat = ~Latitude, 
+      popup = ~Poseidon_ID,
+      clusterOptions = leaflet::markerClusterOptions()
+    )
+}
+```
+
+```{r}
+DT::datatable(
+  janno[-1], 
+  class = "compact",
+  filter = 'top',
+  options = list(
+    pageLength = 20, 
+    scrollX = TRUE
+  )
+)
+```
