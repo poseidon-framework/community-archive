@@ -40,6 +40,6 @@ jobs:
       
     - name: Install R depedencies
       run: |
-        install.packages("dplyr","DT","knitr","leaflet","magrittr","purrr","rmarkdown","yaml","remotes")
+        install.packages(c("dplyr","DT","knitr","leaflet","magrittr","purrr","rmarkdown","yaml","remotes"))
         remotes::install_github('poseidon-framework/poseidonR')
       shell: Rscript {0}
