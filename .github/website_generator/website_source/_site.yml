@@ -2,8 +2,15 @@ name: "poseidon-published-data"
 navbar:
   title: "Poseidon published data repository"
   left:
-    - text: "Package overview"
+    - text: "Package list"
+      icon: fa-list
       href: index.html
+    - text: "Package repository"
+      icon: fa-github
+      href: https://github.com/poseidon-framework/published_data
+    - text: "Poseidon website"
+      icon: fa-globe
+      href: https://poseidon-framework.github.io
 output:
   html_document:
     theme: spacelab

@@ -1,8 +1,20 @@
-# generation of new website should maybe fail on validation errors
-total_janno <- poseidonR::read_janno("../../.", validate = F)
+library(magrittr)
 
-pac_names <- total_janno$source_file |> unique() |> dirname()
-pac_names <- pac_names[1:3]
+#total_janno <- poseidonR::read_janno("../../.", validate = F)
+
+janno_table <- total_janno %>%
+  dplyr::group_by(source_file) %>%
+  dplyr::summarise(
+    `# Individuals` = dplyr::n(),
+    Package = dirname(unique(source_file)),
+    `View link` = paste0("[View](", Package, ".html)"),
+    `Download link` = paste0(
+      "[Download](http://c107-224.cloud.gwdg.de:3000/zip_file/", Package, ")"
+    )
+  ) %>%
+  dplyr::select(-source_file)
+
+pac_names <- janno_table$Package[1:20]
 
 generate_Rmd <- function(x) {
   path <- file.path("website_source", paste0(x, ".Rmd"))
@@ -10,26 +22,11 @@ generate_Rmd <- function(x) {
   template_mod <- gsub("####package_name####", x, template)
   writeLines(template_mod, con = path)
 }
-
 purrr::walk(pac_names, generate_Rmd)
 
-index_file <- file.path("website_source", "index.Rmd")
-
-pac_df <- data.frame(
-  pac_links = purrr::map_chr(
-    pac_names,
-    function(x) {
-      paste0("[", x, "](", x, ".html)")
-    }
-  )
-)
-
 write(
-  knitr::kable(pac_df, format = "pipe") %>% as.character(),
-  file = index_file
+  knitr::kable(janno_table, format = "pipe") %>% as.character(),
+  file = file.path("website_source", "index.Rmd")
 )
 
-rmarkdown::render_site(
-  input = "website_source"
-)
-
+rmarkdown::render_site(input = "website_source")
