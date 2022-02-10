@@ -1,0 +1,6 @@
+name: "poseidon-published-data"
+navbar:
+  title: "Poseidon published data repository"
+  left:
+    - text: "Overview"
+      href: index.html
