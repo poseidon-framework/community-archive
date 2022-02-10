@@ -2,5 +2,11 @@ name: "poseidon-published-data"
 navbar:
   title: "Poseidon published data repository"
   left:
-    - text: "Overview"
+    - text: "Package overview"
       href: index.html
+output:
+  html_document:
+    theme: spacelab
+    highlight: textmate
+    css: styles.css
+    

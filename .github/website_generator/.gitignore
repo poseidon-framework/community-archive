@@ -1,2 +1,3 @@
 /website_source/*
 !/website_source/_site.yml
+!/website_source/styles.css

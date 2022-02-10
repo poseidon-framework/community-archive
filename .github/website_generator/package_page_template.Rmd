@@ -45,7 +45,9 @@ if (all(c("Longitude", "Latitude", "Poseidon_ID") %in% colnames(janno))) {
     janno,
     width = "100%"
   ) %>%
-    leaflet::addTiles() %>%
+    leaflet::addTiles(
+      urlTemplate = "https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
+    ) %>%
     leaflet::addMarkers(
       lng = ~Longitude,
       lat = ~Latitude, 
