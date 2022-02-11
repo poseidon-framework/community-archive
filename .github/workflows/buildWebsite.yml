@@ -9,7 +9,7 @@ on:
 
 jobs:
   buildWebsite:
-    needs: validate
+    if: ${{ github.event.workflow_run.conclusion == 'success' }} # only run if the validation was successful
     name: build repo website
     runs-on: ubuntu-latest
     steps:
