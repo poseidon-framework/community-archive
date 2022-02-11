@@ -13,9 +13,6 @@ jobs:
     if: ${{ github.event.workflow_run.conclusion == 'success' }} # only run if the validation was successful
     name: build repo website
     runs-on: ubuntu-latest
-    defaults:
-      run:
-        working-directory: ./website_generator
 
     steps:
 
@@ -32,3 +29,15 @@ jobs:
       uses: r-lib/actions/setup-r-dependencies@v2
       with:
         cache-version: 1
+        working-directory: ./website_generator
+        
+    # - name: Build website
+    #   run: 
+      
+
+    # - name: Deploy haddock documentation
+    #   uses: peaceiris/actions-gh-pages@v3
+    #   if: ${{ github.event_name == 'push' && github.ref == 'refs/heads/master' }}
+    #   with:
+    #     github_token: ${{ secrets.GITHUB_TOKEN }}
+    #     publish_dir: ${{ steps.haddockpath.outputs.DOCPATH }}
