@@ -16,6 +16,9 @@ jobs:
 
     steps:
 
+    - name: Clone repo
+      uses: actions/checkout@v2
+
     - name: Setup R
       uses: r-lib/actions/setup-r@v2
       with:
@@ -29,7 +32,7 @@ jobs:
       uses: r-lib/actions/setup-r-dependencies@v2
       with:
         cache-version: 1
-        working-directory: /home/runner/work/published_data/website_generator
+        working-directory: website_generator
         
     - name: Build website
       run: |
