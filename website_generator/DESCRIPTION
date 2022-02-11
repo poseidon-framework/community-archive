@@ -14,4 +14,4 @@ Imports:
     yaml
     poseidonR
 Remotes:
-    poseidon-framework/poseidonR
+    github::poseidon-framework/poseidonR
