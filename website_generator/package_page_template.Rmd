@@ -12,19 +12,24 @@ knitr::opts_chunk$set(
 )
 ```
 
-```{r}
+```{r dependencies}
 library(magrittr)
+
+package_name <- "####package_name####"
+package_path <- file.path("../..", package_name)
+warning(
+  "Package path: ", package_path, "\n",
+  "Working dir: ", getwd()
+)
 ```
 
-```{r}
-package_name <- "####package_name####"
-package_path <- file.path("../../..", package_name)
+```{r janno}
 janno_file <- list.files(package_path, pattern = ".janno", full.names = TRUE)
 janno <- poseidonR::read_janno(janno_file)
-poseidon_yml_file <- list.files(package_path, pattern = "POSEIDON.yml", full.names = TRUE)
 ```
 
-```{r}
+```{r ymlfile}
+poseidon_yml_file <- list.files(package_path, pattern = "POSEIDON.yml", full.names = TRUE)
 poseidon_yml <- yaml::read_yaml(poseidon_yml_file)
 contributors <- paste(purrr::map_chr(
   poseidon_yml$contributor, function(x) {
@@ -39,7 +44,7 @@ contributors <- paste(purrr::map_chr(
 
 **Contributors** `r contributors`
 
-```{r}
+```{r map}
 if (all(c("Longitude", "Latitude", "Poseidon_ID") %in% colnames(janno))) {
   leaflet::leaflet(
     janno,
@@ -57,7 +62,7 @@ if (all(c("Longitude", "Latitude", "Poseidon_ID") %in% colnames(janno))) {
 }
 ```
 
-```{r}
+```{r table}
 DT::datatable(
   janno[-1], 
   class = "compact",

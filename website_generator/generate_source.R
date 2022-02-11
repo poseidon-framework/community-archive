@@ -1,6 +1,6 @@
 library(magrittr)
 
-total_janno <- poseidonR::read_janno("../../.", validate = F)
+total_janno <- poseidonR::read_janno("../.", validate = F)
 
 janno_table <- total_janno %>%
   dplyr::group_by(source_file) %>%
@@ -14,7 +14,7 @@ janno_table <- total_janno %>%
   ) %>%
   dplyr::select(-source_file)
 
-pac_names <- janno_table$Package
+pac_names <- janno_table$Package[1:2]
 
 generate_Rmd <- function(x) {
   path <- file.path("website_source", paste0(x, ".Rmd"))
