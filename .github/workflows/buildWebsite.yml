@@ -1,0 +1,44 @@
+name: build website
+
+# Trigger the workflow when the validation action finished
+on:
+  workflow_run:
+    workflows: ["poseidon validate (trident)"]
+    types:
+      - completed
+
+jobs:
+  buildWebsite:
+    needs: validate
+    name: build repo website
+    runs-on: ubuntu-latest
+    steps:
+
+    - name: Setup R
+      uses: r-lib/actions/setup-r@v2
+      with:
+        # Use the public version of RStudio package manager to serve binaries for Linux and Windows
+        use-public-rspm: true
+      
+    - name: Install Pandoc
+      uses: r-lib/actions/setup-pandoc@master
+      
+    - name: Install R depedencies
+      uses: r-lib/actions/setup-r-dependencies@v2
+      with:
+        cache-version: 1
+        extra-packages: |
+          any::dplyr
+          any::DT
+          any::knitr
+          any::leaflet
+          any::magrittr
+          any::purrr
+          any::remotes
+          any::rmarkdown
+          any::yaml
+      
+    - name: Install poseidonR
+      run: |
+        remotes::install_github('poseidon-framework/poseidonR')
+      shell: Rscript {0}
