@@ -29,13 +29,14 @@ jobs:
       uses: r-lib/actions/setup-r-dependencies@v2
       with:
         cache-version: 1
-        working-directory: ./website_generator
+        working-directory: /home/runner/work/published_data/website_generator
         
-    # - name: Build website
-    #   run: 
+    - name: Build website
+      run: |
+        cd website_generator
+        Rscript generate_source.R
       
-
-    # - name: Deploy haddock documentation
+# - name: Deploy website
     #   uses: peaceiris/actions-gh-pages@v3
     #   if: ${{ github.event_name == 'push' && github.ref == 'refs/heads/master' }}
     #   with:
