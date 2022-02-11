@@ -14,7 +14,7 @@ janno_table <- total_janno %>%
   ) %>%
   dplyr::select(-source_file)
 
-pac_names <- janno_table$Package[1:2]
+pac_names <- janno_table$Package
 
 generate_Rmd <- function(x) {
   path <- file.path("website_source", paste0(x, ".Rmd"))
