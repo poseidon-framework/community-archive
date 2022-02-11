@@ -9,8 +9,8 @@ on:
 
 jobs:
   buildWebsite:
-  
-    if: ${{ github.event.workflow_run.conclusion == 'success' }} # only run if the validation was successful
+    # only run if the validation was successful and if this was an event on the master branch
+    if: ${{ github.event.workflow_run.conclusion == 'success' && github.ref == 'refs/heads/master' }}
     name: build repo website
     runs-on: ubuntu-latest
 
@@ -41,7 +41,6 @@ jobs:
       
     - name: Deploy website
       uses: peaceiris/actions-gh-pages@v3
-      if: ${{ github.ref == 'refs/heads/master' }}
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
         publish_dir: website_generator/website_source/_site
