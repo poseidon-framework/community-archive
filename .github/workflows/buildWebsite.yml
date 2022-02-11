@@ -27,16 +27,7 @@ jobs:
       uses: r-lib/actions/setup-r-dependencies@v2
       with:
         cache-version: 1
-        extra-packages: |
-          any::dplyr
-          any::DT
-          any::knitr
-          any::leaflet
-          any::magrittr
-          any::purrr
-          any::remotes
-          any::rmarkdown
-          any::yaml
+        working-directory: '.github/website_generator'
       
     - name: Install poseidonR
       run: |

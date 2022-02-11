@@ -1,0 +1,17 @@
+Package: placeholder
+Title: This is a placeholder.
+Version: 0.0.1
+Depends: R (>= 4.1.0)
+Imports:
+    dplyr
+    DT
+    knitr
+    leaflet
+    magrittr
+    purrr
+    remotes
+    rmarkdown
+    yaml
+    poseidonR
+Remotes:
+    poseidon-framework/poseidonR
