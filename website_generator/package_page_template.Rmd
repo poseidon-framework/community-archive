@@ -17,10 +17,10 @@ library(magrittr)
 
 package_name <- "####package_name####"
 package_path <- file.path("../..", package_name)
-warning(
-  "Package path: ", package_path, "\n",
-  "Working dir: ", getwd()
-)
+# warning(
+#   "Package path: ", package_path, "\n",
+#   "Working dir: ", getwd()
+# )
 ```
 
 ```{r janno}

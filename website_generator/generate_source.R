@@ -9,18 +9,18 @@ janno_table <- total_janno %>%
     Package = dirname(unique(source_file)),
     `# ancient` = (Date_Type %in% c("C14", "context")) %>% sum(na.rm = TRUE),
     `# modern` = (Date_Type == "modern") %>% sum(na.rm = TRUE),
-    `Github link` = paste0(
+    `Github` = paste0(
       "[Github](https://github.com/poseidon-framework/published_data/tree/master/",
       Package, ")"
     ),
-    `Download link` = paste0(
+    `Download` = paste0(
       "[Download](http://c107-224.cloud.gwdg.de:3000/zip_file/", Package, ")"
     ),
-    `View link` = paste0("[View](", Package, ".html)")
+    `View` = paste0("[View](", Package, ".html)")
   ) %>%
   dplyr::select(-source_file)
 
-pac_names <- janno_table$Package#[1:2]
+pac_names <- janno_table$Package[1:2]
 
 generate_Rmd <- function(x) {
   path <- file.path("website_source", paste0(x, ".Rmd"))
@@ -30,8 +30,12 @@ generate_Rmd <- function(x) {
 }
 purrr::walk(pac_names, generate_Rmd)
 
-write(
-  knitr::kable(janno_table, format = "pipe") %>% as.character(),
+write(c(
+  "---",
+  "title: Poseidon published data",
+  "---",
+  knitr::kable(janno_table, format = "pipe") %>% as.character()
+  ),
   file = file.path("website_source", "index.Rmd")
 )
 
