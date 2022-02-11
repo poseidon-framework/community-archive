@@ -27,7 +27,7 @@ jobs:
       uses: r-lib/actions/setup-r-dependencies@v2
       with:
         cache-version: 1
-        working-directory: '.github/website_generator'
+        working-directory: 'website_generator'
       
     - name: Install poseidonR
       run: |
