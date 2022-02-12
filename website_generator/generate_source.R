@@ -1,7 +1,13 @@
 library(magrittr)
 
-total_janno <- poseidonR::read_janno("../.", validate = F)
+repo_path <- ".."
 
+#### janno input ####
+
+# read all janno files
+total_janno <- poseidonR::read_janno(repo_path, validate = F)
+
+# compile a useful overview table for all packages
 janno_table <- total_janno %>%
   dplyr::group_by(source_file) %>%
   dplyr::summarise(
@@ -20,15 +26,37 @@ janno_table <- total_janno %>%
   ) %>%
   dplyr::select(-source_file)
 
-pac_names <- janno_table$Package#[1:2]
+pac_names <- janno_table$Package#[1:5]
+
+#### read bib data ####
+
+# find all .bib files
+# bib_file_paths <- list.files("../.", pattern = ".bib", full.names = TRUE, recursive = TRUE)
+# purrr::map(bib_file_paths, bibtex::read.bib) # this fails!
+
+#### prepare package-wise .Rmd files ####
 
 generate_Rmd <- function(x) {
-  path <- file.path("website_source", paste0(x, ".Rmd"))
+  out_path <- file.path("website_source", paste0(x, ".Rmd"))
   template <- readLines("package_page_template.Rmd")
   template_mod <- gsub("####package_name####", x, template)
-  writeLines(template_mod, con = path)
+  writeLines(template_mod, con = out_path)
 }
 purrr::walk(pac_names, generate_Rmd)
+
+#### copy the .bib file for each package ####
+
+copy_bib <- function(x) {
+  pac_path <- file.path(repo_path, x)
+  bib_file <- list.files(pac_path, pattern = ".bib", full.names = TRUE)
+  if (length(bib_file) == 1) {
+    out_path <- file.path("website_source", paste0(x, ".bib"))
+    file.copy(bib_file, out_path)
+  }
+}
+purrr::walk(pac_names, copy_bib)
+
+#### create index.Rmd file ####
 
 write(c(
   "---",
@@ -38,5 +66,7 @@ write(c(
   ),
   file = file.path("website_source", "index.Rmd")
 )
+
+#### render website from .Rmd files
 
 rmarkdown::render_site(input = "website_source")

@@ -2,6 +2,8 @@
 title: ####package_name####
 editor_options: 
   chunk_output_type: console
+bibliography: ####package_name####.bib
+link-citations: false
 ---
 
 ```{r setup, include=FALSE}
@@ -26,6 +28,7 @@ package_path <- file.path("../..", package_name)
 ```{r janno}
 janno_file <- list.files(package_path, pattern = ".janno", full.names = TRUE)
 janno <- poseidonR::read_janno(janno_file)
+literature <- paste0("@", janno$Publication %>% unlist %>% unique, collapse = ", ")
 ```
 
 ```{r ymlfile}
@@ -42,7 +45,15 @@ contributors <- paste(purrr::map_chr(
 
 **Description:** `r poseidon_yml$description`
 
-**Contributors** `r contributors`
+**Contributors:** `r contributors`
+
+**Literature:** `r literature`
+
+<div id="refs"></div>
+
+***
+
+### Overview
 
 ```{r map}
 if (all(c("Longitude", "Latitude", "Poseidon_ID") %in% colnames(janno))) {
