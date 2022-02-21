@@ -5,8 +5,10 @@ description: Dynamic changes in genomic and social structures in third millenniu
 contributor:
 - name: Dhananjaya Aththanayaka
   email: dhananjaya_aththanayaka@eva.mpg.de
-packageVersion: 1.0.0
-lastModified: 2021-12-09
+- name: Mikkel Nørtoft
+  email: mattbeets@gmail.com
+packageVersion: 1.0.1
+lastModified: 2022-01-31
 genotypeData:
   format: PLINK
   genoFile: 2021_Papac_CentralEurope.bed
@@ -17,7 +19,8 @@ genotypeData:
   indFileChkSum: 0eddb1a589e30ec07eeaa20ec43834b7
   snpSet: 1240K
 jannoFile: 2021_Papac_CentralEurope.janno
-jannoFileChkSum: f00aa0b550dd4f00abde044b2ab6fc8d
+jannoFileChkSum: 4287248d71095d23d65e82f252eb935a
 bibFile: 2021_Papac_CentralEurope.bib
 bibFileChkSum: 6a55b62210c8db442d04674c4b9df02f
 readmeFile: README.txt
+changelogFile: CHANGELOG.md
