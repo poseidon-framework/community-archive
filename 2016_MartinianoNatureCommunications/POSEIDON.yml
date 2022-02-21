@@ -6,8 +6,8 @@ description: Iron Age, Roman Era and Early Medieval samples from Great Britain. 
 contributor:
 - name: Ayshin Ghalichi
   email: ghalichi@shh.mpg.de
-packageVersion: 2.0.0
-lastModified: 2022-01-28
+packageVersion: 2.0.1
+lastModified: 2022-02-21
 genotypeData:
   format: PLINK
   genoFile: 2016_MartinianoNatureCommunications.bed
@@ -18,7 +18,7 @@ genotypeData:
   indFileChkSum: 4a4a9bfc6c12987879421a331f90249f
   snpSet: 1240K
 jannoFile: 2016_MartinianoNatureCommunications.janno
-jannoFileChkSum: e2ddb20d7ae2875e0b55d1aefe1dac63
+jannoFileChkSum: c46d52a2a5ecd1a4db4136007cc958a5
 bibFile: 2016_MartinianoNatureCommunications.bib
 bibFileChkSum: 425a979600fc935f2529ab8b9f9a9f59
 changelogFile: CHANGELOG.md

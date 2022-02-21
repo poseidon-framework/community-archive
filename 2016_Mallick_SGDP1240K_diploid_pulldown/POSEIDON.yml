@@ -5,8 +5,8 @@ description: Modern samples from all around the world (Simons Genome Diversity P
 contributor:
 - name: Ayshin Ghalichi
   email: ghalichi@shh.mpg.de
-packageVersion: 2.0.0
-lastModified: 2022-01-28
+packageVersion: 2.0.1
+lastModified: 2022-02-21
 genotypeData:
   format: PLINK
   genoFile: SGDP.bed
@@ -17,7 +17,7 @@ genotypeData:
   indFileChkSum: 890f6ce36d14c8053dbc0de45db7905f
   snpSet: 1240K
 jannoFile: SGDP.janno
-jannoFileChkSum: 541f479c1d9c81947c6ed044d9a35456
+jannoFileChkSum: 3634872486fcdc6573701a2ff1056517
 bibFile: LITERATURE.bib
 bibFileChkSum: 1cca8ed8cbf2658df0bffbb3a88c6b68
 changelogFile: CHANGELOG.md

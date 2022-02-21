@@ -6,8 +6,8 @@ description: Upper Palaeolithic samples from Europe. This package was initially 
 contributor:
 - name: Ayshin Ghalichi
   email: ghalichi@shh.mpg.de
-packageVersion: 2.0.0
-lastModified: 2022-01-28
+packageVersion: 2.0.1
+lastModified: 2022-02-21
 genotypeData:
   format: PLINK
   genoFile: 2016_FuNature.bed
@@ -18,7 +18,7 @@ genotypeData:
   indFileChkSum: 81b1ff78e0423e632935cf4729e6be2a
   snpSet: 1240K
 jannoFile: 2016_FuNature.janno
-jannoFileChkSum: 4e4a746dedc896126bcba536bf0d1961
+jannoFileChkSum: 7267d6c495a9a848802ee2b9c2472de5
 bibFile: 2016_FuNature.bib
 bibFileChkSum: 08d03503c9c755346713bfc94726fa60
 changelogFile: CHANGELOG.md

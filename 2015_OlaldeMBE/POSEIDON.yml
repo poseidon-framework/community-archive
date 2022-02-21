@@ -6,8 +6,8 @@ description: An Early Neolithic sample from Iberia. This package was initially c
 contributor:
 - name: Ayshin Ghalichi
   email: ghalichi@shh.mpg.de
-packageVersion: 2.0.0
-lastModified: 2022-01-28
+packageVersion: 2.0.1
+lastModified: 2022-02-21
 genotypeData:
   format: PLINK
   genoFile: 2015_OlaldeMBE.bed
@@ -18,7 +18,7 @@ genotypeData:
   indFileChkSum: fae8f1eb16048ceeea1316645bbfb60c
   snpSet: 1240K
 jannoFile: 2015_OlaldeMBE.janno
-jannoFileChkSum: ce9a885cfa9b3c7cb1a2c2beaafdb916
+jannoFileChkSum: 459bd5871271b35e02ebfcf1b4d548b9
 bibFile: 2015_OlaldeMBE.bib
 bibFileChkSum: a6b3f09a1dd4c6d68dfaad69fd383798
 changelogFile: CHANGELOG.md
