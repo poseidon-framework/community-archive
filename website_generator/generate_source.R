@@ -56,12 +56,19 @@ copy_bib <- function(x) {
 }
 purrr::walk(pac_names, copy_bib)
 
+#### render landing page figure ####
+
+source("create_landing_page_figure.R")
+
 #### create index.Rmd file ####
 
 write(c(
   "---",
   "title: Poseidon published data",
   "---",
+  "",
+  '![](landing_page_figure.png "World map with all ancient, dated and located samples in the Poseidon repository")',
+  "",
   knitr::kable(janno_table, format = "pipe") %>% as.character()
   ),
   file = file.path("website_source", "index.Rmd")

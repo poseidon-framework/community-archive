@@ -5,12 +5,15 @@ Depends: R (>= 4.1.0)
 Imports:
     dplyr,
     DT,
+    ggplot2,
     knitr,
     leaflet,
     magrittr,
     purrr,
     remotes,
     rmarkdown,
+    rnaturalearth,
+    sf,
     yaml,
     poseidonR
 Remotes: github::poseidon-framework/poseidonR
