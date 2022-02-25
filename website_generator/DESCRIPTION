@@ -13,8 +13,10 @@ Imports:
     purrr,
     remotes,
     rmarkdown,
-    rnaturalearth (>= 0.2.0),
+    rnaturalearth,
     sf,
     yaml,
     poseidonR
-Remotes: github::poseidon-framework/poseidonR
+Remotes: 
+    github::poseidon-framework/poseidonR,
+    github::ropensci/rnaturalearth
