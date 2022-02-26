@@ -4,8 +4,8 @@ description: This package contains ancient Viking genomes.
 contributor:
 - name: Ayshin Ghalichi
   email: ghalichi@shh.mpg.de
-packageVersion: 2.0.0
-lastModified: 2022-01-28
+packageVersion: 2.0.1
+lastModified: 2022-02-25
 genotypeData:
   format: PLINK
   genoFile: 2018_KrzewinskaCurrentBiology.bed
@@ -16,7 +16,7 @@ genotypeData:
   indFileChkSum: 0aa6434007d425d908bb54829a29c6bc
   snpSet: 1240K
 jannoFile: 2018_KrzewinskaCurrentBiology.janno
-jannoFileChkSum: fcf1cca220d0e6d7ee99dfb448e4b637
+jannoFileChkSum: 67a8cf8866408ac063498036a769821f
 bibFile: 2018_KrzewinskaCurrentBiology.bib
 bibFileChkSum: 61fb06fe6116f0a1fa0f8fe7b2c4cdf2
 changelogFile: CHANGELOG.md

@@ -5,8 +5,8 @@ description: Genetic data published in Lamnidis et al. 2018, ancient genomes fro
 contributor:
 - name: Thiseas Lamnidis
   email: lamnidisi@shh.mpg.de
-packageVersion: 2.0.0
-lastModified: 2022-01-28
+packageVersion: 2.0.1
+lastModified: 2022-02-25
 genotypeData:
   format: PLINK
   genoFile: 2018_Lamnidis_Fennoscandia.bed
@@ -17,7 +17,7 @@ genotypeData:
   indFileChkSum: 90c1b106d15bceccc1e25c34d3060d75
   snpSet: 1240K
 jannoFile: 2018_Lamnidis_Fennoscandia.janno
-jannoFileChkSum: f85c5bbb0471abe9a0eb8f498fe0966f
+jannoFileChkSum: 554d2032c2e6bfb18045c836f19ad5b6
 bibFile: 2018_Lamnidis_Fennoscandia.bib
 bibFileChkSum: a71998b3e9c81f23402dcd1905f66755
 changelogFile: CHANGELOG.md

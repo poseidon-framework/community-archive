@@ -5,8 +5,8 @@ description: Genetic data published in Ebenesersdottir et al. 2018. Ancient geno
 contributor:
 - name: Ayshin Ghalichi
   email: ghalichi@shh.mpg.de
-packageVersion: 2.0.0
-lastModified: 2022-01-28
+packageVersion: 2.0.1
+lastModified: 2022-02-25
 genotypeData:
   format: PLINK
   genoFile: Ebenesersdottir_Iceland.bed
@@ -17,7 +17,7 @@ genotypeData:
   indFileChkSum: c74c87347a9b215978e9f9449eef1aa5
   snpSet: 1240K
 jannoFile: Ebenesersdottir_Iceland.janno
-jannoFileChkSum: 88623a87a4397a6d05efc168d7541005
+jannoFileChkSum: a79dde22e34b5ab18c8883af4ed8d951
 bibFile: LITERATURE.bib
 bibFileChkSum: 5e4a11099a406890786772634ee81df0
 changelogFile: CHANGELOG.md

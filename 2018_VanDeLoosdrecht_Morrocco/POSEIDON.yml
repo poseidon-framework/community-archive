@@ -5,8 +5,8 @@ description: Genetic data published in VanDeLoosdrecht et al. 2018. Ancient geno
 contributor:
 - name: Marieke van de Loosdrecht
   email: loosdrecht@shh.mpg.de
-packageVersion: 2.0.0
-lastModified: 2022-01-28
+packageVersion: 2.0.1
+lastModified: 2022-02-25
 genotypeData:
   format: PLINK
   genoFile: Loosdrecht_Morrocco.bed
@@ -17,7 +17,7 @@ genotypeData:
   indFileChkSum: ee12b6c9ba8147e785e969130c03451b
   snpSet: 1240K
 jannoFile: Loosdrecht_Morrocco.janno
-jannoFileChkSum: 6896b70136d99153b566d3512cc3f194
+jannoFileChkSum: 992d373ec0fc6319a1c30cbe6138089b
 bibFile: LITERATURE.bib
 bibFileChkSum: 969719dcb1853b77b8b0bf1383a1d880
 changelogFile: CHANGELOG.md
