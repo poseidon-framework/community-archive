@@ -4,8 +4,8 @@ description: Genetic data published in Brace et al. 2019
 contributor:
 - name: Ayshin Ghalichi
   email: ghalichi@shh.mpg.de
-packageVersion: 2.0.0
-lastModified: 2022-01-28
+packageVersion: 2.0.1
+lastModified: 2022-03-02
 genotypeData:
   format: PLINK
   genoFile: Brace_Britain.bed
@@ -16,7 +16,7 @@ genotypeData:
   indFileChkSum: 13edb4396603aad88829d12cdc4ed594
   snpSet: 1240K
 jannoFile: Brace_Britain.janno
-jannoFileChkSum: 7b1c361263aacb44931352fe4647c86a
+jannoFileChkSum: 068e4df5b3af73d3a0cd27829a290a0d
 bibFile: LITERATURE.bib
 bibFileChkSum: 46debd569e07625108078f413d59e059
 changelogFile: CHANGELOG.md

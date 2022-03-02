@@ -4,8 +4,8 @@ description: Genetic data published in GonzalesFortes et al. 2019
 contributor:
 - name: Ayshin Ghalichi
   email: ghalichi@shh.mpg.de
-packageVersion: 2.0.0
-lastModified: 2022-01-28
+packageVersion: 2.0.1
+lastModified: 2022-03-02
 genotypeData:
   format: PLINK
   genoFile: GonzalesFortes_Iberia.bed
@@ -16,7 +16,7 @@ genotypeData:
   indFileChkSum: d8f7e19d3430ba0ddeaee3b948f11eb6
   snpSet: 1240K
 jannoFile: GonzalesFortes_Iberia.janno
-jannoFileChkSum: 367a3a1d285596d86dd1d741ef25b92f
+jannoFileChkSum: 00dc09f1e3705fc6035b8cf585ca3f9b
 bibFile: LITERATURE.bib
 bibFileChkSum: 90acdb95c2dd377a991b54bca7c39b32
 changelogFile: CHANGELOG.md

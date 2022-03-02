@@ -4,8 +4,8 @@ description: Genetic data published in Ning et al. 2019
 contributor:
 - name: Ayshin Ghalichi
   email: ghalichi@shh.mpg.de
-packageVersion: 2.0.0
-lastModified: 2022-01-28
+packageVersion: 2.0.1
+lastModified: 2022-03-02
 genotypeData:
   format: PLINK
   genoFile: Ning_Tianshan.bed
@@ -16,7 +16,7 @@ genotypeData:
   indFileChkSum: 14ce88790c2dff1ff5a009a37e22e5ce
   snpSet: 1240K
 jannoFile: Ning_Tianshan.janno
-jannoFileChkSum: 4a7fac370433a298100adccfa82470db
+jannoFileChkSum: ed68e03c71249ea6ac5283ca9d08c80b
 bibFile: LITERATURE.bib
 bibFileChkSum: 5de7c2a48e39bce39a2f6b702027b98f
 changelogFile: CHANGELOG.md

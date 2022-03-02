@@ -4,8 +4,8 @@ description: Genetic data published in Mittnik et al. 2019
 contributor:
 - name: Ayshin Ghalichi
   email: ghalichi@shh.mpg.de
-packageVersion: 2.0.0
-lastModified: 2022-01-28
+packageVersion: 2.0.1
+lastModified: 2022-03-02
 genotypeData:
   format: PLINK
   genoFile: Mittnik_BAEurope.bed
@@ -16,7 +16,7 @@ genotypeData:
   indFileChkSum: d8b665ed39f47a594b19adaccfb90106
   snpSet: 1240K
 jannoFile: Mittnik_BAEurope.janno
-jannoFileChkSum: e0787aad7c5bb2c99bf17633c7ddbad4
+jannoFileChkSum: e3cf6889ca863fbc22974da28d6b2d5d
 bibFile: LITERATURE.bib
 bibFileChkSum: f0d59c58296902dc434e19114433f3fd
 changelogFile: CHANGELOG.md
