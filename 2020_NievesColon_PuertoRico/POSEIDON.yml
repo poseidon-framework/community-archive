@@ -4,8 +4,8 @@ description: Pre-contact samples from Puerto Rico.
 contributor:
 - name: Ayshin Ghalichi
   email: ghalichi@shh.mpg.de
-packageVersion: 2.0.0
-lastModified: 2022-01-28
+packageVersion: 2.0.1
+lastModified: 2022-03-13
 genotypeData:
   format: PLINK
   genoFile: NievesColon_PuertoRico.bed
@@ -16,7 +16,7 @@ genotypeData:
   indFileChkSum: 22956fb6ac2b380d2bbe8ceace6b5b65
   snpSet: 1240K
 jannoFile: NievesColon_PuertoRico.janno
-jannoFileChkSum: 3973d96c56bd18f75aad3227aba0afcb
+jannoFileChkSum: ecc837c98c0f629b7f82c5783bc4ac38
 bibFile: LITERATURE.bib
 bibFileChkSum: f83c5e63e09da16951cd3193c4e10d58
 changelogFile: CHANGELOG.md

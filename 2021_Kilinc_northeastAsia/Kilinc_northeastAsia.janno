@@ -1,41 +1,41 @@
-Poseidon_ID	Genetic_Sex	Group_Name	Publication
-bla001	M	bla001	KilincScienceAdvances2021
-brn001	F	brn001	KilincScienceAdvances2021
-brn002	M	brn002	KilincScienceAdvances2021
-brn003	M	brn003	KilincScienceAdvances2021
-brn008	M	brn008	KilincScienceAdvances2021
-brn012	F	brn012	KilincScienceAdvances2021
-cta016	F	cta016	KilincScienceAdvances2021
-irk007	M	irk007	KilincScienceAdvances2021
-irk008	F	irk008	KilincScienceAdvances2021
-irk00x	M	irk00x	KilincScienceAdvances2021
-irk017	F	irk017	KilincScienceAdvances2021
-irk022	M	irk022	KilincScienceAdvances2021
-irk025	M	irk025	KilincScienceAdvances2021
-irk030	M	irk030	KilincScienceAdvances2021
-irk032	M	irk032	KilincScienceAdvances2021
-irk033	M	irk033	KilincScienceAdvances2021
-irk034	M	irk034	KilincScienceAdvances2021
-irk036	M	irk036	KilincScienceAdvances2021
-irk040	M	irk040	KilincScienceAdvances2021
-irk050	F	irk050	KilincScienceAdvances2021
-irk051	F	irk051	KilincScienceAdvances2021
-irk057	M	irk057	KilincScienceAdvances2021
-irk061	M	irk061	KilincScienceAdvances2021
-irk068	M	irk068	KilincScienceAdvances2021
-irk071	M	irk071	KilincScienceAdvances2021
-irk075	M	irk075	KilincScienceAdvances2021
-irk076	M	irk076	KilincScienceAdvances2021
-irk078	F	irk078	KilincScienceAdvances2021
-kra001	M	kra001	KilincScienceAdvances2021
-mak026	F	mak026	KilincScienceAdvances2021
-N2a	F	N2a	KilincScienceAdvances2021
-N4a1	M	N4a1	KilincScienceAdvances2021
-N4b2	M	N4b2	KilincScienceAdvances2021
-N5a	M	N5a	KilincScienceAdvances2021
-yak021	F	yak021	KilincScienceAdvances2021
-yak022	F	yak022	KilincScienceAdvances2021
-yak023	F	yak023	KilincScienceAdvances2021
-yak024	F	yak024	KilincScienceAdvances2021
-yak025	F	yak025	KilincScienceAdvances2021
-Yak030	M	Yak030	KilincScienceAdvances2021
+Poseidon_ID	Genetic_Sex	Group_Name	Publication	Genetic_Source_Accession_IDs
+bla001	M	bla001	KilincScienceAdvances2021	PRJEB39378
+brn001	F	brn001	KilincScienceAdvances2021	PRJEB39378
+brn002	M	brn002	KilincScienceAdvances2021	PRJEB39378
+brn003	M	brn003	KilincScienceAdvances2021	PRJEB39378
+brn008	M	brn008	KilincScienceAdvances2021	PRJEB39378
+brn012	F	brn012	KilincScienceAdvances2021	PRJEB39378
+cta016	F	cta016	KilincScienceAdvances2021	PRJEB39378
+irk007	M	irk007	KilincScienceAdvances2021	PRJEB39378
+irk008	F	irk008	KilincScienceAdvances2021	PRJEB39378
+irk00x	M	irk00x	KilincScienceAdvances2021	PRJEB39378
+irk017	F	irk017	KilincScienceAdvances2021	PRJEB39378
+irk022	M	irk022	KilincScienceAdvances2021	PRJEB39378
+irk025	M	irk025	KilincScienceAdvances2021	PRJEB39378
+irk030	M	irk030	KilincScienceAdvances2021	PRJEB39378
+irk032	M	irk032	KilincScienceAdvances2021	PRJEB39378
+irk033	M	irk033	KilincScienceAdvances2021	PRJEB39378
+irk034	M	irk034	KilincScienceAdvances2021	PRJEB39378
+irk036	M	irk036	KilincScienceAdvances2021	PRJEB39378
+irk040	M	irk040	KilincScienceAdvances2021	PRJEB39378
+irk050	F	irk050	KilincScienceAdvances2021	PRJEB39378
+irk051	F	irk051	KilincScienceAdvances2021	PRJEB39378
+irk057	M	irk057	KilincScienceAdvances2021	PRJEB39378
+irk061	M	irk061	KilincScienceAdvances2021	PRJEB39378
+irk068	M	irk068	KilincScienceAdvances2021	PRJEB39378
+irk071	M	irk071	KilincScienceAdvances2021	PRJEB39378
+irk075	M	irk075	KilincScienceAdvances2021	PRJEB39378
+irk076	M	irk076	KilincScienceAdvances2021	PRJEB39378
+irk078	F	irk078	KilincScienceAdvances2021	PRJEB39378
+kra001	M	kra001	KilincScienceAdvances2021	PRJEB39378
+mak026	F	mak026	KilincScienceAdvances2021	PRJEB39378
+N2a	F	N2a	KilincScienceAdvances2021	PRJEB39378
+N4a1	M	N4a1	KilincScienceAdvances2021	PRJEB39378
+N4b2	M	N4b2	KilincScienceAdvances2021	PRJEB39378
+N5a	M	N5a	KilincScienceAdvances2021	PRJEB39378
+yak021	F	yak021	KilincScienceAdvances2021	PRJEB39378
+yak022	F	yak022	KilincScienceAdvances2021	PRJEB39378
+yak023	F	yak023	KilincScienceAdvances2021	PRJEB39378
+yak024	F	yak024	KilincScienceAdvances2021	PRJEB39378
+yak025	F	yak025	KilincScienceAdvances2021	PRJEB39378
+Yak030	M	Yak030	KilincScienceAdvances2021	PRJEB39378

@@ -4,8 +4,8 @@ description: A Dynamic 6,000-Year Genetic History of Eurasia’s Eastern Steppe
 contributor:
 - name: Dhananjaya Aththanayaka
   email: dhananjaya_aththanayaka@eva.map.de
-packageVersion: 1.0.0
-lastModified: 2021-12-02
+packageVersion: 1.0.1
+lastModified: 2022-03-13
 genotypeData:
   format: PLINK
   genoFile: 2020_Jeong_EurasiaEasternSteppe.bed
@@ -16,7 +16,8 @@ genotypeData:
   indFileChkSum: 3c8fd0bc581d2c682bb052560b850bb7
   snpSet: 1240K
 jannoFile: 2020_Jeong_EurasiaEasternSteppe.janno
-jannoFileChkSum: 587e1d783a89237a4c5f35ba7a4033b5
+jannoFileChkSum: 4ef4604af2dc9989e08f0e782c8224e9
 bibFile: 2020_Jeong_EurasiaEasternSteppe.bib
 bibFileChkSum: 7ffea33cd60401bd61e2c26a3ff6009b
 readmeFile: README.txt
+changelogFile: CHANGELOG.md

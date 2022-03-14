@@ -5,8 +5,8 @@ description: This article provides provide insights into family structure and th
 contributor:
 - name: Dhananjaya Aththanayaka
   email: dhananjaya.aththanayaka@eva.mpg.de
-packageVersion: 1.0.1
-lastModified: 2022-01-30
+packageVersion: 1.0.2
+lastModified: 2022-03-14
 genotypeData:
   format: PLINK
   genoFile: 2021_Zegarac_SoutheasternEurope.bed
@@ -17,7 +17,7 @@ genotypeData:
   indFileChkSum: 11ca9cacf580e026a7fcffc8f11c5605
   snpSet: 1240K
 jannoFile: 2021_Zegarac_SoutheasternEurope.janno
-jannoFileChkSum: 6ed60d3e89defb4be12bb90f4bef92f8
+jannoFileChkSum: c5ffcac5c58e1e97ba577b39af82842a
 bibFile: 2021_Zegarac_SoutheasternEurope.bib
 bibFileChkSum: 04c000d063df7624c3eac0ec52c01b5d
 readmeFile: README.txt

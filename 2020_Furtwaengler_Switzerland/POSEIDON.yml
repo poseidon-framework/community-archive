@@ -6,8 +6,8 @@ contributor:
   email: ghalichi@shh.mpg.de
 - name: Clemens Schmid
   email: schmid@shh.mpg.de
-packageVersion: 2.0.0
-lastModified: 2022-01-28
+packageVersion: 2.0.1
+lastModified: 2022-03-13
 genotypeData:
   format: PLINK
   genoFile: Furtwaengler_SwissLN.bed
@@ -18,7 +18,7 @@ genotypeData:
   indFileChkSum: 61469dcafea7134c76150d9f667cc413
   snpSet: 1240K
 jannoFile: Furtwaengler_SwissLN.janno
-jannoFileChkSum: 6e5839ae636f409561912054d7f0550d
+jannoFileChkSum: 3ef3f5bbcdfc13a2069a9f27e85df55d
 bibFile: LITERATURE.bib
 bibFileChkSum: 5fff8d8df9e5fe394e55f5f36022ccbb
 changelogFile: CHANGELOG.md
