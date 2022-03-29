@@ -1,0 +1,22 @@
+Package: placeholder
+Title: This is a placeholder.
+Version: 0.0.1
+Depends: R (>= 4.1.0)
+Imports:
+    cowplot,
+    dplyr,
+    DT,
+    ggplot2,
+    knitr,
+    leaflet,
+    magrittr,
+    purrr,
+    remotes,
+    rmarkdown,
+    rnaturalearth,
+    sf,
+    yaml,
+    poseidonR
+Remotes: 
+    github::poseidon-framework/poseidonR,
+    github::ropensci/rnaturalearth
