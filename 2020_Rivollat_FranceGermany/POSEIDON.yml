@@ -6,8 +6,8 @@ contributor:
   email: rivollat@shh.mpg.de
 - name: Clemens Schmid
   email: schmid@shh.mpg.de
-packageVersion: 2.0.0
-lastModified: 2022-01-28
+packageVersion: 2.0.1
+lastModified: 2022-03-14
 genotypeData:
   format: PLINK
   genoFile: Rivollat_FranceGermany.bed
@@ -18,7 +18,7 @@ genotypeData:
   indFileChkSum: 66b829c9cb57a2948683f6e357a73cec
   snpSet: 1240K
 jannoFile: Rivollat_FranceGermany.janno
-jannoFileChkSum: 378f33c31c708e002cecf65b25e613a2
+jannoFileChkSum: 1bcc663b55eddd2e5f48a5b61a656014
 bibFile: LITERATURE.bib
 bibFileChkSum: 0a258804e7ea46aad07ae33e382d3edd
 changelogFile: CHANGELOG.md

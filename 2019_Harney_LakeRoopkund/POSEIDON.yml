@@ -4,8 +4,8 @@ description: Genetic data published in Harney et al. 2019
 contributor:
 - name: Ayshin Ghalichi
   email: ghalichi@shh.mpg.de
-packageVersion: 2.0.0
-lastModified: 2022-01-28
+packageVersion: 2.0.1
+lastModified: 2022-03-02
 genotypeData:
   format: PLINK
   genoFile: Harney_LakeRoopkund.bed
@@ -16,7 +16,7 @@ genotypeData:
   indFileChkSum: c47b2e103e6d287e3ae878c62d0bfeb2
   snpSet: 1240K
 jannoFile: Harney_LakeRoopkund.janno
-jannoFileChkSum: 51c2205c4a525e903646c786dc852850
+jannoFileChkSum: f8c120e94b96385463bbd4c4af91675e
 bibFile: LITERATURE.bib
 bibFileChkSum: a40de38d5301d91c2d67474ff6194dac
 changelogFile: CHANGELOG.md

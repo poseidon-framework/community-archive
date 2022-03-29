@@ -6,8 +6,8 @@ description: Upper Palaeolithic and Mesolithic samples from Switzerland and Geor
 contributor:
 - name: Ayshin Ghalichi
   email: ghalichi@shh.mpg.de
-packageVersion: 2.0.0
-lastModified: 2022-01-28
+packageVersion: 2.0.1
+lastModified: 2022-02-21
 genotypeData:
   format: PLINK
   genoFile: 2015_JonesNatureCommunications.bed
@@ -18,7 +18,7 @@ genotypeData:
   indFileChkSum: 0d0ce64a25a2646c478c94150a1096bc
   snpSet: 1240K
 jannoFile: 2015_JonesNatureCommunications.janno
-jannoFileChkSum: 5f302ad58a036b91b11018dd0e99bce5
+jannoFileChkSum: 09b69f1d152f6eafdb888daed8d5d410
 bibFile: 2015_JonesNatureCommunications.bib
 bibFileChkSum: 1991ace8725ffe3c0aa00fe8071edafe
 changelogFile: CHANGELOG.md

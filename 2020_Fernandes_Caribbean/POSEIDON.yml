@@ -6,8 +6,8 @@ contributor:
   email: ghalichi@shh.mpg.de
 - name: Clemens Schmid
   email: schmid@shh.mpg.de
-packageVersion: 2.0.0
-lastModified: 2022-01-28
+packageVersion: 2.0.1
+lastModified: 2022-03-13
 genotypeData:
   format: PLINK
   genoFile: Fernandes_Caribbean.bed
@@ -18,7 +18,7 @@ genotypeData:
   indFileChkSum: 9b574ade55aa287b74eae1bb6b5f7dfd
   snpSet: 1240K
 jannoFile: Fernandes_Caribbean.janno
-jannoFileChkSum: f773d0160ab34e6d9f82c193ed110382
+jannoFileChkSum: 19d8c3abab8cadd93edf90cce1041364
 bibFile: LITERATURE.bib
 bibFileChkSum: 049513d5cc0f16f8e72c8a09d04ae5ad
 changelogFile: CHANGELOG.md

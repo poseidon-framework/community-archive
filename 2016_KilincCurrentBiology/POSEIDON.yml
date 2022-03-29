@@ -4,8 +4,8 @@ description: Neolithic samples from Turkey.
 contributor:
 - name: Ayshin Ghalichi
   email: ghalichi@shh.mpg.de
-packageVersion: 2.0.0
-lastModified: 2022-01-28
+packageVersion: 2.0.1
+lastModified: 2022-02-21
 genotypeData:
   format: PLINK
   genoFile: 2016_KilincCurrentBiology.bed
@@ -16,7 +16,7 @@ genotypeData:
   indFileChkSum: a96f2a7d10ebdccb82d7171dc8c953f0
   snpSet: 1240K
 jannoFile: 2016_KilincCurrentBiology.janno
-jannoFileChkSum: d37010561f4aa1cd5bf26fea961a345c
+jannoFileChkSum: c1f0ad8b8f8b31aaebe5fca7a5a8e986
 bibFile: 2016_KilincCurrentBiology.bib
 bibFileChkSum: f7202d417ce07fd302016f3c12633b3c
 changelogFile: CHANGELOG.md

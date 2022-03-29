@@ -4,8 +4,8 @@ description: Iron Age to Medieval samples from the Near East.
 contributor:
 - name: Ayshin Ghalichi
   email: ghalichi@shh.mpg.de
-packageVersion: 2.0.0
-lastModified: 2022-01-28
+packageVersion: 2.0.1
+lastModified: 2022-03-13
 genotypeData:
   format: PLINK
   genoFile: Haber_NearEast.bed
@@ -16,7 +16,7 @@ genotypeData:
   indFileChkSum: 09e1023a1bdb3581271057443b52178d
   snpSet: 1240K
 jannoFile: Haber_NearEast.janno
-jannoFileChkSum: d25b2b9463582505380a337842d016f0
+jannoFileChkSum: c15e0e517f73e95f89a635bba652d6ef
 bibFile: LITERATURE.bib
 bibFileChkSum: 15799e155cd6159e3e35cb8e0f74251f
 changelogFile: CHANGELOG.md

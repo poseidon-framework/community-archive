@@ -4,8 +4,8 @@ description: Transect of ancient samples from the Andes covering 10000 years.
 contributor:
 - name: Ayshin Ghalichi
   email: ghalichi@shh.mpg.de
-packageVersion: 2.0.0
-lastModified: 2022-01-28
+packageVersion: 2.0.1
+lastModified: 2022-03-13
 genotypeData:
   format: PLINK
   genoFile: Nakatsuka_Andes.bed
@@ -16,7 +16,7 @@ genotypeData:
   indFileChkSum: dfd776fffe7c92c0e34ad541d3dc0b42
   snpSet: 1240K
 jannoFile: Nakatsuka_Andes.janno
-jannoFileChkSum: 133ab5e61379576c8ef5abf0c925b62d
+jannoFileChkSum: ae09152a2648c54ca044bc5ea912f884
 bibFile: LITERATURE.bib
 bibFileChkSum: 9e8242997287859f76351ac63282de86
 changelogFile: CHANGELOG.md

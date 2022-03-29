@@ -4,8 +4,8 @@ description: Ancient genomes from South America.
 contributor:
 - name: Ayshin Ghalichi
   email: ghalichi@shh.mpg.de
-packageVersion: 2.0.0
-lastModified: 2022-01-28
+packageVersion: 2.0.1
+lastModified: 2022-02-25
 genotypeData:
   format: PLINK
   genoFile: 2018_MorenoMayarScience.bed
@@ -16,7 +16,7 @@ genotypeData:
   indFileChkSum: 1ae6521cfdb99607adb2ffb94b7da94c
   snpSet: 1240K
 jannoFile: 2018_MorenoMayarScience.janno
-jannoFileChkSum: 54d2c6ebf8069c4594ec5df8770c2490
+jannoFileChkSum: ec8be762adf60c26a7c7705999b2f06e
 bibFile: 2018_MorenoMayarScience.bib
 bibFileChkSum: 0210938a49a1e5d40635c0ba50c38be4
 changelogFile: CHANGELOG.md

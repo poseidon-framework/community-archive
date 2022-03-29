@@ -4,8 +4,8 @@ description: Genetic data published in Schuenemann et al. 2017
 contributor:
 - name: Ayshin Ghalichi
   email: ghalichi@shh.mpg.de
-packageVersion: 2.0.0
-lastModified: 2022-01-28
+packageVersion: 2.0.1
+lastModified: 2022-02-25
 genotypeData:
   format: PLINK
   genoFile: EgyptianMummies.bed
@@ -16,7 +16,7 @@ genotypeData:
   indFileChkSum: a55aa3e7471481b9899829940d0db2d6
   snpSet: 1240K
 jannoFile: EgyptianMummies.janno
-jannoFileChkSum: b8f2a77632eada82942b4ec9ec1df91c
+jannoFileChkSum: a58e01e0b7ec85596bdd7f277cc1ad4e
 bibFile: LITERATURE.bib
 bibFileChkSum: dcad99440978a7e45b30e9ae9e025c59
 changelogFile: CHANGELOG.md

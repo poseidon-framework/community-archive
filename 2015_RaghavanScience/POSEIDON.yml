@@ -6,8 +6,8 @@ description: Diachronic transect of ancient individuals from the Americas. This 
 contributor:
 - name: Ayshin Ghalichi
   email: ghalichi@shh.mpg.de
-packageVersion: 2.0.0
-lastModified: 2022-01-28
+packageVersion: 2.0.1
+lastModified: 2022-02-21
 genotypeData:
   format: PLINK
   genoFile: 2015_RaghavanScience.bed
@@ -18,7 +18,7 @@ genotypeData:
   indFileChkSum: 904a00d9242e9b48dbd1d5f055f2bc98
   snpSet: 1240K
 jannoFile: 2015_RaghavanScience.janno
-jannoFileChkSum: ddd5145eeb6c037c281b435872b95810
+jannoFileChkSum: 97afecbd889f7ef16a57b1821a0c2485
 bibFile: 2015_RaghavanScience.bib
 bibFileChkSum: 3c5c9c27c02298f0dfbb5fae9c5b3602
 changelogFile: CHANGELOG.md
