@@ -1,0 +1,86 @@
+---
+title: ####package_name####
+editor_options: 
+  chunk_output_type: console
+bibliography: ####package_name####.bib
+link-citations: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(
+  echo = FALSE,
+  message = FALSE,
+  warning = FALSE
+)
+```
+
+```{r dependencies}
+library(magrittr)
+
+package_name <- "####package_name####"
+package_path <- file.path("../..", package_name)
+# warning(
+#   "Package path: ", package_path, "\n",
+#   "Working dir: ", getwd()
+# )
+```
+
+```{r janno}
+janno_file <- list.files(package_path, pattern = ".janno", full.names = TRUE)
+janno <- poseidonR::read_janno(janno_file)
+literature <- paste0("@", janno$Publication %>% unlist %>% unique, collapse = ", ")
+```
+
+```{r ymlfile}
+poseidon_yml_file <- list.files(package_path, pattern = "POSEIDON.yml", full.names = TRUE)
+poseidon_yml <- yaml::read_yaml(poseidon_yml_file)
+contributors <- paste(purrr::map_chr(
+  poseidon_yml$contributor, function(x) {
+    paste0(x$name, " (", x$email, ")")
+  }), collapse = ", ")
+```
+
+**Package version:** `r poseidon_yml$packageVersion` (`r poseidon_yml$lastModified`), 
+**Poseidon version:** `r poseidon_yml$poseidonVersion`
+
+**Description:** `r poseidon_yml$description`
+
+**Contributors:** `r contributors`
+
+**Literature:** `r literature`
+
+<div id="refs"></div>
+
+***
+
+### Overview
+
+```{r map}
+if (all(c("Longitude", "Latitude", "Poseidon_ID") %in% colnames(janno))) {
+  leaflet::leaflet(
+    janno,
+    width = "100%"
+  ) %>%
+    leaflet::addTiles(
+      urlTemplate = "https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
+    ) %>%
+    leaflet::addMarkers(
+      lng = ~Longitude,
+      lat = ~Latitude, 
+      popup = ~Poseidon_ID,
+      clusterOptions = leaflet::markerClusterOptions()
+    )
+}
+```
+
+```{r table}
+DT::datatable(
+  janno[-1], 
+  class = "compact",
+  filter = 'top',
+  options = list(
+    pageLength = 20, 
+    scrollX = TRUE
+  )
+)
+```
