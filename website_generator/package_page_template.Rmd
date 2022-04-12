@@ -19,6 +19,7 @@ library(magrittr)
 
 package_name <- "####package_name####"
 package_path <- file.path("../..", package_name)
+#package_path <- file.path("..", package_name)
 # warning(
 #   "Package path: ", package_path, "\n",
 #   "Working dir: ", getwd()
@@ -27,25 +28,41 @@ package_path <- file.path("../..", package_name)
 
 ```{r janno}
 janno_file <- list.files(package_path, pattern = ".janno", full.names = TRUE)
-janno <- poseidonR::read_janno(janno_file)
+janno <- poseidonR::read_janno(janno_file, validate = F)
 literature <- paste0("@", janno$Publication %>% unlist %>% unique, collapse = ", ")
 ```
 
 ```{r ymlfile}
 poseidon_yml_file <- list.files(package_path, pattern = "POSEIDON.yml", full.names = TRUE)
 poseidon_yml <- yaml::read_yaml(poseidon_yml_file)
+```
+
+***
+
+**Package version:** `r poseidon_yml$packageVersion` (`r poseidon_yml$lastModified`), 
+**Poseidon version:** `r poseidon_yml$poseidonVersion`
+
+```{r changelog, results='asis'}
+if (!is.null(poseidon_yml$changelogFile)) {
+  changelog_file <- file.path(package_path, poseidon_yml$changelogFile)
+  changelog <- readLines(changelog_file)
+  cat("**Changelog:**\n\n")
+  cat(paste("-", changelog), sep = "\n")
+}
+```
+
+```{r}
 contributors <- paste(purrr::map_chr(
   poseidon_yml$contributor, function(x) {
     paste0(x$name, " (", x$email, ")")
   }), collapse = ", ")
 ```
 
-**Package version:** `r poseidon_yml$packageVersion` (`r poseidon_yml$lastModified`), 
-**Poseidon version:** `r poseidon_yml$poseidonVersion`
+**Contributors:** `r contributors`
+
+***
 
 **Description:** `r poseidon_yml$description`
-
-**Contributors:** `r contributors`
 
 **Literature:** `r literature`
 
@@ -53,7 +70,15 @@ contributors <- paste(purrr::map_chr(
 
 ***
 
-### Overview
+```{r readme, results='asis'}
+if (!is.null(poseidon_yml$readmeFile)) {
+  readme_file <- file.path(package_path, poseidon_yml$readmeFile)
+  readme <- readLines(readme_file)
+  cat("**README:**\n\n")
+  cat(readme, sep = "\n\n")
+  cat("\n\n***")
+}
+```
 
 ```{r map}
 if (all(c("Longitude", "Latitude", "Poseidon_ID") %in% colnames(janno))) {
