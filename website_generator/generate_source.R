@@ -13,7 +13,7 @@ janno_table <- total_janno %>%
   dplyr::summarise(
     `# Inds` = dplyr::n(),
     Package = dirname(unique(source_file)),
-    `# ancient` = (Date_Type %in% c("C14", "context")) %>% sum(na.rm = TRUE),
+    `# ancient` = (Date_Type %in% c("C14", "contextual")) %>% sum(na.rm = TRUE),
     `# modern` = (Date_Type == "modern") %>% sum(na.rm = TRUE),
     `Github` = paste0(
       "[Github](https://github.com/poseidon-framework/published_data/tree/master/",
