@@ -1,0 +1,20 @@
+poseidonVersion: 2.5.0
+title: NovakPLoSOne2021
+description: Genome-wide analysis of nearly all the victims of a 6200 year old massacre
+contributor:
+- name: Dhananjaya Aththanayaka
+  email: dhananjaya_aththanayaka@eva.mpg.de
+packageVersion: 0.1.1
+lastModified: 2022-05-06
+genotypeData:
+  format: PLINK
+  genoFile: NovakPLoSOne2021.bed
+  genoFileChkSum: cbed817f550829a70902e9b89793b34f
+  snpFile: NovakPLoSOne2021.bim
+  snpFileChkSum: 433fa85a23f3123bade02348e4628b75
+  indFile: NovakPLoSOne2021.fam
+  indFileChkSum: 9942f88cf792a20ea86e8f5294c94ac7
+  snpSet: 1240K
+jannoFile: NovakPLoSOne2021.janno
+jannoFileChkSum: df60c6a73f8e9c4f87dd94aeecae72ee
+changelogFile: CHANGELOG.md
