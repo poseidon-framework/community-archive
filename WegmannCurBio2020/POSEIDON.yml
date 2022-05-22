@@ -1,0 +1,21 @@
+poseidonVersion: 2.5.0
+title: WegmannCurBio2020
+description: Low Prevalence of Lactase Persistence in Bronze Age Europe Indicates
+  Ongoing Strong Selection over the Last 3,000 Years.
+contributor:
+- name: Dhananjaya Aththanayaka
+  email: dhananjaya_aththanayaka.eva.mpg.de
+packageVersion: 0.1.1
+lastModified: 2022-05-22
+genotypeData:
+  format: PLINK
+  genoFile: WegmannCurBio2020.bed
+  genoFileChkSum: 8ad78eccc72f16eaecc660c5ea6943a9
+  snpFile: WegmannCurBio2020.bim
+  snpFileChkSum: 433fa85a23f3123bade02348e4628b75
+  indFile: WegmannCurBio2020.fam
+  indFileChkSum: 295138bf1a315b4a1d4eb784a13b41ff
+  snpSet: 1240K
+jannoFile: WegmannCurBio2020.janno
+jannoFileChkSum: f229e3486a965cffbeab719c48ec4c10
+changelogFile: CHANGELOG.md
