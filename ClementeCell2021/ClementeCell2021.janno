@@ -1,0 +1,7 @@
+Poseidon_ID	Genetic_Sex	Group_Name	Collection_ID	Country	Location	Latitude	Longitude	Date_Type	Date_BC_AD_Start	Date_BC_AD_Median	Date_BC_AD_Stop	Capture_Type	Library_Built	Genotype_Ploidy	Nr_SNPs	Coverage_on_Target_SNPs	Genetic_Source_Accession_IDs	Publication
+Kou01.SG	U	Greece_Koufonisi_Cycladic_EBA.SG	Kou01	Greece	Cyclades islands, Koufonisi	36.937529	25.60652	contextual	-2600	-2300	-2000	Shotgun	ds	diploid	1026154	2.347864	PRJEB37782	ClementeCell2021
+Kou03.SG	U	Greece_Koufonisi_Cycladic_EBA.SG	Kou03	Greece	Cyclades islands, Koufonisi	36.937529	25.60652	contextual	-2600	-2300	-2000	Shotgun	ds	diploid	1073490	2.9692	PRJEB37782	ClementeCell2021
+Log02.SG	U	Greece_Logkas_MBA.SG	Log02	Greece	Kozani, Elati-Logkas	39.980392	21.823641	contextual	-2600	-2300	-2000	Shotgun	ds	diploid	1137560	4.660995	PRJEB37782	ClementeCell2021
+Log04.SG	U	Greece_Logkas_MBA.SG	Log04	Greece	Kozani, Elati-Logkas	39.980392	21.823641	contextual	-2600	-2300	-2000	Shotgun	ds	diploid	1137839	4.994164	PRJEB37782	ClementeCell2021
+Mik15.SG	U	Greece_Manika_Helladic_EBA.SG	Mik15	Greece	Euboea island, Manika	38.498226	23.626147	contextual	-2600	-2300	-2000	Shotgun	ds	diploid	1083775	3.420011	PRJEB37782	ClementeCell2021
+Pta08.SG	U	Greece_Minoan_Kephala_Petras.SG	Pta08	Greece	East Crete, Kephala Petras Siteias	35.197343	26.11498	contextual	-2600	-2300	-2000	Shotgun	ds	diploid	1127362	4.188545	PRJEB37782	ClementeCell2021
