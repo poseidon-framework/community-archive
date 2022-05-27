@@ -6,7 +6,7 @@ contributor:
   email: ghalichi@shh.mpg.de
 - name: Lei Huang
   email: lei_huang@eva.mpg.de
-packageVersion: 2.1.1
+packageVersion: 2.1.2
 lastModified: 2022-05-27
 genotypeData:
   format: PLINK
@@ -18,7 +18,7 @@ genotypeData:
   indFileChkSum: d5095ad4920fc3c95bbfb250cd99f90f
   snpSet: HumanOrigins
 jannoFile: Biagini_Spain.janno
-jannoFileChkSum: 2e01102befac1785299375c618cbc82e
+jannoFileChkSum: 3b7a470c1d62fcd25532cb5b084bfc1b
 bibFile: LITERATURE.bib
 bibFileChkSum: 84ed6dfe198af4eca7eaa536a046a730
 changelogFile: CHANGELOG.md
