@@ -1,0 +1,20 @@
+poseidonVersion: 2.5.0
+title: LarenaJakobbsonPNAS2021
+description: Multiple migrations to the Philippines during the last 50,000 years
+contributor:
+- name: Dhananjaya Aththanayaka
+  email: dhananjaya_aththanayaka.net
+packageVersion: 0.1.1
+lastModified: 2022-06-15
+genotypeData:
+  format: PLINK
+  genoFile: LarenaJakobbsonPNAS2021.bed
+  genoFileChkSum: bb358c43764b1d6612ad6c5c210a2a4a
+  snpFile: LarenaJakobbsonPNAS2021.bim
+  snpFileChkSum: 433fa85a23f3123bade02348e4628b75
+  indFile: LarenaJakobbsonPNAS2021.fam
+  indFileChkSum: 32db5018da57cf1cc8efc17458c642d7
+  snpSet: 1240K
+jannoFile: LarenaJakobbsonPNAS2021.janno
+jannoFileChkSum: e01dca1a2f90c8b32f2ec5ba2b37e67f
+changelogFile: CHANGELOG.md
