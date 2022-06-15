@@ -1,0 +1,21 @@
+poseidonVersion: 2.5.0
+title: SeguinOrlandoCurrBio2021
+description: Heterogeneous Hunter-Gatherer and Steppe-Related Ancestries in Late Neolithic
+  and Bell Beaker Genomes from Present-Day France
+contributor:
+- name: Dhananjaya Aththanayaka
+  email: dhananjaya_aththnayaka@mpg.eva.de
+packageVersion: 0.1.1
+lastModified: 2022-06-15
+genotypeData:
+  format: PLINK
+  genoFile: SeguinOrlandoCurrBio2021.bed
+  genoFileChkSum: 719fbf7c6f84aaacebafa9212467dd5e
+  snpFile: SeguinOrlandoCurrBio2021.bim
+  snpFileChkSum: 433fa85a23f3123bade02348e4628b75
+  indFile: SeguinOrlandoCurrBio2021.fam
+  indFileChkSum: a4a18a4383eaf9e02f78ad522094a028
+  snpSet: 1240K
+jannoFile: SeguinOrlandoCurrBio2021.janno
+jannoFileChkSum: 65f3a389291f942a4e22c5f68d4aeebe
+changelogFile: CHANGELOG.md
