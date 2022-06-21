@@ -1,0 +1,20 @@
+poseidonVersion: 2.5.0
+title: CapodiferroAchilliCell2021
+description: Archaeogenomic distinctiveness of the Isthmo-Colombian area
+contributor:
+- name: Dhananjaya Aththnayaka
+  email: dhananjaya_aththanayaka@eva.mpg.de
+packageVersion: 0.1.1
+lastModified: 2022-06-21
+genotypeData:
+  format: PLINK
+  genoFile: CapodiferroAchilliCell2021.bed
+  genoFileChkSum: a02b60edd417778d2326ade02eb34f8b
+  snpFile: CapodiferroAchilliCell2021.bim
+  snpFileChkSum: 433fa85a23f3123bade02348e4628b75
+  indFile: CapodiferroAchilliCell2021.fam
+  indFileChkSum: f90df6b4adf0c79b369673e9de4387bc
+  snpSet: 1240K
+jannoFile: CapodiferroAchilliCell2021.janno
+jannoFileChkSum: bda1de61f558b13b890d2ccc9fef58dd
+changelogFile: CHANGELOG.md
