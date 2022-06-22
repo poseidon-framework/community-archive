@@ -1,0 +1,20 @@
+poseidonVersion: 2.5.0
+title: YakaSomelCurrBio2021
+description: Variable kinship patterns in Neolithic Anatolia revealed by ancient genomes
+contributor:
+- name: Dhananjaya Aththanayaka
+  email: dhananjaya_aththanayaka@mpg.eva.de
+packageVersion: 0.1.1
+lastModified: 2022-06-22
+genotypeData:
+  format: PLINK
+  genoFile: YakaSomelCurrBio2021.bed
+  genoFileChkSum: 468275cf75644ab38613237c348ad671
+  snpFile: YakaSomelCurrBio2021.bim
+  snpFileChkSum: 433fa85a23f3123bade02348e4628b75
+  indFile: YakaSomelCurrBio2021.fam
+  indFileChkSum: c3050be1760afdf1889b151b3bd8aa99
+  snpSet: 1240K
+jannoFile: YakaSomelCurrBio2021.janno
+jannoFileChkSum: ebd776ad2b1d9ffd5ed1af7876ee931f
+changelogFile: CHANGELOG.md
