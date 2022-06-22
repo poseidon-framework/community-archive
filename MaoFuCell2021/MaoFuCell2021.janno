@@ -1,0 +1,26 @@
+Poseidon_ID	Genetic_Sex	Group_Name	Collection_ID	Country	Location	Latitude	Longitude	Date_Type	Date_C14_Labnr	Date_C14_Uncal_BP	Date_C14_Uncal_BP_Err	Date_BC_AD_Start	Date_BC_AD_Median	Date_BC_AD_Stop	MT_Haplogroup	Nr_Libraries	Capture_Type	UDG	Library_Built	Genotype_Ploidy	Nr_SNPs	Coverage_on_Target_SNPs	Damage	Genetic_Source_Accession_IDs	Publication
+NE20	F	China_AmurRiver_Paleolithic	AR33K	China	Amur River Basin	45.4	127.03	C14	BA-10197	29060	170	-32159	-31664	-31169	B	1	1240K	minus	ss	diploid	989258	15.439924	22	PRJCA003699	MaoFuCell2021
+NE56	M	China_AmurRiver_LPaleolithic	AR19K	China	Amur River Basin	46	126.15	C14	BA-152200	16090	45	-17605	-17453	-17301	G2	1	1240K	minus	ss	diploid	760039	1.70265	19	PRJCA003699	MaoFuCell2021
+NE34	M	China_AmurRiver_LPaleolithic	AR14.5K	China	Amur River Basin	45.98	125.58	C14	BA-152178	12395	35	-12896	-12590	-12285	D4h3	1	1240K	minus	ss	diploid	568204	2.432006	22	PRJCA003699	MaoFuCell2021
+NE5	M	China_AmurRiver_LPaleolithic	AR14.1K	China	Amur River Basin	45.95	125.83	C14	BA-090397	12240	40	-12371	-12236	-12101	D4h3a+@152	1	1240K	minus	ss	diploid	527830	2.43999	19	PRJCA003699	MaoFuCell2021
+NE1	F	China_AmurRiver_LPaleolithic	AR12K	China	Amur River Basin	46	125.73	C14	BA-090406	10625	40	-10774	-10662	-10550	D4g	1	1240K	minus	ss	diploid	96234	0.090324	8	PRJCA003699	MaoFuCell2021
+NE8	M	China_AmurRiver_Mesolithic	AR11K	China	Amur River Basin	46.01	125.82	C14	BA-090400	9855	40	-9442	-9345	-9248	D4o	1	1240K	minus	ss	diploid	417504	1.250696	27	PRJCA003699	MaoFuCell2021
+NE57	M	China_AmurRiver_Mesolithic_lc	AR11K_deleted	China	Amur River Basin	46	126.12	C14	BA-152201	9655	35	-9243	-9044	-8846	n/a	1	1240K	half	ds	diploid	10550	0.009338	1	PRJCA003699	MaoFuCell2021
+NE36	U	China_AmurRiver_Mesolithic_lc	AR10.6K_deleted	China	Amur River Basin	46.06	125.72	C14	BA-152180	9445	30	-8810	-8719	-8628	D4h4	1	1240K	minus	ss	diploid	9384	0.008014	4	PRJCA003699	MaoFuCell2021
+NE3	M	China_AmurRiver_Mesolithic	AR10.6K	China	Amur River Basin	45.85	126	C14	BA-090395	9400	40	-8782	-8671	-8560	M8	1	1240K	minus	ss	diploid	587800	1.996214	27	PRJCA003699	MaoFuCell2021
+NE4	M	China_AmurRiver_Mesolithic	AR10.5K	China	Amur River Basin	45.93	125.85	C14	BA-090396	9345	40	-8740	-8608	-8475	M8	1	1240K	minus	ss	diploid	578603	2.138093	26	PRJCA003699	MaoFuCell2021
+NE30	M	China_AmurRiver_EarlyN	AR9.9K_2d.rel.NE-4_deleted	China	Amur River Basin	45.96	126.23	C14	BA-152174	8825	30	-8175	-7962	-7750	D4m	1	1240K	minus	ss	diploid	366026	0.431935	12	PRJCA003699	MaoFuCell2021
+NE45	M	China_AmurRiver_EarlyN	AR9.2K_o	China	Amur River Basin	45.71	126.88	C14	BA-152189	8260	30	-7458	-7273	-7088	G1a1a	1	1240K	minus	ss	diploid	142867	0.25767	7	PRJCA003699	MaoFuCell2021
+NE44	M	China_AmurRiver_EarlyN_lc	AR9.2K_deleted	China	Amur River Basin	45.71	126.88	C14	BA-152188	8255	30	-7456	-7270	-7085	D4c1	1	1240K	minus	ss	diploid	5629	0.004792	3	PRJCA003699	MaoFuCell2021
+NE35	F	China_AmurRiver_EarlyN	AR8.9K	China	Amur River Basin	45.91	125.95	C14	BA-152179	8075	30	-7172	-7002	-6831	R11	1	1240K	minus	ss	diploid	739532	5.07525	22	PRJCA003699	MaoFuCell2021
+NE16	F	China_AmurRiver_N	AR8.5K	China	Amur River Basin	45.96	125.78	C14	BA-10193	7795	35	-6690	-6598	-6505	D4o	1	1240K	minus	ss	diploid	231397	0.608309	14	PRJCA003699	MaoFuCell2021
+NE49	F	China_AmurRiver_N	AR8.3K	China	Amur River Basin	45.65	126.92	C14	BA-152193	7555	30	-6465	-6370	-6276	D4o	1	1240K	minus	ss	diploid	211846	0.236689	10	PRJCA003699	MaoFuCell2021
+NE39	M	China_AmurRiver_N	AR8.1K	China	Amur River Basin	45.91	125.9	C14	BA-152183	7380	35	-6375	-6231	-6087	D4m2	1	1240K	minus	ss	diploid	573913	3.466589	12	PRJCA003699	MaoFuCell2021
+NE58	M	China_AmurRiver_N	AR7.3K_LowCov	China	Amur River Basin	45.85	126	C14	BA-152202	6380	30	-5471	-5348	-5226	D4e5	1	1240K	half	ds	diploid	30756	0.02679	1	PRJCA003699	MaoFuCell2021
+NE18	M	China_AmurRiver_N_lc	AR7K_deleted	China	Amur River Basin	45.96	125.77	C14	BA-10195	6160	35	-5210	-5108	-5005	D4h3	1	1240K	minus	ss	diploid	2764	0.002378	2	PRJCA003699	MaoFuCell2021
+NE19	M	China_AmurRiver_N	AR7K	China	Amur River Basin	45.96	125.75	C14	BA-10196	6135	35	-5210	-5082	-4955	F1b1+@152	1	1240K	minus	ss	diploid	593978	2.132596	23	PRJCA003699	MaoFuCell2021
+NE29	F	China_AmurRiver_N	AR6.87K	China	Amur River Basin	45.93	126.37	C14	BA-152173	6035	25	-4999	-4921	-4843	D4c1	1	1240K	minus	ss	diploid	624190	3.512497	13	PRJCA003699	MaoFuCell2021
+NE22	M	China_AmurRiver_N	AR6.84K	China	Amur River Basin	46.15	126.23	C14	BA-10199	6000	35	-4990	-4892	-4795	D4m	1	1240K	minus	ss	diploid	195523	0.42672	11	PRJCA003699	MaoFuCell2021
+NE9	F	China_AmurRiver_N	AR6.33K	China	Amur River Basin	46.01	125.8	C14	BA-090401	5525	35	-4448	-4388	-4329	C4a1a+195	1	1240K	minus	ss	diploid	657018	3.796374	23	PRJCA003699	MaoFuCell2021
+NE2	M	China_AmurRiver_N	AR6.32K	China	Amur River Basin	45.85	125.82	C14	BA-090407	5515	35	-4445	-4358	-4270	D4m	1	1240K	minus	ss	diploid	332183	0.538951	12	PRJCA003699	MaoFuCell2021
+NE61	U	China_AmurRiver_BA	AR3.4K_LowCov	China	Amur River Basin	45.88	126.22	C14	BA-152205	3210	25	-1510	-1468	-1425	D4b1a2a	1	1240K	minus	ss	diploid	28067	0.02445	5	PRJCA003699	MaoFuCell2021
