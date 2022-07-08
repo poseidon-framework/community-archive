@@ -1,0 +1,20 @@
+poseidonVersion: 2.5.0
+title: 2021_Clemente_Aegean
+description: The genomic history of the Aegean palatial civilizations
+contributor:
+- name: Dhananjaya Aththanayaka
+  email: dhananjaya_aththanayaka@eva.mpg.de
+packageVersion: 0.1.1
+lastModified: 2022-05-22
+genotypeData:
+  format: PLINK
+  genoFile: 2021_Clemente_Aegean.bed
+  genoFileChkSum: 9aef005c24a8e4dfb3d0e5ae451ba2ed
+  snpFile: 2021_Clemente_Aegean.bim
+  snpFileChkSum: 433fa85a23f3123bade02348e4628b75
+  indFile: 2021_Clemente_Aegean.fam
+  indFileChkSum: 4e298b757ef0c9ab544c11c0bd9411ad
+  snpSet: 1240K
+jannoFile: 2021_Clemente_Aegean.janno
+jannoFileChkSum: 1a35d061a2d4d1c6fa759c5a660fe333
+changelogFile: CHANGELOG.md
