@@ -1,5 +1,5 @@
 poseidonVersion: 2.5.0
-title: BortoliniBenazziCurBio2021
+title: 2021_Bortolini_Glacial
 description: Early Alpine occupation backdates westward human migration in Late Glacial
   Europe
 contributor:
@@ -9,13 +9,13 @@ packageVersion: 0.1.1
 lastModified: 2022-06-22
 genotypeData:
   format: PLINK
-  genoFile: BortoliniBenazziCurBio2021.bed
+  genoFile: 2021_Bortolini_Glacial.bed
   genoFileChkSum: 3261be5631005385ee487f7aceedba92
-  snpFile: BortoliniBenazziCurBio2021.bim
+  snpFile: 2021_Bortolini_Glacial.bim
   snpFileChkSum: 433fa85a23f3123bade02348e4628b75
-  indFile: BortoliniBenazziCurBio2021.fam
+  indFile: 2021_Bortolini_Glacial.fam
   indFileChkSum: ed357a795f7acd72f445ab5376d93edc
   snpSet: 1240K
-jannoFile: BortoliniBenazziCurBio2021.janno
+jannoFile: 2021_Bortolini_Glacial.janno
 jannoFileChkSum: 742bbdeb6383bb0a7fe6e23aca837984
 changelogFile: CHANGELOG.md
