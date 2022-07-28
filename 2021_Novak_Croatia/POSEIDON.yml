@@ -1,5 +1,5 @@
 poseidonVersion: 2.5.0
-title: NovakPLoSOne2021
+title: 2021_Novak_Croatia
 description: Genome-wide analysis of nearly all the victims of a 6200 year old massacre
 contributor:
 - name: Dhananjaya Aththanayaka
@@ -8,13 +8,13 @@ packageVersion: 0.1.2
 lastModified: 2022-05-23
 genotypeData:
   format: PLINK
-  genoFile: NovakPLoSOne2021.bed
+  genoFile: 2021_Novak_Croatia.bed
   genoFileChkSum: cbed817f550829a70902e9b89793b34f
-  snpFile: NovakPLoSOne2021.bim
+  snpFile: 2021_Novak_Croatia.bim
   snpFileChkSum: 433fa85a23f3123bade02348e4628b75
-  indFile: NovakPLoSOne2021.fam
+  indFile: 2021_Novak_Croatia.fam
   indFileChkSum: 9942f88cf792a20ea86e8f5294c94ac7
   snpSet: 1240K
-jannoFile: NovakPLoSOne2021.janno
+jannoFile: 2021_Novak_Croatia.janno
 jannoFileChkSum: 1e540c69bbadae1edf3f4cd137bf369f
 changelogFile: CHANGELOG.md
