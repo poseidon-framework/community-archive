@@ -1,5 +1,5 @@
 poseidonVersion: 2.5.0
-title: SvenssonJakobssonCurrBio2021
+title: 2021_Svensson_PreGlacial
 description: Genome of Peştera Muierii skull shows high diversity and low mutational
   load in pre-glacial Europe
 contributor:
@@ -9,13 +9,13 @@ packageVersion: 0.1.1
 lastModified: 2022-06-22
 genotypeData:
   format: PLINK
-  genoFile: SvenssonJakobssonCurrBio2021.bed
+  genoFile: 2021_Svensson_PreGlacial.bed
   genoFileChkSum: 6023e2eee1136d2640e3b49d2a5a14bf
-  snpFile: SvenssonJakobssonCurrBio2021.bim
+  snpFile: 2021_Svensson_PreGlacial.bim
   snpFileChkSum: 433fa85a23f3123bade02348e4628b75
-  indFile: SvenssonJakobssonCurrBio2021.fam
+  indFile: 2021_Svensson_PreGlacial.fam
   indFileChkSum: e670e01b3810cbd831952172224bd9ad
   snpSet: 1240K
-jannoFile: SvenssonJakobssonCurrBio2021.janno
+jannoFile: 2021_Svensson_PreGlacial.janno
 jannoFileChkSum: 54e9042628b3eb1aec5d0b7f88f37876
 changelogFile: CHANGELOG.md
