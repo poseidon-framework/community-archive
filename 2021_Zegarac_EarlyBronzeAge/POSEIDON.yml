@@ -1,5 +1,5 @@
 poseidonVersion: 2.5.0
-title: ZegaracBurgerBioRxiv2021
+title: 2021_Zegarac_EarlyBronzeAge
 description: Ancient genomes provide insights into family structure and the heredity of social status in the early Bronze Age of southeastern Europe
 contributor:
 - name: Dhananjaya Aththnayaka
@@ -8,13 +8,13 @@ packageVersion: 0.1.1
 lastModified: 2022-05-04
 genotypeData:
   format: PLINK
-  genoFile: ZegaracBurgerBioRxiv2021.bed
+  genoFile: 2021_Zegarac_EarlyBronzeAge.bed
   genoFileChkSum: fd946258fee4bdef74e5ed35f9efe55b
-  snpFile: ZegaracBurgerBioRxiv2021.bim
+  snpFile: 2021_Zegarac_EarlyBronzeAge.bim
   snpFileChkSum: 433fa85a23f3123bade02348e4628b75
-  indFile: ZegaracBurgerBioRxiv2021.fam
+  indFile: 2021_Zegarac_EarlyBronzeAge.fam
   indFileChkSum: 11ca9cacf580e026a7fcffc8f11c5605
   snpSet: 1240K
-jannoFile: ZegaracBurgerBioRxiv2021.janno
+jannoFile: 2021_Zegarac_EarlyBronzeAge.janno
 jannoFileChkSum: 93d8760530ec31332fcbd85bb32905f7
 changelogFile: CHANGELOG.md
