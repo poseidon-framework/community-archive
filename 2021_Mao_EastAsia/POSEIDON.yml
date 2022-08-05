@@ -18,4 +18,5 @@ genotypeData:
   snpSet: 1240K
 jannoFile: 2021_Mao_EastAsia.janno
 jannoFileChkSum: c69e9fbbe09537c60ccc0b9b99916d54
+bibfile: 2021_Mao_EastAsia.bib
 changelogFile: CHANGELOG.md
