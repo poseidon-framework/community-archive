@@ -4,8 +4,8 @@ description: Variable kinship patterns in Neolithic Anatolia revealed by ancient
 contributor:
 - name: Dhananjaya Aththanayaka
   email: dhananjaya_aththanayaka@mpg.eva.de
-packageVersion: 0.1.1
-lastModified: 2022-06-22
+packageVersion: 0.1.2
+lastModified: 2022-08-05
 genotypeData:
   format: PLINK
   genoFile: 2021_Yaka_Anatolia.bed
@@ -17,4 +17,6 @@ genotypeData:
   snpSet: 1240K
 jannoFile: 2021_Yaka_Anatolia.janno
 jannoFileChkSum: ebd776ad2b1d9ffd5ed1af7876ee931f
+bibFile: 2021_Yaka_Anatolia.bib
+bibFileChkSum: 8c227d9429497770069ff32decf17f5d
 changelogFile: CHANGELOG.md
