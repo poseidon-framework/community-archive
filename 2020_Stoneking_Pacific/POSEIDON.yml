@@ -1,5 +1,5 @@
 poseidonVersion: 2.5.0
-title: 2020_Stonek_Pacific
+title: 2020_Stoneking_Pacific
 description: Ancient DNA from Guam and the peopling of the Pacific
 contributor:
 - name: Dhananjaya Aththnayaka
@@ -8,13 +8,14 @@ packageVersion: 0.1.1
 lastModified: 2022-06-15
 genotypeData:
   format: PLINK
-  genoFile: 2020_Stonek_Pacific.bed
+  genoFile: 2020_Stoneking_Pacific.bed
   genoFileChkSum: 1257de8149dff6c5b4ff9dfadce91248
-  snpFile: 2020_Stonek_Pacific.bim
+  snpFile: 2020_Stoneking_Pacific.bim
   snpFileChkSum: 433fa85a23f3123bade02348e4628b75
-  indFile: 2020_Stonek_Pacific.fam
+  indFile: 2020_Stoneking_Pacific.fam
   indFileChkSum: 48a7c798ad035068e2f6ab344951923c
   snpSet: 1240K
-jannoFile: 2020_Stonek_Pacific.janno
+jannoFile: 2020_Stoneking_Pacific.janno
 jannoFileChkSum: 46df548192f56537ccba7670db1e38b9
+bibfile: 2020_Stoneking_Pacific.bib
 changelogFile: CHANGELOG.md
