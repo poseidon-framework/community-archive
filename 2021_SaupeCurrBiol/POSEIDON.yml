@@ -1,0 +1,17 @@
+poseidonVersion: 2.5.0
+title: 2021_SaupeCurrBiol
+description: Ancient genomes reveal structural shifts after the arrival of Steppe-related ancestry in the Italian Peninsula
+contributor:
+  - name: Stephen Clayton
+    email: stephen_clayton@eva.mpg.de
+packageVersion: 0.0.1
+lastModified: 2022-08-06
+genotypeData:
+  format: PLINK
+  genoFile: 2021_SaupeCurrBiol.bed
+  snpFile: 2021_SaupeCurrBiol.bim
+  indFile: 2021_SaupeCurrBiol.fam
+  snpSet: 1240K
+jannoFile: 2021_SaupeCurrBiol.janno
+bibFile: sources.bib
+readmeFile: README.txt
