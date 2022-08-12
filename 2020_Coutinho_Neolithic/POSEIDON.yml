@@ -1,12 +1,12 @@
 poseidonVersion: 2.5.0
 title: 2020_Coutinho_Neolithic
 description: The Neolithic Pitted Ware culture foragers were culturally but not genetically
-  influenced by the Battle Axe culture 
+  influenced by the Battle Axe culture
 contributor:
 - name: Dhananjaya Aththanayaka
   email: dhananjaya_aththanayaka@eva.mpg.de
-packageVersion: 0.1.2
-lastModified: 2022-05-23
+packageVersion: 0.1.3
+lastModified: 2022-08-12
 genotypeData:
   format: PLINK
   genoFile: 2020_Coutinho_Neolithic.bed
@@ -18,4 +18,6 @@ genotypeData:
   snpSet: 1240K
 jannoFile: 2020_Coutinho_Neolithic.janno
 jannoFileChkSum: 32505437b89a1e6388e84fd530ffa9a1
+bibFile: 2020_Coutinho_Neolithic.bib
+bibFileChkSum: ea3ab32c12e495b8c2c72fe3877a8d77
 changelogFile: CHANGELOG.md
