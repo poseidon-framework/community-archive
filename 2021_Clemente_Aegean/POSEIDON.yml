@@ -4,8 +4,8 @@ description: The genomic history of the Aegean palatial civilizations
 contributor:
 - name: Dhananjaya Aththanayaka
   email: dhananjaya_aththanayaka@eva.mpg.de
-packageVersion: 0.1.1
-lastModified: 2022-05-22
+packageVersion: 0.1.2
+lastModified: 2022-08-12
 genotypeData:
   format: PLINK
   genoFile: 2021_Clemente_Aegean.bed
@@ -17,4 +17,6 @@ genotypeData:
   snpSet: 1240K
 jannoFile: 2021_Clemente_Aegean.janno
 jannoFileChkSum: 1a35d061a2d4d1c6fa759c5a660fe333
+bibFile: 2021_Clemente_Aegean.bib
+bibFileChkSum: 8449096d83f33ca292b9fea195c883ee
 changelogFile: CHANGELOG.md
