@@ -23,5 +23,9 @@ jobs:
         path: data
 
     - name: Validation
-      run: |
-        ./trident-Linux validate -d data --ignoreGeno
+      run: ./trident-Linux validate -d data --ignoreGeno
+
+    - name: Check for displaced files
+      run: ./checkForDisplacedFiles.sh
+      working-directory: ./data
+
