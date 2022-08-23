@@ -1,0 +1,22 @@
+poseidonVersion: 2.5.0
+title: 2021_Yaka_Anatolia
+description: Variable kinship patterns in Neolithic Anatolia revealed by ancient genomes
+contributor:
+- name: Dhananjaya Aththanayaka
+  email: dhananjaya_aththanayaka@mpg.eva.de
+packageVersion: 0.1.2
+lastModified: 2022-08-05
+genotypeData:
+  format: PLINK
+  genoFile: 2021_Yaka_Anatolia.bed
+  genoFileChkSum: 468275cf75644ab38613237c348ad671
+  snpFile: 2021_Yaka_Anatolia.bim
+  snpFileChkSum: 433fa85a23f3123bade02348e4628b75
+  indFile: 2021_Yaka_Anatolia.fam
+  indFileChkSum: c3050be1760afdf1889b151b3bd8aa99
+  snpSet: 1240K
+jannoFile: 2021_Yaka_Anatolia.janno
+jannoFileChkSum: ebd776ad2b1d9ffd5ed1af7876ee931f
+bibFile: 2021_Yaka_Anatolia.bib
+bibFileChkSum: 8c227d9429497770069ff32decf17f5d
+changelogFile: CHANGELOG.md
