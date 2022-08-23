@@ -17,5 +17,7 @@ genotypeData:
   indFileChkSum: 295138bf1a315b4a1d4eb784a13b41ff
   snpSet: 1240K
 jannoFile: 2020_Burger_GermanyTollense.janno
-jannoFileChkSum: f229e3486a965cffbeab719c48ec4c10
+jannoFileChkSum: bc6c5f3aaf03d0d11fa083e05ef536bd
+bibFile: 2020_Burger_GermanyTollense.bib
+bibFileChkSum: 54dc4f88aae46b967ea9f986d3f67e77
 changelogFile: CHANGELOG.md
