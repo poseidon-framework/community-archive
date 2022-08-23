@@ -1,0 +1,23 @@
+poseidonVersion: 2.5.0
+title: 2021_Bortolini_Glacial
+description: Early Alpine occupation backdates westward human migration in Late Glacial
+  Europe
+contributor:
+- name: Dhananjaya Aththanayaka
+  email: dhananjaya_aththanayaka@mpg.eva.de
+packageVersion: 0.1.2
+lastModified: 2022-08-12
+genotypeData:
+  format: PLINK
+  genoFile: 2021_Bortolini_Glacial.bed
+  genoFileChkSum: 3261be5631005385ee487f7aceedba92
+  snpFile: 2021_Bortolini_Glacial.bim
+  snpFileChkSum: 433fa85a23f3123bade02348e4628b75
+  indFile: 2021_Bortolini_Glacial.fam
+  indFileChkSum: ed357a795f7acd72f445ab5376d93edc
+  snpSet: 1240K
+jannoFile: 2021_Bortolini_Glacial.janno
+jannoFileChkSum: 742bbdeb6383bb0a7fe6e23aca837984
+bibFile: 2021_Bortolini_Glacial.bib
+bibFileChkSum: 44eb10d1dfe94ae1c091a422eabb83a2
+changelogFile: CHANGELOG.md
