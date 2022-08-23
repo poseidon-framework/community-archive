@@ -1,0 +1,22 @@
+poseidonVersion: 2.5.0
+title: 2020_Mafessoni_Neanderthal
+description: A high-coverage Neandertal genome from Chagyrskaya Cave
+contributor:
+- name: Dhananjaya Aththanayaka
+  email: dhananjaya_aththanayaka@eva.mpg.de
+packageVersion: 0.1.1
+lastModified: 2022-08-18
+genotypeData:
+  format: PLINK
+  genoFile: 2020_Mafessoni_Neanderthal.bed
+  genoFileChkSum: 84c5e010709316c403f4c31e916284c8
+  snpFile: 2020_Mafessoni_Neanderthal.bim
+  snpFileChkSum: 433fa85a23f3123bade02348e4628b75
+  indFile: 2020_Mafessoni_Neanderthal.fam
+  indFileChkSum: 5ca59e9f18ffba62f22639966aa3bcb8
+  snpSet: 1240K
+jannoFile: 2020_Mafessoni_Neanderthal.janno
+jannoFileChkSum: f036bed8b69954579f30cdd6188bf354
+bibFile: 2020_Mafessoni_Neanderthal.bib
+bibFileChkSum: 5fd9b410abcd2e28ea2f4d2e62a8d9a8
+changelogFile: CHANGELOG.md
