@@ -1,16 +1,23 @@
 poseidonVersion: 2.5.0
 title: 2020_Gokhman_MethylationMap
-description: Differential DNA methylation of vocal and facial anatomy genes in modern humans
+description: Differential DNA methylation of vocal and facial anatomy genes in modern
+  humans
 contributor:
 - name: Dhananjaya Aththanayaka
   email: dhananjaya.at@gmail.com
-packageVersion: 0.1.0
-lastModified: 2022-08-21
+packageVersion: 0.1.1
+lastModified: 2022-09-12
 genotypeData:
   format: PLINK
   genoFile: 2020_Gokhman_MethylationMap.bed
+  genoFileChkSum: 76500afc1270c897cdd42f9ec7f9298c
   snpFile: 2020_Gokhman_MethylationMap.bim
+  snpFileChkSum: 433fa85a23f3123bade02348e4628b75
   indFile: 2020_Gokhman_MethylationMap.fam
+  indFileChkSum: 348cfa431872792e0b46d1024088cbe7
   snpSet: 1240K
 jannoFile: 2020_Gokhman_MethylationMap.janno
+jannoFileChkSum: 0ee6d172f8f1443ec7afca27b037252c
 bibFile: 2020_Gokhman_MethylationMap.bib
+bibFileChkSum: 562f24cf570d49e7372639f729da4383
+changelogFile: CHANGELOG.md
