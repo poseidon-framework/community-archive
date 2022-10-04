@@ -1,0 +1,4 @@
+
+
+0.1.1 2022-08-27
+ - Fixed janno column 'Date_BC_AD_Median'. Dates are now reported in relation to the zero point of the Gregorian calender instead of calBP

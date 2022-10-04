@@ -4,8 +4,8 @@ description: Ancient genomes reveal structural shifts after the arrival of Stepp
 contributor:
   - name: Stephen Clayton
     email: stephen_clayton@eva.mpg.de
-packageVersion: 0.1.0
-lastModified: 2022-08-06
+packageVersion: 0.1.1
+lastModified: 2022-08-27
 genotypeData:
   format: PLINK
   genoFile: 2021_SaupeCurrBiol.bed
@@ -16,7 +16,8 @@ genotypeData:
   indFileChkSum: bd499e648bf5add6f1dc8a8b1bc23eb3
   snpSet: 1240K
 jannoFile: 2021_SaupeCurrBiol.janno
-jannoFileChkSum: c80d45fe71709d19eabc4a202053588e
+jannoFileChkSum: cd703f61452469723f626a306c9c328d
 bibFile: sources.bib
 bibFileChkSum: 577093a3abe69bb808237290ee7f1d7f
 readmeFile: README.txt
+changelogFile: CHANGELOG.txt
