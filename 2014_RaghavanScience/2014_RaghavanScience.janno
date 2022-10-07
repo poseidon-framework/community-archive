@@ -1,5 +1,5 @@
-Poseidon_ID	Genetic_Sex	Group_Name	Collection_ID	Date_Type	Date_BC_AD_Start	Date_BC_AD_Median	Date_BC_AD_Stop	Y_Haplogroup	Capture_Type	UDG	Library_Built	Genotype_Ploidy	Nr_SNPs	Coverage_on_Target_SNPs	Publication	Note	Genetic_Source_Accession_IDs
-LateDorset-XIV-H_126.SG	M	LateDorset.SG	LateDorset-XIV-H_126	contextual	800	1150	1500	Q1a1	Shotgun	minus	ds	haploid	315790	0.321	RaghavanScience2014	PASS (literature)	PRJEB6516
-MARC1491.SG	M	MDorset.SG	MARC1491	contextual	0	400	800	n/a	Shotgun	minus	ds	haploid	46998	0.04	RaghavanScience2014	PASS (literature)	PRJEB6516
-MARC481.SG	M	MDorset.SG	MARC481	contextual	0	400	800	n/a	Shotgun	minus	ds	haploid	39559	0.034	RaghavanScience2014	PASS (literature)	PRJEB6516
-XIV_C_748.SG	M	Thule.SG	XIV_C_748	contextual	1100	1350	1600	P1	Shotgun	minus	ds	haploid	92283	0.091	RaghavanScience2014	PASS (literature)	PRJEB6516
+"Poseidon_ID"	"Genetic_Sex"	"Group_Name"	"Country"	"Location"	"Latitude"	"Longitude"	"Collection_ID"	"Date_Type"	"Date_BC_AD_Start"	"Date_BC_AD_Median"	"Date_BC_AD_Stop"	"Y_Haplogroup"	"Capture_Type"	"UDG"	"Library_Built"	"Genotype_Ploidy"	"Nr_SNPs"	"Coverage_on_Target_SNPs"	"Publication"	"Note"	"Genetic_Source_Accession_IDs"
+"LateDorset-XIV-H_126.SG"	"M"	"LateDorset.SG"	"Canada"	"Saatut "			"LateDorset-XIV-H_126"	"contextual"	800	1150	1500	"Q1a1"	"Shotgun"	"minus"	"ds"	"haploid"	315790	0.321	"RaghavanScience2014"	"PASS (literature)"	"PRJEB6516"
+"MARC1491.SG"	"M"	"MDorset.SG"	"Canada"	"Lane's Cove"	50.732658	-56.10271	"MARC1491"	"contextual"	0	400	800	"n/a"	"Shotgun"	"minus"	"ds"	"haploid"	46998	0.04	"RaghavanScience2014"	"PASS (literature)"	"PRJEB6516"
+"MARC481.SG"	"M"	"MDorset.SG"	"Canada"	"Port au Choix"	50.703756	-57.350792	"MARC481"	"contextual"	0	400	800	"n/a"	"Shotgun"	"minus"	"ds"	"haploid"	39559	0.034	"RaghavanScience2014"	"PASS (literature)"	"PRJEB6516"
+"XIV_C_748.SG"	"M"	"Thule.SG"	"Canada"	"Sadlermiut"			"XIV_C_748"	"contextual"	1100	1350	1600	"P1"	"Shotgun"	"minus"	"ds"	"haploid"	92283	0.091	"RaghavanScience2014"	"PASS (literature)"	"PRJEB6516"

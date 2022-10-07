@@ -6,8 +6,8 @@ description: Ancient individuals from Arctic Siberia, Alaska, Canada, and Greenl
 contributor:
 - name: Ayshin Ghalichi
   email: ghalichi@shh.mpg.de
-packageVersion: 2.0.1
-lastModified: 2022-02-07
+packageVersion: 2.0.2
+lastModified: 2022-10-07
 genotypeData:
   format: PLINK
   genoFile: 2014_RaghavanScience.bed
@@ -18,7 +18,7 @@ genotypeData:
   indFileChkSum: d05aab20397bbbdc994bd6adc96bf222
   snpSet: 1240K
 jannoFile: 2014_RaghavanScience.janno
-jannoFileChkSum: 06c1ee1ce0e6928dc2050d5dcda56506
+jannoFileChkSum: a91c8090d552d4df6bf0c462d0e60223
 bibFile: 2014_RaghavanScience.bib
 bibFileChkSum: fe26d4e06ee1d507f3ef86f602e7c2c4
 changelogFile: CHANGELOG.md
