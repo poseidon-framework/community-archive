@@ -1,0 +1,22 @@
+poseidonVersion: 2.5.0
+title: 2020_Nakatsuka_SouthPatagonia
+description: Ancient samples from South Patagonia.
+contributor:
+- name: Dhananjaya Aththanayaka
+  email: dhananjaya_aththnayaka@mpg.eva.net
+packageVersion: 0.1.1
+lastModified: 2022-10-11
+genotypeData:
+  format: PLINK
+  genoFile: Nakatsuka_SouthPatagonia.bed
+  genoFileChkSum: 279c1d4ae557fd7d16c16fc589b62e28
+  snpFile: Nakatsuka_SouthPatagonia.bim
+  snpFileChkSum: 433fa85a23f3123bade02348e4628b75
+  indFile: Nakatsuka_SouthPatagonia.fam
+  indFileChkSum: 1e15f27b0428c9c1d7c35190a472be27
+  snpSet: 1240K
+jannoFile: Nakatsuka_SouthPatagonia.janno
+jannoFileChkSum: 21bc2b20372d61c4577a2ab67b1accd8
+bibFile: Nakatsuka_SouthPatagonia.bib
+bibFileChkSum: 307b80e4dc2e03e511e31fbb23cd49b0
+changelogFile: CHANGELOG.md
