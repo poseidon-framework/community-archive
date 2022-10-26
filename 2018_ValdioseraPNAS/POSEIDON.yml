@@ -6,8 +6,8 @@ description: This package was initially constructed based on the Allen Ancient D
 contributor:
 - name: Ayshin Ghalichi
   email: ghalichi@shh.mpg.de
-packageVersion: 2.0.0
-lastModified: 2022-01-28
+packageVersion: 2.0.1
+lastModified: 2022-10-26
 genotypeData:
   format: PLINK
   genoFile: 2018_ValdioseraPNAS.bed
@@ -18,7 +18,7 @@ genotypeData:
   indFileChkSum: a8f0100c0e99f6e4f302ab4e4e865bcf
   snpSet: 1240K
 jannoFile: 2018_ValdioseraPNAS.janno
-jannoFileChkSum: 67b05037036be4fdb2d8ff308dbd39d0
+jannoFileChkSum: 59fa0e92d41210bb601aaf9775f5bbe7
 bibFile: 2018_ValdioseraPNAS.bib
 bibFileChkSum: 558f57a73d153782caceef46b2aeda45
 changelogFile: CHANGELOG.md
