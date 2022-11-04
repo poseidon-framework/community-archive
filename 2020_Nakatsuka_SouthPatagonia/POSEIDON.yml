@@ -2,9 +2,11 @@ poseidonVersion: 2.5.0
 title: 2020_Nakatsuka_SouthPatagonia
 description: Ancient samples from South Patagonia.
 contributor:
+- name: Ayshin Ghalichi
+  email: ghalichi@shh.mpg.de
 - name: Dhananjaya Aththanayaka
   email: dhananjaya_aththnayaka@mpg.eva.net
-packageVersion: 0.1.1
+packageVersion: 3.0.0
 lastModified: 2022-10-11
 genotypeData:
   format: PLINK
