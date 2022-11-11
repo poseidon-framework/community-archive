@@ -18,7 +18,7 @@ genotypeData:
   indFileChkSum: a8f0100c0e99f6e4f302ab4e4e865bcf
   snpSet: 1240K
 jannoFile: 2018_ValdioseraPNAS.janno
-jannoFileChkSum: c622cf082840031033032861a95670c4
+jannoFileChkSum: 1050ffa83257d8007c7eb01c27a728b0
 bibFile: 2018_ValdioseraPNAS.bib
 bibFileChkSum: 558f57a73d153782caceef46b2aeda45
 changelogFile: CHANGELOG.md
