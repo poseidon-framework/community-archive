@@ -1,11 +1,12 @@
 poseidonVersion: 2.5.0
 title: 2021_Zegarac_EarlyBronzeAge
-description: Ancient genomes provide insights into family structure and the heredity of social status in the early Bronze Age of southeastern Europe
+description: Ancient genomes provide insights into family structure and the heredity
+  of social status in the early Bronze Age of southeastern Europe
 contributor:
 - name: Dhananjaya Aththnayaka
   email: dhananjaya_aththanayaka@eva.mpg.de
-packageVersion: 0.1.1
-lastModified: 2022-05-04
+packageVersion: 0.1.2
+lastModified: 2023-01-12
 genotypeData:
   format: PLINK
   genoFile: 2021_Zegarac_EarlyBronzeAge.bed
@@ -17,4 +18,6 @@ genotypeData:
   snpSet: 1240K
 jannoFile: 2021_Zegarac_EarlyBronzeAge.janno
 jannoFileChkSum: 93d8760530ec31332fcbd85bb32905f7
+bibFile: 2021_Zegarac_EarlyBronzeAge.bib
+bibFileChkSum: b44d1a6d8b58fbb80b99157ece06b87b
 changelogFile: CHANGELOG.md
