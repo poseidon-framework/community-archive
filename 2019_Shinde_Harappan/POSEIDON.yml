@@ -4,8 +4,8 @@ description: Genetic data published in Shinde et al. 2019
 contributor:
 - name: Ayshin Ghalichi
   email: ghalichi@shh.mpg.de
-packageVersion: 2.0.0
-lastModified: 2022-01-28
+packageVersion: 2.0.1
+lastModified: 2022-03-02
 genotypeData:
   format: PLINK
   genoFile: Shinde_Harappan.bed
@@ -16,7 +16,7 @@ genotypeData:
   indFileChkSum: fa20540b6ab232088e3cdf8ac1a50aca
   snpSet: 1240K
 jannoFile: Shinde_Harappan.janno
-jannoFileChkSum: 7bf0300a7325e7098bc2143f6518e867
+jannoFileChkSum: deca7623966edcc20b38ec2742682f44
 bibFile: LITERATURE.bib
 bibFileChkSum: 0c26b1e02438f49eb563256b1c54fc4e
 changelogFile: CHANGELOG.md

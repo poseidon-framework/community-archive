@@ -4,8 +4,8 @@ description: Ancient samples from Cameroon.
 contributor:
 - name: Ayshin Ghalichi
   email: ghalichi@shh.mpg.de
-packageVersion: 2.0.0
-lastModified: 2022-01-28
+packageVersion: 2.0.1
+lastModified: 2022-03-13
 genotypeData:
   format: PLINK
   genoFile: Lipson_WestAfrica.bed
@@ -16,7 +16,7 @@ genotypeData:
   indFileChkSum: f7ed17c9ea0b2dbec19acf6ccc7b96d1
   snpSet: 1240K
 jannoFile: Lipson_WestAfrica.janno
-jannoFileChkSum: 2ea7444770de2c77f69b510211d1c6ff
+jannoFileChkSum: eb003f85a2a9269c0194e8a55592649a
 bibFile: LITERATURE.bib
 bibFileChkSum: eb9e806bafac4f6a38a0fac02da1d145
 changelogFile: CHANGELOG.md

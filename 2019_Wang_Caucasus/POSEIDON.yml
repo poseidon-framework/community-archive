@@ -4,8 +4,8 @@ description: Genetic data published in Wang et al. 2019
 contributor:
 - name: Ayshin Ghalichi
   email: ghalichi@shh.mpg.de
-packageVersion: 2.0.0
-lastModified: 2022-01-28
+packageVersion: 2.0.1
+lastModified: 2022-03-02
 genotypeData:
   format: PLINK
   genoFile: Wang_Caucasus.bed
@@ -16,7 +16,7 @@ genotypeData:
   indFileChkSum: 8fb787751dbc900660be309ef03eddaf
   snpSet: 1240K
 jannoFile: Wang_Caucasus.janno
-jannoFileChkSum: a768092d47290bcfbbd8f035f6e8072a
+jannoFileChkSum: 50588a22d09ea15ef37f788737c0e83f
 bibFile: LITERATURE.bib
 bibFileChkSum: 45d5593af09f97df350476c930071129
 changelogFile: CHANGELOG.md

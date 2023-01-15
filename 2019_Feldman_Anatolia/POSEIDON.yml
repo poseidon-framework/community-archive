@@ -4,8 +4,8 @@ description: Genetic data published in Feldman et al. 2019
 contributor:
 - name: Michal Feldman
   email: feldman@shh.mpg.de
-packageVersion: 2.0.0
-lastModified: 2022-01-28
+packageVersion: 2.0.1
+lastModified: 2022-03-02
 genotypeData:
   format: PLINK
   genoFile: Feldman_Anatolia.bed
@@ -16,7 +16,7 @@ genotypeData:
   indFileChkSum: b7ef11314bdd229ffd554702bb4ca65b
   snpSet: 1240K
 jannoFile: Feldman_Anatolia.janno
-jannoFileChkSum: 5a4f4d407ee3e944ad8732b5308b37e8
+jannoFileChkSum: f83cb0bd6a4973355b4d19bc6706c5e3
 bibFile: LITERATURE.bib
 bibFileChkSum: 90cd1500bf56d571ba0cad7308eecff1
 changelogFile: CHANGELOG.md

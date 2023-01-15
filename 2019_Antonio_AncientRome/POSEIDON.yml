@@ -4,8 +4,8 @@ description: Genetic data published in Antonio et al. 2019
 contributor:
 - name: Ayshin Ghalichi
   email: ghalichi@shh.mpg.de
-packageVersion: 2.0.0
-lastModified: 2022-01-28
+packageVersion: 2.0.1
+lastModified: 2022-02-26
 genotypeData:
   format: PLINK
   genoFile: Antonio_AncRome.bed
@@ -16,7 +16,7 @@ genotypeData:
   indFileChkSum: 0466dcbb68f122c8848f51e0900125a6
   snpSet: 1240K
 jannoFile: Antonio_AncRome.janno
-jannoFileChkSum: 455478a3c4248f4971ba0d5f30259d6b
+jannoFileChkSum: 9d49b8cd665d4f225b728d621c418ee9
 bibFile: LITERATURE.bib
 bibFileChkSum: 342be617512a1cf91d0fdc28eafdfc3a
 changelogFile: CHANGELOG.md

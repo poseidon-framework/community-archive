@@ -1,0 +1,23 @@
+poseidonVersion: 2.5.0
+title: 2021_Mao_EastAsia
+description: The deep population history of northern East Asia from the Late Pleistocene
+  to the Holocene
+contributor:
+- name: Dhananjaya Aththnayaka
+  email: dhananjaya_aththtnayaka@mpg.eva.de
+packageVersion: 0.1.1
+lastModified: 2022-06-22
+genotypeData:
+  format: PLINK
+  genoFile: 2021_Mao_EastAsia.bed
+  genoFileChkSum: b9cf00f223b1fbc5c4ee2fca76bacde9
+  snpFile: 2021_Mao_EastAsia.bim
+  snpFileChkSum: 433fa85a23f3123bade02348e4628b75
+  indFile: 2021_Mao_EastAsia.fam
+  indFileChkSum: 51f65377133d47879006353796ae3d50
+  snpSet: 1240K
+jannoFile: 2021_Mao_EastAsia.janno
+jannoFileChkSum: c69e9fbbe09537c60ccc0b9b99916d54
+bibFile: 2021_Mao_EastAsia.bib
+bibFileChkSum: 927329696a44840add935d7b274aed2b
+changelogFile: CHANGELOG.md

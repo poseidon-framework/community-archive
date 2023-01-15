@@ -6,8 +6,8 @@ contributor:
   email: ghalichi@shh.mpg.de
 - name: Clemens Schmid
   email: schmid@shh.mpg.de
-packageVersion: 2.0.0
-lastModified: 2022-01-28
+packageVersion: 2.0.1
+lastModified: 2022-03-02
 genotypeData:
   format: PLINK
   genoFile: SanchezQuinto_Megalithic.bed
@@ -18,7 +18,7 @@ genotypeData:
   indFileChkSum: aceef4e561050330370c8a7f0f50a5f8
   snpSet: 1240K
 jannoFile: SanchezQuinto_Megalithic.janno
-jannoFileChkSum: e69df045acc76d480c86a3c6826e68c9
+jannoFileChkSum: f2b96e063187cf89591c5cc564864f31
 bibFile: LITERATURE.bib
 bibFileChkSum: 40e32db44e67de8bf5d289bd2e7bed56
 changelogFile: CHANGELOG.md

@@ -6,8 +6,8 @@ description: This package was initially constructed based on the Allen Ancient D
 contributor:
 - name: Ayshin Ghalichi
   email: ghalichi@shh.mpg.de
-packageVersion: 2.0.0
-lastModified: 2022-01-28
+packageVersion: 2.0.1
+lastModified: 2022-02-22
 genotypeData:
   format: PLINK
   genoFile: 2017_JonesCurrentBiology.bed
@@ -18,7 +18,7 @@ genotypeData:
   indFileChkSum: 8bdd78a3f1b83132773397543c56b408
   snpSet: 1240K
 jannoFile: 2017_JonesCurrentBiology.janno
-jannoFileChkSum: 4d3943079c35e86da74f49220cb589cd
+jannoFileChkSum: 319d3556f13bc0bd692af4f18d885b1a
 bibFile: 2017_JonesCurrentBiology.bib
 bibFileChkSum: b16ef384ba801a987a57f55989771e30
 changelogFile: CHANGELOG.md

@@ -4,8 +4,8 @@ description: Genetic data published in Narasimhan et al. 2019
 contributor:
 - name: Ayshin Ghalichi
   email: ghalichi@shh.mpg.de
-packageVersion: 2.0.0
-lastModified: 2022-01-28
+packageVersion: 2.0.1
+lastModified: 2022-03-02
 genotypeData:
   format: PLINK
   genoFile: Narasimhan_centralSouthAsia.bed
@@ -16,7 +16,7 @@ genotypeData:
   indFileChkSum: d6b3f368f154783e58a29126c28f23b3
   snpSet: 1240K
 jannoFile: Narasimhan_centralSouthAsia.janno
-jannoFileChkSum: ce832cc78768fce94ace624f00e45633
+jannoFileChkSum: 876f4a8846b6668c8c9db72f081674ec
 bibFile: LITERATURE.bib
 bibFileChkSum: 57909e695be2bb3962f12580bd6b4f5d
 changelogFile: CHANGELOG.md

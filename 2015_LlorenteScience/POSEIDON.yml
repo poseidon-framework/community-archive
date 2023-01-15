@@ -6,8 +6,8 @@ description: An ancient Ethiopian individual (Mota). This package was initially 
 contributor:
 - name: Ayshin Ghalichi
   email: ghalichi@shh.mpg.de
-packageVersion: 2.0.0
-lastModified: 2022-01-28
+packageVersion: 2.0.1
+lastModified: 2022-02-21
 genotypeData:
   format: PLINK
   genoFile: 2015_LlorenteScience.bed
@@ -18,7 +18,7 @@ genotypeData:
   indFileChkSum: 688dd4800f7bf6ea8d83a56718c79a50
   snpSet: 1240K
 jannoFile: 2015_LlorenteScience.janno
-jannoFileChkSum: b0f45cd1279b096e24ae0eada099edee
+jannoFileChkSum: df12f03a011e1bed1c869112c4ed0dca
 bibFile: 2015_LlorenteScience.bib
 bibFileChkSum: 6467f8410ec7738201a0efb091ec072e
 changelogFile: CHANGELOG.md

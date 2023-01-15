@@ -4,8 +4,8 @@ description: Empty package template. Please add a description
 contributor:
 - name: Ayshin Ghalichi
   email: ghalichi@shh.mpg.de
-packageVersion: 2.0.0
-lastModified: 2022-01-28
+packageVersion: 2.0.1
+lastModified: 2022-02-22
 genotypeData:
   format: PLINK
   genoFile: 2017_LindoPNAS.bed
@@ -16,7 +16,7 @@ genotypeData:
   indFileChkSum: 2499d568ef81d3a222ebfec4bb986c25
   snpSet: 1240K
 jannoFile: 2017_LindoPNAS.janno
-jannoFileChkSum: 8728c6a29ef6e76398d68a9d62ff1114
+jannoFileChkSum: 1171bf472b3ddb96b83e1a2c263167c9
 bibFile: 2017_LindoPNAS.bib
 bibFileChkSum: 213b472e19aefb244dc579c3b78ec33b
 changelogFile: CHANGELOG.md

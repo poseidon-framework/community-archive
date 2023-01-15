@@ -6,8 +6,8 @@ description: Neolithic and Bronze Age samples from Spain. This package was initi
 contributor:
 - name: Ayshin Ghalichi
   email: ghalichi@shh.mpg.de
-packageVersion: 2.0.0
-lastModified: 2022-01-28
+packageVersion: 2.0.1
+lastModified: 2022-02-21
 genotypeData:
   format: PLINK
   genoFile: 2015_GuntherPNAS.bed
@@ -18,7 +18,7 @@ genotypeData:
   indFileChkSum: 7c157f8d93c32c3b699ae8f394e89db6
   snpSet: 1240K
 jannoFile: 2015_GuntherPNAS.janno
-jannoFileChkSum: 567c1f131e8de08d501b043d0d77f44e
+jannoFileChkSum: 3f9687999d436730de307dd3d0ce96da
 bibFile: 2015_GuntherPNAS.bib
 bibFileChkSum: b105bc162303f775dda7b93ca0d58419
 changelogFile: CHANGELOG.md

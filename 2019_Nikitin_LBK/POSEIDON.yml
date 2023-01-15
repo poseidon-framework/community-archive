@@ -4,8 +4,8 @@ description: Genetic data published in Nikitin et al. 2019
 contributor:
 - name: Ayshin Ghalichi
   email: ghalichi@shh.mpg.de
-packageVersion: 2.0.0
-lastModified: 2022-01-28
+packageVersion: 2.0.1
+lastModified: 2022-03-02
 genotypeData:
   format: PLINK
   genoFile: Nikitin_LBK.bed
@@ -16,7 +16,7 @@ genotypeData:
   indFileChkSum: 3abe2144e4f5aea3aa0b83395ba9b355
   snpSet: 1240K
 jannoFile: Nikitin_LBK.janno
-jannoFileChkSum: e6a9e8fed65cc9451df1a745e43f8b95
+jannoFileChkSum: 663d9358c94640fd56da3ff9bdf2e207
 bibFile: LITERATURE.bib
 bibFileChkSum: cca005b00e7df1a37d41e11ba8a77cd9
 changelogFile: CHANGELOG.md

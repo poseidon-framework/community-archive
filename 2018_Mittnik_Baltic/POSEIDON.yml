@@ -5,8 +5,8 @@ description: Genetic data published in Mittnik et al. 2018. Ancient genomes from
 contributor:
 - name: Ayshin Ghalichi
   email: ghalichi@shh.mpg.de
-packageVersion: 2.0.0
-lastModified: 2022-01-28
+packageVersion: 2.0.1
+lastModified: 2022-02-25
 genotypeData:
   format: PLINK
   genoFile: Mittnik_Baltic.bed
@@ -17,7 +17,7 @@ genotypeData:
   indFileChkSum: d9293d7bd7139187a7836bad1f8a2e50
   snpSet: 1240K
 jannoFile: Mittnik_Baltic.janno
-jannoFileChkSum: 0064707a9a20899bfabc147d82285aa1
+jannoFileChkSum: 85680643aab83bc8a7e9ef04c7180f82
 bibFile: LITERATURE.bib
 bibFileChkSum: 6950a1aa4a56ef4431c6dc335ef065ed
 changelogFile: CHANGELOG.md
