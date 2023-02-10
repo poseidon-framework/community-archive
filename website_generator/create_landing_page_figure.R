@@ -20,6 +20,7 @@ poseidon_ancient <- total_janno %>%
 
 world <- rnaturalearth::ne_countries(scale = "small", returnclass = "sf")
 world_6933 <- sf::st_transform(world, 6933) %>%
+  sf::st_make_valid() %>%
   sf::st_union()
 extent_world_6933 <- world_6933 %>%
   sf::st_bbox() %>%
