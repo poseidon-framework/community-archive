@@ -1,2 +1,3 @@
-V 3.0.0: fully updated version of the package
-V 2.0.0: updated the package to Poseidon v2.5 and adjusted the .janno file accordingly
+- V 4.0.0: the .bed file in V 3.0.0 was broken - this version includes a fixed file (with a slightly changed order of individuals)
+- V 3.0.0: fully updated version of the package
+- V 2.0.0: updated the package to Poseidon v2.5 and adjusted the .janno file accordingly
