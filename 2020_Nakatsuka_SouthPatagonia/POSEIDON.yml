@@ -6,19 +6,21 @@ contributor:
   email: ghalichi@shh.mpg.de
 - name: Dhananjaya Aththanayaka
   email: dhananjaya_aththnayaka@mpg.eva.net
-packageVersion: 3.0.0
+- name: Clemens Schmid
+  email: clemens_schmid@eva.mpg.de
+packageVersion: 4.0.0
 lastModified: 2022-10-11
 genotypeData:
   format: PLINK
   genoFile: Nakatsuka_SouthPatagonia.bed
-  genoFileChkSum: 279c1d4ae557fd7d16c16fc589b62e28
+  genoFileChkSum: 576ac18cd88e8f4b48c5c36a5bf5d3a5
   snpFile: Nakatsuka_SouthPatagonia.bim
   snpFileChkSum: 433fa85a23f3123bade02348e4628b75
   indFile: Nakatsuka_SouthPatagonia.fam
-  indFileChkSum: 1e15f27b0428c9c1d7c35190a472be27
+  indFileChkSum: 9f00f829e11fa66f591cfa382a0c91b6
   snpSet: 1240K
 jannoFile: Nakatsuka_SouthPatagonia.janno
-jannoFileChkSum: 21bc2b20372d61c4577a2ab67b1accd8
+jannoFileChkSum: 7ff0f84da5c8cb6411d468ac06d92952
 bibFile: Nakatsuka_SouthPatagonia.bib
 bibFileChkSum: 307b80e4dc2e03e511e31fbb23cd49b0
 changelogFile: CHANGELOG.md
