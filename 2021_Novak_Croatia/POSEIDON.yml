@@ -20,3 +20,5 @@ jannoFileChkSum: 1e540c69bbadae1edf3f4cd137bf369f
 bibFile: 2021_Novak_Croatia.bib
 bibFileChkSum: 6c303a2130ea139f640e7d890ee643bf
 changelogFile: CHANGELOG.md
+enatableFile: ENAtable.tsv
+enatableFileChkSum: 2458668afd9ab409cd4305c4ee182586

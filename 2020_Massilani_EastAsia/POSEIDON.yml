@@ -20,3 +20,5 @@ jannoFileChkSum: 917a5d7097d3fe67f07b40e3da03db44
 bibFile: 2020_Massilani_EastAsia.bib
 bibFileChkSum: d4f2db4797051e1f8ef7b5d51bfb6c22
 changelogFile: CHANGELOG.md
+enatableFile: ENAtable.tsv
+enatableFileChkSum: 00dfba6907bf144e6870c57e84291c51

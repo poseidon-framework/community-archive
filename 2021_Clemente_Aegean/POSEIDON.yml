@@ -20,3 +20,5 @@ jannoFileChkSum: 1a35d061a2d4d1c6fa759c5a660fe333
 bibFile: 2021_Clemente_Aegean.bib
 bibFileChkSum: 8449096d83f33ca292b9fea195c883ee
 changelogFile: CHANGELOG.md
+enatableFile: ENAtable.tsv
+enatableFileChkSum: be9fc3e621711c71b0d8d3ccfa0ceca9

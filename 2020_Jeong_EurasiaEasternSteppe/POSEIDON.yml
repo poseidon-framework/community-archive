@@ -21,3 +21,5 @@ bibFile: 2020_Jeong_EurasiaEasternSteppe.bib
 bibFileChkSum: 7ffea33cd60401bd61e2c26a3ff6009b
 readmeFile: README.txt
 changelogFile: CHANGELOG.md
+enatableFile: ENAtable.tsv
+enatableFileChkSum: c33471a1ba9d95cd9bb52a219a28e270

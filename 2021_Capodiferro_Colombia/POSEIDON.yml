@@ -20,3 +20,5 @@ jannoFileChkSum: bda1de61f558b13b890d2ccc9fef58dd
 bibFile: 2021_Capodiferro_Colombia.bib
 bibFileChkSum: 0b804ee7eac69b0c8fbcea2e31449a11
 changelogFile: CHANGELOG.md
+enatableFile: ENAtable.tsv
+enatableFileChkSum: e0c97ff7d5cd56d82c6cf8a7c900a147

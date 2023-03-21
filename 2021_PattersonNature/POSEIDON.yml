@@ -20,3 +20,5 @@ jannoFileChkSum: 20409b4c20b4330cf17142213175f444
 bibFile: sources.bib
 bibFileChkSum: 9f265530b732dcba0b952e9c311d686b
 readmeFile: README.txt
+enatableFile: ENAtable.tsv
+enatableFileChkSum: e4a203707105546d7f4aa0233cbe16b7

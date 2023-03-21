@@ -20,3 +20,5 @@ jannoFileChkSum: 46df548192f56537ccba7670db1e38b9
 bibFile: 2020_Stoneking_Pacific.bib
 bibFileChkSum: e001b8c084836c9410beed76d7668686
 changelogFile: CHANGELOG.md
+enatableFile: ENAtable.tsv
+enatableFileChkSum: 52d66ed0e0db6011f06d8bbc33bd2778

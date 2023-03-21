@@ -24,3 +24,5 @@ bibFile: 2021_Papac_CentralEurope.bib
 bibFileChkSum: 6a55b62210c8db442d04674c4b9df02f
 readmeFile: README.txt
 changelogFile: CHANGELOG.md
+enatableFile: ENAtable.tsv
+enatableFileChkSum: f0b80e690f3cd8d2a80173b2ac58b7e5

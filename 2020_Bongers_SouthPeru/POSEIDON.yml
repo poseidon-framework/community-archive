@@ -21,3 +21,5 @@ jannoFileChkSum: 625c194fe9a08a6ac7987dd74d34015f
 bibFile: Bongers_SouthPeru.bib
 bibFileChkSum: 5e23b63a54994a016af7b2778d891c53
 changelogFile: CHANGELOG.md
+enatableFile: ENAtable.tsv
+enatableFileChkSum: 97029489525339780db8a65230fa9f04

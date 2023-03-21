@@ -22,3 +22,5 @@ jannoFileChkSum: a171942d7ac05b0205a961c7b749d859
 bibFile: 2021_Freilich_Croatia.bib
 bibFileChkSum: 15666523b1c6dfee5bf656581d99c10d
 changelogFile: CHANGELOG.md
+enatableFile: ENAtable.tsv
+enatableFileChkSum: faa11b882669b91b560d91b708d03dc5

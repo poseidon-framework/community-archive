@@ -21,3 +21,5 @@ jannoFileChkSum: 65f3a389291f942a4e22c5f68d4aeebe
 bibFile: 2021_SeguinOrlando_Neolithic.bib
 bibFileChkSum: a2fb77a853fb47f2648983e9e57ecb5e
 changelogFile: CHANGELOG.md
+enatableFile: ENAtable.tsv
+enatableFileChkSum: 269c85b93920113acf27a4c5ddafb921

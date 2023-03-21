@@ -23,3 +23,5 @@ jannoFileChkSum: 4c872154b73d9e2eeae154970467a7d1
 bibFile: GnecchiRuscone_KazakhSteppe.bib
 bibFileChkSum: 814e780e4f458d17259e25276b284c5b
 changelogFile: CHANGELOG.md
+enatableFile: ENAtable.tsv
+enatableFileChkSum: ba83a6370faf53c026ca6000e22c8e25

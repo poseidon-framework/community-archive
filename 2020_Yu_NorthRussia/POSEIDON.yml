@@ -23,3 +23,5 @@ jannoFileChkSum: e9a4b3df17667413f07b67260961d77c
 bibFile: LITERATURE.bib
 bibFileChkSum: b265cbd3beedcff874cec2f4db793bd8
 changelogFile: CHANGELOG.md
+enatableFile: ENAtable.tsv
+enatableFileChkSum: 6b0855ca5de50178cf2bbb730c8bbc1d
