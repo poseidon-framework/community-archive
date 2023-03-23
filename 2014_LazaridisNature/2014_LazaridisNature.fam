@@ -544,9 +544,6 @@ Turkmen	UZB105_turkmen	0	0	1	0
 Tajik	tdj305_shugnan	0	0	1	0
 Turkmen	UZB111_turkmen	0	0	1	0
 Turkmen	UZB150_turkmen	0	0	1	0
-Atayal	NA13597	0	0	1	0
-Atayal	NA13605	0	0	1	0
-Ami	NA13613	0	0	1	0
 Hungarian	NA15202	0	0	1	0
 Czech	NA15725	0	0	1	0
 Czech	NA15733	0	0	2	0
@@ -555,9 +552,6 @@ Greek	NA17373	0	0	2	0
 Quechua	NA11200	0	0	1	0
 Masai	NA21487	0	0	2	0
 Korean	ND19394	0	0	1	0
-Atayal	NA13598	0	0	1	0
-Atayal	NA13606	0	0	1	0
-Ami	NA13614	0	0	1	0
 Hungarian	NA15203	0	0	2	0
 Czech	NA15726	0	0	1	0
 Icelandic	NA15755	0	0	1	0
@@ -566,9 +560,6 @@ Greek	NA17374	0	0	1	0
 Quechua	NA11201	0	0	2	0
 Masai	NA21490	0	0	1	0
 Korean	ND22219	0	0	1	0
-Atayal	NA13599	0	0	1	0
-Ami	NA13607	0	0	1	0
-Ami	NA13615	0	0	1	0
 Hungarian	NA15204	0	0	2	0
 Czech	NA15727	0	0	1	0
 Icelandic	NA15756	0	0	1	0
@@ -576,9 +567,6 @@ Icelandic	NA15764	0	0	2	0
 Greek	NA17375	0	0	2	0
 Masai	NA21514	0	0	1	0
 Korean	NA00726	0	0	2	0
-Ignore_Atayal	NA13600	0	0	1	0
-Ami	NA13608	0	0	1	0
-Ami	NA13616	0	0	1	0
 Hungarian	NA15205	0	0	1	0
 Czech	NA15728	0	0	1	0
 Icelandic	NA15757	0	0	1	0
@@ -586,8 +574,6 @@ Icelandic	NA15765	0	0	2	0
 Greek	NA17376	0	0	1	0
 Masai	NA21302	0	0	2	0
 Masai	NA21581	0	0	1	0
-Atayal	NA13601	0	0	1	0
-Ami	NA13609	0	0	1	0
 Hungarian	NA15206	0	0	1	0
 Czech	NA15729	0	0	2	0
 Icelandic	NA15758	0	0	1	0
@@ -595,8 +581,6 @@ Icelandic	NA15766	0	0	2	0
 Greek	NA17377	0	0	1	0
 Masai	NA21310	0	0	2	0
 Masai	NA21648	0	0	1	0
-Atayal	NA13602	0	0	1	0
-Ami	NA13610	0	0	1	0
 Hungarian	NA15199	0	0	2	0
 Hungarian	NA15207	0	0	2	0
 Czech	NA15730	0	0	2	0
@@ -605,8 +589,6 @@ Ignore_Greek	NA17370	0	0	1	0
 Quechua	NA11197	0	0	2	0
 Masai	NA21366	0	0	1	0
 Korean	ND13299	0	0	1	0
-Atayal	NA13603	0	0	1	0
-Ami	NA13611	0	0	1	0
 Hungarian	NA15200	0	0	1	0
 Hungarian	NA15208	0	0	1	0
 Czech	NA15731	0	0	2	0
@@ -615,8 +597,6 @@ Ignore_Greek	NA17371	0	0	2	0
 Quechua	NA11198	0	0	2	0
 Masai	NA21425	0	0	2	0
 Korean	ND14916	0	0	2	0
-Atayal	NA13604	0	0	1	0
-Ami	NA13612	0	0	1	0
 Hungarian	NA15201	0	0	2	0
 Czech	NA15724	0	0	1	0
 Czech	NA15732	0	0	2	0
