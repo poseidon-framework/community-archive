@@ -1,3 +1,4 @@
+
 poseidonVersion: 2.5.0
 title: 2021_Freilich_Croatia
 description: 1240K pulldown of whole genome shotgun data from 28 genomes from eastern
@@ -22,5 +23,5 @@ jannoFileChkSum: a171942d7ac05b0205a961c7b749d859
 bibFile: 2021_Freilich_Croatia.bib
 bibFileChkSum: 15666523b1c6dfee5bf656581d99c10d
 changelogFile: CHANGELOG.md
-enatableFile: ENAtable.tsv
-enatableFileChkSum: faa11b882669b91b560d91b708d03dc5
+enatableFile: ENAtable.ssf
+.enatableFileChkSum: 0f84818c2963d3ea4444c3310526ccd4

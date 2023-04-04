@@ -1,3 +1,4 @@
+
 poseidonVersion: 2.5.0
 title: 2021_PattersonNature
 description: Large-scale migration into Britain during the Middle to Late Bronze Age
@@ -20,5 +21,5 @@ jannoFileChkSum: 20409b4c20b4330cf17142213175f444
 bibFile: sources.bib
 bibFileChkSum: 9f265530b732dcba0b952e9c311d686b
 readmeFile: README.txt
-enatableFile: ENAtable.tsv
-enatableFileChkSum: e4a203707105546d7f4aa0233cbe16b7
+enatableFile: ENAtable.ssf
+.enatableFileChkSum: e4a203707105546d7f4aa0233cbe16b7

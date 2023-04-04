@@ -1,3 +1,4 @@
+
 poseidonVersion: 2.5.0
 title: 2020_Cassidy_IrishDynastic
 description: Neolithic samples from Ireland.
@@ -22,5 +23,5 @@ jannoFileChkSum: 3856ea7dc7f975d9abd952993d7b9c4e
 bibFile: LITERATURE.bib
 bibFileChkSum: 26f83bf6e8340ecb4f3258071db6fdb7
 changelogFile: CHANGELOG.md
-enatableFile: ENAtable.tsv
-enatableFileChkSum: 8326a784fb0d5c697e41746c77f5607f
+enatableFile: ENAtable.ssf
+.enatableFileChkSum: fe5a41b53aa107b6459b242744cb60a8

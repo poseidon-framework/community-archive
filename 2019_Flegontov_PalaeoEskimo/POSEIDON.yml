@@ -1,3 +1,4 @@
+
 poseidonVersion: 2.5.0
 title: 2019_Flegontov_PalaeoEskimo
 description: This package was initially constructed based on the Allen Ancient DNA
@@ -24,3 +25,5 @@ jannoFileChkSum: e158c193696bcd82edbc783a97a5382a
 bibFile: 2019_Flegontov_PalaeoEskimo.bib
 bibFileChkSum: b03c30b90b48cd515423c5daecc08206
 changelogFile: CHANGELOG.md
+enatableFile: ENAtable.ssf
+.enatableFileChkSum: 16edea81f5444de46e2e10ddbf024678

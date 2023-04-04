@@ -1,3 +1,4 @@
+
 poseidonVersion: 2.5.0
 title: 2020_Massilani_EastAsia
 description: Denisovan ancestry and population history of early East Asians
@@ -20,5 +21,5 @@ jannoFileChkSum: 917a5d7097d3fe67f07b40e3da03db44
 bibFile: 2020_Massilani_EastAsia.bib
 bibFileChkSum: d4f2db4797051e1f8ef7b5d51bfb6c22
 changelogFile: CHANGELOG.md
-enatableFile: ENAtable.tsv
-enatableFileChkSum: 00dfba6907bf144e6870c57e84291c51
+enatableFile: ENAtable.ssf
+.enatableFileChkSum: ff7850765f383d03f240553a66aec4ab

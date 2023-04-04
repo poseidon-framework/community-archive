@@ -1,3 +1,4 @@
+
 poseidonVersion: 2.5.0
 title: 2020_Fernandes_westernMediterranean
 description: Neolithic and Bronze Age samples from islands of the western Mediterranean,
@@ -21,5 +22,5 @@ jannoFileChkSum: a7427ae7f3fcbf5a267b96e9a3c5730c
 bibFile: LITERATURE.bib
 bibFileChkSum: fd72e09ba96d8a32ae3a850f32d1f41d
 changelogFile: CHANGELOG.md
-enatableFile: ENAtable.tsv
-enatableFileChkSum: e880663be82ca9f3a3cd8ab2c3cadb04
+enatableFile: ENAtable.ssf
+.enatableFileChkSum: 17442962dda7754b97dc624c79f87ae4

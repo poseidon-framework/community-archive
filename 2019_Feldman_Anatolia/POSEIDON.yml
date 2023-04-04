@@ -1,3 +1,4 @@
+
 poseidonVersion: 2.5.0
 title: 2019_Feldman_Anatolia
 description: Genetic data published in Feldman et al. 2019
@@ -20,3 +21,5 @@ jannoFileChkSum: f83cb0bd6a4973355b4d19bc6706c5e3
 bibFile: LITERATURE.bib
 bibFileChkSum: 90cd1500bf56d571ba0cad7308eecff1
 changelogFile: CHANGELOG.md
+enatableFile: ENAtable.ssf
+.enatableFileChkSum: cf4354e63634ef88188bff589a8adfa7

@@ -1,3 +1,4 @@
+
 poseidonVersion: 2.5.0
 title: 2020_AgranatTamir_LevantBA
 description: Samples from the Bronze Age Levant.
@@ -20,5 +21,5 @@ jannoFileChkSum: bbf79418b0b03c7bfcb128b59b72db10
 bibFile: LITERATURE.bib
 bibFileChkSum: 289faf5d308208492d10406617a4a439
 changelogFile: CHANGELOG.md
-enatableFile: ENAtable.tsv
-enatableFileChkSum: 98837f91c1e76d71feeafc910cfdae5e
+enatableFile: ENAtable.ssf
+.enatableFileChkSum: 936968034c1844e4196c79d31faaf30a

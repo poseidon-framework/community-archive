@@ -1,3 +1,4 @@
+
 poseidonVersion: 2.5.0
 title: 2020_Ning_China
 description: A transect of ancient samples from northern China.
@@ -22,5 +23,5 @@ jannoFileChkSum: facbaee3325dcacfb84b5992b0bed3b6
 bibFile: LITERATURE.bib
 bibFileChkSum: 225baf6285f3ab7bd0de8099460f4d0e
 changelogFile: CHANGELOG.md
-enatableFile: ENAtable.tsv
-enatableFileChkSum: 1510fff9f3496610286076e7774ef1c6
+enatableFile: ENAtable.ssf
+.enatableFileChkSum: 59e24fac8450e17d6357cde2e905436c

@@ -1,3 +1,4 @@
+
 poseidonVersion: 2.5.0
 title: 2019_Sikora_NorthEastSiberia
 description: Genetic data published in Sikora et al. 2019
@@ -22,3 +23,5 @@ jannoFileChkSum: d1f872a9436b39e50291df61658ac7d1
 bibFile: LITERATURE.bib
 bibFileChkSum: 0faacc859cc75d23249e2437cf986b55
 changelogFile: CHANGELOG.md
+enatableFile: ENAtable.ssf
+.enatableFileChkSum: ac4b131fd08203a1d7e8f16becd068ae

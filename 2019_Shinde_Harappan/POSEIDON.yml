@@ -1,3 +1,4 @@
+
 poseidonVersion: 2.5.0
 title: 2019_Shinde_Harappan
 description: Genetic data published in Shinde et al. 2019
@@ -20,3 +21,5 @@ jannoFileChkSum: deca7623966edcc20b38ec2742682f44
 bibFile: LITERATURE.bib
 bibFileChkSum: 0c26b1e02438f49eb563256b1c54fc4e
 changelogFile: CHANGELOG.md
+enatableFile: ENAtable.ssf
+.enatableFileChkSum: 501bdd9f5efe96ceafa2acceb5c980a8

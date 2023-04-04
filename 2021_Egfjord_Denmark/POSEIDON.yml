@@ -1,3 +1,4 @@
+
 poseidonVersion: 2.5.0
 title: 2021_Egfjord_Denmark
 description: Genomic Steppe ancestry in skeletons from the Neolithic Single Grave
@@ -21,5 +22,5 @@ jannoFileChkSum: 793dc08132b6fc623a6056dc226f6a29
 bibFile: 2021_Egfjord_Denmark.bib
 bibFileChkSum: 9ae5a164ffb8797d8cb178faea8cbfcd
 changelogFile: CHANGELOG.md
-enatableFile: ENAtable.tsv
-enatableFileChkSum: dd1c75544d0bd57e07eb269ad270e472
+enatableFile: ENAtable.ssf
+.enatableFileChkSum: d60df702bbdb8c83d4043f681c733e1b

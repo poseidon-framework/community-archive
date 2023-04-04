@@ -1,3 +1,4 @@
+
 poseidonVersion: 2.5.0
 title: 2021_Svensson_PreGlacial
 description: Genome of Peştera Muierii skull shows high diversity and low mutational
@@ -21,5 +22,5 @@ jannoFileChkSum: 54e9042628b3eb1aec5d0b7f88f37876
 bibFile: 2021_Svensson_PreGlacial.bib
 bibFileChkSum: cdaa498257898a2016f7114ff7e00f99
 changelogFile: CHANGELOG.md
-enatableFile: ENAtable.tsv
-enatableFileChkSum: 300e14195fed7343eb716839d3bb5b68
+enatableFile: ENAtable.ssf
+.enatableFileChkSum: a40a8c516b2cb87afad1b9843d9ff61d

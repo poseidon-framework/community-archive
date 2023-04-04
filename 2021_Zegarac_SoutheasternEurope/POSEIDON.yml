@@ -1,3 +1,4 @@
+
 poseidonVersion: 2.5.0
 title: 2021_Zegarac_SoutheasternEurope
 description: This article provides provide insights into family structure and the
@@ -22,7 +23,7 @@ bibFile: 2021_Zegarac_SoutheasternEurope.bib
 bibFileChkSum: 04c000d063df7624c3eac0ec52c01b5d
 readmeFile: README.txt
 changelogFile: CHANGELOG.md
-enatableFile: ENAtable.tsv
-enatableFileChkSum: e4792a7b924d5565852869e58a2f6799
-enatableFile: ENAtable.tsv
-enatableFileChkSum: e4792a7b924d5565852869e58a2f6799
+enatableFile: ENAtable.ssf
+.enatableFileChkSum: c9ef57f580c03fe59af30de0eb5842ae
+enatableFile: ENAtable.ssf
+.enatableFileChkSum: c9ef57f580c03fe59af30de0eb5842ae

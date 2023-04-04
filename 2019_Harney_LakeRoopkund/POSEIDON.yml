@@ -1,3 +1,4 @@
+
 poseidonVersion: 2.5.0
 title: 2019_Harney_LakeRoopkund
 description: Genetic data published in Harney et al. 2019
@@ -20,3 +21,5 @@ jannoFileChkSum: f8c120e94b96385463bbd4c4af91675e
 bibFile: LITERATURE.bib
 bibFileChkSum: a40de38d5301d91c2d67474ff6194dac
 changelogFile: CHANGELOG.md
+enatableFile: ENAtable.ssf
+.enatableFileChkSum: 368ae6e29bda20f119c0bdb982a06795

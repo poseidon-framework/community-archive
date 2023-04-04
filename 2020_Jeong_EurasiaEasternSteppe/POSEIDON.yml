@@ -1,3 +1,4 @@
+
 poseidonVersion: 2.5.0
 title: 2020_Jeong_EurasiaEasternSteppe
 description: A Dynamic 6,000-Year Genetic History of Eurasia’s Eastern Steppe
@@ -21,5 +22,5 @@ bibFile: 2020_Jeong_EurasiaEasternSteppe.bib
 bibFileChkSum: 7ffea33cd60401bd61e2c26a3ff6009b
 readmeFile: README.txt
 changelogFile: CHANGELOG.md
-enatableFile: ENAtable.tsv
-enatableFileChkSum: c33471a1ba9d95cd9bb52a219a28e270
+enatableFile: ENAtable.ssf
+.enatableFileChkSum: 1801f26351e15da96079d4b7e338db93

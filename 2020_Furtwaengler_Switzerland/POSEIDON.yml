@@ -1,3 +1,4 @@
+
 poseidonVersion: 2.5.0
 title: 2020_Furtwaengler_Switzerland
 description: Late Neolithic samples from Switzerland.
@@ -22,5 +23,5 @@ jannoFileChkSum: 3ef3f5bbcdfc13a2069a9f27e85df55d
 bibFile: LITERATURE.bib
 bibFileChkSum: 5fff8d8df9e5fe394e55f5f36022ccbb
 changelogFile: CHANGELOG.md
-enatableFile: ENAtable.tsv
-enatableFileChkSum: c19a5bc44ed9563150af66bb5cf1d8d2
+enatableFile: ENAtable.ssf
+.enatableFileChkSum: 7858c4333f074debb485e1e807c94d88

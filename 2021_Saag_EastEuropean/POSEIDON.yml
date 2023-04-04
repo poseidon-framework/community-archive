@@ -1,3 +1,4 @@
+
 poseidonVersion: 2.5.0
 title: 2021_Saag_EastEuropean
 description: Genetic data published in Saag et al. 2021
@@ -20,5 +21,5 @@ jannoFileChkSum: 3729aafca96d854af23d9b375a851bf0
 bibFile: LITERATURE.bib
 bibFileChkSum: d6b86d154d54a9c31704036adcd11d95
 changelogFile: CHANGELOG.md
-enatableFile: ENAtable.tsv
-enatableFileChkSum: 2c7fd9105c3e805b882f49056901dc9b
+enatableFile: ENAtable.ssf
+.enatableFileChkSum: 3ef0cf21a5db31a35142ac97fc2d5deb

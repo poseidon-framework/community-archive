@@ -1,3 +1,4 @@
+
 poseidonVersion: 2.5.0
 title: 2019_Ning_Tianshan
 description: Genetic data published in Ning et al. 2019
@@ -20,3 +21,5 @@ jannoFileChkSum: ed68e03c71249ea6ac5283ca9d08c80b
 bibFile: LITERATURE.bib
 bibFileChkSum: 5de7c2a48e39bce39a2f6b702027b98f
 changelogFile: CHANGELOG.md
+enatableFile: ENAtable.ssf
+.enatableFileChkSum: a2412fc9f7dd1a6b0a721609424e6abc

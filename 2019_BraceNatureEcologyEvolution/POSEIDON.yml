@@ -1,3 +1,4 @@
+
 poseidonVersion: 2.5.0
 title: 2019_BraceNatureEcologyEvolution
 description: Empty package template. Please add a description
@@ -20,3 +21,5 @@ jannoFileChkSum: 982113dd9de309924047f344a0b8b371
 bibFile: 2019_BraceNatureEcologyEvolution.bib
 bibFileChkSum: 07e02b950c0d1630c65e29b5d0859bda
 changelogFile: CHANGELOG.md
+enatableFile: ENAtable.ssf
+.enatableFileChkSum: 664d00158b046933bc2d5114a46c22cb

@@ -1,3 +1,4 @@
+
 poseidonVersion: 2.5.0
 title: 2020_Nakatsuka_Andes
 description: Transect of ancient samples from the Andes covering 10000 years.
@@ -20,5 +21,5 @@ jannoFileChkSum: ae09152a2648c54ca044bc5ea912f884
 bibFile: LITERATURE.bib
 bibFileChkSum: 9e8242997287859f76351ac63282de86
 changelogFile: CHANGELOG.md
-enatableFile: ENAtable.tsv
-enatableFileChkSum: 6eb793049ecbaa160aa79bea62613fbb
+enatableFile: ENAtable.ssf
+.enatableFileChkSum: 8727c1eb3e09f6f114d5601df8889497

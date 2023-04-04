@@ -1,3 +1,4 @@
+
 poseidonVersion: 2.5.0
 title: 2019_Saag_EasternBaltic
 description: Genetic data published in Saag et al. 2019
@@ -20,3 +21,5 @@ jannoFileChkSum: 919fae0a2c519661d222b432a11eeda9
 bibFile: LITERATURE.bib
 bibFileChkSum: 91c0c98a3c91de8040612c4b37a75527
 changelogFile: CHANGELOG.md
+enatableFile: ENAtable.ssf
+.enatableFileChkSum: 7740b26b5418d38c97e70a7fe5f050a8

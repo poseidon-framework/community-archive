@@ -1,3 +1,4 @@
+
 poseidonVersion: 2.5.0
 title: 2020_Wang_subSaharanAfrica
 description: Ancient samples from sub-Saharan Africa.
@@ -20,5 +21,5 @@ jannoFileChkSum: 2494976e64b41aa126e04d6e5976f312
 bibFile: LITERATURE.bib
 bibFileChkSum: 1cebf3be3b99ab789a42b503c25bd710
 changelogFile: CHANGELOG.md
-enatableFile: ENAtable.tsv
-enatableFileChkSum: 22c3611d9d4803dbc38f655fac24b35f
+enatableFile: ENAtable.ssf
+.enatableFileChkSum: ace156f80223590c84bf591fcdad99cd

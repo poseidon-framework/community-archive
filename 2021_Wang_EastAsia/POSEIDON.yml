@@ -1,3 +1,4 @@
+
 poseidonVersion: 2.5.0
 title: 2021_Wang_EastAsia
 description: Diachronic ancient and modern data from East Asia.
@@ -22,5 +23,5 @@ jannoFileChkSum: ebbdfc247ca8809dbe8259731bcf41f0
 bibFile: 2021_Wang_EastAsia.bib
 bibFileChkSum: abf2686c4dba8a3166982cdb8f42ea6b
 changelogFile: CHANGELOG.txt
-enatableFile: ENAtable.tsv
-enatableFileChkSum: b4f5cd9fca743de3863e3b516ff80d2d
+enatableFile: ENAtable.ssf
+.enatableFileChkSum: 8e34a31e23f140be71e4e603c0f16f9e

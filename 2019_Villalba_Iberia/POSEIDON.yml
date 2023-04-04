@@ -1,3 +1,4 @@
+
 poseidonVersion: 2.5.0
 title: 2019_Villalba_Iberia
 description: Genetic data published in Villalba et al. 2019
@@ -20,3 +21,5 @@ jannoFileChkSum: 62b23966bd625b03b917e63960dbc749
 bibFile: LITERATURE.bib
 bibFileChkSum: 11defb31b4e384b4d5192fbc85f0beb5
 changelogFile: CHANGELOG.md
+enatableFile: ENAtable.ssf
+.enatableFileChkSum: 96b6769a3abd34b6b02aa1e5ac9a469f

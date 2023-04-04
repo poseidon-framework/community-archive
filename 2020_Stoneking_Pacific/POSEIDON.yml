@@ -1,3 +1,4 @@
+
 poseidonVersion: 2.5.0
 title: 2020_Stoneking_Pacific
 description: Ancient DNA from Guam and the peopling of the Pacific
@@ -20,5 +21,5 @@ jannoFileChkSum: 46df548192f56537ccba7670db1e38b9
 bibFile: 2020_Stoneking_Pacific.bib
 bibFileChkSum: e001b8c084836c9410beed76d7668686
 changelogFile: CHANGELOG.md
-enatableFile: ENAtable.tsv
-enatableFileChkSum: 52d66ed0e0db6011f06d8bbc33bd2778
+enatableFile: ENAtable.ssf
+.enatableFileChkSum: 667631c951b12b3d72ec1d22598746d6

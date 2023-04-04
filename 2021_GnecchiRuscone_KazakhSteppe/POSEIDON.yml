@@ -1,3 +1,4 @@
+
 poseidonVersion: 2.5.0
 title: 2021_GnecchiRuscone_KazakhSteppe
 description: Published (March 26th 2021) 1240K capture data from Central steppe Iron
@@ -23,5 +24,5 @@ jannoFileChkSum: 4c872154b73d9e2eeae154970467a7d1
 bibFile: GnecchiRuscone_KazakhSteppe.bib
 bibFileChkSum: 814e780e4f458d17259e25276b284c5b
 changelogFile: CHANGELOG.md
-enatableFile: ENAtable.tsv
-enatableFileChkSum: ba83a6370faf53c026ca6000e22c8e25
+enatableFile: ENAtable.ssf
+.enatableFileChkSum: 8a6f36a0e1d32fc60b3ccb00f72b2a00

@@ -1,3 +1,4 @@
+
 poseidonVersion: 2.5.0
 title: 2019_Feldman_Philistines
 description: Genetic data published in Feldman et al. 2019
@@ -20,3 +21,5 @@ jannoFileChkSum: 1a5f3783226d5240b95f805e98cd216f
 bibFile: LITERATURE.bib
 bibFileChkSum: cdc9bedcee91b5b3731c0c295b14a255
 changelogFile: CHANGELOG.md
+enatableFile: ENAtable.ssf
+.enatableFileChkSum: 4ef5b56d34f83f6a0c708edf9bec46a1
