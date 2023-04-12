@@ -24,6 +24,5 @@ bibFileChkSum: 04c000d063df7624c3eac0ec52c01b5d
 readmeFile: README.txt
 changelogFile: CHANGELOG.md
 enatableFile: ENAtable.ssf
-.enatableFileChkSum: c9ef57f580c03fe59af30de0eb5842ae
-enatableFile: ENAtable.ssf
-.enatableFileChkSum: c9ef57f580c03fe59af30de0eb5842ae
+enatableFileChkSum: c9ef57f580c03fe59af30de0eb5842ae
+
