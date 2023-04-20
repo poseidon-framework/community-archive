@@ -21,5 +21,5 @@ jannoFileChkSum: 917a5d7097d3fe67f07b40e3da03db44
 bibFile: 2020_Massilani_EastAsia.bib
 bibFileChkSum: d4f2db4797051e1f8ef7b5d51bfb6c22
 changelogFile: CHANGELOG.md
-enatableFile: ENAtable.ssf
-enatableFileChkSum: ff7850765f383d03f240553a66aec4ab
+sequencingSourceFile: ENAtable.ssf
+sequencingSourceFileChkSum: 7e267df9a8398faee10c907a3e980613

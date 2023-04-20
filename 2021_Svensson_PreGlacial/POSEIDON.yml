@@ -22,5 +22,5 @@ jannoFileChkSum: 54e9042628b3eb1aec5d0b7f88f37876
 bibFile: 2021_Svensson_PreGlacial.bib
 bibFileChkSum: cdaa498257898a2016f7114ff7e00f99
 changelogFile: CHANGELOG.md
-enatableFile: ENAtable.ssf
-enatableFileChkSum: a40a8c516b2cb87afad1b9843d9ff61d
+sequencingSourceFile: ENAtable.ssf
+sequencingSourceFileChkSum: a8e329f9b7996439f855b1ca3834526b

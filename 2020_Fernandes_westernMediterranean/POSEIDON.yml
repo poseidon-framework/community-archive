@@ -22,5 +22,5 @@ jannoFileChkSum: a7427ae7f3fcbf5a267b96e9a3c5730c
 bibFile: LITERATURE.bib
 bibFileChkSum: fd72e09ba96d8a32ae3a850f32d1f41d
 changelogFile: CHANGELOG.md
-enatableFile: ENAtable.ssf
-enatableFileChkSum: 17442962dda7754b97dc624c79f87ae4
+sequencingSourceFile: ENAtable.ssf
+sequencingSourceFileChkSum: b27320a13cc0613f7dcf80c0ffe83c72

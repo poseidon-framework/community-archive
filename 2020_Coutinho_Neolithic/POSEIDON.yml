@@ -22,5 +22,5 @@ jannoFileChkSum: 32505437b89a1e6388e84fd530ffa9a1
 bibFile: 2020_Coutinho_Neolithic.bib
 bibFileChkSum: ea3ab32c12e495b8c2c72fe3877a8d77
 changelogFile: CHANGELOG.md
-enatableFile: ENAtable.ssf
-enatableFileChkSum: d8fb1572146f2e9f0864ad93336791f0
+sequencingSourceFile: ENAtable.ssf
+sequencingSourceFileChkSum: feb7fca1592610caab7be27a837b0e97

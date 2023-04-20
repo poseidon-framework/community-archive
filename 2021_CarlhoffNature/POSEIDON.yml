@@ -21,5 +21,5 @@ jannoFileChkSum: 8fbe04056a4d8013f5bb6ec83cc3a389
 bibFile: 2021_CarlhoffNature.bib
 bibFileChkSum: ccf159d140f91c28702da2cba75dbf46
 changelogFile: CHANGELOG.md
-enatableFile: ENAtable.ssf
-enatableFileChkSum: 639b243e7a66ce81d3b136ce3474e5a6
+sequencingSourceFile: ENAtable.ssf
+sequencingSourceFileChkSum: 00b97578a559a5f2409802ec6474e7a3

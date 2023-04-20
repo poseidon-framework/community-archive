@@ -22,5 +22,5 @@ jannoFileChkSum: 9c83f6f1829f62eeb690ff9814a8b870
 bibFile: BarqueraCurrentBiology.bib
 bibFileChkSum: 04e3d5ae23adb1c734b878e3d2bd3880
 changelogFile: CHANGELOG.md
-enatableFile: ENAtable.ssf
-enatableFileChkSum: 1a70ef8a838e4903d582676cdd513cf9
+sequencingSourceFile: ENAtable.ssf
+sequencingSourceFileChkSum: 943d79dec8b443a571a465d1e9dd321a

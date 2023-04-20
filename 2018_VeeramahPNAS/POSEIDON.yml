@@ -23,5 +23,5 @@ jannoFileChkSum: f0473b7d21fd0b84f29cbb2cb25a1e4f
 bibFile: 2018_VeeramahPNAS.bib
 bibFileChkSum: 2c3cf7dd43c0fe58558fb927a7ab568f
 changelogFile: CHANGELOG.md
-enatableFile: ENAtable.ssf
-.enatableFileChkSum: 349d4adc448fbe19677cb86f2fb38dee
+sequencingSourceFile: ENAtable.ssf
+sequencingSourceFileChkSum: b49702b0722af07d1278dd014b93104d

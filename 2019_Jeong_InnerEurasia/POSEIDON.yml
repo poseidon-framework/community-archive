@@ -21,5 +21,5 @@ jannoFileChkSum: 2410814686b0020540b70ee65e2e78ae
 bibFile: 2019_Jeong_InnerEurasia.bib
 bibFileChkSum: f4e6fb7d7bcef3c79d200c88c4e2a250
 changelogFile: CHANGELOG.txt
-enatableFile: ENAtable.ssf
-enatableFileChkSum: 7466cce7af58e81b60b4fd2a567bb607
+sequencingSourceFile: ENAtable.ssf
+sequencingSourceFileChkSum: b2dd02466760ee72fda4c5da278052b4

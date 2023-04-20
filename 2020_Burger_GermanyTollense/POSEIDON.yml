@@ -22,5 +22,5 @@ jannoFileChkSum: bc6c5f3aaf03d0d11fa083e05ef536bd
 bibFile: 2020_Burger_GermanyTollense.bib
 bibFileChkSum: 54dc4f88aae46b967ea9f986d3f67e77
 changelogFile: CHANGELOG.md
-enatableFile: ENAtable.ssf
-enatableFileChkSum: 53f4461f8c0bdb0f358ec346626651fe
+sequencingSourceFile: ENAtable.ssf
+sequencingSourceFileChkSum: ff9ccc479f80be17f2efead73c37dc74

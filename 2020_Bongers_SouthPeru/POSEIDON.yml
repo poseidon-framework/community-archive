@@ -22,5 +22,5 @@ jannoFileChkSum: 625c194fe9a08a6ac7987dd74d34015f
 bibFile: Bongers_SouthPeru.bib
 bibFileChkSum: 5e23b63a54994a016af7b2778d891c53
 changelogFile: CHANGELOG.md
-enatableFile: ENAtable.ssf
-enatableFileChkSum: 855f42738031a9fa4a0580afab9a7e2d
+sequencingSourceFile: ENAtable.ssf
+sequencingSourceFileChkSum: 1874eafc95e683aa270818578ee216b8

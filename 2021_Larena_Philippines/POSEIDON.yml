@@ -21,5 +21,5 @@ jannoFileChkSum: e01dca1a2f90c8b32f2ec5ba2b37e67f
 bibFile: 2021_Larena_Philippines.bib
 bibFileChkSum: 6caa395f8d511b24c38423d179144bf4
 changelogFile: CHANGELOG.md
-enatableFile: ENAtable.ssf
-enatableFileChkSum: 69fad7b7971f0355c4ee699cf5dbdcbb
+sequencingSourceFile: ENAtable.ssf
+sequencingSourceFileChkSum: aa31266eb314e9ec3702b7124b329071

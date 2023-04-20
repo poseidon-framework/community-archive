@@ -21,5 +21,5 @@ jannoFileChkSum: ebd776ad2b1d9ffd5ed1af7876ee931f
 bibFile: 2021_Yaka_Anatolia.bib
 bibFileChkSum: 8c227d9429497770069ff32decf17f5d
 changelogFile: CHANGELOG.md
-enatableFile: ENAtable.ssf
-enatableFileChkSum: 38d426aeca7804f6e420397ecbafaecb
+sequencingSourceFile: ENAtable.ssf
+sequencingSourceFileChkSum: 38d426aeca7804f6e420397ecbafaecb
