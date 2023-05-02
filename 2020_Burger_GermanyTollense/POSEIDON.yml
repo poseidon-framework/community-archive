@@ -18,8 +18,8 @@ genotypeData:
   snpSet: 1240K
 jannoFile: 2020_Burger_GermanyTollense.janno
 jannoFileChkSum: bc6c5f3aaf03d0d11fa083e05ef536bd
+sequencingSourceFile: ENAtable.ssf
+sequencingSourceFileChkSum: bf9b69f7ff9c75e834d792423f3db18d
 bibFile: 2020_Burger_GermanyTollense.bib
 bibFileChkSum: 54dc4f88aae46b967ea9f986d3f67e77
 changelogFile: CHANGELOG.md
-sequencingSourceFile: ENAtable.ssf
-sequencingSourceFileChkSum: ff9ccc479f80be17f2efead73c37dc74

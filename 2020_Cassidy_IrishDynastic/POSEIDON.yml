@@ -19,8 +19,8 @@ genotypeData:
   snpSet: 1240K
 jannoFile: Cassidy_IrishDynastic.janno
 jannoFileChkSum: 3856ea7dc7f975d9abd952993d7b9c4e
+sequencingSourceFile: ENAtable.ssf
+sequencingSourceFileChkSum: 6f07a37355906c19beda6a5dd0178067
 bibFile: LITERATURE.bib
 bibFileChkSum: 26f83bf6e8340ecb4f3258071db6fdb7
 changelogFile: CHANGELOG.md
-sequencingSourceFile: ENAtable.ssf
-sequencingSourceFileChkSum: ab862075483b28f61cfe60a6930ebe14

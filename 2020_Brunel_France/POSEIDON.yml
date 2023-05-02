@@ -17,8 +17,8 @@ genotypeData:
   snpSet: 1240K
 jannoFile: Brunel_France.janno
 jannoFileChkSum: 1126ce6ee18bd398a78f5cc9f48f6472
+sequencingSourceFile: ENAtable.ssf
+sequencingSourceFileChkSum: 91dc8c73b4aed264c59de19b68a01056
 bibFile: LITERATURE.bib
 bibFileChkSum: e88319775a5491ad40362fbc5f293f7e
 changelogFile: CHANGELOG.md
-sequencingSourceFile: ENAtable.ssf
-sequencingSourceFileChkSum: c210682ecaae2ab9d3b10e732a656e25

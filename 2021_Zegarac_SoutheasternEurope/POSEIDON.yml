@@ -17,10 +17,10 @@ genotypeData:
   indFileChkSum: 11ca9cacf580e026a7fcffc8f11c5605
   snpSet: 1240K
 jannoFile: 2021_Zegarac_SoutheasternEurope.janno
-jannoFileChkSum: c5ffcac5c58e1e97ba577b39af82842a
+jannoFileChkSum: 2e5c1aba5b879e22b1935859f082b899
+sequencingSourceFile: ENAtable.ssf
+sequencingSourceFileChkSum: 99c5ad8160a48d0deeb0c2454e1204b3
 bibFile: 2021_Zegarac_SoutheasternEurope.bib
 bibFileChkSum: 04c000d063df7624c3eac0ec52c01b5d
 readmeFile: README.txt
 changelogFile: CHANGELOG.md
-sequencingSourceFile: ENAtable.ssf
-sequencingSourceFileChkSum: 99c5ad8160a48d0deeb0c2454e1204b3

@@ -18,8 +18,8 @@ genotypeData:
   snpSet: 1240K
 jannoFile: Bergstrom_HGDP.janno
 jannoFileChkSum: a21d0f382aed63d01e7e81fd17684974
+sequencingSourceFile: ENAtable.ssf
+sequencingSourceFileChkSum: b41bfd8227363c796cd2d682a987a9b0
 bibFile: LITERATURE.bib
 bibFileChkSum: 79ad620a7903ec265de098efe5331bc0
 changelogFile: CHANGELOG.md
-sequencingSourceFile: ENAtable.ssf
-sequencingSourceFileChkSum: bf61105f5ec2458aea1630d769a91236

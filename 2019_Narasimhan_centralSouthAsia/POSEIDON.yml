@@ -17,8 +17,8 @@ genotypeData:
   snpSet: 1240K
 jannoFile: Narasimhan_centralSouthAsia.janno
 jannoFileChkSum: 876f4a8846b6668c8c9db72f081674ec
+sequencingSourceFile: ENAtable.ssf
+sequencingSourceFileChkSum: 2f7e6095bafbb99991a1bf93dccb9d33
 bibFile: LITERATURE.bib
 bibFileChkSum: 57909e695be2bb3962f12580bd6b4f5d
 changelogFile: CHANGELOG.md
-sequencingSourceFile: ENAtable.ssf
-sequencingSourceFileChkSum: 54d21b092eb706560dd3265fa305b4ee

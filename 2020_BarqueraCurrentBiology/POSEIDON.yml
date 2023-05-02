@@ -18,8 +18,8 @@ genotypeData:
   snpSet: 1240K
 jannoFile: BarqueraCurrentBiology.janno
 jannoFileChkSum: 9c83f6f1829f62eeb690ff9814a8b870
+sequencingSourceFile: ENAtable.ssf
+sequencingSourceFileChkSum: fe8247cd24c13d9105a652a2015152da
 bibFile: BarqueraCurrentBiology.bib
 bibFileChkSum: 04e3d5ae23adb1c734b878e3d2bd3880
 changelogFile: CHANGELOG.md
-sequencingSourceFile: ENAtable.ssf
-sequencingSourceFileChkSum: 943d79dec8b443a571a465d1e9dd321a

@@ -21,8 +21,8 @@ genotypeData:
   snpSet: 1240K
 jannoFile: 2019_Flegontov_PalaeoEskimo.janno
 jannoFileChkSum: e158c193696bcd82edbc783a97a5382a
+sequencingSourceFile: ENAtable.ssf
+sequencingSourceFileChkSum: 8a26c7217b425df53dcda90126bfc107
 bibFile: 2019_Flegontov_PalaeoEskimo.bib
 bibFileChkSum: b03c30b90b48cd515423c5daecc08206
 changelogFile: CHANGELOG.md
-sequencingSourceFile: ENAtable.ssf
-sequencingSourceFileChkSum: 970b7db070f88d75f739d298dcc8a73d
