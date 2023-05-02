@@ -16,9 +16,9 @@ genotypeData:
   indFileChkSum: 3d5f1803622433848bc177415fdb4d1f
   snpSet: 1240K
 jannoFile: 2021_PattersonNature.janno
-jannoFileChkSum: 20409b4c20b4330cf17142213175f444
+jannoFileChkSum: 53120de644eb2c8551ef16a6d45e8ae3
 bibFile: sources.bib
 bibFileChkSum: 9f265530b732dcba0b952e9c311d686b
 readmeFile: README.txt
 sequencingSourceFile: ENAtable.ssf
-sequencingSourceFileChkSum: fe6d1e8f50b90311714ac8e3de5ddc30
+sequencingSourceFileChkSum: 72180e9f09ff91a743cd6de1e817a4ec
