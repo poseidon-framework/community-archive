@@ -19,9 +19,9 @@ genotypeData:
   indFileChkSum: fa2cabfa888571d607825cfd633e6205
   snpSet: 1240K
 jannoFile: Yu_NorthRussia.janno
-jannoFileChkSum: e9a4b3df17667413f07b67260961d77c
+jannoFileChkSum: 15739989739db955ea863069be1c3529
 bibFile: LITERATURE.bib
 bibFileChkSum: b265cbd3beedcff874cec2f4db793bd8
 changelogFile: CHANGELOG.md
 sequencingSourceFile: ENAtable.ssf
-sequencingSourceFileChkSum: 25cd4e7e060e2d8a572458016323fb1a
+sequencingSourceFileChkSum: d403fffda01c633116c7cfe2aa0cd50f
