@@ -18,7 +18,7 @@ genotypeData:
 jannoFile: Villalba_Iberia.janno
 jannoFileChkSum: 62b23966bd625b03b917e63960dbc749
 sequencingSourceFile: ENAtable.ssf
-sequencingSourceFileChkSum: a1c8a47321d831366d3f10a9bfa88332
+sequencingSourceFileChkSum: d9d4de6a96950364b5b94d4cd2d08fc7
 bibFile: LITERATURE.bib
 bibFileChkSum: 11defb31b4e384b4d5192fbc85f0beb5
 changelogFile: CHANGELOG.md
