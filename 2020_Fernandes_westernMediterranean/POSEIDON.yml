@@ -1,12 +1,12 @@
-poseidonVersion: 2.5.0
+poseidonVersion: 2.7.1
 title: 2020_Fernandes_westernMediterranean
 description: Neolithic and Bronze Age samples from islands of the western Mediterranean,
   including Sardinia and Sicily.
 contributor:
 - name: Ayshin Ghalichi
   email: ghalichi@shh.mpg.de
-packageVersion: 2.0.1
-lastModified: 2022-03-13
+packageVersion: 2.1.0
+lastModified: 2023-05-05
 genotypeData:
   format: PLINK
   genoFile: Fernandes_westernMediterranean.bed
@@ -18,8 +18,8 @@ genotypeData:
   snpSet: 1240K
 jannoFile: Fernandes_westernMediterranean.janno
 jannoFileChkSum: a7427ae7f3fcbf5a267b96e9a3c5730c
+sequencingSourceFile: ENAtable.ssf
+sequencingSourceFileChkSum: 10c8eb92147340952bedbdda1363e6cf
 bibFile: LITERATURE.bib
 bibFileChkSum: fd72e09ba96d8a32ae3a850f32d1f41d
 changelogFile: CHANGELOG.md
-sequencingSourceFile: ENAtable.ssf
-sequencingSourceFileChkSum: 10c8eb92147340952bedbdda1363e6cf

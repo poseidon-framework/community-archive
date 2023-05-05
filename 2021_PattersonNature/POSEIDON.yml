@@ -1,11 +1,11 @@
-poseidonVersion: 2.5.0
+poseidonVersion: 2.7.1
 title: 2021_PattersonNature
 description: Large-scale migration into Britain during the Middle to Late Bronze Age
 contributor:
 - name: Stephen Clayton
   email: stephen_clayton@eva.mpg.de
-packageVersion: 0.1.0
-lastModified: 2022-08-06
+packageVersion: 0.3.0
+lastModified: 2023-05-05
 genotypeData:
   format: PLINK
   genoFile: 2021_PattersonNature.bed
@@ -17,8 +17,9 @@ genotypeData:
   snpSet: 1240K
 jannoFile: 2021_PattersonNature.janno
 jannoFileChkSum: 53120de644eb2c8551ef16a6d45e8ae3
+sequencingSourceFile: ENAtable.ssf
+sequencingSourceFileChkSum: d77bc01fd44d9ccb721b7344cd9d5332
 bibFile: sources.bib
 bibFileChkSum: 9f265530b732dcba0b952e9c311d686b
 readmeFile: README.txt
-sequencingSourceFile: ENAtable.ssf
-sequencingSourceFileChkSum: d77bc01fd44d9ccb721b7344cd9d5332
+changelogFile: CHANGELOG.md

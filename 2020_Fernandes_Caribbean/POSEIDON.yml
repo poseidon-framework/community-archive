@@ -1,4 +1,4 @@
-poseidonVersion: 2.5.0
+poseidonVersion: 2.7.1
 title: 2020_Fernandes_Caribbean
 description: Diachronic collection of samples from the pre-contact Caribbean.
 contributor:
@@ -6,8 +6,8 @@ contributor:
   email: ghalichi@shh.mpg.de
 - name: Clemens Schmid
   email: schmid@shh.mpg.de
-packageVersion: 2.0.1
-lastModified: 2022-03-13
+packageVersion: 2.1.0
+lastModified: 2023-05-05
 genotypeData:
   format: PLINK
   genoFile: Fernandes_Caribbean.bed
@@ -19,8 +19,8 @@ genotypeData:
   snpSet: 1240K
 jannoFile: Fernandes_Caribbean.janno
 jannoFileChkSum: 19d8c3abab8cadd93edf90cce1041364
+sequencingSourceFile: ENAtable.ssf
+sequencingSourceFileChkSum: 4718390fceb8740b9599deaaf0799235
 bibFile: LITERATURE.bib
 bibFileChkSum: 049513d5cc0f16f8e72c8a09d04ae5ad
 changelogFile: CHANGELOG.md
-sequencingSourceFile: ENAtable.ssf
-sequencingSourceFileChkSum: 4718390fceb8740b9599deaaf0799235

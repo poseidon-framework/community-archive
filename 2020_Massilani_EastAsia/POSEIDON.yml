@@ -1,11 +1,11 @@
-poseidonVersion: 2.5.0
+poseidonVersion: 2.7.1
 title: 2020_Massilani_EastAsia
 description: Denisovan ancestry and population history of early East Asians
 contributor:
 - name: Dhananjaya Aththanayaka
   email: dhananjaya_aththanayaka@eva.mpg.de
-packageVersion: 0.1.2
-lastModified: 2022-08-11
+packageVersion: 0.2.0
+lastModified: 2023-05-05
 genotypeData:
   format: PLINK
   genoFile: 2020_Massilani_EastAsia.bed
@@ -17,8 +17,8 @@ genotypeData:
   snpSet: 1240K
 jannoFile: 2020_Massilani_EastAsia.janno
 jannoFileChkSum: 917a5d7097d3fe67f07b40e3da03db44
+sequencingSourceFile: ENAtable.ssf
+sequencingSourceFileChkSum: 7e267df9a8398faee10c907a3e980613
 bibFile: 2020_Massilani_EastAsia.bib
 bibFileChkSum: d4f2db4797051e1f8ef7b5d51bfb6c22
 changelogFile: CHANGELOG.md
-sequencingSourceFile: ENAtable.ssf
-sequencingSourceFileChkSum: 7e267df9a8398faee10c907a3e980613

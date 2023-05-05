@@ -1,11 +1,11 @@
-poseidonVersion: 2.5.0
+poseidonVersion: 2.7.1
 title: 2021_Novak_Croatia
 description: Genome-wide analysis of nearly all the victims of a 6200 year old massacre
 contributor:
 - name: Dhananjaya Aththanayaka
   email: dhananjaya_aththanayaka@eva.mpg.de
-packageVersion: 0.1.3
-lastModified: 2022-08-11
+packageVersion: 0.2.0
+lastModified: 2023-05-05
 genotypeData:
   format: PLINK
   genoFile: 2021_Novak_Croatia.bed
@@ -17,8 +17,8 @@ genotypeData:
   snpSet: 1240K
 jannoFile: 2021_Novak_Croatia.janno
 jannoFileChkSum: 1e540c69bbadae1edf3f4cd137bf369f
+sequencingSourceFile: ENAtable.ssf
+sequencingSourceFileChkSum: 7fbded6ce7ca2337ea2ea57db0900385
 bibFile: 2021_Novak_Croatia.bib
 bibFileChkSum: 6c303a2130ea139f640e7d890ee643bf
 changelogFile: CHANGELOG.md
-sequencingSourceFile: ENAtable.ssf
-sequencingSourceFileChkSum: 7fbded6ce7ca2337ea2ea57db0900385

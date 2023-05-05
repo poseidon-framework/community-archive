@@ -1,12 +1,12 @@
-poseidonVersion: 2.5.0
+poseidonVersion: 2.7.1
 title: 2020_BarqueraCurrentBiology
 description: First generation enslaved Africans from Mexico City Royal Hospital San
   Jose de los Naturales.
 contributor:
 - name: Rodrigo Barquera
   email: rodrigo_barquera@eva.mpg.de
-packageVersion: 2.0.1
-lastModified: 2022-03-13
+packageVersion: 2.1.0
+lastModified: 2023-05-05
 genotypeData:
   format: PLINK
   genoFile: BarqueraCurrentBiology.bed
