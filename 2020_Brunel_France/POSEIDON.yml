@@ -1,11 +1,11 @@
-poseidonVersion: 2.5.0
+poseidonVersion: 2.7.1
 title: 2020_Brunel_France
 description: Ancient samples from Mesolithic to Iron Age France.
 contributor:
 - name: Ayshin Ghalichi
   email: ghalichi@shh.mpg.de
-packageVersion: 2.0.1
-lastModified: 2022-03-13
+packageVersion: 2.1.0
+lastModified: 2023-05-05
 genotypeData:
   format: PLINK
   genoFile: Brunel_France.bed

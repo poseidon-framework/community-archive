@@ -1,12 +1,12 @@
-poseidonVersion: 2.5.0
+poseidonVersion: 2.7.1
 title: 2020_Burger_GermanyTollense
 description: Low Prevalence of Lactase Persistence in Bronze Age Europe Indicates
   Ongoing Strong Selection over the Last 3,000 Years.
 contributor:
 - name: Dhananjaya Aththanayaka
   email: dhananjaya_aththanayaka.eva.mpg.de
-packageVersion: 0.1.1
-lastModified: 2022-05-22
+packageVersion: 0.2.0
+lastModified: 2023-05-05
 genotypeData:
   format: PLINK
   genoFile: 2020_Burger_GermanyTollense.bed

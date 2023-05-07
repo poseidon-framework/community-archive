@@ -1,12 +1,12 @@
-poseidonVersion: 2.5.0
+poseidonVersion: 2.7.1
 title: 2020_Marcus_Sardinia
 description: Samples from Sardinia covering a time span from the Middle Neolithic
   to the Medieval period.
 contributor:
 - name: Ayshin Ghalichi
   email: ghalichi@shh.mpg.de
-packageVersion: 2.0.1
-lastModified: 2022-03-13
+packageVersion: 2.1.0
+lastModified: 2023-05-05
 genotypeData:
   format: PLINK
   genoFile: Marcus_Sardinia.bed
@@ -18,8 +18,8 @@ genotypeData:
   snpSet: 1240K
 jannoFile: Marcus_Sardinia.janno
 jannoFileChkSum: d31c9eb8ee5ae735d2daec7cb5985473
+sequencingSourceFile: ENAtable.ssf
+sequencingSourceFileChkSum: 24f0df2f29b35d4c6891a464d24e8c87
 bibFile: LITERATURE.bib
 bibFileChkSum: 6dad4f159f6218e3885a36ad80d95639
 changelogFile: CHANGELOG.md
-sequencingSourceFile: ENAtable.ssf
-sequencingSourceFileChkSum: 24f0df2f29b35d4c6891a464d24e8c87

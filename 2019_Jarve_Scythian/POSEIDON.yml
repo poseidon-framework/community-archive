@@ -1,4 +1,4 @@
-poseidonVersion: 2.5.0
+poseidonVersion: 2.7.1
 title: 2019_Jarve_Scythian
 description: Genetic data published in Jarve] et al. 2019
 contributor:
@@ -6,8 +6,8 @@ contributor:
   email: ghalichi@shh.mpg.de
 - name: Clemens Schmid
   email: schmid@shh.mpg.de
-packageVersion: 2.0.1
-lastModified: 2022-03-02
+packageVersion: 2.1.0
+lastModified: 2023-05-05
 genotypeData:
   format: PLINK
   genoFile: Jarve_Scythian.bed
@@ -19,8 +19,8 @@ genotypeData:
   snpSet: 1240K
 jannoFile: Jarve_Scythian.janno
 jannoFileChkSum: cf81c11e0b939e10cfdd7bf533b8a677
+sequencingSourceFile: ENAtable.ssf
+sequencingSourceFileChkSum: aaef1e37ea34e7f05ca2ddaaf5d8e6e5
 bibFile: LITERATURE.bib
 bibFileChkSum: f6c415cd7c244ada01f827cb670dc0f1
 changelogFile: CHANGELOG.md
-sequencingSourceFile: ENAtable.ssf
-sequencingSourceFileChkSum: aaef1e37ea34e7f05ca2ddaaf5d8e6e5

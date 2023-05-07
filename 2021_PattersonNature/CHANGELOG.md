@@ -1,0 +1,2 @@
+- V 0.3.0: added a .ssf file
+- V 0.2.0: added Genetic_Source_Accession_IDs

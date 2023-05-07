@@ -1,4 +1,4 @@
-poseidonVersion: 2.5.0
+poseidonVersion: 2.7.1
 title: 2019_SanchezQuinto_Megalithic
 description: Genetic data published in SanchezQuinto et al. 2019
 contributor:
@@ -6,8 +6,8 @@ contributor:
   email: ghalichi@shh.mpg.de
 - name: Clemens Schmid
   email: schmid@shh.mpg.de
-packageVersion: 2.0.1
-lastModified: 2022-03-02
+packageVersion: 2.1.0
+lastModified: 2023-05-05
 genotypeData:
   format: PLINK
   genoFile: SanchezQuinto_Megalithic.bed
@@ -19,8 +19,8 @@ genotypeData:
   snpSet: 1240K
 jannoFile: SanchezQuinto_Megalithic.janno
 jannoFileChkSum: f2b96e063187cf89591c5cc564864f31
+sequencingSourceFile: ENAtable.ssf
+sequencingSourceFileChkSum: e9ec3d8b19f97baf738d8846af81ce10
 bibFile: LITERATURE.bib
 bibFileChkSum: 40e32db44e67de8bf5d289bd2e7bed56
 changelogFile: CHANGELOG.md
-sequencingSourceFile: ENAtable.ssf
-sequencingSourceFileChkSum: e9ec3d8b19f97baf738d8846af81ce10

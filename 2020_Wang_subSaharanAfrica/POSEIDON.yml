@@ -1,11 +1,11 @@
-poseidonVersion: 2.5.0
+poseidonVersion: 2.7.1
 title: 2020_Wang_subSaharanAfrica
 description: Ancient samples from sub-Saharan Africa.
 contributor:
 - name: Ke Wang
   email: kwang@shh.mpg.de
-packageVersion: 2.0.1
-lastModified: 2022-03-14
+packageVersion: 2.1.0
+lastModified: 2023-05-05
 genotypeData:
   format: PLINK
   genoFile: Wang_subSaharanAfrica.bed
@@ -17,8 +17,8 @@ genotypeData:
   snpSet: 1240K
 jannoFile: Wang_subSaharanAfrica.janno
 jannoFileChkSum: 2494976e64b41aa126e04d6e5976f312
+sequencingSourceFile: ENAtable.ssf
+sequencingSourceFileChkSum: cc1702cbbc2aa125f05779172aaa17a8
 bibFile: LITERATURE.bib
 bibFileChkSum: 1cebf3be3b99ab789a42b503c25bd710
 changelogFile: CHANGELOG.md
-sequencingSourceFile: ENAtable.ssf
-sequencingSourceFileChkSum: cc1702cbbc2aa125f05779172aaa17a8
