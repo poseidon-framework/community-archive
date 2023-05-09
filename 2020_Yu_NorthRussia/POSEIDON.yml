@@ -1,4 +1,4 @@
-poseidonVersion: 2.5.0
+poseidonVersion: 2.7.1
 title: 2020_Yu_NorthRussia
 description: Upper Palaeolithic to Early Bronze Age samples from the Lake Baikal region
   in Siberia.
@@ -7,8 +7,8 @@ contributor:
   email: yu@shh.mpg.de
 - name: Clemens Schmid
   email: schmid@shh.mpg.de
-packageVersion: 2.0.1
-lastModified: 2022-03-14
+packageVersion: 2.1.0
+lastModified: 2023-05-05
 genotypeData:
   format: PLINK
   genoFile: Yu_NorthRussia.bed
@@ -19,7 +19,9 @@ genotypeData:
   indFileChkSum: fa2cabfa888571d607825cfd633e6205
   snpSet: 1240K
 jannoFile: Yu_NorthRussia.janno
-jannoFileChkSum: e9a4b3df17667413f07b67260961d77c
+jannoFileChkSum: 15739989739db955ea863069be1c3529
+sequencingSourceFile: ENAtable.ssf
+sequencingSourceFileChkSum: d403fffda01c633116c7cfe2aa0cd50f
 bibFile: LITERATURE.bib
 bibFileChkSum: b265cbd3beedcff874cec2f4db793bd8
 changelogFile: CHANGELOG.md

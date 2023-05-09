@@ -1,11 +1,11 @@
-poseidonVersion: 2.5.0
+poseidonVersion: 2.7.1
 title: 2021_Kilinc_northeastAsia
 description: Genetic data published in Kılınç et al. 2021
 contributor:
 - name: Ayshin Ghalichi
   email: ghalichi@shh.mpg.de
-packageVersion: 2.0.1
-lastModified: 2022-03-14
+packageVersion: 2.1.0
+lastModified: 2023-05-05
 genotypeData:
   format: PLINK
   genoFile: Kilinc_northeastAsia.bed
@@ -17,6 +17,8 @@ genotypeData:
   snpSet: 1240K
 jannoFile: Kilinc_northeastAsia.janno
 jannoFileChkSum: 5de83b9b4e37de0816c7c9d05866aa41
+sequencingSourceFile: ENAtable.ssf
+sequencingSourceFileChkSum: e760bdb8ac0c02d8aadc134556b7fa3f
 bibFile: LITERATURE.bib
 bibFileChkSum: b3c698f1d204172a3178a9ab4ea888e2
 changelogFile: CHANGELOG.md

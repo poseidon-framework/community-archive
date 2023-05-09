@@ -1,4 +1,4 @@
-poseidonVersion: 2.5.0
+poseidonVersion: 2.7.1
 title: 2020_Furtwaengler_Switzerland
 description: Late Neolithic samples from Switzerland.
 contributor:
@@ -6,8 +6,8 @@ contributor:
   email: ghalichi@shh.mpg.de
 - name: Clemens Schmid
   email: schmid@shh.mpg.de
-packageVersion: 2.0.1
-lastModified: 2022-03-13
+packageVersion: 2.1.0
+lastModified: 2023-05-05
 genotypeData:
   format: PLINK
   genoFile: Furtwaengler_SwissLN.bed
@@ -19,6 +19,8 @@ genotypeData:
   snpSet: 1240K
 jannoFile: Furtwaengler_SwissLN.janno
 jannoFileChkSum: 3ef3f5bbcdfc13a2069a9f27e85df55d
+sequencingSourceFile: ENAtable.ssf
+sequencingSourceFileChkSum: 8e087ac82df36c71b51d8f8304d13557
 bibFile: LITERATURE.bib
 bibFileChkSum: 5fff8d8df9e5fe394e55f5f36022ccbb
 changelogFile: CHANGELOG.md

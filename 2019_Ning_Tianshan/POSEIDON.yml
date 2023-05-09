@@ -1,11 +1,11 @@
-poseidonVersion: 2.5.0
+poseidonVersion: 2.7.1
 title: 2019_Ning_Tianshan
 description: Genetic data published in Ning et al. 2019
 contributor:
 - name: Ayshin Ghalichi
   email: ghalichi@shh.mpg.de
-packageVersion: 2.0.1
-lastModified: 2022-03-02
+packageVersion: 2.1.0
+lastModified: 2023-05-05
 genotypeData:
   format: PLINK
   genoFile: Ning_Tianshan.bed
@@ -17,6 +17,8 @@ genotypeData:
   snpSet: 1240K
 jannoFile: Ning_Tianshan.janno
 jannoFileChkSum: ed68e03c71249ea6ac5283ca9d08c80b
+sequencingSourceFile: ENAtable.ssf
+sequencingSourceFileChkSum: 7522daa10851f565677801a5262de4d4
 bibFile: LITERATURE.bib
 bibFileChkSum: 5de7c2a48e39bce39a2f6b702027b98f
 changelogFile: CHANGELOG.md

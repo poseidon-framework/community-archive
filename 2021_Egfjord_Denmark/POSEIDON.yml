@@ -1,12 +1,12 @@
-poseidonVersion: 2.5.0
+poseidonVersion: 2.7.1
 title: 2021_Egfjord_Denmark
 description: Genomic Steppe ancestry in skeletons from the Neolithic Single Grave
   Culture in Denmark
 contributor:
 - name: Dhananjaya Aththanayaka
   email: dhananjaya_aththanayaka@mpg.eva.de
-packageVersion: 0.1.2
-lastModified: 2022-08-11
+packageVersion: 0.2.0
+lastModified: 2023-05-05
 genotypeData:
   format: PLINK
   genoFile: 2021_Egfjord_Denmark.bed
@@ -18,6 +18,8 @@ genotypeData:
   snpSet: 1240K
 jannoFile: 2021_Egfjord_Denmark.janno
 jannoFileChkSum: 793dc08132b6fc623a6056dc226f6a29
+sequencingSourceFile: ENAtable.ssf
+sequencingSourceFileChkSum: 401849e9577c75d48a1b5e2cda51f588
 bibFile: 2021_Egfjord_Denmark.bib
 bibFileChkSum: 9ae5a164ffb8797d8cb178faea8cbfcd
 changelogFile: CHANGELOG.md

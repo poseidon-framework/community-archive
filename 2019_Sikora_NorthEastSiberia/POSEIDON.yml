@@ -1,4 +1,4 @@
-poseidonVersion: 2.5.0
+poseidonVersion: 2.7.1
 title: 2019_Sikora_NorthEastSiberia
 description: Genetic data published in Sikora et al. 2019
 contributor:
@@ -6,8 +6,8 @@ contributor:
   email: ghalichi@shh.mpg.de
 - name: Clemens Schmid
   email: schmid@shh.mpg.de
-packageVersion: 2.0.1
-lastModified: 2022-03-02
+packageVersion: 2.1.0
+lastModified: 2023-05-05
 genotypeData:
   format: PLINK
   genoFile: Sikora_NorthEastSiberia.bed
@@ -19,6 +19,8 @@ genotypeData:
   snpSet: 1240K
 jannoFile: Sikora_NorthEastSiberia.janno
 jannoFileChkSum: d1f872a9436b39e50291df61658ac7d1
+sequencingSourceFile: ENAtable.ssf
+sequencingSourceFileChkSum: f6b17be665e322ef2fe7d1dcaf7dd50c
 bibFile: LITERATURE.bib
 bibFileChkSum: 0faacc859cc75d23249e2437cf986b55
 changelogFile: CHANGELOG.md

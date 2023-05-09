@@ -1,11 +1,11 @@
-poseidonVersion: 2.5.0
+poseidonVersion: 2.7.1
 title: 2021_Larena_Philippines
 description: Multiple migrations to the Philippines during the last 50,000 years
 contributor:
 - name: Dhananjaya Aththanayaka
   email: dhananjaya_aththanayaka.net
-packageVersion: 0.1.2
-lastModified: 2022-08-11
+packageVersion: 0.2.0
+lastModified: 2023-05-05
 genotypeData:
   format: PLINK
   genoFile: 2021_Larena_Philippines.bed
@@ -17,6 +17,8 @@ genotypeData:
   snpSet: 1240K
 jannoFile: 2021_Larena_Philippines.janno
 jannoFileChkSum: e01dca1a2f90c8b32f2ec5ba2b37e67f
+sequencingSourceFile: ENAtable.ssf
+sequencingSourceFileChkSum: e9640ef01806742f5cd4154d49823000
 bibFile: 2021_Larena_Philippines.bib
 bibFileChkSum: 6caa395f8d511b24c38423d179144bf4
 changelogFile: CHANGELOG.md

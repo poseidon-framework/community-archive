@@ -1,11 +1,11 @@
-poseidonVersion: 2.5.0
+poseidonVersion: 2.7.1
 title: 2020_Jeong_EurasiaEasternSteppe
 description: A Dynamic 6,000-Year Genetic History of Eurasia’s Eastern Steppe
 contributor:
 - name: Dhananjaya Aththanayaka
   email: dhananjaya_aththanayaka@eva.map.de
-packageVersion: 1.0.1
-lastModified: 2022-03-13
+packageVersion: 1.1.0
+lastModified: 2023-05-05
 genotypeData:
   format: PLINK
   genoFile: 2020_Jeong_EurasiaEasternSteppe.bed
@@ -17,6 +17,8 @@ genotypeData:
   snpSet: 1240K
 jannoFile: 2020_Jeong_EurasiaEasternSteppe.janno
 jannoFileChkSum: 4ef4604af2dc9989e08f0e782c8224e9
+sequencingSourceFile: ENAtable.ssf
+sequencingSourceFileChkSum: 1365cc0d4beaa3cabf14b104b8cad2cd
 bibFile: 2020_Jeong_EurasiaEasternSteppe.bib
 bibFileChkSum: 7ffea33cd60401bd61e2c26a3ff6009b
 readmeFile: README.txt

@@ -1,11 +1,11 @@
-poseidonVersion: 2.5.0
+poseidonVersion: 2.7.1
 title: 2021_Capodiferro_Colombia
 description: Archaeogenomic distinctiveness of the Isthmo-Colombian area
 contributor:
 - name: Dhananjaya Aththnayaka
   email: dhananjaya_aththanayaka@eva.mpg.de
-packageVersion: 0.1.2
-lastModified: 2022-08-12
+packageVersion: 0.2.0
+lastModified: 2023-05-05
 genotypeData:
   format: PLINK
   genoFile: 2021_Capodiferro_Colombia.bed
@@ -17,6 +17,8 @@ genotypeData:
   snpSet: 1240K
 jannoFile: 2021_Capodiferro_Colombia.janno
 jannoFileChkSum: bda1de61f558b13b890d2ccc9fef58dd
+sequencingSourceFile: ENAtable.ssf
+sequencingSourceFileChkSum: b6583f9c02e2b0dab180501d5d1ac4a8
 bibFile: 2021_Capodiferro_Colombia.bib
 bibFileChkSum: 0b804ee7eac69b0c8fbcea2e31449a11
 changelogFile: CHANGELOG.md

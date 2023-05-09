@@ -1,11 +1,11 @@
-poseidonVersion: 2.5.0
+poseidonVersion: 2.7.1
 title: 2019_GonzalesFortes_Iberia
 description: Genetic data published in GonzalesFortes et al. 2019
 contributor:
 - name: Ayshin Ghalichi
   email: ghalichi@shh.mpg.de
-packageVersion: 2.0.1
-lastModified: 2022-03-02
+packageVersion: 2.1.0
+lastModified: 2023-05-05
 genotypeData:
   format: PLINK
   genoFile: GonzalesFortes_Iberia.bed
@@ -17,6 +17,8 @@ genotypeData:
   snpSet: 1240K
 jannoFile: GonzalesFortes_Iberia.janno
 jannoFileChkSum: 00dc09f1e3705fc6035b8cf585ca3f9b
+sequencingSourceFile: ENAtable.ssf
+sequencingSourceFileChkSum: e37e3f37bc87476183a42dc53ce58217
 bibFile: LITERATURE.bib
 bibFileChkSum: 90acdb95c2dd377a991b54bca7c39b32
 changelogFile: CHANGELOG.md

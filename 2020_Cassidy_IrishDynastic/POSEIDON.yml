@@ -1,4 +1,4 @@
-poseidonVersion: 2.5.0
+poseidonVersion: 2.7.1
 title: 2020_Cassidy_IrishDynastic
 description: Neolithic samples from Ireland.
 contributor:
@@ -6,8 +6,8 @@ contributor:
   email: ghalichi@shh.mpg.de
 - name: Clemens Schmid
   email: schmid@shh.mpg.de
-packageVersion: 2.0.1
-lastModified: 2022-03-13
+packageVersion: 2.1.0
+lastModified: 2023-05-05
 genotypeData:
   format: PLINK
   genoFile: Cassidy_IrishDynastic.bed
@@ -19,6 +19,8 @@ genotypeData:
   snpSet: 1240K
 jannoFile: Cassidy_IrishDynastic.janno
 jannoFileChkSum: 3856ea7dc7f975d9abd952993d7b9c4e
+sequencingSourceFile: ENAtable.ssf
+sequencingSourceFileChkSum: 6f07a37355906c19beda6a5dd0178067
 bibFile: LITERATURE.bib
 bibFileChkSum: 26f83bf6e8340ecb4f3258071db6fdb7
 changelogFile: CHANGELOG.md

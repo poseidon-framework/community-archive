@@ -1,4 +1,4 @@
-poseidonVersion: 2.5.0
+poseidonVersion: 2.7.1
 title: 2019_Olalde_Iberia
 description: Genetic data published in Olalde et al. 2019
 contributor:
@@ -6,8 +6,8 @@ contributor:
   email: ghalichi@shh.mpg.de
 - name: Clemens Schmid
   email: schmid@shh.mpg.de
-packageVersion: 2.0.1
-lastModified: 2022-03-02
+packageVersion: 2.1.0
+lastModified: 2023-05-05
 genotypeData:
   format: PLINK
   genoFile: Olalde_Iberia.bed
@@ -19,6 +19,8 @@ genotypeData:
   snpSet: 1240K
 jannoFile: Olalde_Iberia.janno
 jannoFileChkSum: 09ce6dedd8731fece4673c85f92bf82b
+sequencingSourceFile: ENAtable.ssf
+sequencingSourceFileChkSum: 24d7f0315ff3c7c21e480f8aac668eb2
 bibFile: LITERATURE.bib
 bibFileChkSum: 6dbfa15f90654e4307379641cf4614fe
 changelogFile: CHANGELOG.txt
