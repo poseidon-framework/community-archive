@@ -16,7 +16,7 @@ Imports:
     rnaturalearth,
     sf,
     yaml,
-    poseidonR
+    janno
 Remotes: 
-    github::poseidon-framework/poseidonR,
+    github::poseidon-framework/janno,
     github::ropensci/rnaturalearth

@@ -11,7 +11,7 @@ poseidon_ancient <- total_janno %>%
       !is.na(Date_BC_AD_Median) &
       !is.na(Latitude) & !is.na(Longitude)
   ) #%>%
-  # poseidonR::process_age() %>%
+  # janno::process_age() %>%
   # dplyr::filter(
   #   !is.na(Date_BC_AD_Median_Derived)
   # )
