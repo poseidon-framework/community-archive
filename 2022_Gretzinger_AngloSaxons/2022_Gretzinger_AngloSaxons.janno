@@ -1,480 +1,480 @@
-"Poseidon_ID"	"Genetic_Sex"	"Collection_ID"	"Group_Name"	"Country"	"Location"	"Latitude"	"Longitude"	"Date_Type"	"Date_C14_Uncal_BP"	"Date_C14_Uncal_BP_Err"	"Date_C14_Labnr"	"Date_BC_AD_Start"	"Date_BC_AD_Median"	"Date_BC_AD_Stop"	"MT_Haplogroup"	"Y_Haplogroup"	"Source_Tissue"	"Nr_Libraries"	"Capture_Type"	"UDG"	"Library_Built"	"Genotype_Ploidy"	"Endogenous"	"Nr_SNPs"	"Coverage_on_Target_SNPs"	"Damage"	"Contamination"	"Contamination_Err"	"Contamination_Meas"	"Primary_Contact"	"Publication"	"Note"	"Genetic_Source_Accession_IDs"
-"KPN001"	"F"	14553	"Denmark EMA"	"Denmark"	"Sct. Clements, Copenhagen"	55.6753	12.5683	"C14"				1050	1150	1250	"H3v+16093"		"Tooth"		"1240k"	"None"	"single"			593144	1.723	0.1699						"PASS"	
-"KPN002"	"M"	14758	"Denmark EMA"	"Denmark"	"Sct. Clements, Copenhagen"	55.6753	12.5683	"C14"				1050	1150	1250	"HV9a1a"	"R1a1a1b1a3a1a"	"Tooth"		"1240k"	"None"	"single"			447529	1.0801	0.153	0.008349					"PASS"	
-"KPN003"	"F"	16194	"Denmark EMA"	"Denmark"	"Sct. Clements, Copenhagen"	55.6753	12.5683	"C14"				1050	1150	1250	"H31"		"Tooth"		"1240k"	"None"	"single"			805450	3.5643	0.144						"PASS"	
-"KPN004"	"F"	19235	"Denmark EMA"	"Denmark"	"Sct. Clements, Copenhagen"	55.6753	12.5683	"C14"				1050	1150	1250	"H2a1"		"Tooth"		"1240k"	"None"	"single"			693735	2.7637	0.2276						"PASS"	
-"KPN005"	"F"	19712	"Denmark EMA"	"Denmark"	"Sct. Clements, Copenhagen"	55.6753	12.5683	"C14"				1050	1150	1250	"U2e2a1"		"Tooth"		"1240k"	"None"	"single"			521216	1.5298	0.2846						"PASS"	
-"KPN006"	"F"	20597	"Denmark EMA"	"Denmark"	"Sct. Clements, Copenhagen"	55.6753	12.5683	"C14"				1050	1150	1250	"T2b5a1"		"Tooth"		"1240k"	"None"	"single"			641599	2.3728	0.1897						"PASS"	
-"KPN007"	"F"	24076	"Denmark EMA"	"Denmark"	"Sct. Clements, Copenhagen"	55.6753	12.5683	"C14"				1050	1150	1250	"H1b"		"Tooth"		"1240k"	"None"	"single"			654506	2.4082	0.1766						"PASS"	
-"KPN008"	"F"	25424	"Denmark EMA"	"Denmark"	"Sct. Clements, Copenhagen"	55.6753	12.5683	"C14"				1050	1150	1250	"H3h"		"Tooth"		"1240k"	"None"	"single"			512541	1.4466	0.097						"PASS"	
-"KPN009"	"F"	25830	"Denmark EMA"	"Denmark"	"Sct. Clements, Copenhagen"	55.6753	12.5683	"C14"				1050	1150	1250	"W1+119"		"Tooth"		"1240k"	"None"	"single"			398712	0.9002	0.1572						"PASS"	
-"KPN010"	"M"	30393	"Denmark EMA"	"Denmark"	"Sct. Clements, Copenhagen"	55.6753	12.5683	"C14"				1050	1150	1250	"I2"	"BT"	"Tooth"		"1240k"	"None"	"single"			10961	0.0155	0.2136	"NA"					"PASS"	
-"KPN011"	"M"	30905	"Denmark EMA"	"Denmark"	"Sct. Clements, Copenhagen"	55.6753	12.5683	"C14"				1050	1150	1250	"H6a1a"	"G2a2b2a1a1b1a"	"Tooth"		"1240k"	"None"	"single"			747775	3.0677	0.1314	0.005636					"PASS"	
-"KPN012"	"F"	31074	"Denmark EMA"	"Denmark"	"Sct. Clements, Copenhagen"	55.6753	12.5683	"C14"				1050	1150	1250	"H10c1"		"Tooth"		"1240k"	"None"	"single"			803129	3.8955	0.1237						"PASS"	
-"KPN013"	"F"	32248	"Denmark EMA"	"Denmark"	"Sct. Clements, Copenhagen"	55.6753	12.5683	"C14"				1050	1150	1250	"I2d"		"Tooth"		"1240k"	"None"	"single"			551096	1.571	0.2381						"PASS"	
-"KPN014"	"F"	32345	"Denmark EMA"	"Denmark"	"Sct. Clements, Copenhagen"	55.6753	12.5683	"C14"				1050	1150	1250	"HV+16311"		"Tooth"		"1240k"	"None"	"single"			679612	2.4266	0.1696						"PASS"	
-"KPN015"	"F"	33618	"Denmark EMA"	"Denmark"	"Sct. Clements, Copenhagen"	55.6753	12.5683	"C14"				1050	1150	1250	"V3c"		"Tooth"		"1240k"	"None"	"single"			420672	0.9002	0.1672						"PASS"	
-"I16508"	"M"	"SB 481B"	"England EMA"	"England"	"Wolverton, Radcliffe School "	52.0624	-0.8162	"C14"	1360	30	"SUERC-31585"	600	655	710	"J1c5"	"I1a3"	"Petrous"		"1240k"	"Half"	"single"			709781	1.537873	0.13	0.00685					"PASS"	
-"I16509"	"M"	"SB483B"	"England EMA"	"England"	"Wolverton, Radcliffe School "	52.0624	-0.8162	"C14"	1395	30	"SUERC-31583"	600	635.5	671	"U5b2a1b"	"I1a1b1"	"Petrous"		"1240k"	"Half"	"single"			798178	3.468551	0.091	0.00297					"PASS"	
-"I16510"	"F"	"SB 484A"	"England EMA"	"England"	"Wolverton, Radcliffe School "	52.0624	-0.8162	"C14"	1420	30	"SUERC-31578"	580	620	660	"H"		"Petrous"		"1240k"	"Half"	"single"			792146	3.852548	0.098						"PASS"	
-"I3037"	"F"	"SB 482B2"	"England EMA"	"England"	"Wolverton, Radcliffe School "	52.0624	-0.8162	"C14"	1350	30	"SUERC-31579"	630	679.5	729	"W"		"Petrous"		"1240k"	"Half"	"single"			634292	1.23	0.023						"PASS"	
-"ELY001"	"F"	"Sk 2209"	"England EMA"	"England"	"Ely"	52.4001	0.2607	"C14"	1562	32	"SUERC-76688"	418	492	566	"J1c2b"		"Petrous"		"Shotgun"	"Half"	"double"			399065	0.3617	0.1152						"PASS"	
-"ELY002"	"F"	"Sk 1918"	"England EMA"	"England"	"Ely"	52.4001	0.2607	"C14"	1609	19	"MAMS 52104"	417	477	537	"H1bb"		"Petrous"		"Shotgun"	"Half"	"double"			1002637	1.6432	0.0982						"PASS"	
-"ELY003"	"M"	"Sk 1953"	"England EMA"	"England"	"Ely"	52.4001	0.2607	"C14"				500	600	700	"HV9a1a"	"R1b1a1b1a1"	"Petrous"		"Shotgun"	"Half"	"double"			536692	0.5259	0.1102	0.006351					"PASS"	
-"ELY004"	"M"	"Sk 2129"	"England EMA"	"England"	"Ely"	52.4001	0.2607	"C14"				500	600	700	"U5a1a1"	"I1~ "	"Petrous"		"Shotgun"	"Half"	"double"			258210	0.2153	0.1168	0.005788					"PASS"	
-"ELY005"	"M"	"Sk 1932"	"England EMA"	"England"	"Ely"	52.4001	0.2607	"C14"	1574	19	"MAMS 52105"	430	489.5	549	"U5a1a1"	"I1a2b1c1a~"	"Petrous"		"Shotgun"	"Half"	"double"			1089302	2.058	0.089	0.004995					"PASS"	
-"ELY006"	"F"	"Sk 2124"	"England EMA"	"England"	"Ely"	52.4001	0.2607	"C14"				500	600	700	"H26a"		"Petrous"		"Shotgun"	"Half"	"double"			507119	0.4972	0.083						"PASS"	
-"HAD001"	"M"	"Sk 224"	"England EMA"	"England"	"Hatherdene Close"	52.1968	0.1703	"C14"	1511	19	"MAMS 52106"	544	572.5	601	"U4c1a"	"R1b1a1b1a1a2c1a "	"Petrous"		"Shotgun"	"Half"	"double"			1072790	1.9262	0.0742	0.007229					"PASS"	
-"HAD002"	"F"	"Sk 225"	"England EMA"	"England"	"Hatherdene Close"	52.1968	0.1703	"C14"	1607	28	"SUERC-84136"	416	478.5	541	"J1c5a1"		"Petrous"		"Shotgun"	"Half"	"double"			1043515	1.8629	0.0876						"PASS"	
-"HAD003"	"M"	"Sk 259"	"England EMA"	"England"	"Hatherdene Close"	52.1968	0.1703	"C14"	1561	33	"SUERC-71018"	424	499.5	575	"J1c2b"	"I1~ "	"Petrous"		"Shotgun"	"Half"	"double"			445452	0.4052	0.1226	0.007073					"PASS"	
-"HAD004"	"F"	"Sk 294"	"England EMA"	"England"	"Hatherdene Close"	52.1968	0.1703	"C14"				400	500	600	"V10a"		"Petrous"		"Shotgun"	"Half"	"double"			713608	0.813	0.0645						"PASS"	
-"HAD005"	"M"	"Sk 640"	"England EMA"	"England"	"Hatherdene Close"	52.1968	0.1703	"C14"				400	500	600	"T2b13"	"R1b1a1b1a1a1b"	"Petrous"		"Shotgun"	"Half"	"double"			1073153	1.9404	0.075	0.005736					"PASS"	
-"HAD006"	"M"	"Sk 967"	"England EMA"	"England"	"Hatherdene Close"	52.1968	0.1703	"C14"	1616	20	"MAMS 52107"	415	476	537	"HV6"	"R1b1a1b1a1a1b1a "	"Petrous"		"Shotgun"	"Half"	"double"			147989	0.1164	0.0699	0.010747					"PASS"	
-"HAD007"	"F"	"Sk 1229"	"England EMA"	"England"	"Hatherdene Close"	52.1968	0.1703	"C14"				400	500	600	"K1c1"		"Petrous"		"Shotgun"	"Half"	"double"			508933	0.4869	0.0975						"PASS"	
-"HAD008"	"F"	"Sk 226"	"England EMA"	"England"	"Hatherdene Close"	52.1968	0.1703	"C14"				400	500	600	"H11a"		"Petrous"		"Shotgun"	"Half"	"double"			716953	0.865	0.0573						"PASS"	
-"HAD009"	"M"	"Sk 228"	"England EMA"	"England"	"Hatherdene Close"	52.1968	0.1703	"C14"				400	500	600	"T2b"	"R1b1a1b1a1a1e2a"	"Petrous"		"1240k"	"Half"	"double"			787518	1.5335	0.1013	0.00234					"PASS"	
-"HAD010"	"F"	"Sk 285"	"England EMA"	"England"	"Hatherdene Close"	52.1968	0.1703	"C14"	1581	18	"MAMS 52080"	429	486.5	544	"U5a2b"		"Petrous"		"Shotgun"	"Half"	"double"			791764	1.0465	0.0663						"PASS"	
-"HAD011"	"M"	"Sk 422"	"England EMA"	"England"	"Hatherdene Close"	52.1968	0.1703	"C14"				400	500	600	"K2a6"	"R1b1a1b1a1a1c2b2a1b1"	"Petrous"		"1240k"	"Half"	"double"			890461	2.189	0.106	0.00367					"PASS"	
-"HAD012"	"F"	"Sk 956"	"England EMA"	"England"	"Hatherdene Close"	52.1968	0.1703	"C14"	1600	19	"MAMS 52081"	421	479	537	"HV6"		"Petrous"		"1240k"	"Half"	"double"			921486	2.3867	0.0736						"PASS"	
-"HAD013"	"F"	"Sk 1098"	"England EMA"	"England"	"Hatherdene Close"	52.1968	0.1703	"C14"	1582	33	"SUERC-71017"	419	488	557	"H2c"		"Petrous"		"Shotgun"	"Half"	"double"			770839	0.9988	0.0861						"PASS"	
-"HAD014"	"F"	"Sk 1116"	"England EMA"	"England"	"Hatherdene Close"	52.1968	0.1703	"C14"				400	500	600	"K1a4a1a2b"		"Petrous"		"1240k"	"Half"	"double"			934380	2.6073	0.0849						"PASS"	
-"HAD015"	"M"	"Sk 1138"	"England EMA"	"England"	"Hatherdene Close"	52.1968	0.1703	"C14"				400	500	600	"T2b24"	"I1~"	"Petrous"		"Shotgun"	"Half"	"double"			777497	1.0316	0.0803	0.005064					"PASS"	
-"HAD016"	"M"	"Sk 1261"	"England EMA"	"England"	"Hatherdene Close"	52.1968	0.1703	"C14"	1526	19	"MAMS 52108"	444	521.5	599	"J1c5a1"	"I1~"	"Petrous"		"1240k"	"Half"	"double"			771881	1.36	0.0611	0.011849					"PASS"	
-"HAD017"	"M"	"Sk 1319"	"England EMA"	"England"	"Hatherdene Close"	52.1968	0.1703	"C14"	1594	19	"MAMS 52109"	425	482	539	"H4a1a1a"	"R1b1a1b1a1a3a"	"Petrous"		"1240k"	"Half"	"double"			901262	2.2167	0.0713	0.00579					"PASS"	
-"HAD018"	"M"	"SK 224"	"England EMA"	"England"	"Hatherdene Close"	52.1968	0.1703	"C14"				544	572.5	601	"U4c1a"	"R1b1a1b1a1a2c1"	"Petrous"		"1240k"	"None"	"single"			838425	4.3053	0.2611	0.017928					"PASS"	
-"I0790"	"M"	"LintonSk352"	"England EMA"	"England"	"Linton"	52.0991	0.277	"C14"			"SUERC-20250"	635	786	937	"U8b1a1"	"I1"	"Tooth"		"1240k"	"Half"	"double"			79943	0.071	0.05	"NA"					"PASS"	
-"I0791"	"F"	"Linton351"	"England EMA"	"England"	"Linton"	52.0991	0.277	"C14"			"SUERC-20250"	635	786	937	"U8b1a1"		"Tooth"		"1240k"	"Half"	"double"			368056	0.41	0.082						"PASS"	
-"I0763"	"F"	"Oakington1375"	"England EMA"	"England"	"Oakington"	52.2614	0.0687	"C14"				400	500	600	"H4a1a2a"		"Tooth"		"1240k"	"Half"	"double"			176933	0.164	0.148						"PASS"	
-"I0764"	"F"	"Oakington1395"	"England EMA"	"England"	"Oakington"	52.2614	0.0687	"C14"				400	500	600	"J1c2"		"Tooth"		"1240k"	"Half"	"double"			163320	0.151	0.168						"PASS"	
-"I0765"	"F"	"Oakington1411"	"England EMA"	"England"	"Oakington"	52.2614	0.0687	"C14"				400	500	600	"H5a1g1a"		"Tooth"		"1240k"	"Half"	"double"			294605	0.316	0.125						"PASS"	
-"I0766"	"F"	"Oakington1450"	"England EMA"	"England"	"Oakington"	52.2614	0.0687	"C14"				400	500	600	"K2b1a1"		"Tooth"		"1240k"	"Half"	"double"			861155	2.192	0.141						"PASS"	
-"I0767"	"F"	"Oakington1747"	"England EMA"	"England"	"Oakington"	52.2614	0.0687	"C14"				400	500	600	"J2a1a1c"		"Tooth"		"1240k"	"Half"	"double"			232013	0.222	0.149						"PASS"	
-"I0768"	"F"	"Oakington1740"	"England EMA"	"England"	"Oakington"	52.2614	0.0687	"C14"				400	500	600	"K2b1a1"		"Tooth"		"1240k"	"Half"	"double"			80016	0.071	0.108						"PASS"	
-"I0771"	"F"	"Oakington1785"	"England EMA"	"England"	"Oakington"	52.2614	0.0687	"C14"				400	500	600	"U5a1b"		"Tooth"		"1240k"	"Half"	"double"			160425	0.15	0.154						"PASS"	
-"I0772"	"M"	"Oakington1866"	"England EMA"	"England"	"Oakington"	52.2614	0.0687	"C14"				400	500	600	"H1b1"	"I1a2a"	"Tooth"		"1240k"	"Half"	"double"			198654	0.185	0.143	"NA"					"PASS"	
-"I0775"	"M"	"Oakington2222"	"England EMA"	"England"	"Oakington"	52.2614	0.0687	"C14"				400	500	600	"J2a1a1a2"	"I1"	"Tooth"		"1240k"	"Half"	"double"			159450	0.146	0.136	"NA"					"PASS"	
-"I0792"	"F"	"Oakington887"	"England EMA"	"England"	"Oakington"	52.2614	0.0687	"C14"				600	750	900	"T2f"		"Tooth"		"1240k"	"Half"	"double"			123518	0.113	0.106						"PASS"	
-"OAI001"	"M"	"Grave 56"	"England EMA"	"England"	"Oakington"	52.2601	0.0612	"C14"				400	500	600	"J2a1a1a2"	"R1b1a1b1a1a1c2b2b1a1a1"	"Petrous"		"Shotgun"	"Half"	"double"			664772	0.7051	0.0961	0.005566					"PASS"	
-"OAI002"	"M"	"Grave 62"	"England EMA"	"England"	"Oakington"	52.2601	0.0612	"C14"				400	500	600	"HV9a1a"	"R1b1a1b1a1"	"Petrous"		"Shotgun"	"Half"	"double"			348619	0.3058	0.0885	0.002163					"PASS"	
-"OAI003"	"F"	"Grave 61"	"England EMA"	"England"	"Oakington"	52.2601	0.0612	"C14"				400	500	600	"H5a1g1a"		"Petrous"		"Shotgun"	"Half"	"double"			670477	0.7338	0.1023						"PASS"	
-"OAI004"	"F"	"Grave 80"	"England EMA"	"England"	"Oakington"	52.2601	0.0612	"C14"	1513	31	"UBA-22691"	473	559	645	"K2b1a1a"		"Petrous"		"Shotgun"	"Half"	"double"			1119016	2.4852	0.0979						"PASS"	
-"OAI005"	"M"	"Grave 88a"	"England EMA"	"England"	"Oakington"	52.2601	0.0612	"C14"				400	500	600	"U5b2b1a1"	"I1a2a2a1~ "	"Petrous"		"Shotgun"	"Half"	"double"			1070441	1.9608	0.0972	0.005303					"PASS"	
-"OAI006"	"M"	"Grave 88b"	"England EMA"	"England"	"Oakington"	52.2601	0.0612	"C14"	1471	28	"UBA-22696"	549	595.5	642	"X2b4a"	"R1b1a1b1a1a1"	"Petrous"		"Shotgun"	"Half"	"double"			479634	0.4484	0.1035	0.003514					"PASS"	
-"OAI007"	"F"	"Grave 78a"	"England EMA"	"England"	"Oakington"	52.2601	0.0612	"C14"	1487	30	"UBA-22690"	473	559	645	"J2a1a1c"		"Petrous"		"Shotgun"	"Half"	"double"			1026597	1.7714	0.1179						"PASS"	
-"OAI008"	"M"	"Grave 34"	"England EMA"	"England"	"Oakington"	52.2601	0.0612	"C14"	1522	19	"MAMS 52117"	482	541	600	"H4a1a1a"	"I1a2a"	"Petrous"		"1240k"	"Half"	"double"			918797	2.4471	0.1089	0.006126					"PASS"	
-"OAI009"	"M"	"Grave 44"	"England EMA"	"England"	"Oakington"	52.2601	0.0612	"C14"	1570	20	"MAMS 52118"	432	494	556	"H18b"	"I1a2  "	"Petrous"		"1240k"	"Half"	"double"			885099	2.2635	0.0927	0.00287					"PASS"	
-"OAI010"	"F"	"Grave 39"	"England EMA"	"England"	"Oakington"	52.2601	0.0612	"C14"	1597	17	"MAMS 52119"	424	480.5	537	"H24a"		"Petrous"		"1240k"	"Half"	"double"			839139	1.9178	0.0826						"PASS"	
-"OAI011"	"F"	"Grave 40"	"England EMA"	"England"	"Oakington"	52.2601	0.0612	"C14"				400	500	600	"T2+16189"		"Petrous"		"1240k"	"Half"	"double"			918749	2.5587	0.0903						"PASS"	
-"OAI012"	"M"	"Grave 13"	"England EMA"	"England"	"Oakington"	52.2601	0.0612	"C14"	1615	20	"MAMS 52120"	415	476	537	"I2a2"	"R1b1a1b1a1a2c1a5b1a1a"	"Petrous"		"1240k"	"Half"	"double"			863415	2.0942	0.0881	0.005204					"PASS"	
-"OAI013"	"M"	"Grave 21"	"England EMA"	"England"	"Oakington"	52.2601	0.0612	"C14"	1574	20	"MAMS 52121"	429	489.5	550	"U4a2"	"R1b1a1b1a1a1"	"Petrous"		"1240k"	"Half"	"double"			863659	2.0209	0.1026	0.003594					"PASS"	
-"OAI015"	"F"	"Grave 109a"	"England EMA"	"England"	"Oakington"	52.2601	0.0612	"C14"	1566	20	"MAMS 52122"	433	496.5	560	"V"		"Petrous"		"1240k"	"Half"	"double"			808141	1.7618	0.1046						"PASS"	
-"OAI016"	"F"	"Grave 109b"	"England EMA"	"England"	"Oakington"	52.2601	0.0612	"C14"	1589	20	"MAMS 52123"	425	483	541	"H1+16189"		"Petrous"		"1240k"	"Half"	"double"			763001	1.5043	0.0886						"PASS"	
-"OAI017"	"F"	"Grave 109c"	"England EMA"	"England"	"Oakington"	52.2601	0.0612	"C14"				400	500	600	"V1a"		"Tooth"		"1240k"	"Half"	"double"			400824	0.4638	0.1072						"PASS"	
-"I16383"	"M"	"TB 193; 1972.58.1"	"England EMA"	"England"	"Bude, Widemouth Bay"	50.7898	-4.5545	"C14"				500	700	900	"U5a2a1"	"I1"	"Petrous"		"1240k"	"Half"	"single"			253693	0.250218	0.072	"NA"					"PASS"	
-"I16385"	"M"	"TB 198; 1700.815.1"	"England EMA"	"England"	"Newquay, Crantock"	50.4032	-5.112	"C14"				500	700	900	"H7d2a"	"R1b1a1b1a1a2"	"Petrous"		"1240k"	"Half"	"single"			93684	0.082564	0.081	"NA"					"PASS"	
-"I16389"	"M"	"TB 202; 1700.815.3"	"England EMA"	"England"	"Newquay, Crantock"	50.4032	-5.112	"C14"				500	700	900	"H1ad"	"R1b1a1b1b"	"Petrous"		"1240k"	"Half"	"single"			181996	0.168802	0.079	"NA"					"PASS"	
-"I11567"	"M"	"1633A"	"England EMA"	"England"	"Worth Matravers"	50.5968	-2.0382	"C14"				500	600	700	"K1a2a"	"R1b1a1b"	"Tooth"		"1240k"	"Half"	"single"			89918	0.077903	0.104	"NA"					"PASS"	
-"I11568"	"M"	1640	"England EMA"	"England"	"Worth Matravers"	50.5968	-2.0382	"C14"				500	600	700	"K1a2a"	"I1"	"Tooth"		"1240k"	"Half"	"single"			31346	0.027391	0.142	"NA"					"PASS"	
-"I11569"	"F"	1649	"England EMA"	"England"	"Worth Matravers"	50.5968	-2.0382	"C14"				500	600	700	"T2a1a"		"Tooth"		"1240k"	"Half"	"single"			271187	0.268924	0.094						"PASS"	
-"I11570"	"M"	"1633B"	"England EMA"	"England"	"Worth Matravers"	50.5968	-2.0382	"C14"				500	600	700	"U5b1"	"NA"	"Tooth"		"1240k"	"Half"	"single"			36236	0.030267	0.051	"NA"					"PASS"	
-"I11571"	"F"	1664	"England EMA"	"England"	"Worth Matravers"	50.5968	-2.0382	"C14"				500	600	700	"H11a"		"Tooth"		"1240k"	"Half"	"single"			258761	0.251838	0.067						"PASS"	
-"I11573"	"M"	1670	"England EMA"	"England"	"Worth Matravers"	50.5968	-2.0382	"C14"				500	600	700	"HV6"	"R1b1a1b1a1"	"Tooth"		"1240k"	"Half"	"single"			57929	0.049164	0.106	"NA"					"PASS"	
-"I11574"	"M"	"1678A"	"England EMA"	"England"	"Worth Matravers"	50.5968	-2.0382	"C14"				500	600	700	"HV6"	"R1b1a1b1a1"	"Tooth"		"1240k"	"Half"	"single"			71621	0.061573	0.108	"NA"					"PASS"	
-"I11575"	"F"	"1678B"	"England EMA"	"England"	"Worth Matravers"	50.5968	-2.0382	"C14"				500	600	700	"HV6"		"Tooth"		"1240k"	"Half"	"single"			7592	0.006322	0.094						"PASS"	
-"I11576"	"F"	"1685A"	"England EMA"	"England"	"Worth Matravers"	50.5968	-2.0382	"C14"				500	600	700	"H1bb"		"Tooth"		"1240k"	"Half"	"single"			93831	0.083117	0.116						"PASS"	
-"I11577"	"M"	"1685B"	"England EMA"	"England"	"Worth Matravers"	50.5968	-2.0382	"C14"				500	600	700	"H1e1a"	"R1b1a1b1a1"	"Tooth"		"1240k"	"Half"	"single"			84382	0.072758	0.101	"NA"					"PASS"	
-"I11578"	"M"	"1685C"	"England EMA"	"England"	"Worth Matravers"	50.5968	-2.0382	"C14"				500	600	700	"H1bb"	"R1b1a1b1a1"	"Tooth"		"1240k"	"Half"	"single"			48994	0.041351	0.098	"NA"					"PASS"	
-"I11579"	"F"	1697	"England EMA"	"England"	"Worth Matravers"	50.5968	-2.0382	"C14"				500	600	700	"U5b2c1"		"Tooth"		"1240k"	"Half"	"single"			301393	0.304101	0.078						"PASS"	
-"I11580"	"M"	1715	"England EMA"	"England"	"Worth Matravers"	50.5968	-2.0382	"C14"				500	600	700	"T2a1a"	"R1b1a1b1a1a2c1a"	"Tooth"		"1240k"	"Half"	"single"			26929	0.022383	0.104	"NA"					"PASS"	
-"I11581"	"M"	1722	"England EMA"	"England"	"Worth Matravers"	50.5968	-2.0382	"C14"				500	600	700	"H5c"	"I2a1a2a"	"Tooth"		"1240k"	"Half"	"single"			204022	0.192698	0.073	"NA"					"PASS"	
-"I11582"	"M"	1778	"England EMA"	"England"	"Worth Matravers"	50.5968	-2.0382	"C14"				500	600	700	"T2a1a"	"R1b1a1"	"Tooth"		"1240k"	"Half"	"single"			25833	0.021474	0.082	"NA"					"PASS"	
-"I20636"	"M"	1660	"England EMA"	"England"	"Worth Matravers"	50.5968	-2.0382	"C14"				500	600	700	"HV6"	"R1b1a1b"	"Tooth"		"1240k"	"Half"	"single"			35318	0.03	0.166	"NA"					"PASS"	
-"I20637"	"M"	1722	"England EMA"	"England"	"Worth Matravers"	50.5968	-2.0382	"C14"				500	600	700	"J1c1b1a"	"I1a2"	"Tooth"		"1240k"	"Half"	"single"			521002	0.638	0.136	0.011					"PASS"	
-"I17277"	"M"	"H05 17; U/S"	"England EMA"	"England"	"Hartlepool, Olive Street"	54.6976	-1.181	"C14"				600	750	900	"K2a6"	"R1b1a1b1a1a2e"	"Petrous"		"1240k"	"Half"	"single"			661635	2.429644	0.115	0.00453					"PASS"	
-"BUK001"	"M"	201	"England EMA"	"England"	"Dover Buckland"	51.1398	1.3007	"C14"				400	600	800	"HV9a1a"	"R1b1a1b1a1a"	"Petrous"		"1240k"	"None"	"single"			500088	1.0543	0.24782	0.012629					"PASS"	
-"BUK002"	"F"	202	"England EMA"	"England"	"Dover Buckland"	51.1398	1.3007	"C14"				400	600	800	"H1e1a"		"Petrous"		"1240k"	"None"	"single"			359288	0.6639	0.35369						"PASS"	
-"BUK003"	"F"	204	"England EMA"	"England"	"Dover Buckland"	51.1398	1.3007	"C14"				400	600	800	"H1g1"		"Petrous"		"1240k"	"None"	"single"			552747	1.2324	0.24727						"PASS"	
-"BUK004"	"F"	205	"England EMA"	"England"	"Dover Buckland"	51.1398	1.3007	"C14"				400	600	800	"H1g1"		"Petrous"		"1240k"	"None"	"single"			218112	0.3549	0.24934						"PASS"	
-"BUK005"	"F"	222	"England EMA"	"England"	"Dover Buckland"	51.1398	1.3007	"C14"	1550	19	"UB-6472"	430	497.5	565	"T1a1a"		"Petrous"		"1240k"	"None"	"single"			688248	1.7913	0.29856						"PASS"	
-"BUK006"	"M"	227	"England EMA"	"England"	"Dover Buckland"	51.1398	1.3007	"C14"				400	600	800	"H4a1a"	"R1b1a1b1a1a1 "	"Petrous"		"1240k"	"None"	"single"			334961	0.6089	0.29043	0.034812					"PASS"	
-"BUK007"	"M"	231	"England EMA"	"England"	"Dover Buckland"	51.1398	1.3007	"C14"				400	600	800	"H24a"	"R1b1a1b1a1a1"	"Petrous"		"1240k"	"None"	"single"			350565	0.6465	0.30944	0.019666					"PASS"	
-"BUK008"	"F"	250	"England EMA"	"England"	"Dover Buckland"	51.1398	1.3007	"C14"	1572	22	"UB-6473"	425	485	545	"V2"		"Petrous"		"1240k"	"None"	"single"			447192	0.908	0.24894						"PASS"	
-"BUK009"	"M"	252	"England EMA"	"England"	"Dover Buckland"	51.1398	1.3007	"C14"				400	600	800	"J1b1a1b"	"R1b1a1b1a1a1"	"Petrous"		"1240k"	"None"	"single"			671684	1.7414	0.26139	0.015725					"PASS"	
-"BUK010"	"M"	256	"England EMA"	"England"	"Dover Buckland"	51.1398	1.3007	"C14"				400	600	800	"HV9"	"R1b1a1b1a1a1 "	"Petrous"		"1240k"	"None"	"single"			608169	1.453	0.2967	0.014988					"PASS"	
-"BUK011"	"M"	258	"England EMA"	"England"	"Dover Buckland"	51.1398	1.3007	"C14"				400	600	800	"J1c3f"	"R1b1a1b1a1a1"	"Petrous"		"1240k"	"None"	"single"			401348	0.7736	0.2703	0.017326					"PASS"	
-"BUK012"	"M"	260	"England EMA"	"England"	"Dover Buckland"	51.1398	1.3007	"C14"				400	600	800	"H105a"	"R1b1a1b1a1a1"	"Petrous"		"1240k"	"None"	"single"			244000	0.4097	0.26811	0.008325					"PASS"	
-"BUK013"	"M"	264	"England EMA"	"England"	"Dover Buckland"	51.1398	1.3007	"C14"	1528	17	"UB-6474"	435	462.5	490	"NA"		"Petrous"		"1240k"	"None"	"single"			2331	0.0033	0.28355	"NA"					"QUESTIONABLE CRITICAL (mtDNA contamination FAILED, Y chromosome contamination FAILED)"	
-"BUK014"	"F"	266	"England EMA"	"England"	"Dover Buckland"	51.1398	1.3007	"C14"				400	600	800	"T2b"		"Petrous"		"1240k"	"None"	"single"			106394	0.1594	0.28213						"PASS"	
-"BUK015"	"M"	279	"England EMA"	"England"	"Dover Buckland"	51.1398	1.3007	"C14"				400	600	800	"H2a2a1"	"I1~"	"Petrous"		"1240k"	"None"	"single"			98149	0.1473	0.25113	-0.007821					"PASS"	
-"BUK016"	"F"	280	"England EMA"	"England"	"Dover Buckland"	51.1398	1.3007	"C14"				400	600	800	"H1e2"		"Petrous"		"1240k"	"None"	"single"			527596	1.1547	0.2585						"PASS"	
-"BUK017"	"F"	281	"England EMA"	"England"	"Dover Buckland"	51.1398	1.3007	"C14"				400	600	800	"H6a1b3"		"Petrous"		"1240k"	"None"	"single"			197558	0.319	0.28211						"PASS"	
-"BUK018"	"M"	284	"England EMA"	"England"	"Dover Buckland"	51.1398	1.3007	"C14"				400	600	800	"U5b2a2a1"	"R1b1a1b1a1a2"	"Petrous"		"1240k"	"None"	"single"			785989	2.392	0.26786	0.013171					"PASS"	
-"BUK019"	"F"	288	"England EMA"	"England"	"Dover Buckland"	51.1398	1.3007	"C14"				400	600	800	"J1c3f"		"Petrous"		"1240k"	"None"	"single"			608908	1.4895	0.31209						"PASS"	
-"BUK020"	"F"	289	"England EMA"	"England"	"Dover Buckland"	51.1398	1.3007	"C14"				400	600	800	"U5b2b3"		"Petrous"		"1240k"	"None"	"single"			550158	1.2336	0.248						"PASS"	
-"BUK021"	"F"	290	"England EMA"	"England"	"Dover Buckland"	51.1398	1.3007	"C14"				400	600	800	"H1c3a"		"Petrous"		"1240k"	"None"	"single"			559819	1.2696	0.2638						"PASS"	
-"BUK022"	"M"	291	"England EMA"	"England"	"Dover Buckland"	51.1398	1.3007	"C14"				400	600	800	"J1c3c (?)"	"R1b1a1b1a1a2"	"Petrous"		"1240k"	"None"	"single"			56500	0.0832	0.30394	-0.026837					"PASS"	
-"BUK023"	"M"	292	"England EMA"	"England"	"Dover Buckland"	51.1398	1.3007	"C14"				400	600	800	"J1c3f"	"R1b1a1b1"	"Petrous"		"1240k"	"None"	"single"			368385	0.69	0.31781	0.017171					"PASS"	
-"BUK024"	"M"	297	"England EMA"	"England"	"Dover Buckland"	51.1398	1.3007	"C14"				400	600	800	"U5a1b"	"I2a1b2a"	"Petrous"		"1240k"	"None"	"single"			180246	0.2917	0.26161	0.018268					"PASS"	
-"BUK025"	"M"	300	"England EMA"	"England"	"Dover Buckland"	51.1398	1.3007	"C14"				400	600	800	"H4a1a4b"	"R1b1a1b1a1a1"	"Petrous"		"1240k"	"None"	"single"			525643	1.1538	0.2801	0.010609					"PASS"	
-"BUK026"	"F"	304	"England EMA"	"England"	"Dover Buckland"	51.1398	1.3007	"C14"				400	600	800	"H1c3a"		"Petrous"		"1240k"	"None"	"single"			141628	0.2185	0.24731						"PASS"	
-"BUK027"	"M"	305	"England EMA"	"England"	"Dover Buckland"	51.1398	1.3007	"C14"				400	600	800	"H1c3a"	"R1b1a1b1a1a1c1a"	"Petrous"		"1240k"	"None"	"single"			344414	0.6269	0.2595	0.024625					"PASS"	
-"BUK028"	"F"	306	"England EMA"	"England"	"Dover Buckland"	51.1398	1.3007	"C14"				400	600	800	"U5a1a2b"		"Petrous"		"1240k"	"None"	"single"			598880	1.4776	0.27212						"PASS"	
-"BUK029"	"F"	308	"England EMA"	"England"	"Dover Buckland"	51.1398	1.3007	"C14"				400	600	800	"H39"		"Petrous"		"1240k"	"None"	"single"			543048	1.2035	0.28195						"PASS"	
-"BUK030"	"F"	309	"England EMA"	"England"	"Dover Buckland"	51.1398	1.3007	"C14"				400	600	800	"H1c1a"		"Petrous"		"1240k"	"None"	"single"			675953	1.8114	0.28688						"PASS"	
-"BUK031"	"F"	311	"England EMA"	"England"	"Dover Buckland"	51.1398	1.3007	"C14"				400	600	800	"H2a2a1"		"Petrous"		"1240k"	"None"	"single"			342911	0.6308	0.28532						"PASS"	
-"BUK032"	"F"	313	"England EMA"	"England"	"Dover Buckland"	51.1398	1.3007	"C14"				400	600	800	"H1b1"		"Petrous"		"1240k"	"None"	"single"			366929	0.687	0.2822						"PASS"	
-"BUK033"	"F"	319	"England EMA"	"England"	"Dover Buckland"	51.1398	1.3007	"C14"				400	600	800	"U5a1a1+16362"		"Petrous"		"1240k"	"None"	"single"			468801	0.9604	0.25984						"PASS"	
-"BUK034"	"F"	321	"England EMA"	"England"	"Dover Buckland"	51.1398	1.3007	"C14"				400	600	800	"H1bw"		"Petrous"		"1240k"	"None"	"single"			677294	1.7953	0.29146						"PASS"	
-"BUK035"	"M"	323	"England EMA"	"England"	"Dover Buckland"	51.1398	1.3007	"C14"	1491	18	"UB-6474"	540	580	620	"H6a1"	"R1b1a1b1a1a1c2b"	"Petrous"		"1240k"	"None"	"single"			212468	0.3484	0.26025	-0.011109					"PASS"	
-"BUK036"	"F"	327	"England EMA"	"England"	"Dover Buckland"	51.1398	1.3007	"C14"				400	600	800	"H1e2c"		"Petrous"		"1240k"	"None"	"single"			399091	0.7703	0.27227						"PASS"	
-"BUK037"	"M"	328	"England EMA"	"England"	"Dover Buckland"	51.1398	1.3007	"C14"				400	600	800	"H3b6"	"I2a1b1a2b1a~"	"Petrous"		"1240k"	"None"	"single"			561989	1.3064	0.28174	0.016892					"PASS"	
-"BUK038"	"M"	338	"England EMA"	"England"	"Dover Buckland"	51.1398	1.3007	"C14"				400	600	800	"H"	"I1~ "	"Petrous"		"1240k"	"None"	"single"			711260	1.8949	0.27363	0.019897					"PASS"	
-"BUK039"	"F"	339	"England EMA"	"England"	"Dover Buckland"	51.1398	1.3007	"C14"	1592	17	"UB-6476"	420	480	540	"X2l"		"Petrous"		"1240k"	"None"	"single"			656637	1.6984	0.22817						"PASS"	
-"BUK040"	"M"	342	"England EMA"	"England"	"Dover Buckland"	51.1398	1.3007	"C14"				400	600	800	"J2a1a1a2"	"R1b1a1b1a1a1c2b2a1b"	"Petrous"		"1240k"	"None"	"single"			641675	1.6071	0.26622	0.024835					"PASS"	
-"BUK041"	"F"	344	"England EMA"	"England"	"Dover Buckland"	51.1398	1.3007	"C14"				400	600	800	"U5a2b"		"Petrous"		"1240k"	"None"	"single"			577197	1.3286	0.27346						"PASS"	
-"BUK042"	"M"	346	"England EMA"	"England"	"Dover Buckland"	51.1398	1.3007	"C14"				400	600	800	"H5a1c1a"	"R1b1a1b1a1a1"	"Petrous"		"1240k"	"None"	"single"			500659	1.0647	0.32906	0.015828					"PASS"	
-"BUK043"	"F"	347	"England EMA"	"England"	"Dover Buckland"	51.1398	1.3007	"C14"				400	600	800	"T2b"		"Petrous"		"1240k"	"None"	"single"			576963	1.3434	0.30854						"PASS"	
-"BUK044"	"F"	349	"England EMA"	"England"	"Dover Buckland"	51.1398	1.3007	"C14"				400	600	800	"T2b"		"Petrous"		"1240k"	"None"	"single"			639173	1.6007	0.30861						"PASS"	
-"BUK045"	"F"	355	"England EMA"	"England"	"Dover Buckland"	51.1398	1.3007	"C14"				400	600	800	"T1a1c"		"Petrous"		"1240k"	"None"	"single"			685914	1.8155	0.30749						"PASS"	
-"BUK046"	"F"	366	"England EMA"	"England"	"Dover Buckland"	51.1398	1.3007	"C14"				400	600	800	"K2a"		"Petrous"		"1240k"	"None"	"single"			612723	1.4955	0.25888						"PASS"	
-"BUK047"	"F"	367	"England EMA"	"England"	"Dover Buckland"	51.1398	1.3007	"C14"				400	600	800	"H1c2"		"Petrous"		"1240k"	"None"	"single"			510486	1.0896	0.30473						"PASS"	
-"BUK048"	"M"	375	"England EMA"	"England"	"Dover Buckland"	51.1398	1.3007	"C14"	1493	18	"UB-4958"	540	577.5	615	"H1a5"	"R1b1a1b1a1a1"	"Petrous"		"1240k"	"None"	"single"			684414	1.824	0.29557	0.012556					"PASS"	
-"BUK049"	"M"	382	"England EMA"	"England"	"Dover Buckland"	51.1398	1.3007	"C14"				400	600	800	"H3k1"	"R1b1a1b1a1a2"	"Petrous"		"1240k"	"None"	"single"			720591	2.0214	0.2769	0.013038					"PASS"	
-"BUK050"	"F"	383	"England EMA"	"England"	"Dover Buckland"	51.1398	1.3007	"C14"				400	600	800	"U5a2a1a"		"Petrous"		"1240k"	"None"	"single"			711253	1.9941	0.25513						"PASS"	
-"BUK051"	"M"	385	"England EMA"	"England"	"Dover Buckland"	51.1398	1.3007	"C14"				400	600	800	"V1a1"	"I1~"	"Petrous"		"1240k"	"None"	"single"			449748	0.9077	0.28886	0.02811					"PASS"	
-"BUK052"	"M"	394	"England EMA"	"England"	"Dover Buckland"	51.1398	1.3007	"C14"				400	600	800	"W4a1"	"I1~"	"Petrous"		"1240k"	"None"	"single"			675554	1.7618	0.2953	0.011229					"PASS"	
-"BUK053"	"M"	395	"England EMA"	"England"	"Dover Buckland"	51.1398	1.3007	"C14"				400	600	800	"H1c2"	"I2a1b1a2b1a1~"	"Petrous"		"1240k"	"None"	"single"			507655	1.0796	0.32357	0.01808					"PASS"	
-"BUK054"	"F"	398	"England EMA"	"England"	"Dover Buckland"	51.1398	1.3007	"C14"				400	600	800	"I4a"		"Petrous"		"1240k"	"None"	"single"			131550	0.2029	0.32232						"PASS"	
-"BUK055"	"M"	401	"England EMA"	"England"	"Dover Buckland"	51.1398	1.3007	"C14"				400	600	800	"U5a1a1"	"R1b1a1b1a1a2c1"	"Petrous"		"1240k"	"None"	"single"			672256	1.7255	0.26924	0.012416					"PASS"	
-"BUK056"	"F"	405	"England EMA"	"England"	"Dover Buckland"	51.1398	1.3007	"C14"				400	600	800	"U5a1b1d1"		"Petrous"		"1240k"	"None"	"single"			578413	1.3555	0.26576						"PASS"	
-"BUK057"	"F"	407	"England EMA"	"England"	"Dover Buckland"	51.1398	1.3007	"C14"				400	600	800	"H3"		"Petrous"		"1240k"	"None"	"single"			603226	1.4578	0.38133						"PASS"	
-"BUK058"	"F"	409	"England EMA"	"England"	"Dover Buckland"	51.1398	1.3007	"C14"				400	600	800	"HV2"		"Petrous"		"1240k"	"None"	"single"			619572	1.5295	0.22435						"PASS"	
-"BUK059"	"M"	414	"England EMA"	"England"	"Dover Buckland"	51.1398	1.3007	"C14"	1570	20	"UB-6477"	425	485	545	"H1c3a"	"R1b1a1b1a1a1"	"Petrous"		"1240k"	"None"	"single"			650200	1.6415	0.34399	0.019231					"PASS"	
-"BUK060"	"M"	416	"England EMA"	"England"	"Dover Buckland"	51.1398	1.3007	"C14"				400	600	800	"T1a1+@152"	"R1b1a1b1a1a1"	"Petrous"		"1240k"	"None"	"single"			260001	0.4457	0.28332	0.038021					"PASS"	
-"BUK061"	"F"	418	"England EMA"	"England"	"Dover Buckland"	51.1398	1.3007	"C14"				400	600	800	"V+@72 (?)"		"Petrous"		"1240k"	"None"	"single"			29297	0.0415	0.30798						"PASS"	
-"BUK062"	"F"	419	"England EMA"	"England"	"Dover Buckland"	51.1398	1.3007	"C14"				400	600	800	"K1a+195"		"Petrous"		"1240k"	"None"	"single"			687489	1.8324	0.30742						"PASS"	
-"BUK063"	"F"	420	"England EMA"	"England"	"Dover Buckland"	51.1398	1.3007	"C14"				400	600	800	"T1a1"		"Petrous"		"1240k"	"None"	"single"			132579	0.2076	0.47605						"PASS"	
-"BUK064"	"M"	423	"England EMA"	"England"	"Dover Buckland"	51.1398	1.3007	"C14"				400	600	800	"T1a1"	"R1b1a1b1a1a1"	"Petrous"		"1240k"	"None"	"single"			672905	1.7473	0.32191	0.010305					"PASS"	
-"BUK065"	"F"	425	"England EMA"	"England"	"Dover Buckland"	51.1398	1.3007	"C14"				400	600	800	"H1c3a"		"Petrous"		"1240k"	"None"	"single"			123543	0.1889	0.29223						"PASS"	
-"BUK066"	"F"	426	"England EMA"	"England"	"Dover Buckland"	51.1398	1.3007	"C14"				400	600	800	"H1c3a"		"Petrous"		"1240k"	"None"	"single"			527321	1.1508	0.3032						"PASS"	
-"BUK067"	"F"	432	"England EMA"	"England"	"Dover Buckland"	51.1398	1.3007	"C14"				400	600	800	"H24a"		"Petrous"		"1240k"	"None"	"single"			464593	0.9487	0.26054						"PASS"	
-"BUK068"	"M"	435	"England EMA"	"England"	"Dover Buckland"	51.1398	1.3007	"C14"				400	600	800	"T1"	"I2a1b1~"	"Petrous"		"1240k"	"None"	"single"			177604	0.2836	0.33481	-0.00797					"PASS"	
-"BUK069"	"F"	439	"England EMA"	"England"	"Dover Buckland"	51.1398	1.3007	"C14"				400	600	800	"H2a1g"		"Petrous"		"1240k"	"None"	"single"			596829	1.4416	0.24372						"PASS"	
-"BUK070"	"M"	"282b"	"England EMA"	"England"	"Dover Buckland"	51.1398	1.3007	"C14"				400	600	800	"J2a1a1a2"	"R1b1a1b1a1a1"	"Petrous"		"1240k"	"None"	"single"			404302	0.7818	0.28941	0.015983					"PASS"	
-"BUK071"	"F"	"350b"	"England EMA"	"England"	"Dover Buckland"	51.1398	1.3007	"C14"				400	600	800	"U5b3"		"Petrous"		"1240k"	"None"	"single"			564801	1.2929	0.26539						"PASS"	
-"BUK072"	"F"	"351b"	"England EMA"	"England"	"Dover Buckland"	51.1398	1.3007	"C14"				400	600	800	"NA"		"Petrous"		"1240k"	"None"	"single"			2725	0.0039	0.2001						"QUESTIONABLE CRITICAL (mtDNA contamination PASS, Y chromosome contamination FAILED)"	
-"BUK073"	"M"	"393b"	"England EMA"	"England"	"Dover Buckland"	51.1398	1.3007	"C14"				400	600	800	"H1c2"	"I1a2a1a1a"	"Petrous"		"1240k"	"None"	"single"			677218	1.7956	0.28821	0.008335					"PASS"	
-"BUK074"	"F"	"427a"	"England EMA"	"England"	"Dover Buckland"	51.1398	1.3007	"C14"				400	600	800	"T2a1a6"		"Petrous"		"1240k"	"None"	"single"			326615	0.5875	0.32565						"PASS"	
-"EAS001"	"F"	"Grave 34"	"England EMA"	"England"	"Eastry Updown"	51.2453	1.3034	"C14"	1416	17	"MAMS 52078"	605	629.5	654	"U5b1c2b"		"Petrous"		"Shotgun"	"Half"	"double"			971804	1.5375	0.1305						"PASS"	
-"EAS002"	"F"	"Grave 45"	"England EMA"	"England"	"Eastry Updown"	51.2453	1.3034	"C14"				600	650	700	"U5b1c2b"		"Petrous"		"Shotgun"	"Half"	"double"			446614	0.4121	0.1154						"PASS"	
-"EAS004"	"M"	"Grave 48"	"England EMA"	"England"	"Eastry Updown"	51.2453	1.3034	"C14"	1480	18	"MAMS 52079"	562	601	640	"H3+16311"	"R1b1a1b1a1a2c1"	"Petrous"		"Shotgun"	"Half"	"double"			398861	0.3547	0.1328	0.012567					"PASS"	
-"EAS005"	"M"	"Grave 37"	"England EMA"	"England"	"Eastry Updown"	51.2453	1.3034	"C14"				600	650	700	"I2"		"Tooth"		"1240k"	"None"	"single"			13337	0.0189	0.3564	"NA"					"PASS"	
-"EAS006"	"M"	"Grave 52"	"England EMA"	"England"	"Eastry Updown"	51.2453	1.3034	"C14"				600	650	700	"I4a"	"E1b1b1a1b1a "	"Tooth"		"1240k"	"None"	"single"			751743	2.756	0.2604	0.012933					"PASS"	
-"I5372_d"	"M"	"SB561A"	"England EMA"	"England"	"Folkestone, Dover Hill"	51.0941	1.193	"C14"				450	525	600	"R"	"NA"	"Petrous"		"1240k"	"Half"	"single"			7215	0.006	"NA"	"NA"					"QUESTIONABLE CRITICAL (mtDNA contamination FAILED, Y chromosome contamination FAILED)"	
-"POH001"	"M"	"BR 11"	"England EMA"	"England"	"Polhill"	51.2398	0.6643	"C14"	1406	19	"MAMS 52090"	605	631.5	658	"J1c3f"	"R1b1a1b1a1a"	"Petrous"		"Shotgun"	"Half"	"double"			373890	0.337	0.1054	0.003416					"PASS"	
-"POH002"	"F"	"BR 12"	"England EMA"	"England"	"Polhill"	51.2398	0.6643	"C14"				600	700	800	"K1a13a"		"Petrous"		"Shotgun"	"Half"	"double"			533676	0.5608	0.1108						"PASS"	
-"POH003"	"M"	"BR 21"	"England EMA"	"England"	"Polhill"	51.2398	0.6643	"C14"				600	700	800	"H11a2a"	"R1b1a1b1a1a1c"	"Petrous"		"1240k"	"Half"	"double"			749608	1.5415	0.0832	0.001645					"PASS"	
-"POH004"	"F"	"BR 23"	"England EMA"	"England"	"Polhill"	51.2398	0.6643	"C14"	1461	18	"MAMS 52091"	576	609.5	643	"H24a"		"Petrous"		"1240k"	"Half"	"double"			790198	1.6861	0.098						"PASS"	
-"POH005"	"F"	"BR 26"	"England EMA"	"England"	"Polhill"	51.2398	0.6643	"C14"	1292	19	"MAMS 52124"	666	719.5	773	"K1d"		"Petrous"		"1240k"	"Half"	"double"			679202	1.1845	0.1188						"PASS"	
-"POH006"	"M"	"BR 36"	"England EMA"	"England"	"Polhill"	51.2398	0.6643	"C14"	1354	19	"MAMS 52125"	647	708.5	770	"H3"	"R1a1a1b1"	"Petrous"		"Shotgun"	"Half"	"double"			358522	0.3291	0.0833	0.008781					"PASS"	
-"POH007"	"F"	"BR 37"	"England EMA"	"England"	"Polhill"	51.2398	0.6643	"C14"				600	700	800	"V2b"		"Petrous"		"1240k"	"Half"	"double"			633307	1.0274	0.0859						"PASS"	
-"POH008"	"M"	"BR 38"	"England EMA"	"England"	"Polhill"	51.2398	0.6643	"C14"	1507	20	"MAMS 52126"	543	573	603	"J2a1a1a2"	"R1b1a1b1a1a"	"Petrous"		"1240k"	"Half"	"double"			788905	1.63	0.106	0.00485					"PASS"	
-"POH009"	"M"	"BR 50 "	"England EMA"	"England"	"Polhill"	51.2398	0.6643	"C14"	1434	19	"MAMS 52127"	598	624	650	"U4b1b1"	"R1b1a1b1a1a1c2b2a1b1a4b1"	"Petrous"		"1240k"	"Half"	"double"			755285	1.4212	0.1022	0.004825					"PASS"	
-"I3011"	"M"	"SB 354A2"	"England EMA"	"England"	"Lincoln, Lincoln Castle"	53.2345	-0.5408	"C14"	988	16	"SUERC-54034"	1035	1052.5	1070	"H1a3"	"T1a1a"	"Petrous"		"1240k"	"Half"	"single"			383502	0.597	0.027	0.005499					"PASS"	
-"I3044"	"M"	"SB 360B2"	"England EMA"	"England"	"Lincoln, Lincoln Castle"	53.2345	-0.5408	"C14"	967	17	"SUERC-54024"	1040	1055	1070	"U4a1b"	"R1b1a1b1a1a1c2b2a"	"Petrous"		"1240k"	"Half"	"single"			774166	2.497	0.095	0.00627					"PASS"	
-"I3045"	"M"	"SB 361B2"	"England EMA"	"England"	"Lincoln, Lincoln Castle"	53.2345	-0.5408	"C14"	972	18	"SUERC-54026"	1035	1052.5	1070	"H4a1a2"	"NA"	"Tooth"		"1240k"	"Half"	"single"			39197	0.033	0.008	"NA"					"PASS"	
-"SED001"	"F"	"S1006"	"England EMA"	"England"	"Sedgeford"	52.8997	0.5443	"C14"				700	775	850	"NA"		"Tooth"		"1240k"	"None"	"single"			18411	0.0257	0.2455						"QUESTIONABLE MODERATE (mtDNA contamination FAILED)"	
-"SED003"	"M"	"S3010"	"England EMA"	"England"	"Sedgeford"	52.8997	0.5443	"C14"	1291	17	"MAMS 52128"	667	720	773	"H5"	"R1b1a1b1a1a"	"Petrous"		"Shotgun"	"Half"	"double"			475827	0.4764	0.104	0.005882					"PASS"	
-"SED004"	"F"	"S0214"	"England EMA"	"England"	"Sedgeford"	52.8997	0.5443	"C14"				700	775	850	"H"		"Petrous"		"1240k"	"Half"	"double"			742592	1.4941	0.0381						"PASS"	
-"SED005"	"M"	"S1048"	"England EMA"	"England"	"Sedgeford"	52.8997	0.5443	"C14"				700	775	850	"H5a1c1a"	"R1b1a1b1a1a"	"Petrous"		"Shotgun"	"Half"	"double"			718216	0.9278	0.0661	0.004506					"PASS"	
-"SED006"	"M"	"S9000"	"England EMA"	"England"	"Sedgeford"	52.8997	0.5443	"C14"	1256	16	"MAMS 52129"	678	750.5	823	"NA"	"R1a1a1~"	"Petrous"		"1240k"	"Half"	"double"			263880	0.2837	0.0607	-0.005034					"PASS"	
-"SED007"	"M"	"S0044"	"England EMA"	"England"	"Sedgeford"	52.8997	0.5443	"C14"				700	775	850	"H1a1"	"I1~"	"Tooth"		"1240k"	"None"	"single"			84285	0.1222	0.3086	"0.051978  (0.046 after PMD)"					"PASS"	
-"SED008"	"F"	"S0098"	"England EMA"	"England"	"Sedgeford"	52.8997	0.5443	"C14"				700	775	850	"H1g1"		"Petrous"		"Shotgun"	"Half"	"double"			580804	0.6213	0.0909						"PASS"	
-"SED009"	"M"	"S1069"	"England EMA"	"England"	"Sedgeford"	52.8997	0.5443	"C14"	1270	40	"GrN-25159"	662	769	876	"H10a1a1"	"I1~"	"Petrous"		"Shotgun"	"Half"	"double"			473917	0.4734	0.1312	0.003908					"PASS"	
-"SED010"	"F"	"S0025"	"England EMA"	"England"	"Sedgeford"	52.8997	0.5443	"C14"				700	775	850	"T2b11"		"Petrous"		"Shotgun"	"Half"	"double"			389777	0.362	0.1068						"PASS"	
-"SED011"	"M"	"S8002"	"England EMA"	"England"	"Sedgeford"	52.8997	0.5443	"C14"	2213	26	"OxA-26217"	376	277	178	"T2"	"R1"	"Tooth"		"1240k"	"None"	"single"			24456	0.0344	0.3365	"NA"					"QUESTIONABLE MODERATE (mtDNA contamination PASS, Y chromosome contamination FAILED)"	
-"SED012"	"F"	"S0034"	"England EMA"	"England"	"Sedgeford"	52.8997	0.5443	"C14"				700	775	850	"J1c1b1a"		"Tooth"		"1240k"	"None"	"single"			150596	0.2303	0.1337						"PASS"	
-"SED013"	"F"	"S0111"	"England EMA"	"England"	"Sedgeford"	52.8997	0.5443	"C14"				700	775	850	"U5b2a1b"		"Petrous"		"1240k"	"Half"	"double"			725058	1.3748	0.1036						"PASS"	
-"SED014"	"M"	"S0067"	"England EMA"	"England"	"Sedgeford"	52.8997	0.5443	"C14"	1217	19	"OxA-40424"	708	795	882	"H5b2"	"I1a2a1a1a"	"Petrous"		"1240k"	"Half"	"double"			597211	0.8998	0.1001	0.0033					"PASS"	
-"SED015"	"F"	"S1017"	"England EMA"	"England"	"Sedgeford"	52.8997	0.5443	"C14"				700	775	850	"K1a+195"		"Tooth"		"1240k"	"Half"	"double"			246669	0.2497	0.0797						"PASS"	
-"SED016"	"F"	"S3013"	"England EMA"	"England"	"Sedgeford"	52.8997	0.5443	"C14"	1215	19	"MAMS 52130"	709	796	883	"U3a1"		"Petrous"		"Shotgun"	"Half"	"double"			423837	0.4127	0.1169						"PASS"	
-"SED017"	"M"	"S0038"	"England EMA"	"England"	"Sedgeford"	52.8997	0.5443	"C14"				700	775	850	"T2b13"	"I2a1b1a2b1a~"	"Petrous"		"Shotgun"	"Half"	"double"			476049	0.4679	0.111	0.005965					"PASS"	
-"SED018"	"M"	"S1033"	"England EMA"	"England"	"Sedgeford"	52.8997	0.5443	"C14"	1250	19	"OxA-40426"	678	774.5	871	"H1b5"	"R1b1a1b1a1a2a1a"	"Tooth"		"1240k"	"Half"	"double"			573200	0.9841	0.0526	0.003083					"PASS"	
-"SED019"	"M"	"S1049"	"England EMA"	"England"	"Sedgeford"	52.8997	0.5443	"C14"				700	775	850	"H1bh"		"Tooth"		"1240k"	"None"	"single"			325126	0.5752	0.1351	0.015365					"PASS"	
-"SED020"	"M"	"S1016"	"England EMA"	"England"	"Sedgeford"	52.8997	0.5443	"C14"	1206	19	"MAMS 52131"	774	829	884	"V"	"R1b1a1b1a1a2a1a1a"	"Tooth"		"1240k"	"Half"	"double"			811571	1.7107	0.0916	0.007683					"PASS"	
-"SED021"	"M"	"S1018"	"England EMA"	"England"	"Sedgeford"	52.8997	0.5443	"C14"	1259	19	"OxA-40425"	676	749	822	"V"	"R1b1a1b1a1a2"	"Petrous"		"1240k"	"Half"	"double"			286581	0.3025	0.0989	-0.003912					"PASS"	
-"LAK001"	"M"	"Sk 717"	"England EMA"	"England"	"RAF Lakenheath"	52.4138	0.522	"C14"	1514	17	"MAMS 52112"	544	571	598	"H2a1g"	"I2a1b1a2b1a1~ "	"Petrous"		"1240k"	"None"	"single"			928716	5.7718	0.2215	0.0125					"PASS"	
-"LAK002"	"M"	"Sk 384"	"England EMA"	"England"	"RAF Lakenheath"	52.4138	0.522	"C14"	1597	20	"MAMS 52113"	422	480	538	"J1c2c2"	"I1a2 "	"Petrous"		"1240k"	"None"	"single"			950696	5.9135	0.2825	0.010844					"PASS"	
-"LAK003"	"M"	"Sk 255"	"England EMA"	"England"	"RAF Lakenheath"	52.4138	0.522	"C14"	1621	17	"SUERC-39093"	412	474.5	537	"U2e1g"	"R1b1a1b1a1a2"	"Petrous"		"1240k"	"None"	"single"			775267	3.1875	0.3371	0.018004					"PASS"	
-"LAK004"	"M"	"Sk 994"	"England EMA"	"England"	"RAF Lakenheath"	52.4138	0.522	"C14"	1590	20	"MAMS 52114"	425	483	541	"H23"	"I2a1b1a2b1a~"	"Petrous"		"1240k"	"None"	"single"			786321	3.1773	0.3541	0.012337					"PASS"	
-"LAK005"	"F"	"Sk 808"	"England EMA"	"England"	"RAF Lakenheath"	52.4138	0.522	"C14"				400	500	600	"T2b"		"Petrous"		"1240k"	"None"	"single"			827874	4.0845	0.2877						"PASS"	
-"LAK006"	"M (XXY)"	"Sk 809"	"England EMA"	"England"	"RAF Lakenheath"	52.4138	0.522	"C14"				400	500	600	"K1c1"	"I2a1a1b1a1a~"	"Petrous"		"1240k"	"None"	"single"			890437	4.8169	0.2776	"0.342858 (XXY)"					"PASS"	
-"LAK007"	"M"	"Sk 4067"	"England EMA"	"England"	"RAF Lakenheath"	52.4138	0.522	"C14"	1519	17	"SUERC-59650"	541	570	599	"H6a1a3"	"R1b1a1b1a1a1c2b1a1"	"Petrous"		"1240k"	"None"	"single"			936711	5.9322	0.2641	0.010884					"PASS"	
-"LAK008"	"F"	"Sk 0791"	"England EMA"	"England"	"RAF Lakenheath"	52.4138	0.522	"C14"	1575	17	"SUERC-39019"	431	489.5	548	"H5a1g1a"		"Petrous"		"1240k"	"None"	"single"			717551	2.4082	0.3273						"PASS"	
-"LAK009"	"M"	"Sk 426"	"England EMA"	"England"	"RAF Lakenheath"	52.4138	0.522	"C14"				400	500	600	"K1a1b2a1a"	"I1a2  "	"Petrous"		"1240k"	"None"	"single"			881488	4.7287	0.3005	0.013172					"PASS"	
-"LAK010"	"M"	"Sk 759"	"England EMA"	"England"	"RAF Lakenheath"	52.4138	0.522	"C14"	1524	20	"MAMS 52115"	443	522	601	"J1c4"	"R1b1a1b1a1a2c1"	"Petrous"		"1240k"	"None"	"single"			834612	4.0404	0.3037	0.014643					"PASS"	
-"LAK011"	"F"	"Sk 0787"	"England EMA"	"England"	"RAF Lakenheath"	52.4138	0.522	"C14"	1549	17	"MAMS 52116"	435	506	577	"T2b4+152"		"Tooth"		"1240k"	"None"	"single"			904518	5.443	0.3056						"PASS"	
-"LAK012"	"F"	"Sk 907"	"England EMA"	"England"	"RAF Lakenheath"	52.4138	0.522	"C14"	1569	17	"SUERC-39112"	432	493	554	"V3a1"		"Petrous"		"1240k"	"None"	"single"			906878	5.6756	0.2282						"PASS"	
-"LAK013"	"M"	"Sk 4561"	"England EMA"	"England"	"RAF Lakenheath"	52.4138	0.522	"C14"				400	500	600	"J1c2c"	"R1b1a1b1a1a1c2b2b1a2"	"Petrous"		"1240k"	"None"	"single"			804750	3.3698	0.3639	0.019536					"PASS"	
-"LAK014"	"F"	"Sk 425"	"England EMA"	"England"	"RAF Lakenheath"	52.4138	0.522	"C14"				400	500	600	"K1a1b2a1a"		"Petrous"		"1240k"	"None"	"single"			720656	2.8581	0.2688						"PASS"	
-"LAK015"	"M"	"Sk 4238"	"England EMA"	"England"	"RAF Lakenheath"	52.4138	0.522	"C14"				400	500	600	"J1c4"	"I2a1b1a2b1a~"	"Tooth"		"1240k"	"None"	"single"			786338	2.6658	0.1608	0.007331					"PASS"	
-"LAK016"	"M"	"Sk 4222"	"England EMA"	"England"	"RAF Lakenheath"	52.4138	0.522	"C14"	1640	20	"UB-6347"	410	472.5	535	"H1 (?)"	"BT"	"Tooth"		"1240k"	"None"	"single"			"NA"	0.0061	0.2334	"NA"					"FAILED"	
-"I20597"	"F"	"Grave 10"	"England EMA"	"England"	"Apple Down, West Chichester"	50.8374	-0.7749	"C14"				560	570	580	"H5b1"		"Bone"		"1240k"	"Half"	"single"			50665	0.044	0.064						"PASS"	
-"I20598"	"F"	"Grave 13"	"England EMA"	"England"	"Apple Down, West Chichester"	50.8374	-0.7749	"C14"				450	491.5	533	"H1a1"		"Bone"		"1240k"	"Half"	"single"			18827	0.016	0.098						"PASS"	
-"I20600"	"M"	"Grave 68"	"England EMA"	"England"	"Apple Down, West Chichester"	50.8374	-0.7749	"C14"				450	541.5	633	"U5a2d"	"R1b1a1b"	"Bone"		"1240k"	"Half"	"single"			6482	0.006	0.086	"NA"					"PASS"	
-"I20601"	"F"	"Grave 93"	"England EMA"	"England"	"Apple Down, West Chichester"	50.8374	-0.7749	"C14"				450	524.5	599	"H1ag1"		"Bone"		"1240k"	"Half"	"single"			64109	0.055	0.079						"PASS"	
-"I20602"	"M"	"Grave 99b"	"England EMA"	"England"	"Apple Down, West Chichester"	50.8374	-0.7749	"C14"				560	629.5	699	"H1+16189"	"R1b1a1b1a1"	"Bone"		"1240k"	"Half"	"single"			102470	0.089	0.099	"NA"					"PASS"	
-"I20603"	"M"	"Grave 113"	"England EMA"	"England"	"Apple Down, West Chichester"	50.8374	-0.7749	"C14"				600	649.5	699	"T2b+150"	"R1b1a1b"	"Bone"		"1240k"	"Half"	"single"			41793	0.036	0.092	"NA"					"PASS"	
-"I20604"	"U"	"Grave 122"	"England EMA"	"England"	"Apple Down, West Chichester"	50.8374	-0.7749	"C14"				400	500	600	"NA"		"Bone"		"1240k"	"Half"	"single"			3154	0.003	0.06						"QUESTIONABLE CRITICAL (mtDNA contamination FAILED, Y chromosome contamination FAILED)"	
-"I20605"	"F"	"Grave 137b"	"England EMA"	"England"	"Apple Down, West Chichester"	50.8374	-0.7749	"C14"				400	500	600	"T2c1d+152"		"Bone"		"1240k"	"Half"	"single"			209483	0.197	0.118						"PASS"	
-"I20607"	"M"	"Grave 145"	"England EMA"	"England"	"Apple Down, West Chichester"	50.8374	-0.7749	"C14"				500	549.5	599	"K1a4d"	"R1b1a1b1"	"Bone"		"1240k"	"Half"	"single"			228724	0.22	0.139	"NA"					"PASS"	
-"I20608"	"M"	"Grave 152"	"England EMA"	"England"	"Apple Down, West Chichester"	50.8374	-0.7749	"C14"	1513	25	"OxA-28869"	430	522	614	"I1"	"R1b1a1b1a1"	"Bone"		"1240k"	"Half"	"single"			128655	0.114	0.07	"NA"					"PASS"	
-"I14533"	"F"	"Gr108"	"England EMA"	"England"	"Rookery Hill, Bishopstone"	50.7891	0.0824	"C14"				500	600	700	"T2"		"Petrous"		"1240k"	"Half"	"single"			632836	1.043927	0.112						"PASS"	
-"I14534"	"F"	"Gr68"	"England EMA"	"England"	"Rookery Hill, Bishopstone"	50.7891	0.0824	"C14"				500	600	700	"J1c3"		"Petrous"		"1240k"	"Half"	"single"			802399	3.103081	0.104						"PASS"	
-"I14535"	"M"	"Gr66"	"England EMA"	"England"	"Rookery Hill, Bishopstone"	50.7891	0.0824	"C14"				500	600	700	"U5b1c1a1"	"R1b1a1b1a1a2"	"Petrous"		"1240k"	"Half"	"single"			648494	1.104361	0.147	0.00966					"PASS"	
-"I14536"	"F"	"Gr58"	"England EMA"	"England"	"Rookery Hill, Bishopstone"	50.7891	0.0824	"C14"				500	600	700	"K1c2"		"Petrous"		"1240k"	"Half"	"single"			684813	1.285809	0.082						"PASS"	
-"I14538"	"M"	"Gr43"	"England EMA"	"England"	"Rookery Hill, Bishopstone"	50.7891	0.0824	"C14"				500	600	700	"K2b1b"	"R1b1a1b1a1a2b1a1"	"Petrous"		"1240k"	"Half"	"single"			713422	1.47665	0.101	0.00874					"PASS"	
-"I14539"	"F"	"Gr29"	"England EMA"	"England"	"Rookery Hill, Bishopstone"	50.7891	0.0824	"C14"				500	600	700	"I3a"		"Petrous"		"1240k"	"Half"	"single"			402878	0.46444	0.079						"PASS"	
-"I14540"	"M"	"Gr25"	"England EMA"	"England"	"Rookery Hill, Bishopstone"	50.7891	0.0824	"C14"				500	600	700	"X2b5"	"NA"	"Petrous"		"1240k"	"Half"	"single"			28783	0.024699	0.103	"NA"					"PASS"	
-"I14541"	"F"	"Gr23"	"England EMA"	"England"	"Rookery Hill, Bishopstone"	50.7891	0.0824	"C14"				500	600	700	"H5b"		"Petrous"		"1240k"	"Half"	"single"			774851	2.333253	0.118						"PASS"	
-"I14542"	"F"	"G10"	"England EMA"	"England"	"Rookery Hill, Bishopstone"	50.7891	0.0824	"C14"				500	600	700	"W1c"		"Petrous"		"1240k"	"Half"	"single"			713998	1.715082	0.143						"PASS"	
-"I16392"	"M"	"TB 209"	"England EMA"	"England"	"Clapdale, Fox Holes Cave"	54.1385	-2.374	"C14"				655	714.5	774	"H3g1"	"R1b1a1b1a1a2c1"	"Petrous"		"1240k"	"Half"	"single"			161286	0.148182	0.093	"NA"					"PASS"	
-"I0531"	"F"	"NBS03:325"	"England EMA"	"England"	"Norton Bishops Mill"	54.5945	-1.3094	"C14"				500	705	910	"I2c"		"Petrous"		"1240k"	"Half"	"single"			194116	0.181	0.084						"PASS"	
-"I17268"	"M"	"Sk 423"	"England EMA"	"England"	"Norton Bishops Mill"	54.5945	-1.3094	"C14"				650	780	910	"H1a"	"I1a2a"	"Petrous"		"1240k"	"Half"	"single"			660232	2.425536	0.105	0.00516					"PASS"	
-"I17269"	"F"	"Sk 57"	"England EMA"	"England"	"Norton Bishops Mill"	54.5945	-1.3094	"C14"				600	750	900	"J2a1a1a2"		"Petrous"		"1240k"	"Half"	"single"			690580	2.728847	0.126						"PASS"	
-"I17270"	"F"	"Sk 359"	"England EMA"	"England"	"Norton Bishops Mill"	54.5945	-1.3094	"C14"				600	750	900	"J1b1a1d"		"Petrous"		"1240k"	"Half"	"single"			649081	2.196664	0.148						"PASS"	
-"I17271"	"F"	"Sk 283"	"England EMA"	"England"	"Norton Bishops Mill"	54.5945	-1.3094	"C14"				600	750	900	"H5a6"		"Petrous"		"1240k"	"Half"	"single"			697659	3.038794	0.066						"PASS"	
-"I17272"	"M"	"NEM 84; 2006.1500.25a"	"England EMA"	"England"	"Norton East Mill"	54.5945	-1.3094	"C14"				500	550	600	"H5"	"R1b1a1b1a1a1c2b2"	"Petrous"		"1240k"	"Half"	"single"			639064	1.638392	0.13	0.00342					"PASS"	
-"I17273"	"F"	"NEM 84; 2006.1500.98"	"England EMA"	"England"	"Norton East Mill"	54.5945	-1.3094	"C14"				500	550	600	"H1c2"		"Petrous"		"1240k"	"Half"	"single"			686943	2.792304	0.084						"PASS"	
-"I17274"	"M"	"NEM 84; 2006.1500.24"	"England EMA"	"England"	"Norton East Mill"	54.5945	-1.3094	"C14"				500	550	600	"T2e1"	"R1b1a1b1a1a1c2b1"	"Petrous"		"1240k"	"Half"	"single"			673201	2.334742	0.097	0.00371					"PASS"	
-"I17275"	"F"	"NEM 84; 2006.1500.7"	"England EMA"	"England"	"Norton East Mill"	54.5945	-1.3094	"C14"				500	550	600	"K1a4a1a+195"		"Petrous"		"1240k"	"Half"	"single"			654186	2.369505	0.121						"PASS"	
-"I17276"	"F"	"NEM 84; 2006.1500.90"	"England EMA"	"England"	"Norton East Mill"	54.5945	-1.3094	"C14"				500	550	600	"U5a1f1a1"		"Petrous"		"1240k"	"Half"	"single"			881174	7.212	0.103						"PASS"	
-"I3056"	"F"	"SB 447A"	"England EMA"	"England"	"Ribblesdale, Selside Grike"	54.1606	-2.328	"C14"	1282	26	"OxA-27201"	669	719.5	770	"U5a2c3a"		"Petrous"		"1240k"	"Half"	"single"			412607	0.521	0.016						"PASS"	
-"I11583"	"M"	"WH134"	"England EMA"	"England"	"West Heslerton"	54.171	-0.6057	"C14"				450	550	650	"H1c1"	"R1b1a1b1a1a1"	"Petrous"		"1240k"	"Half"	"single"			448583	0.621051	0.136	0.00314					"PASS"	
-"I11584"	"M"	"WH 87"	"England EMA"	"England"	"West Heslerton"	54.171	-0.6057	"C14"				450	525	600	"H1q"	"R1b1a1b1a1a1"	"Petrous"		"1240k"	"Half"	"single"			347312	0.382372	0.12	0.0122					"PASS"	
-"I11585"	"F"	"WH 100"	"England EMA"	"England"	"West Heslerton"	54.171	-0.6057	"C14"				500	550	600	"H1b"		"Petrous"		"1240k"	"Half"	"single"			527328	0.691427	0.082						"PASS"	
-"I11586"	"M"	"WH 131"	"England EMA"	"England"	"West Heslerton"	54.171	-0.6057	"C14"				550	575	600	"X2b4a"	"R1b1a1b1a1a2c"	"Petrous"		"1240k"	"Half"	"single"			486525	0.641254	0.173	0.00672					"PASS"	
-"I11587"	"F"	"WH 133"	"England EMA"	"England"	"West Heslerton"	54.171	-0.6057	"C14"				450	550	650	"U5a1a1e"		"Petrous"		"1240k"	"Half"	"single"			623438	0.97942	0.13						"PASS"	
-"I11588"	"M"	"WH 138"	"England EMA"	"England"	"West Heslerton"	54.171	-0.6057	"C14"				450	550	650	"K1d1"	"I1a2"	"Petrous"		"1240k"	"Half"	"single"			225835	0.2141	0.13	"NA"					"PASS"	
-"I11589"	"F"	"WH 139"	"England EMA"	"England"	"West Heslerton"	54.171	-0.6057	"C14"				500	550	600	"T2b2b"		"Petrous"		"1240k"	"Half"	"single"			716612	1.833302	0.134						"PASS"	
-"I11590"	"M"	"WH 145"	"England EMA"	"England"	"West Heslerton"	54.171	-0.6057	"C14"				450	550	650	"K1a4a1a+195"	"I2a1b2a"	"Petrous"		"1240k"	"Half"	"single"			620019	1.069424	0.121	0.00559					"PASS"	
-"I20638"	"M"	"WH 73"	"England EMA"	"England"	"West Heslerton"	54.171	-0.6057	"C14"				450	550	650	"H1+16278"	"I1a"	"Petrous"		"1240k"	"Half"	"single"			506606	0.62	0.222	0.012					"PASS"	
-"I20639"	"M"	"WH 115"	"England EMA"	"England"	"West Heslerton"	54.171	-0.6057	"C14"				500	550	600	"H59a"	"I1a2b"	"Petrous"		"1240k"	"Half"	"single"			528629	0.627	0.169	0.013					"PASS"	
-"I20640"	"M"	"WH 74"	"England EMA"	"England"	"West Heslerton"	54.171	-0.6057	"C14"				500	550	600	"U5a1a1d"	"I1a2a"	"Petrous"		"1240k"	"Half"	"single"			883725	2.982	0.187	0.005					"PASS"	
-"I20641"	"M"	"WH 171"	"England EMA"	"England"	"West Heslerton"	54.171	-0.6057	"C14"				450	550	650	"H1a3b"	"I2a1b2a"	"Tooth"		"1240k"	"Half"	"single"			746717	1.51	0.237	0.007					"PASS"	
-"I20642"	"F"	"WH 88"	"England EMA"	"England"	"West Heslerton"	54.171	-0.6057	"C14"				450	525	600	"K1a4a1a+195"		"Petrous"		"1240k"	"Half"	"single"			95186	0.083	0.162						"PASS"	
-"I20643"	"F"	"WH 111"	"England EMA"	"England"	"West Heslerton"	54.171	-0.6057	"C14"				450	550	650	"H7"		"Petrous"		"1240k"	"Half"	"single"			353992	0.396	0.17						"PASS"	
-"I20644"	"M"	"WH 125"	"England EMA"	"England"	"West Heslerton"	54.171	-0.6057	"C14"				450	550	650	"H1"	"R1b1a1b1a1a1c"	"Petrous"		"1240k"	"Half"	"single"			928559	3.754	0.161	0.005					"PASS"	
-"I20645"	"M"	"WH 149"	"England EMA"	"England"	"West Heslerton"	54.171	-0.6057	"C14"				450	550	650	"H1"	"I1a2"	"Petrous"		"1240k"	"Half"	"single"			281709	0.283	0.211	0.014					"PASS"	
-"I20646"	"M"	"WH 158"	"England EMA"	"England"	"West Heslerton"	54.171	-0.6057	"C14"				450	550	650	"T2f1a1"	"I1a2b"	"Petrous"		"1240k"	"Half"	"single"			758318	1.784	0.177	0.006					"PASS"	
-"I20648_d"	"U"	"WH 23"	"England EMA"	"England"	"West Heslerton"	54.171	-0.6057	"C14"				450	550	650	"NA"		"Petrous"		"1240k"	"Half"	"single"			15434	0.013	"NA"						"QUESTIONABLE CRITICAL (mtDNA contamination FAILED, Y chromosome contamination FAILED)"	
-"I20649"	"M"	"WH 70"	"England EMA"	"England"	"West Heslerton"	54.171	-0.6057	"C14"				500	525	550	"U2e2a1a"	"I1a2a"	"Petrous"		"1240k"	"Half"	"single"			669353	1.03	0.156	0.011					"PASS"	
-"I20650"	"M"	"WH 144"	"England EMA"	"England"	"West Heslerton"	54.171	-0.6057	"C14"				500	575	650	"H1a1"	"I1a2"	"Petrous"		"1240k"	"Half"	"single"			781488	1.525	0.18	0.01					"PASS"	
-"I20651_d"	"U"	"WH 76"	"England EMA"	"England"	"West Heslerton"	54.171	-0.6057	"C14"				450	525	600	"NA"		"Petrous"		"1240k"	"Half"	"single"			8507	0.007	"NA"						"QUESTIONABLE CRITICAL (mtDNA contamination FAILED, Y chromosome contamination FAILED)"	
-"I20652"	"M"	"WH 99"	"England EMA"	"England"	"West Heslerton"	54.171	-0.6057	"C14"				450	550	650	"K2a7"	"R1b1a1b1a1a1"	"Petrous"		"1240k"	"Half"	"single"			956438	5.164	0.127	0.005					"PASS"	
-"I20653"	"F"	"WH 96"	"England EMA"	"England"	"West Heslerton"	54.171	-0.6057	"C14"				450	550	650	"K1c2"		"Petrous"		"1240k"	"Half"	"single"			543086	0.67	0.155						"PASS"	
-"I20654"	"M"	"WH 98"	"England EMA"	"England"	"West Heslerton"	54.171	-0.6057	"C14"				450	500	550	"T1a3a"	"J2b"	"Petrous"		"1240k"	"Half"	"single"			917000	4.381	0.162	0.008					"PASS"	
-"I20655"	"F"	"WH 102"	"England EMA"	"England"	"West Heslerton"	54.171	-0.6057	"C14"				450	550	650	"T2b4+152"		"Petrous"		"1240k"	"Half"	"single"			800237	1.769	0.153						"PASS"	
-"I20656"	"M"	"WH 81"	"England EMA"	"England"	"West Heslerton"	54.171	-0.6057	"C14"				450	550	650	"I4a1"	"I1a2"	"Petrous"		"1240k"	"Half"	"single"			835798	1.783	0.182	0.012					"PASS"	
-"I20657_d"	"U"	"WH 105"	"England EMA"	"England"	"West Heslerton"	54.171	-0.6057	"C14"				450	550	650	"NA"		"Petrous"		"1240k"	"Half"	"single"			16876	0.014	"NA"						"QUESTIONABLE CRITICAL (mtDNA contamination FAILED, Y chromosome contamination FAILED)"	
-"I20658"	"F"	"WH 114"	"England EMA"	"England"	"West Heslerton"	54.171	-0.6057	"C14"				550	575	600	"T2b33"		"Petrous"		"1240k"	"Half"	"single"			856605	2.261	0.155						"PASS"	
-"I20659"	"F"	"WH 110"	"England EMA"	"England"	"West Heslerton"	54.171	-0.6057	"C14"				450	550	650	"J1c2e"		"Petrous"		"1240k"	"Half"	"single"			836288	2.177	0.143						"PASS"	
-"I20660"	"F"	"WH 166"	"England EMA"	"England"	"West Heslerton"	54.171	-0.6057	"C14"				450	550	650	"H10e"		"Petrous"		"1240k"	"Half"	"single"			825012	2.092	0.231						"PASS"	
-"I20661"	"M"	"WH 169"	"England EMA"	"England"	"West Heslerton"	54.171	-0.6057	"C14"				450	550	650	"T2b4a"	"I1a2"	"Petrous"		"1240k"	"Half"	"single"			830270	3.222	0.143	0.008					"PASS"	
-"I20663"	"F"	"WH 175"	"England EMA"	"England"	"West Heslerton"	54.171	-0.6057	"C14"				450	550	650	"NA"		"Petrous"		"1240k"	"Half"	"single"			12221	0.01	0.06						"QUESTIONABLE CRITICAL (mtDNA contamination FAILED, Y chromosome contamination FAILED)"	
-"I20665_d"	"U"	"WH 77"	"England EMA"	"England"	"West Heslerton"	54.171	-0.6057	"C14"				450	525	600	"NA"		"Petrous"		"1240k"	"Half"	"single"			23075	0.019	"NA"						"QUESTIONABLE CRITICAL (mtDNA contamination FAILED, Y chromosome contamination FAILED)"	
-"I20666"	"M"	"WH 94"	"England EMA"	"England"	"West Heslerton"	54.171	-0.6057	"C14"				450	550	650	"J1c3f"	"I1"	"Petrous"		"1240k"	"Half"	"single"			164982	0.152	0.163	"NA"					"PASS"	
-"I20667"	"F"	"WH 82"	"England EMA"	"England"	"West Heslerton"	54.171	-0.6057	"C14"				500	525	550	"H6a1b3"		"Petrous"		"1240k"	"Half"	"single"			333026	0.337	0.229						"PASS"	
-"I20668"	"F"	"WH 119"	"England EMA"	"England"	"West Heslerton"	54.171	-0.6057	"C14"				550	575	600	"V+@16298"		"Petrous"		"1240k"	"Half"	"single"			851989	2.446	0.18						"PASS"	
-"I20669"	"F"	"WH 124"	"England EMA"	"England"	"West Heslerton"	54.171	-0.6057	"C14"				450	550	650	"H6a1b"		"Petrous"		"1240k"	"Half"	"single"			257841	0.256	0.184						"PASS"	
-"I20670"	"F"	"WH 86"	"England EMA"	"England"	"West Heslerton"	54.171	-0.6057	"C14"				450	525	600	"T2b2b"		"Petrous"		"1240k"	"Half"	"single"			817825	1.951	0.21						"PASS"	
-"I20671"	"M"	"WH 162"	"England EMA"	"England"	"West Heslerton"	54.171	-0.6057	"C14"				450	550	650	"J1c2"	"R1b1a1b1a1a1c"	"Petrous"		"1240k"	"Half"	"single"			886966	2.452	0.149	0.009					"PASS"	
-"I20672"	"F"	"WH 163"	"England EMA"	"England"	"West Heslerton"	54.171	-0.6057	"C14"				450	550	650	"I1a1"		"Petrous"		"1240k"	"Half"	"single"			159716	0.148	0.216						"PASS"	
-"I20673"	"M"	"WH 182"	"England EMA"	"England"	"West Heslerton"	54.171	-0.6057	"C14"				450	550	650	"T2f1a1"	"R1a1a1"	"Petrous"		"1240k"	"Half"	"single"			623538	0.859	0.192	0.004					"PASS"	
-"I20674"	"M"	"WH 184"	"England EMA"	"England"	"West Heslerton"	54.171	-0.6057	"C14"				500	550	600	"T2f1a1"	"I1a3"	"Petrous"		"1240k"	"Half"	"single"			760959	1.466	0.219	0.009					"PASS"	
-"I20675_d"	"U"	"WH 103"	"England EMA"	"England"	"West Heslerton"	54.171	-0.6057	"C14"				450	550	650	"NA"		"Petrous"		"1240k"	"Half"	"single"			43947	0.038	"NA"						"QUESTIONABLE CRITICAL (mtDNA contamination FAILED, Y chromosome contamination FAILED)"	
-"I20676"	"F"	"WH 120"	"England EMA"	"England"	"West Heslerton"	54.171	-0.6057	"C14"				450	550	650	"U5a2c3"		"Petrous"		"1240k"	"Half"	"single"			352720	0.385	0.193						"PASS"	
-"I20677"	"M"	"WH 122"	"England EMA"	"England"	"West Heslerton"	54.171	-0.6057	"C14"				500	525	550	"H1"	"R1b1a1b1a1a1c"	"Petrous"		"1240k"	"Half"	"single"			914962	4.262	0.162	0.005					"PASS"	
-"I20678"	"F"	"WH 132"	"England EMA"	"England"	"West Heslerton"	54.171	-0.6057	"C14"				450	550	650	"U5a1b3"		"Petrous"		"1240k"	"Half"	"single"			750748	1.478	0.196						"PASS"	
-"I20679"	"M"	"WH 137"	"England EMA"	"England"	"West Heslerton"	54.171	-0.6057	"C14"				450	550	650	"X2b4"	"I1a2"	"Petrous"		"1240k"	"Half"	"single"			900723	2.824	0.187	0.006					"PASS"	
-"I20680"	"F"	"WH 152"	"England EMA"	"England"	"West Heslerton"	54.171	-0.6057	"C14"				450	525	600	"T2+16189"		"Petrous"		"1240k"	"Half"	"single"			853801	2.424	0.278						"PASS"	
-"DRU001"	"F"	"Grave I 4"	"Germany EMA"	"Germany"	"Drantum"	52.8147	8.1923	"C14"	1295	18	"MAMS 52074"	666	719.5	773	"HV+16311"		"Petrous"		"1240k"	"None"	"single"			657795	2.1603	0.3717						"PASS"	
-"DRU002"	"F"	"Grave II 10"	"Germany EMA"	"Germany"	"Drantum"	52.8147	8.1923	"C14"				600	750	900	"U2e2a"		"Petrous"		"1240k"	"None"	"single"			495486	1.132	0.4566						"PASS"	
-"DRU003"	"M"	"Grave I 18"	"Germany EMA"	"Germany"	"Drantum"	52.8147	8.1923	"C14"	1194	19	"MAMS 52075"	775	830.5	886	"H11a2a"	"R1a1a1b1a3a2b1~"	"Petrous"		"1240k"	"None"	"single"			718486	2.6415	0.3589	0.031226					"PASS"	
-"DRU004"	"F"	"Grave I 7"	"Germany EMA"	"Germany"	"Drantum"	52.8147	8.1923	"C14"				600	750	900	"U5b1c2b"		"Petrous"		"1240k"	"None"	"single"			543563	1.406	0.3545						"PASS"	
-"DRU005"	"M"	"Grave 7 West"	"Germany EMA"	"Germany"	"Drantum"	52.8147	8.1923	"C14"				600	750	900	"H4a1a4b"	"I1~ "	"Petrous"		"1240k"	"None"	"single"			275343	0.49	0.4668	"0.062896  (0.049 after PMD)"					"PASS"	
-"DRU006"	"F"	"Grave 45"	"Germany EMA"	"Germany"	"Drantum"	52.8147	8.1923	"C14"	1185	20	"MAMS52096"	775	854.5	934	"K1a+195"		"Petrous"		"1240k"	"None"	"single"			831658	4.1611	0.3376						"PASS"	
-"DRU007"	"F"	"Grave II 11"	"Germany EMA"	"Germany"	"Drantum"	52.8147	8.1923	"C14"				600	750	900	"H51"		"Petrous"		"1240k"	"None"	"single"			551379	1.4224	0.4531						"PASS"	
-"DRU008"	"F (cont) "	"Grave 33"	"Germany EMA"	"Germany"	"Drantum"	52.8147	8.1923	"C14"				600	750	900	"T2b"		"Tooth"		"1240k"	"None"	"single"			16759	0.0236	0.3074						"QUESTIONABLE CRITICAL (mtDNA contamination FAILED)"	
-"DRU009"	"F"	"Grave I 10"	"Germany EMA"	"Germany"	"Drantum"	52.8147	8.1923	"C14"				600	750	900	"K1a4a1a2b"		"Petrous"		"1240k"	"None"	"single"			416923	0.8964	0.4513						"PASS"	
-"DRU010"	"F (cont)"	"Grave 72"	"Germany EMA"	"Germany"	"Drantum"	52.8147	8.1923	"C14"				600	750	900	"K2a11"		"Tooth"		"1240k"	"None"	"single"			1589	0.0023	0.0893						"QUESTIONABLE CRITICAL (mtDNA contamination PASS)"	
-"DRU011"	"M"	"Grave II 12"	"Germany EMA"	"Germany"	"Drantum"	52.8147	8.1923	"C14"	1196	19	"MAMS 52097"	775	830.5	886	"K"	"I1a~"	"Petrous"		"1240k"	"None"	"single"			459759	1.0847	0.4424	0.034734					"PASS"	
-"DRU012"	"M"	"Grave I 19"	"Germany EMA"	"Germany"	"Drantum"	52.8147	8.1923	"C14"				600	750	900	"H2a2a1"	"R1b1a1b1a1a1c2b2a1b1a1a2b"	"Petrous"		"1240k"	"None"	"single"			501346	1.1616	0.3681	"0.053203 (0.011 after PMD)"					"PASS"	
-"DRU013"	"F"	"Grave 28 West"	"Germany EMA"	"Germany"	"Drantum"	52.8147	8.1923	"C14"				600	750	900	"K1a4d"		"Petrous"		"1240k"	"None"	"single"			765804	3.4256	0.2579						"PASS"	
-"DRU014"	"M"	"Grave 40"	"Germany EMA"	"Germany"	"Drantum"	52.8147	8.1923	"C14"	1221	19	"MAMS 52098"	707	794.5	882	"H17b"	"I1~"	"Petrous"		"1240k"	"None"	"single"			781321	3.7066	0.3483	0.020868					"PASS"	
-"DRU015"	"F"	"Grave 3"	"Germany EMA"	"Germany"	"Drantum"	52.8147	8.1923	"C14"	1230	17	"MAMS 52099"	706	791.5	877	"H31a"		"Petrous"		"1240k"	"None"	"single"			704885	2.7866	0.4149						"PASS"	
-"DRU016"	"F"	"Grave I 9"	"Germany EMA"	"Germany"	"Drantum"	52.8147	8.1923	"C14"				600	750	900	"U3a1"		"Petrous"		"1240k"	"None"	"single"			700947	2.8592	0.3532						"PASS"	
-"DRU017"	"F"	"Grave XIII 11"	"Germany EMA"	"Germany"	"Drantum"	52.8147	8.1923	"C14"				600	750	900	"H1bd"		"Petrous"		"1240k"	"None"	"single"			824295	4.3088	0.3645						"PASS"	
-"DRU018"	"F"	27	"Germany EMA"	"Germany"	"Drantum"	52.8147	8.1923	"C14"				600	750	900	"H31a"		"Petrous"		"1240k"	"None"	"single"			824644	4.2541	0.34						"PASS"	
-"DUN001.A"	"M"	147	"Germany EMA"	"Germany"	"Dunum"	53.5962	7.6454	"C14"	1211	18	"MAMS 52076"	774	828.5	883	"U2e2a1a"	"R1b1a1b"	"Petrous"		"1240k"	"None"	"single"			196667	0.3278	0.3516	"0.080083 (0.049 after PMD)"					"PASS"	
-"DUN001.B"	"M"	147	"Germany EMA"	"Germany"	"Dunum"	53.5962	7.6454	"C14"				774	828.5	883	"U2e2a1a"	"R1b1a1b1a1a2"	"Tooth"		"1240k"	"None"	"single"			323502	0.6192	0.4295	0.048786					"PASS"	
-"DUN002"	"M"	128	"Germany EMA"	"Germany"	"Dunum"	53.5962	7.6454	"C14"	1128	18	"MAMS 52077"	886	937.5	989	"H1"	"R1b1a1b1a1a"	"Petrous"		"1240k"	"None"	"single"			568618	1.7088	0.3205	0.030669					"PASS"	
-"DUN003"	"M"	280	"Germany EMA"	"Germany"	"Dunum"	53.5962	7.6454	"C14"				600	800	1000	"NA"	"I"	"Tooth"		"1240k"	"None"	"single"			9037	0.0129	0.2818	"NA"					"QUESTIONABLE MODERATE (mtDNA contamination FAILED, Y chromosome contamination FAILED)"	
-"DUN004"	"M"	267	"Germany EMA"	"Germany"	"Dunum"	53.5962	7.6454	"C14"				600	800	1000	"NA"	"BT"	"Bone"		"1240k"	"None"	"single"			3633	0.0051	0.1263	"NA"					"QUESTIONABLE CRITICAL (mtDNA contamination FAILED, Y chromosome contamination FAILED)"	
-"DUN005"	"M"	127	"Germany EMA"	"Germany"	"Dunum"	53.5962	7.6454	"C14"	1256	19	"MAMS 52100"	676	750.5	825	"X"	"I1~"	"Tooth"		"1240k"	"None"	"single"			352338	0.7278	0.3477	0.030007					"PASS"	
-"DUN006"	"M"	39	"Germany EMA"	"Germany"	"Dunum"	53.5962	7.6454	"C14"				600	800	1000	"J2b2"	"R1b1a1b1a1a1"	"Petrous"		"1240k"	"None"	"single"			440343	0.9999	0.347	0.037755					"PASS"	
-"DUN007"	"F"	112	"Germany EMA"	"Germany"	"Dunum"	53.5962	7.6454	"C14"	1325	18	"MAMS 52101"	656	714	772	"H1c3b"		"Petrous"		"1240k"	"None"	"single"			632158	2.0461	0.3303						"PASS"	
-"DUN008"	"M"	351	"Germany EMA"	"Germany"	"Dunum"	53.5962	7.6454	"C14"				600	800	1000	"NA"	"I2"	"Bone"		"1240k"	"None"	"single"			24299	0.0357	0.25	"NA"					"QUESTIONABLE MODERATE (mtDNA contamination FAILED, Y chromosome contamination FAILED)"	
-"DUN009"	"M"	311	"Germany EMA"	"Germany"	"Dunum"	53.5962	7.6454	"C14"				600	800	1000	"NA (H3au)"	"R1b1a1b1a1a1"	"Petrous"		"1240k"	"None"	"single"			224301	0.3927	0.2976	0.007903					"PASS"	
-"DUN010"	"M"	122	"Germany EMA"	"Germany"	"Dunum"	53.5962	7.6454	"C14"				600	800	1000	"H1au1"	"R1b1a1b1a1a1"	"Petrous"		"1240k"	"None"	"single"			487401	1.1998	0.4162	0.028005					"PASS"	
-"DUN011"	"M"	352	"Germany EMA"	"Germany"	"Dunum"	53.5962	7.6454	"C14"	1278	20	"MAMS 52102"	672	722.5	773	"U4b1b1"	"R1b1a1b1a1a1"	"Petrous"		"1240k"	"None"	"single"			816416	4.08	0.3381	0.029337					"PASS"	
-"DUN012"	"M"	241	"Germany EMA"	"Germany"	"Dunum"	53.5962	7.6454	"C14"				600	800	1000	"NA"	"I2a1b1~"	"Petrous"		"1240k"	"None"	"single"			166922	0.2726	0.3324	"0.074463 (0.041 after PMD)"					"PASS"	
-"DUN013"	"M"	350	"Germany EMA"	"Germany"	"Dunum"	53.5962	7.6454	"C14"	1231	18	"MAMS 52103"	704	791.5	879	"H58"	"R1b1a1b1a1a2"	"Petrous"		"1240k"	"None"	"single"			321402	0.6331	0.3764	0.025563					"PASS"	
-"DUN014"	"M"	141	"Germany EMA"	"Germany"	"Dunum"	53.5962	7.6454	"C14"				600	800	1000	"NA"	"BT"	"Tooth"		"1240k"	"None"	"single"			3196	0.0045	0.1752	"NA"					"QUESTIONABLE CRITICAL (mtDNA contamination FAILED, Y chromosome contamination FAILED)"	
-"ADN001"	"M"	24033	"Germany EMA"	"Germany"	"Hannover-Anderten"	52.3597	9.8695	"C14"	1207	18	"MAMS 52072"	774	828.5	883	"H56"	"J2b2a1a1a1a1a1a1~"	"Petrous"		"1240k"	"None"	"single"			832578	4.1946	0.2762	0.013					"PASS"	
-"ADN002"	"M"	24071	"Germany EMA"	"Germany"	"Hannover-Anderten"	52.3597	9.8695	"C14"	1258	19	"MAMS 52073"	677	750	823	"U5a2c3a"	"R1b1a1b1a1a1c2b2a1b1a"	"Petrous"		"1240k"	"None"	"single"			816944	3.9893	0.2187	0.016					"PASS"	
-"ADN003"	"F"	24027	"Germany EMA"	"Germany"	"Hannover-Anderten"	52.3597	9.8695	"C14"	1251	16	"MAMS 52092"	678	770	862	"H2a2a1"		"Petrous"		"1240k"	"None"	"single"			806668	3.9086	0.2622						"PASS"	
-"ADN004"	"M"	24042	"Germany EMA"	"Germany"	"Hannover-Anderten"	52.3597	9.8695	"C14"				650	750	850	"H5e1"	"R1b1a1b1a1a"	"Tooth"		"1240k"	"None"	"single"			261883	0.4413	0.1853	0.013					"PASS"	
-"ADN005"	"M"	24020	"Germany EMA"	"Germany"	"Hannover-Anderten"	52.3597	9.8695	"C14"	1184	19	"MAMS 52093"	775	855.5	936	"H2a2a1"	"J2b2a1a1a1a1a1a1~"	"Petrous"		"1240k"	"None"	"single"			885606	4.9558	0.2382	0.017					"PASS"	
-"ADN006"	"F"	24017	"Germany EMA"	"Germany"	"Hannover-Anderten"	52.3597	9.8695	"C14"				650	750	850	"J1b1a1b"		"Petrous"		"1240k"	"None"	"single"			883114	5.1316	0.2629						"PASS"	
-"ADN007"	"M"	24072	"Germany EMA"	"Germany"	"Hannover-Anderten"	52.3597	9.8695	"C14"				650	750	850	"V"	"R1b1a1b1a1a2"	"Petrous"		"1240k"	"None"	"single"			866440	4.5097	0.253	0.015					"PASS"	
-"ADN008"	"M"	24070	"Germany EMA"	"Germany"	"Hannover-Anderten"	52.3597	9.8695	"C14"	1135	19	"MAMS 52094"	776	882.5	989	"H3af"	"I1~"	"Petrous"		"1240k"	"None"	"single"			908517	5.3902	0.2039	0.014					"PASS"	
-"ADN009"	"M"	24024	"Germany EMA"	"Germany"	"Hannover-Anderten"	52.3597	9.8695	"C14"				650	750	850	"H2a2a1"	"J2b2a1a1a1a1a1a1~"	"Petrous"		"1240k"	"None"	"single"			793913	3.6368	0.2512	0.018					"PASS"	
-"ADN010"	"M"	24024	"Germany EMA"	"Germany"	"Hannover-Anderten"	52.3597	9.8695	"C14"				650	750	850	"H2a2a1"	"J2b2a1a1a1a1a1a1~"	"Petrous"		"1240k"	"None"	"single"			865244	4.5292	0.2513	0.019					"PASS"	
-"ADN011"	"F"	24077	"Germany EMA"	"Germany"	"Hannover-Anderten"	52.3597	9.8695	"C14"				650	750	850	"K1a4a1a2a"		"Petrous"		"1240k"	"None"	"single"			799614	3.9006	0.2173						"PASS"	
-"ADN012"	"M"	24086	"Germany EMA"	"Germany"	"Hannover-Anderten"	52.3597	9.8695	"C14"				650	750	850	"H+195+146"	"R1b1a1b"	"Petrous"		"1240k"	"None"	"single"			29412	0.0412	0.262	0.3					"PASS"	
-"ADN013"	"M"	24064	"Germany EMA"	"Germany"	"Hannover-Anderten"	52.3597	9.8695	"C14"	1318	19	"MAMS 52095"	658	715	772	"H1a1c"	"I2a1b1a2b1a1a~"	"Petrous"		"1240k"	"None"	"single"			792566	3.3507	0.3021	0.03					"PASS"	
-"ADN014"	"M"	24099	"Germany EMA"	"Germany"	"Hannover-Anderten"	52.3597	9.8695	"C14"				650	750	850	"H"	"R1b1a1b1a1a1"	"Petrous"		"1240k"	"None"	"single"			871608	4.4876	0.2427	0.016					"PASS"	
-"ADN015"	"F"	24096	"Germany EMA"	"Germany"	"Hannover-Anderten"	52.3597	9.8695	"C14"				650	750	850	"H1e"		"Petrous"		"1240k"	"None"	"single"			904974	5.4384	0.1749						"PASS"	
-"ADN016"	"F?"	24091	"Germany EMA"	"Germany"	"Hannover-Anderten"	52.3597	9.8695	"C14"				650	750	850	"W1"		"Petrous"		"1240k"	"None"	"single"			1842	0.0025	0.265						"QUESTIONABLE CRITICAL (mtDNA contamination PASS)"	
-"HID001.A"	"M"	"522n:2019"	"Germany EMA"	"Germany"	"Hiddestorf"	52.2804	9.7125	"C14"	"No"	"collagen"	"MAMS 52082"	"400 CE"			"NA"	"R1b1a1b1a1a2"	"Petrous"		"1240k"	"None"	"single"			390189	0.7631	0.2029	0.003					"PASS"	
-"HID001.B"	"M"	"522n:2019"	"Germany EMA"	"Germany"	"Hiddestorf"	52.2804	9.7125	"C14"				"400 CE"			"NA"	"R1b1a1b1a1a2"	"Tooth"		"1240k"	"None"	"single"			624220	1.674	0.2219	0.004					"PASS"	
-"HID002.A"	"M"	"538g:2019"	"Germany EMA"	"Germany"	"Hiddestorf"	52.2804	9.7125	"C14"	"No"	"collagen"	"MAMS 52083"	"400 CE"			"H15a1"	"R1b1a1b1a1a2"	"Petrous"		"1240k"	"None"	"single"			932129	5.8442	0.2427	0.013					"PASS"	
-"HID002.B"	"M"	"538g:2019"	"Germany EMA"	"Germany"	"Hiddestorf"	52.2804	9.7125	"C14"				"400 CE"			"H15a1"	"R1b1a1b1a1a2"	"Tooth"		"1240k"	"None"	"single"			682012	1.6581	0.2755	0.018					"PASS"	
-"HID003"	"M"	"539a:2019"	"Germany EMA"	"Germany"	"Hiddestorf"	52.2804	9.7125	"C14"	1600	18	"MAMS 52110"	421	479	537	"T2b3+151"	"R1b1a1b1a1a1"	"Tooth"		"1240k"	"None"	"single"			195009	0.3199	0.2026	0.028					"PASS"	
-"HID004"	"M"	"541a:2019"	"Germany EMA"	"Germany"	"Hiddestorf"	52.2804	9.7125	"C14"	1599	17	"MAMS 52111"	422	479.5	537	"K1a4a1e"	"R1b1a1b1a1a1"	"Tooth"		"1240k"	"None"	"single"			809855	2.9054	0.2238	0.014					"PASS"	
-"ISS001"	"F"	"1015/37:2001"	"Germany EMA"	"Germany"	"Issendorf"	53.4876	9.5132	"C14"	1698	18	"MAMS 52084"	260	336	412	"NA"		"Petrous"		"1240k"	"None"	"single"			135643	0.2097	0.4832						"PASS"	
-"ISS002"	"M"	"1018:2001"	"Germany EMA"	"Germany"	"Issendorf"	53.4876	9.5132	"C14"				400	475	550	"T2e"	"I1"	"Petrous"		"1240k"	"None"	"single"			238880	0.4043	0.258	"0.3  (0.033 after PMD)"					"QUESTIONABLE MODERATE (mtDNA contamination PASS, Y chromosome contamination FAILED, PASS after PMD)"	
-"LBU001"	"F"	"739/7:1980"	"Germany EMA"	"Germany"	"Liebenau"	52.6053	9.0907	"C14"				300	550	800	"NA"		"Petrous"		"1240k"	"None"	"single"			1463	0.0022	0.2784						"FAILED"	
-"LBU002"	"M"	"947/28:1980"	"Germany EMA"	"Germany"	"Liebenau"	52.6053	9.0907	"C14"				300	550	800	"NA"	"BT"	"Petrous"		"1240k"	"None"	"single"			2108	0.003	0.2188	"NA"					"FAILED"	
-"LBU003"	"M"	"638/B8:1980"	"Germany EMA"	"Germany"	"Liebenau"	52.6053	9.0907	"C14"				300	550	800	"NA"	"BT"	"Petrous"		"1240k"	"None"	"single"			2378	0.0035	0.367	"NA"					"FAILED"	
-"LBU004"	"F?"	"495/52:1980"	"Germany EMA"	"Germany"	"Liebenau"	52.6053	9.0907	"C14"				300	550	800	"NA"		"Petrous"		"1240k"	"None"	"single"			1500	0.0023	0.2659						"FAILED"	
-"LBU005"	"M"	"522/7:1980"	"Germany EMA"	"Germany"	"Liebenau"	52.6053	9.0907	"C14"				300	550	800	"NA"		"Petrous"		"1240k"	"None"	"single"			3572	0.005	0.1956	"NA"					"FAILED"	
-"LBU006"	"F"	"710/1:1971"	"Germany EMA"	"Germany"	"Liebenau"	52.6053	9.0907	"C14"	1178	19	"MAMS 52085"	775	860	945	"NA"		"Petrous"		"1240k"	"None"	"single"			205956	0.343	0.2417						"PASS"	
-"LBU007"	"F?"	"677/89:1980"	"Germany EMA"	"Germany"	"Liebenau"	52.6053	9.0907	"C14"				300	550	800	"NA"		"Petrous"		"1240k"	"None"	"single"			3740	0.0052	0.2757						"FAILED"	
-"LBU008"	"M"	"524/15:1980"	"Germany EMA"	"Germany"	"Liebenau"	52.6053	9.0907	"C14"				300	550	800	"NA"	"BT"	"Petrous"		"1240k"	"None"	"single"			2089	0.003	0.2813	"NA"					"FAILED"	
-"LBU009"	"F?"	"853/15:1980"	"Germany EMA"	"Germany"	"Liebenau"	52.6053	9.0907	"C14"				300	550	800	"NA"		"Petrous"		"1240k"	"None"	"single"			1098	0.0016	0.2268						"FAILED"	
-"LBU010"	"M"	"768/2:1980"	"Germany EMA"	"Germany"	"Liebenau"	52.6053	9.0907	"C14"	"No"	"collagen"	"MAMS 52086"	300	550	800	"NA"	"I1"	"Petrous"		"1240k"	"None"	"single"			25909	0.0373	0.3609	"NA"					"QUESTIONABLE MODERATE (mtDNA contamination FAILED, Y chromosome contamination FAILED)"	
-"SRS001"	"M"	454	"Germany EMA"	"Germany"	"Schortens"	53.5377	7.9447	"C14"	1230	18	"MAMS 52087"	706	792	878	"NA"	"R1b1a1b1a1a"	"Petrous"		"1240k"	"None"	"single"			161490	0.255	0.49	0.012529					"PASS"	
-"SRS002"	"M"	85	"Germany EMA"	"Germany"	"Schortens"	53.5377	7.9447	"C14"				700	800	900	"NA"	"R1a1a1~"	"Petrous"		"1240k"	"None"	"single"			21547	0.0307	0.4544	"NA"					"PASS"	
-"SRS003"	"M"	87	"Germany EMA"	"Germany"	"Schortens"	53.5377	7.9447	"C14"				700	800	900	"T1a1a1"	"R1a1a1~"	"Petrous"		"1240k"	"None"	"single"			574379	1.456	0.4683	0.04207					"PASS"	
-"SRS004"	"M"	88	"Germany EMA"	"Germany"	"Schortens"	53.5377	7.9447	"C14"	1239	18	"MAMS 52088"	685	781	877	"H6a1a2b1"	"R1b1a1b1a1a1c2b2b1a1a"	"Petrous"		"1240k"	"None"	"single"			771867	2.9559	0.4125	0.033304					"PASS"	
-"ZET001"	"M"	"Grave 99"	"Germany EMA"	"Germany"	"Zetel"	53.4181	7.9734	"C14"	1267	18	"MAMS 52089"	673	735	797	"NA"	"R1b1a1b"	"Petrous"		"1240k"	"None"	"single"			97348	0.1512	0.4094	"0.190027 (0.027 after PMD)"					"QUESTIONABLE MODERATE (mtDNA contamination PASS, Y chromosome contamination FAILED, PASS after PMD)"	
-"ZET002"	"F"	"Grave 548"	"Germany EMA"	"Germany"	"Zetel"	53.4181	7.9734	"C14"				600	750	900	"K1a4a1a"		"Tooth"		"1240k"	"None"	"single"			7795	0.0112	0.1651						"PASS"	
-"HVN001"	"M"	"Häven I 1196"	"Germany IA"	"Germany"	"Häven"	53.7386	11.6318	"C14"				200	300	400	"HV0f"	"R1b1a1b1a1a"	"Tooth"		"1240k"	"None"	"single"			103551	0.1745	26.3	0.000271					"PASS"	
-"HVN002"	"F"	"E 1274"	"Germany IA"	"Germany"	"Häven"	53.7386	11.6318	"C14"				200	300	400	"H2a2a1"		"Tooth"		"1240k"	"None"	"single"			550161	1.3918	28.5						"PASS"	
-"HVN003"	"M"	"E 1213 Häven 3"	"Germany IA"	"Germany"	"Häven"	53.7386	11.6318	"C14"				200	300	400	"H1af1b"	"R1b1a1b1a1a1"	"Tooth"		"1240k"	"None"	"single"			136066	0.2204	32.1	0.010643					"PASS"	
-"HVN004"	"M"	"E 1206"	"Germany IA"	"Germany"	"Häven"	53.7386	11.6318	"C14"				200	300	400	"J1c"	"R1b1a1b1a1a1"	"Tooth"		"1240k"	"None"	"single"			723415	2.7357	34.5	0.031967					"PASS"	
-"HVN005"	"M"	"Häven 1975 14,2"	"Germany IA"	"Germany"	"Häven"	53.7386	11.6318	"C14"				200	300	400	"H2a2a1b"	"R1b1a1b1a1a1"	"Tooth"		"1240k"	"None"	"single"			898838	5.5717	22.4	0.01187					"PASS"	
-"HVN006"	"M"	"Häven 1975 14,3"	"Germany IA"	"Germany"	"Häven"	53.7386	11.6318	"C14"				200	300	400	"U2e1"	"R1b1a1b1a1a1"	"Tooth"		"1240k"	"None"	"single"			627019	2.0738	26.6	0.016652					"PASS"	
-"HVN007"	"M"	"Häven V E 1220"	"Germany IA"	"Germany"	"Häven"	53.7386	11.6318	"C14"				200	300	400	"H10e"	"I1"	"Tooth"		"1240k"	"None"	"single"			170296	0.2921	10.3	0.076497					"PASS"	
-"HVN008"	"M"	"Häven G7/39"	"Germany IA"	"Germany"	"Häven"	53.7386	11.6318	"C14"				200	300	400	"I4a1"	"I1~"	"Tooth"		"1240k"	"None"	"single"			643211	0.1083	26.6	0.003834					"PASS"	
-"HVN009"	"M (?)"	"71/29"	"Germany IA"	"Germany"	"Häven"	53.7386	11.6318	"C14"				200	300	400	"NA"		"Tooth"		"1240k"	"None"	"single"			3416	0.0072	5	0.013331					"FAILED"	
-"HVN010"	"M"	"1/1967 G7 37,1"	"Germany IA"	"Germany"	"Häven"	53.7386	11.6318	"C14"				200	300	400	"H2a2a1"	"I1"	"Tooth"		"1240k"	"None"	"single"			336372	0.6388	30.2	0.017741					"PASS"	
-"IND001"	"M"	"623-5"	"Germany EMA"	"Germany"	"Alt-Inden"	50.8461	6.3578	"C14"				400	600	800	"U5b2a1a2"	"G2a2b2a1a1b1a1a2a1a"	"Petrous"		"1240k"	"None"	"single"			541938	1.743	0.345	0.014056					"PASS"	
-"IND002"	"M"	"606-1"	"Germany EMA"	"Germany"	"Alt-Inden"	50.8461	6.3578	"C14"				400	600	800	"V3c"	"R1b1a1b1a1a2"	"Petrous"		"1240k"	"None"	"single"			910868	5.8283	0.2537	0.007031					"PASS"	
-"IND003"	"M"	"2-4"	"Germany EMA"	"Germany"	"Alt-Inden"	50.8461	6.3578	"C14"				400	600	800	"T2b"	"R1b1a1b1a1a2e2"	"Petrous"		"1240k"	"None"	"single"			718122	3.4108	0.2743	0.016767					"PASS"	
-"IND004"	"F"	"579-7"	"Germany EMA"	"Germany"	"Alt-Inden"	50.8461	6.3578	"C14"				400	600	800	"U8b1b1"		"Petrous"		"1240k"	"None"	"single"			597766	1.9397	0.3085						"PASS"	
-"IND005"	"M"	"571-8"	"Germany EMA"	"Germany"	"Alt-Inden"	50.8461	6.3578	"C14"				400	600	800	"T2g1a1"	"R1b1a1b1a1a"	"Petrous"		"1240k"	"None"	"single"			854146	5.0598	0.2704	0.013733					"PASS"	
-"IND006"	"M"	"502-7"	"Germany EMA"	"Germany"	"Alt-Inden"	50.8461	6.3578	"C14"				400	600	800	"H13a1a"	"I2a1b1a2b1a~"	"Petrous"		"1240k"	"None"	"single"			522551	1.2975	0.383	0.021821					"PASS"	
-"IND007"	"M"	"518-6"	"Germany EMA"	"Germany"	"Alt-Inden"	50.8461	6.3578	"C14"				400	600	800	"J2b1a1"	"R1b1a1b1a1a2c1a"	"Petrous"		"1240k"	"None"	"single"			867579	4.9719	0.2438	0.005566					"PASS"	
-"IND008"	"M"	"521-17"	"Germany EMA"	"Germany"	"Alt-Inden"	50.8461	6.3578	"C14"				400	600	800	"H2a2"	"G2a2b2a1a1b1a "	"Petrous"		"1240k"	"None"	"single"			709184	2.4656	0.2801	0.007981					"PASS"	
-"IND009"	"M"	"77-6"	"Germany EMA"	"Germany"	"Alt-Inden"	50.8461	6.3578	"C14"				400	600	800	"R0a (?)"	"E1b1b1a1b1a "	"Petrous"		"1240k"	"None"	"single"			638298	2.1414	0.2399	0.004944					"PASS"	
-"IND010"	"M"	"574-6"	"Germany EMA"	"Germany"	"Alt-Inden"	50.8461	6.3578	"C14"				400	600	800	"H8c"	"R1a1a~"	"Petrous"		"1240k"	"None"	"single"			707559	2.8491	0.3578	0.013376					"PASS"	
-"IND011"	"M"	"629-8"	"Germany EMA"	"Germany"	"Alt-Inden"	50.8461	6.3578	"C14"				400	600	800	"U5b1"	"R1b1a1b1a1a2"	"Petrous"		"1240k"	"None"	"single"			240101	0.4411	0.2538	0.012723					"PASS"	
-"IND012"	"M"	"583-7"	"Germany EMA"	"Germany"	"Alt-Inden"	50.8461	6.3578	"C14"				400	600	800	"U5b1"	"R1b1a1b1a1a2"	"Petrous"		"1240k"	"None"	"single"			804414	3.999	0.2542	0.006684					"PASS"	
-"IND013"	"M"	"453-12"	"Germany EMA"	"Germany"	"Alt-Inden"	50.8461	6.3578	"C14"				400	600	800	"H3b1b1"	"R1b1a1b1a1a2c1a"	"Petrous"		"1240k"	"None"	"single"			860246	4.9908	0.2698	0.007703					"PASS"	
-"IND014"	"M"	"9-8"	"Germany EMA"	"Germany"	"Alt-Inden"	50.8461	6.3578	"C14"				400	600	800	"T2"	"R1b1a1b1b3a1a1"	"Petrous"		"1240k"	"None"	"single"			634951	2.19	0.2988	0.011044					"PASS"	
-"IND015"	"M"	"127-12"	"Germany EMA"	"Germany"	"Alt-Inden"	50.8461	6.3578	"C14"				400	600	800	"H3h3 (?)"	"G2a2"	"Petrous"		"1240k"	"None"	"single"			147193	0.2381	0.3366	0.015352					"PASS"	
-"IND016"	"M"	"103-7"	"Germany EMA"	"Germany"	"Alt-Inden"	50.8461	6.3578	"C14"				400	600	800	"T2f1a1"	"I1~"	"Petrous"		"1240k"	"None"	"single"			128556	0.1981	0.3351	0.004485					"PASS"	
-"IND017"	"M"	"32-8"	"Germany EMA"	"Germany"	"Alt-Inden"	50.8461	6.3578	"C14"				400	600	800	"U3a1"	"R1b1a1b1a1a2"	"Petrous"		"1240k"	"None"	"single"			673526	1.9084	0.3054	0.022939					"PASS"	
-"SWG001"	"M"	"Grave 80"	"Germany EMA"	"Germany"	"Schleswig Rathausmarkt"	54.5205	9.5597	"C14"				1120	1140	1160	"U5a1b1"	"R1b1a1b1a1a1"	"Tooth"		"1240k"	"Half"	"double"			925194	2.7518	0.0859	0.003292					"PASS"	
-"SWG002"	"F"	"Grave 100"	"Germany EMA"	"Germany"	"Schleswig Rathausmarkt"	54.5205	9.5597	"C14"				1140	1175	1210	"J2a1a1a"		"Tooth"		"1240k"	"Half"	"double"			990514	2.7076	0.0522						"PASS"	
-"SWG003"	"M"	"Grave 140"	"Germany EMA"	"Germany"	"Schleswig Rathausmarkt"	54.5205	9.5597	"C14"				1120	1140	1160	"K1c2"	"R1b1a1b1a1a2"	"Tooth"		"1240k"	"Half"	"double"			642935	1.0272	0.0842	0.004917					"PASS"	
-"SWG004"	"M"	"Grave 146"	"Germany EMA"	"Germany"	"Schleswig Rathausmarkt"	54.5205	9.5597	"C14"				1070	1105	1140	"K1b2a2"	"I1a2 "	"Tooth"		"1240k"	"Half"	"double"			820618	1.9713	0.0959	0.005601					"PASS"	
-"SWG005"	"F"	"Grave 158"	"Germany EMA"	"Germany"	"Schleswig Rathausmarkt"	54.5205	9.5597	"C14"				1070	1105	1140	"K1a13"		"Tooth"		"1240k"	"Half"	"double"			763141	1.8749	0.0642						"PASS"	
-"SWG006"	"M"	"Grave 171"	"Germany EMA"	"Germany"	"Schleswig Rathausmarkt"	54.5205	9.5597	"C14"				1070	1105	1140	"U5a1c1a"	"R1b1a1b1a1a2a1a1a1~"	"Tooth"		"1240k"	"None"	"single"			905272	2.3651	0.0801	0.006524					"PASS"	
-"SWG007"	"M"	"Grave 179"	"Germany EMA"	"Germany"	"Schleswig Rathausmarkt"	54.5205	9.5597	"C14"				1070	1105	1140	"H1a1"	"I1~"	"Tooth"		"1240k"	"None"	"single"			825513	1.9459	0.0949	0.003237					"PASS"	
-"SWG008"	"M"	"Grave 221"	"Germany EMA"	"Germany"	"Schleswig Rathausmarkt"	54.5205	9.5597	"C14"				1120	1140	1160	"H5a1c1a"	"I1a2  "	"Tooth"		"1240k"	"None"	"single"			924015	2.4747	0.0874	0.004608					"PASS"	
-"SWG009"	"M"	"Grave 230"	"Germany EMA"	"Germany"	"Schleswig Rathausmarkt"	54.5205	9.5597	"C14"				1070	1105	1140	"H2a2a1c"	"NO1"	"Tooth"		"1240k"	"None"	"single"			219976	0.2143	0.0799	0.047753					"PASS"	
-"SWG010"	"M"	"Grave 2"	"Germany EMA"	"Germany"	"Schleswig Rathausmarkt"	54.5205	9.5597	"C14"				1070	1105	1140	"H1c2"	"I2a1b1a2b1~"	"Tooth"		"1240k"	"None"	"single"			666623	1.0685	0.0602	0.005024					"PASS"	
-"SWG011"	"M"	"Grave 42"	"Germany EMA"	"Germany"	"Schleswig Rathausmarkt"	54.5205	9.5597	"C14"				1070	1105	1140	"J2b1a3"	"R1b1a1b1a"	"Tooth"		"1240k"	"Half"	"double"			592109	1.0231	0.0392	0.027508					"PASS"	
-"SWG012"	"M"	"Grave 81"	"Germany EMA"	"Germany"	"Schleswig Rathausmarkt"	54.5205	9.5597	"C14"				1070	1105	1140	"H7a1"	"R1b1a1b1a1a1c2b2b1a~"	"Tooth"		"1240k"	"Half"	"double"			805448	1.5875	0.0587	0.002942					"PASS"	
-"SWG013"	"M"	"Grave 113"	"Germany EMA"	"Germany"	"Schleswig Rathausmarkt"	54.5205	9.5597	"C14"				1140	1175	1210	"U8a1b"	"R1b1a1b1a1a1c2b2a1b1a1a2"	"Tooth"		"1240k"	"Half"	"double"			799005	1.5249	0.0639	0.00818					"PASS"	
-"SWG014"	"M"	"Grave 155"	"Germany EMA"	"Germany"	"Schleswig Rathausmarkt"	54.5205	9.5597	"C14"				1070	1105	1140	"H11a"	"R1b1a1b1a1"	"Tooth"		"1240k"	"Half"	"double"			92127	0.0843	0.0432	"0.088261  (0.032 after PMD)"					"PASS"	
-"SWG015"	"M"	"Grave 214"	"Germany EMA"	"Germany"	"Schleswig Rathausmarkt"	54.5205	9.5597	"C14"				1070	1105	1140	"V+@16298"	"I1a2  "	"Tooth"		"1240k"	"Half"	"double"			591807	0.8717	0.0553	0.010999					"PASS"	
-"KIL001"	"F"	"BL 41"	"Ireland EMA"	"Ireland"	"Kilteasheen, The Bishop’s Seat"	54.0068	-8.2023	"C14"				600	950	1300	"T2b+152"		"Tooth"		"1240k"	"None"	"single"			823300	4.2285	0.1916						"PASS"	
-"KIL002"	"M"	"BL 121"	"Ireland EMA"	"Ireland"	"Kilteasheen, The Bishop’s Seat"	54.0068	-8.2023	"C14"				600	950	1300	"U1a1a3"	"R1b1a1b1a1a2"	"Tooth"		"1240k"	"None"	"single"			155064	0.2423	0.3382	0.044512					"PASS"	
-"KIL003"	"F"	"BL 46"	"Ireland EMA"	"Ireland"	"Kilteasheen, The Bishop’s Seat"	54.0068	-8.2023	"C14"				600	950	1300	"H3as"		"Tooth"		"1240k"	"None"	"single"			757869	3.6556	0.1964						"PASS"	
-"KIL004"	"M"	"BL 135"	"Ireland EMA"	"Ireland"	"Kilteasheen, The Bishop’s Seat"	54.0068	-8.2023	"C14"				600	950	1300	"U5a1f1a1"	"R1b1a1b1a1a2"	"Tooth"		"1240k"	"None"	"single"			831582	4.3104	0.221	0.006487					"PASS"	
-"KIL006"	"F"	"BL 102"	"Ireland EMA"	"Ireland"	"Kilteasheen, The Bishop’s Seat"	54.0068	-8.2023	"C14"				600	950	1300	"H4a1a3a"		"Tooth"		"1240k"	"None"	"single"			883009	4.7173	0.1526						"PASS"	
-"KIL007"	"M"	"BL 72"	"Ireland EMA"	"Ireland"	"Kilteasheen, The Bishop’s Seat"	54.0068	-8.2023	"C14"				600	950	1300	"T2b19b"	"R1b1a1b1a1a2c"	"Tooth"		"1240k"	"None"	"single"			82523	0.1208	0.3433	"0.131472  (0.073 after PMD)"					"PASS"	
-"KIL008"	"F"	"BL 56"	"Ireland EMA"	"Ireland"	"Kilteasheen, The Bishop’s Seat"	54.0068	-8.2023	"C14"				600	950	1300	"U4a1a2"		"Tooth"		"1240k"	"None"	"single"			248070	0.433	0.2076						"PASS"	
-"KIL009"	"M"	"BL 27"	"Ireland EMA"	"Ireland"	"Kilteasheen, The Bishop’s Seat"	54.0068	-8.2023	"C14"				600	950	1300	"K1a4a1"	"R1b1a1b1a1a2c1a1a1a1a1a1"	"Tooth"		"1240k"	"None"	"single"			784699	3.347	0.307	0.014913					"PASS"	
-"KIL012"	"M"	"BL 2"	"Ireland EMA"	"Ireland"	"Kilteasheen, The Bishop’s Seat"	54.0068	-8.2023	"C14"				600	950	1300	"V3"	"R1b1a1b1a1a2c1"	"Tooth"		"1240k"	"None"	"single"			815357	3.9933	0.2017	0.00917					"PASS"	
-"KIL013"	"F"	"BL 3"	"Ireland EMA"	"Ireland"	"Kilteasheen, The Bishop’s Seat"	54.0068	-8.2023	"C14"				600	950	1300	"H13a1a4"		"Tooth"		"1240k"	"None"	"single"			812873	4.5087	0.1623						"PASS"	
-"KIL014"	"M"	"BL 6"	"Ireland EMA"	"Ireland"	"Kilteasheen, The Bishop’s Seat"	54.0068	-8.2023	"C14"				600	950	1300	"J1c1a"	"R1b1a1b1a1a2c1a1a1a1a1a1a"	"Tooth"		"1240k"	"None"	"single"			499698	1.2189	0.2857	0.028933					"PASS"	
-"KIL015"	"M"	"BL 7"	"Ireland EMA"	"Ireland"	"Kilteasheen, The Bishop’s Seat"	54.0068	-8.2023	"C14"				600	950	1300	"V10a"	"R1b1a1b1a1a2c1"	"Tooth"		"1240k"	"None"	"single"			197364	0.3228	0.2258	0.046018					"PASS"	
-"KIL016"	"M"	"BL 8"	"Ireland EMA"	"Ireland"	"Kilteasheen, The Bishop’s Seat"	54.0068	-8.2023	"C14"				600	950	1300	"J1c"	"R1b1a1b1a1a2c1a"	"Tooth"		"1240k"	"None"	"single"			905110	4.7457	0.208	0.010377					"PASS"	
-"KIL017"	"M"	"BL 18"	"Ireland EMA"	"Ireland"	"Kilteasheen, The Bishop’s Seat"	54.0068	-8.2023	"C14"				600	950	1300	"H1o"	"CT"	"Tooth"		"1240k"	"None"	"single"			20160	0.0287	0.2362	"NA"					"PASS"	
-"KIL018"	"M"	"BL 26A"	"Ireland EMA"	"Ireland"	"Kilteasheen, The Bishop’s Seat"	54.0068	-8.2023	"C14"				600	950	1300	"H1"	"I2a1a2~"	"Tooth"		"1240k"	"None"	"single"			33056	0.0476	0.2206	-0.016118					"QUESTIONABLE MODERATE (mtDNA contamination PASS, Y chromosome contamination PASS, PCA outlier)"	
-"KIL019"	"M"	"BL 32"	"Ireland EMA"	"Ireland"	"Kilteasheen, The Bishop’s Seat"	54.0068	-8.2023	"C14"				600	950	1300	"K1c2"	"R1b1a1b"	"Tooth"		"1240k"	"None"	"single"			38466	0.0548	0.2428	"NA"					"PASS"	
-"KIL020"	"M"	"BL 34"	"Ireland EMA"	"Ireland"	"Kilteasheen, The Bishop’s Seat"	54.0068	-8.2023	"C14"				600	950	1300	"V1a"	"R1b1a1b1a1a2"	"Tooth"		"1240k"	"None"	"single"			52691	0.0756	0.266	"0.203165 (0.04 after PMD)"					"QUESTIONABLE MODERATE (mtDNA contamination PASS, Y chromosome contamination FAILED, PASS after PMD)"	
-"KIL021"	"F"	"BL 39"	"Ireland EMA"	"Ireland"	"Kilteasheen, The Bishop’s Seat"	54.0068	-8.2023	"C14"				600	950	1300	"NA"		"Tooth"		"1240k"	"None"	"single"			200994	0.3285	0.1502						"QUESTIONABLE MODERATE (mtDNA contamination FAILED, Y chromosome contamination FAILED)"	
-"KIL022"	"M"	"BL 42"	"Ireland EMA"	"Ireland"	"Kilteasheen, The Bishop’s Seat"	54.0068	-8.2023	"C14"				600	950	1300	"U4b1b2"	"R1b1a1b1a1a2c1a"	"Tooth"		"1240k"	"None"	"single"			834794	4.6152	0.2184	0.009843					"PASS"	
-"KIL023"	"F"	"BL 44"	"Ireland EMA"	"Ireland"	"Kilteasheen, The Bishop’s Seat"	54.0068	-8.2023	"C14"				600	950	1300	"J2a1a1"		"Tooth"		"1240k"	"None"	"single"			875025	5.5323	0.1763						"PASS"	
-"KIL024"	"M"	"BL 45"	"Ireland EMA"	"Ireland"	"Kilteasheen, The Bishop’s Seat"	54.0068	-8.2023	"C14"				600	950	1300	"J1c3f"	"R1b1a1b1a1a2"	"Tooth"		"1240k"	"None"	"single"			56689	0.082	0.2419	0.02439					"PASS"	
-"KIL025"	"M"	"BL 58"	"Ireland EMA"	"Ireland"	"Kilteasheen, The Bishop’s Seat"	54.0068	-8.2023	"C14"				600	950	1300	"U5a1a"	"R1b1a1b1a1a2c1~"	"Tooth"		"1240k"	"None"	"single"			891856	5.1423	0.1476	0.006212					"PASS"	
-"KIL026"	"M"	"BL 59"	"Ireland EMA"	"Ireland"	"Kilteasheen, The Bishop’s Seat"	54.0068	-8.2023	"C14"				600	950	1300	"T2b"	"R1b1a1b1a1a2c1a"	"Tooth"		"1240k"	"None"	"single"			616027	1.847	0.3114	0.010283					"PASS"	
-"KIL027"	"M"	"BL 62"	"Ireland EMA"	"Ireland"	"Kilteasheen, The Bishop’s Seat"	54.0068	-8.2023	"C14"				600	950	1300	"H7a1b"	"R1b1a1b1a1a2a1a2~"	"Tooth"		"1240k"	"None"	"single"			845012	4.7405	0.1869	0.006378					"PASS"	
-"KIL028"	"F"	"BL 63"	"Ireland EMA"	"Ireland"	"Kilteasheen, The Bishop’s Seat"	54.0068	-8.2023	"C14"				600	950	1300	"K2b1a"		"Tooth"		"1240k"	"None"	"single"			700306	2.376	0.2259						"PASS"	
-"KIL030"	"M"	"BL 67"	"Ireland EMA"	"Ireland"	"Kilteasheen, The Bishop’s Seat"	54.0068	-8.2023	"C14"				600	950	1300	"U5a1a1"	"R1b1a1b1a1"	"Tooth"		"1240k"	"None"	"single"			94821	0.1402	0.2286	0.13963					"PASS"	
-"KIL031"	"F"	"BL 70"	"Ireland EMA"	"Ireland"	"Kilteasheen, The Bishop’s Seat"	54.0068	-8.2023	"C14"				600	950	1300	"T2e"		"Tooth"		"1240k"	"None"	"single"			88748	0.1305	0.2348						"PASS"	
-"KIL032"	"M"	"BL 71"	"Ireland EMA"	"Ireland"	"Kilteasheen, The Bishop’s Seat"	54.0068	-8.2023	"C14"				600	950	1300	"U4a1a"	"R1b1a1b1a1a2"	"Tooth"		"1240k"	"None"	"single"			542423	1.3044	0.2435	0.017142					"PASS"	
-"KIL033"	"M"	"BL 86-91"	"Ireland EMA"	"Ireland"	"Kilteasheen, The Bishop’s Seat"	54.0068	-8.2023	"C14"				600	950	1300	"K1a4a1"	"R1b1a1b1a1a2c1a1a1a1a1a1"	"Tooth"		"1240k"	"None"	"single"			881613	4.961	0.2163	0.009603					"PASS"	
-"KIL034"	"M"	"BL 85/90"	"Ireland EMA"	"Ireland"	"Kilteasheen, The Bishop’s Seat"	54.0068	-8.2023	"C14"				600	950	1300	"H3ao"	"R1b1a1b1a1a2c1a4c"	"Tooth"		"1240k"	"None"	"single"			758808	2.7061	0.223	0.012689					"PASS"	
-"KIL035"	"M"	"BL 87"	"Ireland EMA"	"Ireland"	"Kilteasheen, The Bishop’s Seat"	54.0068	-8.2023	"C14"				600	950	1300	"H1b"	"R1b1a1b1a1a2"	"Tooth"		"1240k"	"None"	"single"			642100	1.9765	0.2069	0.011512					"PASS"	
-"KIL037"	"M"	"BL 99"	"Ireland EMA"	"Ireland"	"Kilteasheen, The Bishop’s Seat"	54.0068	-8.2023	"C14"				600	950	1300	"H13a1a"	"R1b1a1b1a1a2c1a1a1a1a1a1"	"Tooth"		"1240k"	"None"	"single"			915617	5.2614	0.1674	0.007831					"PASS"	
-"KIL038"	"M"	"BL 110B"	"Ireland EMA"	"Ireland"	"Kilteasheen, The Bishop’s Seat"	54.0068	-8.2023	"C14"				600	950	1300	"I4a"	"R1b1a1b1a1"	"Tooth"		"1240k"	"None"	"single"			94031	0.1399	0.242	0.052529					"PASS"	
-"KIL041"	"M"	"BL 116"	"Ireland EMA"	"Ireland"	"Kilteasheen, The Bishop’s Seat"	54.0068	-8.2023	"C14"				600	950	1300	"V3a1"	"R1b1a1b1a1a2c1a1a1a1a1a1a"	"Tooth"		"1240k"	"None"	"single"			702574	2.5779	0.2451	0.014732					"PASS"	
-"KIL042"	"F"	"BL 118"	"Ireland EMA"	"Ireland"	"Kilteasheen, The Bishop’s Seat"	54.0068	-8.2023	"C14"				600	950	1300	"J1"		"Tooth"		"1240k"	"None"	"single"			730103	2.4629	0.0192						"QUESTIONABLE CRITICAL (mtDNA contamination PASS, PCA outlier)"	
-"KIL043"	"M"	"BL 124"	"Ireland EMA"	"Ireland"	"Kilteasheen, The Bishop’s Seat"	54.0068	-8.2023	"C14"				600	950	1300	"I2"	"R1b1a1b1a1a2c1"	"Tooth"		"1240k"	"None"	"single"			834752	4.0167	0.243	0.013556					"PASS"	
-"KIL044"	"M"	"BL 125"	"Ireland EMA"	"Ireland"	"Kilteasheen, The Bishop’s Seat"	54.0068	-8.2023	"C14"				600	950	1300	"U5b2c2b"	"R1b1a1b1a1a2c1a1a1a1a1a1a"	"Tooth"		"1240k"	"None"	"single"			852458	4.0833	0.2103	0.008196					"PASS"	
-"KIL045"	"M"	"BL 126"	"Ireland EMA"	"Ireland"	"Kilteasheen, The Bishop’s Seat"	54.0068	-8.2023	"C14"				600	950	1300	"U5a1g"	"R1b1a1b1a1"	"Tooth"		"1240k"	"None"	"single"			49112	0.0717	0.3133	0.091081					"PASS"	
-"KIL047"	"M"	"BL 134"	"Ireland EMA"	"Ireland"	"Kilteasheen, The Bishop’s Seat"	54.0068	-8.2023	"C14"				600	950	1300	"H"	"R1b1a1b1a1a2"	"Tooth"		"1240k"	"None"	"single"			772775	3.4798	0.2013	0.009198					"PASS"	
-"MDM001"	"F"	"ind1 M29 S112"	"Netherlands EMA"	"Netherlands"	"Midlum"	53.1813	5.4525	"C14"				432	535.5	639	"H5a1"		"Tooth"		"1240k"	"Half"	"double"			1013220	2.9711	0.0478						"PASS"	
-"MDM002"	"F"	"ind2 M32 S113"	"Netherlands EMA"	"Netherlands"	"Midlum"	53.1813	5.4525	"C14"				420	492.5	565	"J1c3"		"Tooth"		"Shotgun"	"Half"	"double"			914084	1.3984	0.0749						"PASS"	
-"MDM003"	"F"	"ind3 M33 S114"	"Netherlands EMA"	"Netherlands"	"Midlum"	53.1813	5.4525	"C14"				399	469	539	"U5b2b3"		"Tooth"		"1240k"	"Half"	"double"			838257	1.6241	0.0373						"PASS"	
-"MDM004"	"F"	"ind6 M37 S134"	"Netherlands EMA"	"Netherlands"	"Midlum"	53.1813	5.4525	"C14"				538	591.5	645	"K2a6"		"Tooth"		"1240k"	"Half"	"double"			792658	1.51	0.0582						"PASS"	
-"MDM005"	"F"	"ind7 M39 S147"	"Netherlands EMA"	"Netherlands"	"Midlum"	53.1813	5.4525	"C14"				431	533	635	"U4a1a"		"Tooth"		"Shotgun"	"Half"	"double"			1117467	2.5827	0.1079						"PASS"	
-"MDM006"	"F"	"ind4 M41 S122"	"Netherlands EMA"	"Netherlands"	"Midlum"	53.1813	5.4525	"C14"				396	467.5	539	"H1"		"Tooth"		"Shotgun"	"Half"	"double"			522527	0.529	0.1173						"PASS"	
-"MDM007"	"F"	"ind5 M35 S132"	"Netherlands EMA"	"Netherlands"	"Midlum"	53.1813	5.4525	"C14"				428	518.5	609	"H5b1"		"Tooth"		"1240k"	"Half"	"double"			947104	2.4053	0.0993						"PASS"	
-"GRO001"	"F"	"V0551"	"Netherlands EMA"	"Netherlands"	"Groningen"	53.2173	6.5655	"C14"				1025	1092.5	1160	"H1a1"		"Tooth"		"1240k"	"None"	"single"			719617	1.1356	0.0556						"PASS"	
-"GRO002"	"M"	"V0556"	"Netherlands EMA"	"Netherlands"	"Groningen"	53.2173	6.5655	"C14"				775	885	995	"U5a1i1"	"I2a1a1b1a1~"	"Tooth"		"1240k"	"None"	"single"			778965	1.3493	0.039	0.004083					"PASS"	
-"GRO004"	"F"	"V0568"	"Netherlands EMA"	"Netherlands"	"Groningen"	53.2173	6.5655	"C14"				"<1100 CE"			"J1c2c"		"Tooth"		"1240k"	"None"	"single"			187582	0.1824	0.029						"PASS"	
-"GRO005"	"M"	"V0592"	"Netherlands EMA"	"Netherlands"	"Groningen"	53.2173	6.5655	"C14"				1037	1040	1043	"U5b1b1"	"R1b1a1b1a1a2"	"Tooth"		"1240k"	"None"	"single"			788670	1.4619	0.0677	0.002936					"PASS"	
-"GRO006"	"F"	"V0604"	"Netherlands EMA"	"Netherlands"	"Groningen"	53.2173	6.5655	"C14"				"<1037 CE"			"T2b"		"Tooth"		"1240k"	"None"	"single"			303116	0.3207	0.051						"PASS"	
-"GRO007"	"M"	"V0773"	"Netherlands EMA"	"Netherlands"	"Groningen"	53.2173	6.5655	"C14"				985	1007.5	1030	"U7b"	"R1b1a1b1a1a1"	"Tooth"		"1240k"	"Half"	"double"			900194	2.3853	0.0898	0.004153					"PASS"	
-"GRO008"	"M"	"V0772"	"Netherlands EMA"	"Netherlands"	"Groningen"	53.2173	6.5655	"C14"				995	1012.5	1030	"J2b1a3"	"R1b1a1b1a1a1"	"Tooth"		"1240k"	"Half"	"double"			786969	1.3844	0.0353	0.002578					"PASS"	
-"GRO010"	"F"	"V0805"	"Netherlands EMA"	"Netherlands"	"Groningen"	53.2173	6.5655	"C14"				915	972.5	1030	"J2a1a1a2"		"Tooth"		"1240k"	"Half"	"double"			943536	2.2142	0.0561						"PASS"	
-"GRO012"	"M"	"V1076"	"Netherlands EMA"	"Netherlands"	"Groningen"	53.2173	6.5655	"C14"				855	907.5	960	"T2b1"	"R1b1a1b1a1a1a1"	"Tooth"		"1240k"	"Half"	"double"			885451	1.8039	0.0396	0.003135					"PASS"	
-"GRO013"	"M"	"V1053"	"Netherlands EMA"	"Netherlands"	"Groningen"	53.2173	6.5655	"C14"				790	882.5	975	"T1a1b"	"R1b1a1b1a1a"	"Tooth"		"1240k"	"Half"	"double"			926421	2.0279	0.0637	0.000266					"PASS"	
-"GRO014"	"F"	"V1071"	"Netherlands EMA"	"Netherlands"	"Groningen"	53.2173	6.5655	"C14"				790	882.5	975	"J2a1a1a2"		"Tooth"		"1240k"	"None"	"single"			952164	2.2738	0.0631						"PASS"	
-"GRO015"	"F"	"V1073"	"Netherlands EMA"	"Netherlands"	"Groningen"	53.2173	6.5655	"C14"				"<1050 CE"			"J2a1a1a2"		"Tooth"		"1240k"	"None"	"single"			861687	1.6965	0.0629						"PASS"	
-"GRO016"	"M"	"V1104"	"Netherlands EMA"	"Netherlands"	"Groningen"	53.2173	6.5655	"C14"				"<1100 CE"			"J2a1a1a2"	"R1b1a1b1a1a1"	"Tooth"		"1240k"	"None"	"single"			850655	1.6364	0.0324	-0.000141					"PASS"	
-"GRO017"	"M"	"V1119"	"Netherlands EMA"	"Netherlands"	"Groningen"	53.2173	6.5655	"C14"				775	875	975	"J1b1a1+146C"	"R1b1a1b"	"Tooth"		"1240k"	"None"	"single"			847666	1.939	0.0751	0.001839					"PASS"	
-"GRO019"	"M"	"V1135"	"Netherlands EMA"	"Netherlands"	"Groningen"	53.2173	6.5655	"C14"				875	945	1015	"K1a4d"	"I2a1b1a2b1a~  "	"Tooth"		"1240k"	"None"	"single"			372770	0.418	0.0558	0.01271					"PASS"	
-"GRO020"	"F"	"V1140"	"Netherlands EMA"	"Netherlands"	"Groningen"	53.2173	6.5655	"C14"				"<1100 CE"			"J2a1a1a2"		"Tooth"		"1240k"	"Half"	"double"			188609	0.1844	0.0463						"PASS"	
-"GRO021"	"M"	"V1254"	"Netherlands EMA"	"Netherlands"	"Groningen"	53.2173	6.5655	"C14"				695	817.5	940	"J1c"	"I1~"	"Tooth"		"1240k"	"Half"	"double"			768316	1.3738	0.0365	0.00096					"PASS"	
-"GRO023"	"M"	"V1253"	"Netherlands EMA"	"Netherlands"	"Groningen"	53.2173	6.5655	"C14"				660	730	800	"T2b8"	"R1b1a1b1a1a1c2b1b"	"Tooth"		"1240k"	"Half"	"double"			968771	2.4899	0.076	0.000319					"PASS"	
-"GRO024"	"M"	"V079"	"Netherlands EMA"	"Netherlands"	"Groningen"	53.2173	6.5655	"C14"				985	1070	1155	"H3b7"	"R1b1a1b1a1a2a1b1a1a~"	"Tooth"		"1240k"	"Half"	"double"			985405	2.4622	0.0706	0.002622					"PASS"	
+Poseidon_ID	Genetic_Sex	Collection_ID	Group_Name	Country	Location	Latitude	Longitude	Date_Type	Date_C14_Uncal_BP	Date_C14_Uncal_BP_Err	Date_C14_Labnr	Date_BC_AD_Start	Date_BC_AD_Median	Date_BC_AD_Stop	MT_Haplogroup	Y_Haplogroup	Source_Tissue	Nr_Libraries	Capture_Type	UDG	Library_Built	Genotype_Ploidy	Endogenous	Nr_SNPs	Coverage_on_Target_SNPs	Damage	Contamination	Contamination_Err	Contamination_Meas	Primary_Contact	Publication	Note	Genetic_Source_Accession_IDs
+KPN001	F	14553	Denmark EMA	Denmark	Sct. Clements, Copenhagen	55.6753	12.5683	C14				1050	1150	1250	H3v+16093		Tooth		1240k	None	single			593144	1.723	0.1699						PASS	
+KPN002	M	14758	Denmark EMA	Denmark	Sct. Clements, Copenhagen	55.6753	12.5683	C14				1050	1150	1250	HV9a1a	R1a1a1b1a3a1a	Tooth		1240k	None	single			447529	1.0801	0.153	0.008349					PASS	
+KPN003	F	16194	Denmark EMA	Denmark	Sct. Clements, Copenhagen	55.6753	12.5683	C14				1050	1150	1250	H31		Tooth		1240k	None	single			805450	3.5643	0.144						PASS	
+KPN004	F	19235	Denmark EMA	Denmark	Sct. Clements, Copenhagen	55.6753	12.5683	C14				1050	1150	1250	H2a1		Tooth		1240k	None	single			693735	2.7637	0.2276						PASS	
+KPN005	F	19712	Denmark EMA	Denmark	Sct. Clements, Copenhagen	55.6753	12.5683	C14				1050	1150	1250	U2e2a1		Tooth		1240k	None	single			521216	1.5298	0.2846						PASS	
+KPN006	F	20597	Denmark EMA	Denmark	Sct. Clements, Copenhagen	55.6753	12.5683	C14				1050	1150	1250	T2b5a1		Tooth		1240k	None	single			641599	2.3728	0.1897						PASS	
+KPN007	F	24076	Denmark EMA	Denmark	Sct. Clements, Copenhagen	55.6753	12.5683	C14				1050	1150	1250	H1b		Tooth		1240k	None	single			654506	2.4082	0.1766						PASS	
+KPN008	F	25424	Denmark EMA	Denmark	Sct. Clements, Copenhagen	55.6753	12.5683	C14				1050	1150	1250	H3h		Tooth		1240k	None	single			512541	1.4466	0.097						PASS	
+KPN009	F	25830	Denmark EMA	Denmark	Sct. Clements, Copenhagen	55.6753	12.5683	C14				1050	1150	1250	W1+119		Tooth		1240k	None	single			398712	0.9002	0.1572						PASS	
+KPN010	M	30393	Denmark EMA	Denmark	Sct. Clements, Copenhagen	55.6753	12.5683	C14				1050	1150	1250	I2	BT	Tooth		1240k	None	single			10961	0.0155	0.2136	NA					PASS	
+KPN011	M	30905	Denmark EMA	Denmark	Sct. Clements, Copenhagen	55.6753	12.5683	C14				1050	1150	1250	H6a1a	G2a2b2a1a1b1a	Tooth		1240k	None	single			747775	3.0677	0.1314	0.005636					PASS	
+KPN012	F	31074	Denmark EMA	Denmark	Sct. Clements, Copenhagen	55.6753	12.5683	C14				1050	1150	1250	H10c1		Tooth		1240k	None	single			803129	3.8955	0.1237						PASS	
+KPN013	F	32248	Denmark EMA	Denmark	Sct. Clements, Copenhagen	55.6753	12.5683	C14				1050	1150	1250	I2d		Tooth		1240k	None	single			551096	1.571	0.2381						PASS	
+KPN014	F	32345	Denmark EMA	Denmark	Sct. Clements, Copenhagen	55.6753	12.5683	C14				1050	1150	1250	HV+16311		Tooth		1240k	None	single			679612	2.4266	0.1696						PASS	
+KPN015	F	33618	Denmark EMA	Denmark	Sct. Clements, Copenhagen	55.6753	12.5683	C14				1050	1150	1250	V3c		Tooth		1240k	None	single			420672	0.9002	0.1672						PASS	
+I16508	M	SB 481B	England EMA	England	Wolverton, Radcliffe School 	52.0624	-0.8162	C14	1360	30	SUERC-31585	600	655	710	J1c5	I1a3	Petrous		1240k	Half	single			709781	1.537873	0.13	0.00685					PASS	
+I16509	M	SB483B	England EMA	England	Wolverton, Radcliffe School 	52.0624	-0.8162	C14	1395	30	SUERC-31583	600	635.5	671	U5b2a1b	I1a1b1	Petrous		1240k	Half	single			798178	3.468551	0.091	0.00297					PASS	
+I16510	F	SB 484A	England EMA	England	Wolverton, Radcliffe School 	52.0624	-0.8162	C14	1420	30	SUERC-31578	580	620	660	H		Petrous		1240k	Half	single			792146	3.852548	0.098						PASS	
+I3037	F	SB 482B2	England EMA	England	Wolverton, Radcliffe School 	52.0624	-0.8162	C14	1350	30	SUERC-31579	630	679.5	729	W		Petrous		1240k	Half	single			634292	1.23	0.023						PASS	
+ELY001	F	Sk 2209	England EMA	England	Ely	52.4001	0.2607	C14	1562	32	SUERC-76688	418	492	566	J1c2b		Petrous		Shotgun	Half	double			399065	0.3617	0.1152						PASS	
+ELY002	F	Sk 1918	England EMA	England	Ely	52.4001	0.2607	C14	1609	19	MAMS 52104	417	477	537	H1bb		Petrous		Shotgun	Half	double			1002637	1.6432	0.0982						PASS	
+ELY003	M	Sk 1953	England EMA	England	Ely	52.4001	0.2607	C14				500	600	700	HV9a1a	R1b1a1b1a1	Petrous		Shotgun	Half	double			536692	0.5259	0.1102	0.006351					PASS	
+ELY004	M	Sk 2129	England EMA	England	Ely	52.4001	0.2607	C14				500	600	700	U5a1a1	I1~ 	Petrous		Shotgun	Half	double			258210	0.2153	0.1168	0.005788					PASS	
+ELY005	M	Sk 1932	England EMA	England	Ely	52.4001	0.2607	C14	1574	19	MAMS 52105	430	489.5	549	U5a1a1	I1a2b1c1a~	Petrous		Shotgun	Half	double			1089302	2.058	0.089	0.004995					PASS	
+ELY006	F	Sk 2124	England EMA	England	Ely	52.4001	0.2607	C14				500	600	700	H26a		Petrous		Shotgun	Half	double			507119	0.4972	0.083						PASS	
+HAD001	M	Sk 224	England EMA	England	Hatherdene Close	52.1968	0.1703	C14	1511	19	MAMS 52106	544	572.5	601	U4c1a	R1b1a1b1a1a2c1a 	Petrous		Shotgun	Half	double			1072790	1.9262	0.0742	0.007229					PASS	
+HAD002	F	Sk 225	England EMA	England	Hatherdene Close	52.1968	0.1703	C14	1607	28	SUERC-84136	416	478.5	541	J1c5a1		Petrous		Shotgun	Half	double			1043515	1.8629	0.0876						PASS	
+HAD003	M	Sk 259	England EMA	England	Hatherdene Close	52.1968	0.1703	C14	1561	33	SUERC-71018	424	499.5	575	J1c2b	I1~ 	Petrous		Shotgun	Half	double			445452	0.4052	0.1226	0.007073					PASS	
+HAD004	F	Sk 294	England EMA	England	Hatherdene Close	52.1968	0.1703	C14				400	500	600	V10a		Petrous		Shotgun	Half	double			713608	0.813	0.0645						PASS	
+HAD005	M	Sk 640	England EMA	England	Hatherdene Close	52.1968	0.1703	C14				400	500	600	T2b13	R1b1a1b1a1a1b	Petrous		Shotgun	Half	double			1073153	1.9404	0.075	0.005736					PASS	
+HAD006	M	Sk 967	England EMA	England	Hatherdene Close	52.1968	0.1703	C14	1616	20	MAMS 52107	415	476	537	HV6	R1b1a1b1a1a1b1a 	Petrous		Shotgun	Half	double			147989	0.1164	0.0699	0.010747					PASS	
+HAD007	F	Sk 1229	England EMA	England	Hatherdene Close	52.1968	0.1703	C14				400	500	600	K1c1		Petrous		Shotgun	Half	double			508933	0.4869	0.0975						PASS	
+HAD008	F	Sk 226	England EMA	England	Hatherdene Close	52.1968	0.1703	C14				400	500	600	H11a		Petrous		Shotgun	Half	double			716953	0.865	0.0573						PASS	
+HAD009	M	Sk 228	England EMA	England	Hatherdene Close	52.1968	0.1703	C14				400	500	600	T2b	R1b1a1b1a1a1e2a	Petrous		1240k	Half	double			787518	1.5335	0.1013	0.00234					PASS	
+HAD010	F	Sk 285	England EMA	England	Hatherdene Close	52.1968	0.1703	C14	1581	18	MAMS 52080	429	486.5	544	U5a2b		Petrous		Shotgun	Half	double			791764	1.0465	0.0663						PASS	
+HAD011	M	Sk 422	England EMA	England	Hatherdene Close	52.1968	0.1703	C14				400	500	600	K2a6	R1b1a1b1a1a1c2b2a1b1	Petrous		1240k	Half	double			890461	2.189	0.106	0.00367					PASS	
+HAD012	F	Sk 956	England EMA	England	Hatherdene Close	52.1968	0.1703	C14	1600	19	MAMS 52081	421	479	537	HV6		Petrous		1240k	Half	double			921486	2.3867	0.0736						PASS	
+HAD013	F	Sk 1098	England EMA	England	Hatherdene Close	52.1968	0.1703	C14	1582	33	SUERC-71017	419	488	557	H2c		Petrous		Shotgun	Half	double			770839	0.9988	0.0861						PASS	
+HAD014	F	Sk 1116	England EMA	England	Hatherdene Close	52.1968	0.1703	C14				400	500	600	K1a4a1a2b		Petrous		1240k	Half	double			934380	2.6073	0.0849						PASS	
+HAD015	M	Sk 1138	England EMA	England	Hatherdene Close	52.1968	0.1703	C14				400	500	600	T2b24	I1~	Petrous		Shotgun	Half	double			777497	1.0316	0.0803	0.005064					PASS	
+HAD016	M	Sk 1261	England EMA	England	Hatherdene Close	52.1968	0.1703	C14	1526	19	MAMS 52108	444	521.5	599	J1c5a1	I1~	Petrous		1240k	Half	double			771881	1.36	0.0611	0.011849					PASS	
+HAD017	M	Sk 1319	England EMA	England	Hatherdene Close	52.1968	0.1703	C14	1594	19	MAMS 52109	425	482	539	H4a1a1a	R1b1a1b1a1a3a	Petrous		1240k	Half	double			901262	2.2167	0.0713	0.00579					PASS	
+HAD018	M	SK 224	England EMA	England	Hatherdene Close	52.1968	0.1703	C14				544	572.5	601	U4c1a	R1b1a1b1a1a2c1	Petrous		1240k	None	single			838425	4.3053	0.2611	0.017928					PASS	
+I0790	M	LintonSk352	England EMA	England	Linton	52.0991	0.277	C14			SUERC-20250	635	786	937	U8b1a1	I1	Tooth		1240k	Half	double			79943	0.071	0.05	NA					PASS	
+I0791	F	Linton351	England EMA	England	Linton	52.0991	0.277	C14			SUERC-20250	635	786	937	U8b1a1		Tooth		1240k	Half	double			368056	0.41	0.082						PASS	
+I0763	F	Oakington1375	England EMA	England	Oakington	52.2614	0.0687	C14				400	500	600	H4a1a2a		Tooth		1240k	Half	double			176933	0.164	0.148						PASS	
+I0764	F	Oakington1395	England EMA	England	Oakington	52.2614	0.0687	C14				400	500	600	J1c2		Tooth		1240k	Half	double			163320	0.151	0.168						PASS	
+I0765	F	Oakington1411	England EMA	England	Oakington	52.2614	0.0687	C14				400	500	600	H5a1g1a		Tooth		1240k	Half	double			294605	0.316	0.125						PASS	
+I0766	F	Oakington1450	England EMA	England	Oakington	52.2614	0.0687	C14				400	500	600	K2b1a1		Tooth		1240k	Half	double			861155	2.192	0.141						PASS	
+I0767	F	Oakington1747	England EMA	England	Oakington	52.2614	0.0687	C14				400	500	600	J2a1a1c		Tooth		1240k	Half	double			232013	0.222	0.149						PASS	
+I0768	F	Oakington1740	England EMA	England	Oakington	52.2614	0.0687	C14				400	500	600	K2b1a1		Tooth		1240k	Half	double			80016	0.071	0.108						PASS	
+I0771	F	Oakington1785	England EMA	England	Oakington	52.2614	0.0687	C14				400	500	600	U5a1b		Tooth		1240k	Half	double			160425	0.15	0.154						PASS	
+I0772	M	Oakington1866	England EMA	England	Oakington	52.2614	0.0687	C14				400	500	600	H1b1	I1a2a	Tooth		1240k	Half	double			198654	0.185	0.143	NA					PASS	
+I0775	M	Oakington2222	England EMA	England	Oakington	52.2614	0.0687	C14				400	500	600	J2a1a1a2	I1	Tooth		1240k	Half	double			159450	0.146	0.136	NA					PASS	
+I0792	F	Oakington887	England EMA	England	Oakington	52.2614	0.0687	C14				600	750	900	T2f		Tooth		1240k	Half	double			123518	0.113	0.106						PASS	
+OAI001	M	Grave 56	England EMA	England	Oakington	52.2601	0.0612	C14				400	500	600	J2a1a1a2	R1b1a1b1a1a1c2b2b1a1a1	Petrous		Shotgun	Half	double			664772	0.7051	0.0961	0.005566					PASS	
+OAI002	M	Grave 62	England EMA	England	Oakington	52.2601	0.0612	C14				400	500	600	HV9a1a	R1b1a1b1a1	Petrous		Shotgun	Half	double			348619	0.3058	0.0885	0.002163					PASS	
+OAI003	F	Grave 61	England EMA	England	Oakington	52.2601	0.0612	C14				400	500	600	H5a1g1a		Petrous		Shotgun	Half	double			670477	0.7338	0.1023						PASS	
+OAI004	F	Grave 80	England EMA	England	Oakington	52.2601	0.0612	C14	1513	31	UBA-22691	473	559	645	K2b1a1a		Petrous		Shotgun	Half	double			1119016	2.4852	0.0979						PASS	
+OAI005	M	Grave 88a	England EMA	England	Oakington	52.2601	0.0612	C14				400	500	600	U5b2b1a1	I1a2a2a1~ 	Petrous		Shotgun	Half	double			1070441	1.9608	0.0972	0.005303					PASS	
+OAI006	M	Grave 88b	England EMA	England	Oakington	52.2601	0.0612	C14	1471	28	UBA-22696	549	595.5	642	X2b4a	R1b1a1b1a1a1	Petrous		Shotgun	Half	double			479634	0.4484	0.1035	0.003514					PASS	
+OAI007	F	Grave 78a	England EMA	England	Oakington	52.2601	0.0612	C14	1487	30	UBA-22690	473	559	645	J2a1a1c		Petrous		Shotgun	Half	double			1026597	1.7714	0.1179						PASS	
+OAI008	M	Grave 34	England EMA	England	Oakington	52.2601	0.0612	C14	1522	19	MAMS 52117	482	541	600	H4a1a1a	I1a2a	Petrous		1240k	Half	double			918797	2.4471	0.1089	0.006126					PASS	
+OAI009	M	Grave 44	England EMA	England	Oakington	52.2601	0.0612	C14	1570	20	MAMS 52118	432	494	556	H18b	I1a2  	Petrous		1240k	Half	double			885099	2.2635	0.0927	0.00287					PASS	
+OAI010	F	Grave 39	England EMA	England	Oakington	52.2601	0.0612	C14	1597	17	MAMS 52119	424	480.5	537	H24a		Petrous		1240k	Half	double			839139	1.9178	0.0826						PASS	
+OAI011	F	Grave 40	England EMA	England	Oakington	52.2601	0.0612	C14				400	500	600	T2+16189		Petrous		1240k	Half	double			918749	2.5587	0.0903						PASS	
+OAI012	M	Grave 13	England EMA	England	Oakington	52.2601	0.0612	C14	1615	20	MAMS 52120	415	476	537	I2a2	R1b1a1b1a1a2c1a5b1a1a	Petrous		1240k	Half	double			863415	2.0942	0.0881	0.005204					PASS	
+OAI013	M	Grave 21	England EMA	England	Oakington	52.2601	0.0612	C14	1574	20	MAMS 52121	429	489.5	550	U4a2	R1b1a1b1a1a1	Petrous		1240k	Half	double			863659	2.0209	0.1026	0.003594					PASS	
+OAI015	F	Grave 109a	England EMA	England	Oakington	52.2601	0.0612	C14	1566	20	MAMS 52122	433	496.5	560	V		Petrous		1240k	Half	double			808141	1.7618	0.1046						PASS	
+OAI016	F	Grave 109b	England EMA	England	Oakington	52.2601	0.0612	C14	1589	20	MAMS 52123	425	483	541	H1+16189		Petrous		1240k	Half	double			763001	1.5043	0.0886						PASS	
+OAI017	F	Grave 109c	England EMA	England	Oakington	52.2601	0.0612	C14				400	500	600	V1a		Tooth		1240k	Half	double			400824	0.4638	0.1072						PASS	
+I16383	M	TB 193; 1972.58.1	England EMA	England	Bude, Widemouth Bay	50.7898	-4.5545	C14				500	700	900	U5a2a1	I1	Petrous		1240k	Half	single			253693	0.250218	0.072	NA					PASS	
+I16385	M	TB 198; 1700.815.1	England EMA	England	Newquay, Crantock	50.4032	-5.112	C14				500	700	900	H7d2a	R1b1a1b1a1a2	Petrous		1240k	Half	single			93684	0.082564	0.081	NA					PASS	
+I16389	M	TB 202; 1700.815.3	England EMA	England	Newquay, Crantock	50.4032	-5.112	C14				500	700	900	H1ad	R1b1a1b1b	Petrous		1240k	Half	single			181996	0.168802	0.079	NA					PASS	
+I11567	M	1633A	England EMA	England	Worth Matravers	50.5968	-2.0382	C14				500	600	700	K1a2a	R1b1a1b	Tooth		1240k	Half	single			89918	0.077903	0.104	NA					PASS	
+I11568	M	1640	England EMA	England	Worth Matravers	50.5968	-2.0382	C14				500	600	700	K1a2a	I1	Tooth		1240k	Half	single			31346	0.027391	0.142	NA					PASS	
+I11569	F	1649	England EMA	England	Worth Matravers	50.5968	-2.0382	C14				500	600	700	T2a1a		Tooth		1240k	Half	single			271187	0.268924	0.094						PASS	
+I11570	M	1633B	England EMA	England	Worth Matravers	50.5968	-2.0382	C14				500	600	700	U5b1	NA	Tooth		1240k	Half	single			36236	0.030267	0.051	NA					PASS	
+I11571	F	1664	England EMA	England	Worth Matravers	50.5968	-2.0382	C14				500	600	700	H11a		Tooth		1240k	Half	single			258761	0.251838	0.067						PASS	
+I11573	M	1670	England EMA	England	Worth Matravers	50.5968	-2.0382	C14				500	600	700	HV6	R1b1a1b1a1	Tooth		1240k	Half	single			57929	0.049164	0.106	NA					PASS	
+I11574	M	1678A	England EMA	England	Worth Matravers	50.5968	-2.0382	C14				500	600	700	HV6	R1b1a1b1a1	Tooth		1240k	Half	single			71621	0.061573	0.108	NA					PASS	
+I11575	F	1678B	England EMA	England	Worth Matravers	50.5968	-2.0382	C14				500	600	700	HV6		Tooth		1240k	Half	single			7592	0.006322	0.094						PASS	
+I11576	F	1685A	England EMA	England	Worth Matravers	50.5968	-2.0382	C14				500	600	700	H1bb		Tooth		1240k	Half	single			93831	0.083117	0.116						PASS	
+I11577	M	1685B	England EMA	England	Worth Matravers	50.5968	-2.0382	C14				500	600	700	H1e1a	R1b1a1b1a1	Tooth		1240k	Half	single			84382	0.072758	0.101	NA					PASS	
+I11578	M	1685C	England EMA	England	Worth Matravers	50.5968	-2.0382	C14				500	600	700	H1bb	R1b1a1b1a1	Tooth		1240k	Half	single			48994	0.041351	0.098	NA					PASS	
+I11579	F	1697	England EMA	England	Worth Matravers	50.5968	-2.0382	C14				500	600	700	U5b2c1		Tooth		1240k	Half	single			301393	0.304101	0.078						PASS	
+I11580	M	1715	England EMA	England	Worth Matravers	50.5968	-2.0382	C14				500	600	700	T2a1a	R1b1a1b1a1a2c1a	Tooth		1240k	Half	single			26929	0.022383	0.104	NA					PASS	
+I11581	M	1722	England EMA	England	Worth Matravers	50.5968	-2.0382	C14				500	600	700	H5c	I2a1a2a	Tooth		1240k	Half	single			204022	0.192698	0.073	NA					PASS	
+I11582	M	1778	England EMA	England	Worth Matravers	50.5968	-2.0382	C14				500	600	700	T2a1a	R1b1a1	Tooth		1240k	Half	single			25833	0.021474	0.082	NA					PASS	
+I20636	M	1660	England EMA	England	Worth Matravers	50.5968	-2.0382	C14				500	600	700	HV6	R1b1a1b	Tooth		1240k	Half	single			35318	0.03	0.166	NA					PASS	
+I20637	M	1722	England EMA	England	Worth Matravers	50.5968	-2.0382	C14				500	600	700	J1c1b1a	I1a2	Tooth		1240k	Half	single			521002	0.638	0.136	0.011					PASS	
+I17277	M	H05 17; U/S	England EMA	England	Hartlepool, Olive Street	54.6976	-1.181	C14				600	750	900	K2a6	R1b1a1b1a1a2e	Petrous		1240k	Half	single			661635	2.429644	0.115	0.00453					PASS	
+BUK001	M	201	England EMA	England	Dover Buckland	51.1398	1.3007	C14				400	600	800	HV9a1a	R1b1a1b1a1a	Petrous		1240k	None	single			500088	1.0543	0.24782	0.012629					PASS	
+BUK002	F	202	England EMA	England	Dover Buckland	51.1398	1.3007	C14				400	600	800	H1e1a		Petrous		1240k	None	single			359288	0.6639	0.35369						PASS	
+BUK003	F	204	England EMA	England	Dover Buckland	51.1398	1.3007	C14				400	600	800	H1g1		Petrous		1240k	None	single			552747	1.2324	0.24727						PASS	
+BUK004	F	205	England EMA	England	Dover Buckland	51.1398	1.3007	C14				400	600	800	H1g1		Petrous		1240k	None	single			218112	0.3549	0.24934						PASS	
+BUK005	F	222	England EMA	England	Dover Buckland	51.1398	1.3007	C14	1550	19	UB-6472	430	497.5	565	T1a1a		Petrous		1240k	None	single			688248	1.7913	0.29856						PASS	
+BUK006	M	227	England EMA	England	Dover Buckland	51.1398	1.3007	C14				400	600	800	H4a1a	R1b1a1b1a1a1 	Petrous		1240k	None	single			334961	0.6089	0.29043	0.034812					PASS	
+BUK007	M	231	England EMA	England	Dover Buckland	51.1398	1.3007	C14				400	600	800	H24a	R1b1a1b1a1a1	Petrous		1240k	None	single			350565	0.6465	0.30944	0.019666					PASS	
+BUK008	F	250	England EMA	England	Dover Buckland	51.1398	1.3007	C14	1572	22	UB-6473	425	485	545	V2		Petrous		1240k	None	single			447192	0.908	0.24894						PASS	
+BUK009	M	252	England EMA	England	Dover Buckland	51.1398	1.3007	C14				400	600	800	J1b1a1b	R1b1a1b1a1a1	Petrous		1240k	None	single			671684	1.7414	0.26139	0.015725					PASS	
+BUK010	M	256	England EMA	England	Dover Buckland	51.1398	1.3007	C14				400	600	800	HV9	R1b1a1b1a1a1 	Petrous		1240k	None	single			608169	1.453	0.2967	0.014988					PASS	
+BUK011	M	258	England EMA	England	Dover Buckland	51.1398	1.3007	C14				400	600	800	J1c3f	R1b1a1b1a1a1	Petrous		1240k	None	single			401348	0.7736	0.2703	0.017326					PASS	
+BUK012	M	260	England EMA	England	Dover Buckland	51.1398	1.3007	C14				400	600	800	H105a	R1b1a1b1a1a1	Petrous		1240k	None	single			244000	0.4097	0.26811	0.008325					PASS	
+BUK013	M	264	England EMA	England	Dover Buckland	51.1398	1.3007	C14	1528	17	UB-6474	435	462.5	490	NA		Petrous		1240k	None	single			2331	0.0033	0.28355	NA					QUESTIONABLE CRITICAL (mtDNA contamination FAILED, Y chromosome contamination FAILED)	
+BUK014	F	266	England EMA	England	Dover Buckland	51.1398	1.3007	C14				400	600	800	T2b		Petrous		1240k	None	single			106394	0.1594	0.28213						PASS	
+BUK015	M	279	England EMA	England	Dover Buckland	51.1398	1.3007	C14				400	600	800	H2a2a1	I1~	Petrous		1240k	None	single			98149	0.1473	0.25113	-0.007821					PASS	
+BUK016	F	280	England EMA	England	Dover Buckland	51.1398	1.3007	C14				400	600	800	H1e2		Petrous		1240k	None	single			527596	1.1547	0.2585						PASS	
+BUK017	F	281	England EMA	England	Dover Buckland	51.1398	1.3007	C14				400	600	800	H6a1b3		Petrous		1240k	None	single			197558	0.319	0.28211						PASS	
+BUK018	M	284	England EMA	England	Dover Buckland	51.1398	1.3007	C14				400	600	800	U5b2a2a1	R1b1a1b1a1a2	Petrous		1240k	None	single			785989	2.392	0.26786	0.013171					PASS	
+BUK019	F	288	England EMA	England	Dover Buckland	51.1398	1.3007	C14				400	600	800	J1c3f		Petrous		1240k	None	single			608908	1.4895	0.31209						PASS	
+BUK020	F	289	England EMA	England	Dover Buckland	51.1398	1.3007	C14				400	600	800	U5b2b3		Petrous		1240k	None	single			550158	1.2336	0.248						PASS	
+BUK021	F	290	England EMA	England	Dover Buckland	51.1398	1.3007	C14				400	600	800	H1c3a		Petrous		1240k	None	single			559819	1.2696	0.2638						PASS	
+BUK022	M	291	England EMA	England	Dover Buckland	51.1398	1.3007	C14				400	600	800	J1c3c (?)	R1b1a1b1a1a2	Petrous		1240k	None	single			56500	0.0832	0.30394	-0.026837					PASS	
+BUK023	M	292	England EMA	England	Dover Buckland	51.1398	1.3007	C14				400	600	800	J1c3f	R1b1a1b1	Petrous		1240k	None	single			368385	0.69	0.31781	0.017171					PASS	
+BUK024	M	297	England EMA	England	Dover Buckland	51.1398	1.3007	C14				400	600	800	U5a1b	I2a1b2a	Petrous		1240k	None	single			180246	0.2917	0.26161	0.018268					PASS	
+BUK025	M	300	England EMA	England	Dover Buckland	51.1398	1.3007	C14				400	600	800	H4a1a4b	R1b1a1b1a1a1	Petrous		1240k	None	single			525643	1.1538	0.2801	0.010609					PASS	
+BUK026	F	304	England EMA	England	Dover Buckland	51.1398	1.3007	C14				400	600	800	H1c3a		Petrous		1240k	None	single			141628	0.2185	0.24731						PASS	
+BUK027	M	305	England EMA	England	Dover Buckland	51.1398	1.3007	C14				400	600	800	H1c3a	R1b1a1b1a1a1c1a	Petrous		1240k	None	single			344414	0.6269	0.2595	0.024625					PASS	
+BUK028	F	306	England EMA	England	Dover Buckland	51.1398	1.3007	C14				400	600	800	U5a1a2b		Petrous		1240k	None	single			598880	1.4776	0.27212						PASS	
+BUK029	F	308	England EMA	England	Dover Buckland	51.1398	1.3007	C14				400	600	800	H39		Petrous		1240k	None	single			543048	1.2035	0.28195						PASS	
+BUK030	F	309	England EMA	England	Dover Buckland	51.1398	1.3007	C14				400	600	800	H1c1a		Petrous		1240k	None	single			675953	1.8114	0.28688						PASS	
+BUK031	F	311	England EMA	England	Dover Buckland	51.1398	1.3007	C14				400	600	800	H2a2a1		Petrous		1240k	None	single			342911	0.6308	0.28532						PASS	
+BUK032	F	313	England EMA	England	Dover Buckland	51.1398	1.3007	C14				400	600	800	H1b1		Petrous		1240k	None	single			366929	0.687	0.2822						PASS	
+BUK033	F	319	England EMA	England	Dover Buckland	51.1398	1.3007	C14				400	600	800	U5a1a1+16362		Petrous		1240k	None	single			468801	0.9604	0.25984						PASS	
+BUK034	F	321	England EMA	England	Dover Buckland	51.1398	1.3007	C14				400	600	800	H1bw		Petrous		1240k	None	single			677294	1.7953	0.29146						PASS	
+BUK035	M	323	England EMA	England	Dover Buckland	51.1398	1.3007	C14	1491	18	UB-6474	540	580	620	H6a1	R1b1a1b1a1a1c2b	Petrous		1240k	None	single			212468	0.3484	0.26025	-0.011109					PASS	
+BUK036	F	327	England EMA	England	Dover Buckland	51.1398	1.3007	C14				400	600	800	H1e2c		Petrous		1240k	None	single			399091	0.7703	0.27227						PASS	
+BUK037	M	328	England EMA	England	Dover Buckland	51.1398	1.3007	C14				400	600	800	H3b6	I2a1b1a2b1a~	Petrous		1240k	None	single			561989	1.3064	0.28174	0.016892					PASS	
+BUK038	M	338	England EMA	England	Dover Buckland	51.1398	1.3007	C14				400	600	800	H	I1~ 	Petrous		1240k	None	single			711260	1.8949	0.27363	0.019897					PASS	
+BUK039	F	339	England EMA	England	Dover Buckland	51.1398	1.3007	C14	1592	17	UB-6476	420	480	540	X2l		Petrous		1240k	None	single			656637	1.6984	0.22817						PASS	
+BUK040	M	342	England EMA	England	Dover Buckland	51.1398	1.3007	C14				400	600	800	J2a1a1a2	R1b1a1b1a1a1c2b2a1b	Petrous		1240k	None	single			641675	1.6071	0.26622	0.024835					PASS	
+BUK041	F	344	England EMA	England	Dover Buckland	51.1398	1.3007	C14				400	600	800	U5a2b		Petrous		1240k	None	single			577197	1.3286	0.27346						PASS	
+BUK042	M	346	England EMA	England	Dover Buckland	51.1398	1.3007	C14				400	600	800	H5a1c1a	R1b1a1b1a1a1	Petrous		1240k	None	single			500659	1.0647	0.32906	0.015828					PASS	
+BUK043	F	347	England EMA	England	Dover Buckland	51.1398	1.3007	C14				400	600	800	T2b		Petrous		1240k	None	single			576963	1.3434	0.30854						PASS	
+BUK044	F	349	England EMA	England	Dover Buckland	51.1398	1.3007	C14				400	600	800	T2b		Petrous		1240k	None	single			639173	1.6007	0.30861						PASS	
+BUK045	F	355	England EMA	England	Dover Buckland	51.1398	1.3007	C14				400	600	800	T1a1c		Petrous		1240k	None	single			685914	1.8155	0.30749						PASS	
+BUK046	F	366	England EMA	England	Dover Buckland	51.1398	1.3007	C14				400	600	800	K2a		Petrous		1240k	None	single			612723	1.4955	0.25888						PASS	
+BUK047	F	367	England EMA	England	Dover Buckland	51.1398	1.3007	C14				400	600	800	H1c2		Petrous		1240k	None	single			510486	1.0896	0.30473						PASS	
+BUK048	M	375	England EMA	England	Dover Buckland	51.1398	1.3007	C14	1493	18	UB-4958	540	577.5	615	H1a5	R1b1a1b1a1a1	Petrous		1240k	None	single			684414	1.824	0.29557	0.012556					PASS	
+BUK049	M	382	England EMA	England	Dover Buckland	51.1398	1.3007	C14				400	600	800	H3k1	R1b1a1b1a1a2	Petrous		1240k	None	single			720591	2.0214	0.2769	0.013038					PASS	
+BUK050	F	383	England EMA	England	Dover Buckland	51.1398	1.3007	C14				400	600	800	U5a2a1a		Petrous		1240k	None	single			711253	1.9941	0.25513						PASS	
+BUK051	M	385	England EMA	England	Dover Buckland	51.1398	1.3007	C14				400	600	800	V1a1	I1~	Petrous		1240k	None	single			449748	0.9077	0.28886	0.02811					PASS	
+BUK052	M	394	England EMA	England	Dover Buckland	51.1398	1.3007	C14				400	600	800	W4a1	I1~	Petrous		1240k	None	single			675554	1.7618	0.2953	0.011229					PASS	
+BUK053	M	395	England EMA	England	Dover Buckland	51.1398	1.3007	C14				400	600	800	H1c2	I2a1b1a2b1a1~	Petrous		1240k	None	single			507655	1.0796	0.32357	0.01808					PASS	
+BUK054	F	398	England EMA	England	Dover Buckland	51.1398	1.3007	C14				400	600	800	I4a		Petrous		1240k	None	single			131550	0.2029	0.32232						PASS	
+BUK055	M	401	England EMA	England	Dover Buckland	51.1398	1.3007	C14				400	600	800	U5a1a1	R1b1a1b1a1a2c1	Petrous		1240k	None	single			672256	1.7255	0.26924	0.012416					PASS	
+BUK056	F	405	England EMA	England	Dover Buckland	51.1398	1.3007	C14				400	600	800	U5a1b1d1		Petrous		1240k	None	single			578413	1.3555	0.26576						PASS	
+BUK057	F	407	England EMA	England	Dover Buckland	51.1398	1.3007	C14				400	600	800	H3		Petrous		1240k	None	single			603226	1.4578	0.38133						PASS	
+BUK058	F	409	England EMA	England	Dover Buckland	51.1398	1.3007	C14				400	600	800	HV2		Petrous		1240k	None	single			619572	1.5295	0.22435						PASS	
+BUK059	M	414	England EMA	England	Dover Buckland	51.1398	1.3007	C14	1570	20	UB-6477	425	485	545	H1c3a	R1b1a1b1a1a1	Petrous		1240k	None	single			650200	1.6415	0.34399	0.019231					PASS	
+BUK060	M	416	England EMA	England	Dover Buckland	51.1398	1.3007	C14				400	600	800	T1a1+@152	R1b1a1b1a1a1	Petrous		1240k	None	single			260001	0.4457	0.28332	0.038021					PASS	
+BUK061	F	418	England EMA	England	Dover Buckland	51.1398	1.3007	C14				400	600	800	V+@72 (?)		Petrous		1240k	None	single			29297	0.0415	0.30798						PASS	
+BUK062	F	419	England EMA	England	Dover Buckland	51.1398	1.3007	C14				400	600	800	K1a+195		Petrous		1240k	None	single			687489	1.8324	0.30742						PASS	
+BUK063	F	420	England EMA	England	Dover Buckland	51.1398	1.3007	C14				400	600	800	T1a1		Petrous		1240k	None	single			132579	0.2076	0.47605						PASS	
+BUK064	M	423	England EMA	England	Dover Buckland	51.1398	1.3007	C14				400	600	800	T1a1	R1b1a1b1a1a1	Petrous		1240k	None	single			672905	1.7473	0.32191	0.010305					PASS	
+BUK065	F	425	England EMA	England	Dover Buckland	51.1398	1.3007	C14				400	600	800	H1c3a		Petrous		1240k	None	single			123543	0.1889	0.29223						PASS	
+BUK066	F	426	England EMA	England	Dover Buckland	51.1398	1.3007	C14				400	600	800	H1c3a		Petrous		1240k	None	single			527321	1.1508	0.3032						PASS	
+BUK067	F	432	England EMA	England	Dover Buckland	51.1398	1.3007	C14				400	600	800	H24a		Petrous		1240k	None	single			464593	0.9487	0.26054						PASS	
+BUK068	M	435	England EMA	England	Dover Buckland	51.1398	1.3007	C14				400	600	800	T1	I2a1b1~	Petrous		1240k	None	single			177604	0.2836	0.33481	-0.00797					PASS	
+BUK069	F	439	England EMA	England	Dover Buckland	51.1398	1.3007	C14				400	600	800	H2a1g		Petrous		1240k	None	single			596829	1.4416	0.24372						PASS	
+BUK070	M	282b	England EMA	England	Dover Buckland	51.1398	1.3007	C14				400	600	800	J2a1a1a2	R1b1a1b1a1a1	Petrous		1240k	None	single			404302	0.7818	0.28941	0.015983					PASS	
+BUK071	F	350b	England EMA	England	Dover Buckland	51.1398	1.3007	C14				400	600	800	U5b3		Petrous		1240k	None	single			564801	1.2929	0.26539						PASS	
+BUK072	F	351b	England EMA	England	Dover Buckland	51.1398	1.3007	C14				400	600	800	NA		Petrous		1240k	None	single			2725	0.0039	0.2001						QUESTIONABLE CRITICAL (mtDNA contamination PASS, Y chromosome contamination FAILED)	
+BUK073	M	393b	England EMA	England	Dover Buckland	51.1398	1.3007	C14				400	600	800	H1c2	I1a2a1a1a	Petrous		1240k	None	single			677218	1.7956	0.28821	0.008335					PASS	
+BUK074	F	427a	England EMA	England	Dover Buckland	51.1398	1.3007	C14				400	600	800	T2a1a6		Petrous		1240k	None	single			326615	0.5875	0.32565						PASS	
+EAS001	F	Grave 34	England EMA	England	Eastry Updown	51.2453	1.3034	C14	1416	17	MAMS 52078	605	629.5	654	U5b1c2b		Petrous		Shotgun	Half	double			971804	1.5375	0.1305						PASS	
+EAS002	F	Grave 45	England EMA	England	Eastry Updown	51.2453	1.3034	C14				600	650	700	U5b1c2b		Petrous		Shotgun	Half	double			446614	0.4121	0.1154						PASS	
+EAS004	M	Grave 48	England EMA	England	Eastry Updown	51.2453	1.3034	C14	1480	18	MAMS 52079	562	601	640	H3+16311	R1b1a1b1a1a2c1	Petrous		Shotgun	Half	double			398861	0.3547	0.1328	0.012567					PASS	
+EAS005	M	Grave 37	England EMA	England	Eastry Updown	51.2453	1.3034	C14				600	650	700	I2		Tooth		1240k	None	single			13337	0.0189	0.3564	NA					PASS	
+EAS006	M	Grave 52	England EMA	England	Eastry Updown	51.2453	1.3034	C14				600	650	700	I4a	E1b1b1a1b1a 	Tooth		1240k	None	single			751743	2.756	0.2604	0.012933					PASS	
+I5372_d	M	SB561A	England EMA	England	Folkestone, Dover Hill	51.0941	1.193	C14				450	525	600	R	NA	Petrous		1240k	Half	single			7215	0.006	NA	NA					QUESTIONABLE CRITICAL (mtDNA contamination FAILED, Y chromosome contamination FAILED)	
+POH001	M	BR 11	England EMA	England	Polhill	51.2398	0.6643	C14	1406	19	MAMS 52090	605	631.5	658	J1c3f	R1b1a1b1a1a	Petrous		Shotgun	Half	double			373890	0.337	0.1054	0.003416					PASS	
+POH002	F	BR 12	England EMA	England	Polhill	51.2398	0.6643	C14				600	700	800	K1a13a		Petrous		Shotgun	Half	double			533676	0.5608	0.1108						PASS	
+POH003	M	BR 21	England EMA	England	Polhill	51.2398	0.6643	C14				600	700	800	H11a2a	R1b1a1b1a1a1c	Petrous		1240k	Half	double			749608	1.5415	0.0832	0.001645					PASS	
+POH004	F	BR 23	England EMA	England	Polhill	51.2398	0.6643	C14	1461	18	MAMS 52091	576	609.5	643	H24a		Petrous		1240k	Half	double			790198	1.6861	0.098						PASS	
+POH005	F	BR 26	England EMA	England	Polhill	51.2398	0.6643	C14	1292	19	MAMS 52124	666	719.5	773	K1d		Petrous		1240k	Half	double			679202	1.1845	0.1188						PASS	
+POH006	M	BR 36	England EMA	England	Polhill	51.2398	0.6643	C14	1354	19	MAMS 52125	647	708.5	770	H3	R1a1a1b1	Petrous		Shotgun	Half	double			358522	0.3291	0.0833	0.008781					PASS	
+POH007	F	BR 37	England EMA	England	Polhill	51.2398	0.6643	C14				600	700	800	V2b		Petrous		1240k	Half	double			633307	1.0274	0.0859						PASS	
+POH008	M	BR 38	England EMA	England	Polhill	51.2398	0.6643	C14	1507	20	MAMS 52126	543	573	603	J2a1a1a2	R1b1a1b1a1a	Petrous		1240k	Half	double			788905	1.63	0.106	0.00485					PASS	
+POH009	M	BR 50 	England EMA	England	Polhill	51.2398	0.6643	C14	1434	19	MAMS 52127	598	624	650	U4b1b1	R1b1a1b1a1a1c2b2a1b1a4b1	Petrous		1240k	Half	double			755285	1.4212	0.1022	0.004825					PASS	
+I3011	M	SB 354A2	England EMA	England	Lincoln, Lincoln Castle	53.2345	-0.5408	C14	988	16	SUERC-54034	1035	1052.5	1070	H1a3	T1a1a	Petrous		1240k	Half	single			383502	0.597	0.027	0.005499					PASS	
+I3044	M	SB 360B2	England EMA	England	Lincoln, Lincoln Castle	53.2345	-0.5408	C14	967	17	SUERC-54024	1040	1055	1070	U4a1b	R1b1a1b1a1a1c2b2a	Petrous		1240k	Half	single			774166	2.497	0.095	0.00627					PASS	
+I3045	M	SB 361B2	England EMA	England	Lincoln, Lincoln Castle	53.2345	-0.5408	C14	972	18	SUERC-54026	1035	1052.5	1070	H4a1a2	NA	Tooth		1240k	Half	single			39197	0.033	0.008	NA					PASS	
+SED001	F	S1006	England EMA	England	Sedgeford	52.8997	0.5443	C14				700	775	850	NA		Tooth		1240k	None	single			18411	0.0257	0.2455						QUESTIONABLE MODERATE (mtDNA contamination FAILED)	
+SED003	M	S3010	England EMA	England	Sedgeford	52.8997	0.5443	C14	1291	17	MAMS 52128	667	720	773	H5	R1b1a1b1a1a	Petrous		Shotgun	Half	double			475827	0.4764	0.104	0.005882					PASS	
+SED004	F	S0214	England EMA	England	Sedgeford	52.8997	0.5443	C14				700	775	850	H		Petrous		1240k	Half	double			742592	1.4941	0.0381						PASS	
+SED005	M	S1048	England EMA	England	Sedgeford	52.8997	0.5443	C14				700	775	850	H5a1c1a	R1b1a1b1a1a	Petrous		Shotgun	Half	double			718216	0.9278	0.0661	0.004506					PASS	
+SED006	M	S9000	England EMA	England	Sedgeford	52.8997	0.5443	C14	1256	16	MAMS 52129	678	750.5	823	NA	R1a1a1~	Petrous		1240k	Half	double			263880	0.2837	0.0607	-0.005034					PASS	
+SED007	M	S0044	England EMA	England	Sedgeford	52.8997	0.5443	C14				700	775	850	H1a1	I1~	Tooth		1240k	None	single			84285	0.1222	0.3086	0.051978  (0.046 after PMD)					PASS	
+SED008	F	S0098	England EMA	England	Sedgeford	52.8997	0.5443	C14				700	775	850	H1g1		Petrous		Shotgun	Half	double			580804	0.6213	0.0909						PASS	
+SED009	M	S1069	England EMA	England	Sedgeford	52.8997	0.5443	C14	1270	40	GrN-25159	662	769	876	H10a1a1	I1~	Petrous		Shotgun	Half	double			473917	0.4734	0.1312	0.003908					PASS	
+SED010	F	S0025	England EMA	England	Sedgeford	52.8997	0.5443	C14				700	775	850	T2b11		Petrous		Shotgun	Half	double			389777	0.362	0.1068						PASS	
+SED011	M	S8002	England EMA	England	Sedgeford	52.8997	0.5443	C14	2213	26	OxA-26217	376	277	178	T2	R1	Tooth		1240k	None	single			24456	0.0344	0.3365	NA					QUESTIONABLE MODERATE (mtDNA contamination PASS, Y chromosome contamination FAILED)	
+SED012	F	S0034	England EMA	England	Sedgeford	52.8997	0.5443	C14				700	775	850	J1c1b1a		Tooth		1240k	None	single			150596	0.2303	0.1337						PASS	
+SED013	F	S0111	England EMA	England	Sedgeford	52.8997	0.5443	C14				700	775	850	U5b2a1b		Petrous		1240k	Half	double			725058	1.3748	0.1036						PASS	
+SED014	M	S0067	England EMA	England	Sedgeford	52.8997	0.5443	C14	1217	19	OxA-40424	708	795	882	H5b2	I1a2a1a1a	Petrous		1240k	Half	double			597211	0.8998	0.1001	0.0033					PASS	
+SED015	F	S1017	England EMA	England	Sedgeford	52.8997	0.5443	C14				700	775	850	K1a+195		Tooth		1240k	Half	double			246669	0.2497	0.0797						PASS	
+SED016	F	S3013	England EMA	England	Sedgeford	52.8997	0.5443	C14	1215	19	MAMS 52130	709	796	883	U3a1		Petrous		Shotgun	Half	double			423837	0.4127	0.1169						PASS	
+SED017	M	S0038	England EMA	England	Sedgeford	52.8997	0.5443	C14				700	775	850	T2b13	I2a1b1a2b1a~	Petrous		Shotgun	Half	double			476049	0.4679	0.111	0.005965					PASS	
+SED018	M	S1033	England EMA	England	Sedgeford	52.8997	0.5443	C14	1250	19	OxA-40426	678	774.5	871	H1b5	R1b1a1b1a1a2a1a	Tooth		1240k	Half	double			573200	0.9841	0.0526	0.003083					PASS	
+SED019	M	S1049	England EMA	England	Sedgeford	52.8997	0.5443	C14				700	775	850	H1bh		Tooth		1240k	None	single			325126	0.5752	0.1351	0.015365					PASS	
+SED020	M	S1016	England EMA	England	Sedgeford	52.8997	0.5443	C14	1206	19	MAMS 52131	774	829	884	V	R1b1a1b1a1a2a1a1a	Tooth		1240k	Half	double			811571	1.7107	0.0916	0.007683					PASS	
+SED021	M	S1018	England EMA	England	Sedgeford	52.8997	0.5443	C14	1259	19	OxA-40425	676	749	822	V	R1b1a1b1a1a2	Petrous		1240k	Half	double			286581	0.3025	0.0989	-0.003912					PASS	
+LAK001	M	Sk 717	England EMA	England	RAF Lakenheath	52.4138	0.522	C14	1514	17	MAMS 52112	544	571	598	H2a1g	I2a1b1a2b1a1~ 	Petrous		1240k	None	single			928716	5.7718	0.2215	0.0125					PASS	
+LAK002	M	Sk 384	England EMA	England	RAF Lakenheath	52.4138	0.522	C14	1597	20	MAMS 52113	422	480	538	J1c2c2	I1a2 	Petrous		1240k	None	single			950696	5.9135	0.2825	0.010844					PASS	
+LAK003	M	Sk 255	England EMA	England	RAF Lakenheath	52.4138	0.522	C14	1621	17	SUERC-39093	412	474.5	537	U2e1g	R1b1a1b1a1a2	Petrous		1240k	None	single			775267	3.1875	0.3371	0.018004					PASS	
+LAK004	M	Sk 994	England EMA	England	RAF Lakenheath	52.4138	0.522	C14	1590	20	MAMS 52114	425	483	541	H23	I2a1b1a2b1a~	Petrous		1240k	None	single			786321	3.1773	0.3541	0.012337					PASS	
+LAK005	F	Sk 808	England EMA	England	RAF Lakenheath	52.4138	0.522	C14				400	500	600	T2b		Petrous		1240k	None	single			827874	4.0845	0.2877						PASS	
+LAK006	M (XXY)	Sk 809	England EMA	England	RAF Lakenheath	52.4138	0.522	C14				400	500	600	K1c1	I2a1a1b1a1a~	Petrous		1240k	None	single			890437	4.8169	0.2776	0.342858 (XXY)					PASS	
+LAK007	M	Sk 4067	England EMA	England	RAF Lakenheath	52.4138	0.522	C14	1519	17	SUERC-59650	541	570	599	H6a1a3	R1b1a1b1a1a1c2b1a1	Petrous		1240k	None	single			936711	5.9322	0.2641	0.010884					PASS	
+LAK008	F	Sk 0791	England EMA	England	RAF Lakenheath	52.4138	0.522	C14	1575	17	SUERC-39019	431	489.5	548	H5a1g1a		Petrous		1240k	None	single			717551	2.4082	0.3273						PASS	
+LAK009	M	Sk 426	England EMA	England	RAF Lakenheath	52.4138	0.522	C14				400	500	600	K1a1b2a1a	I1a2  	Petrous		1240k	None	single			881488	4.7287	0.3005	0.013172					PASS	
+LAK010	M	Sk 759	England EMA	England	RAF Lakenheath	52.4138	0.522	C14	1524	20	MAMS 52115	443	522	601	J1c4	R1b1a1b1a1a2c1	Petrous		1240k	None	single			834612	4.0404	0.3037	0.014643					PASS	
+LAK011	F	Sk 0787	England EMA	England	RAF Lakenheath	52.4138	0.522	C14	1549	17	MAMS 52116	435	506	577	T2b4+152		Tooth		1240k	None	single			904518	5.443	0.3056						PASS	
+LAK012	F	Sk 907	England EMA	England	RAF Lakenheath	52.4138	0.522	C14	1569	17	SUERC-39112	432	493	554	V3a1		Petrous		1240k	None	single			906878	5.6756	0.2282						PASS	
+LAK013	M	Sk 4561	England EMA	England	RAF Lakenheath	52.4138	0.522	C14				400	500	600	J1c2c	R1b1a1b1a1a1c2b2b1a2	Petrous		1240k	None	single			804750	3.3698	0.3639	0.019536					PASS	
+LAK014	F	Sk 425	England EMA	England	RAF Lakenheath	52.4138	0.522	C14				400	500	600	K1a1b2a1a		Petrous		1240k	None	single			720656	2.8581	0.2688						PASS	
+LAK015	M	Sk 4238	England EMA	England	RAF Lakenheath	52.4138	0.522	C14				400	500	600	J1c4	I2a1b1a2b1a~	Tooth		1240k	None	single			786338	2.6658	0.1608	0.007331					PASS	
+LAK016	M	Sk 4222	England EMA	England	RAF Lakenheath	52.4138	0.522	C14	1640	20	UB-6347	410	472.5	535	H1 (?)	BT	Tooth		1240k	None	single			NA	0.0061	0.2334	NA					FAILED	
+I20597	F	Grave 10	England EMA	England	Apple Down, West Chichester	50.8374	-0.7749	C14				560	570	580	H5b1		Bone		1240k	Half	single			50665	0.044	0.064						PASS	
+I20598	F	Grave 13	England EMA	England	Apple Down, West Chichester	50.8374	-0.7749	C14				450	491.5	533	H1a1		Bone		1240k	Half	single			18827	0.016	0.098						PASS	
+I20600	M	Grave 68	England EMA	England	Apple Down, West Chichester	50.8374	-0.7749	C14				450	541.5	633	U5a2d	R1b1a1b	Bone		1240k	Half	single			6482	0.006	0.086	NA					PASS	
+I20601	F	Grave 93	England EMA	England	Apple Down, West Chichester	50.8374	-0.7749	C14				450	524.5	599	H1ag1		Bone		1240k	Half	single			64109	0.055	0.079						PASS	
+I20602	M	Grave 99b	England EMA	England	Apple Down, West Chichester	50.8374	-0.7749	C14				560	629.5	699	H1+16189	R1b1a1b1a1	Bone		1240k	Half	single			102470	0.089	0.099	NA					PASS	
+I20603	M	Grave 113	England EMA	England	Apple Down, West Chichester	50.8374	-0.7749	C14				600	649.5	699	T2b+150	R1b1a1b	Bone		1240k	Half	single			41793	0.036	0.092	NA					PASS	
+I20604	U	Grave 122	England EMA	England	Apple Down, West Chichester	50.8374	-0.7749	C14				400	500	600	NA		Bone		1240k	Half	single			3154	0.003	0.06						QUESTIONABLE CRITICAL (mtDNA contamination FAILED, Y chromosome contamination FAILED)	
+I20605	F	Grave 137b	England EMA	England	Apple Down, West Chichester	50.8374	-0.7749	C14				400	500	600	T2c1d+152		Bone		1240k	Half	single			209483	0.197	0.118						PASS	
+I20607	M	Grave 145	England EMA	England	Apple Down, West Chichester	50.8374	-0.7749	C14				500	549.5	599	K1a4d	R1b1a1b1	Bone		1240k	Half	single			228724	0.22	0.139	NA					PASS	
+I20608	M	Grave 152	England EMA	England	Apple Down, West Chichester	50.8374	-0.7749	C14	1513	25	OxA-28869	430	522	614	I1	R1b1a1b1a1	Bone		1240k	Half	single			128655	0.114	0.07	NA					PASS	
+I14533	F	Gr108	England EMA	England	Rookery Hill, Bishopstone	50.7891	0.0824	C14				500	600	700	T2		Petrous		1240k	Half	single			632836	1.043927	0.112						PASS	
+I14534	F	Gr68	England EMA	England	Rookery Hill, Bishopstone	50.7891	0.0824	C14				500	600	700	J1c3		Petrous		1240k	Half	single			802399	3.103081	0.104						PASS	
+I14535	M	Gr66	England EMA	England	Rookery Hill, Bishopstone	50.7891	0.0824	C14				500	600	700	U5b1c1a1	R1b1a1b1a1a2	Petrous		1240k	Half	single			648494	1.104361	0.147	0.00966					PASS	
+I14536	F	Gr58	England EMA	England	Rookery Hill, Bishopstone	50.7891	0.0824	C14				500	600	700	K1c2		Petrous		1240k	Half	single			684813	1.285809	0.082						PASS	
+I14538	M	Gr43	England EMA	England	Rookery Hill, Bishopstone	50.7891	0.0824	C14				500	600	700	K2b1b	R1b1a1b1a1a2b1a1	Petrous		1240k	Half	single			713422	1.47665	0.101	0.00874					PASS	
+I14539	F	Gr29	England EMA	England	Rookery Hill, Bishopstone	50.7891	0.0824	C14				500	600	700	I3a		Petrous		1240k	Half	single			402878	0.46444	0.079						PASS	
+I14540	M	Gr25	England EMA	England	Rookery Hill, Bishopstone	50.7891	0.0824	C14				500	600	700	X2b5	NA	Petrous		1240k	Half	single			28783	0.024699	0.103	NA					PASS	
+I14541	F	Gr23	England EMA	England	Rookery Hill, Bishopstone	50.7891	0.0824	C14				500	600	700	H5b		Petrous		1240k	Half	single			774851	2.333253	0.118						PASS	
+I14542	F	G10	England EMA	England	Rookery Hill, Bishopstone	50.7891	0.0824	C14				500	600	700	W1c		Petrous		1240k	Half	single			713998	1.715082	0.143						PASS	
+I16392	M	TB 209	England EMA	England	Clapdale, Fox Holes Cave	54.1385	-2.374	C14				655	714.5	774	H3g1	R1b1a1b1a1a2c1	Petrous		1240k	Half	single			161286	0.148182	0.093	NA					PASS	
+I0531	F	NBS03:325	England EMA	England	Norton Bishops Mill	54.5945	-1.3094	C14				500	705	910	I2c		Petrous		1240k	Half	single			194116	0.181	0.084						PASS	
+I17268	M	Sk 423	England EMA	England	Norton Bishops Mill	54.5945	-1.3094	C14				650	780	910	H1a	I1a2a	Petrous		1240k	Half	single			660232	2.425536	0.105	0.00516					PASS	
+I17269	F	Sk 57	England EMA	England	Norton Bishops Mill	54.5945	-1.3094	C14				600	750	900	J2a1a1a2		Petrous		1240k	Half	single			690580	2.728847	0.126						PASS	
+I17270	F	Sk 359	England EMA	England	Norton Bishops Mill	54.5945	-1.3094	C14				600	750	900	J1b1a1d		Petrous		1240k	Half	single			649081	2.196664	0.148						PASS	
+I17271	F	Sk 283	England EMA	England	Norton Bishops Mill	54.5945	-1.3094	C14				600	750	900	H5a6		Petrous		1240k	Half	single			697659	3.038794	0.066						PASS	
+I17272	M	NEM 84; 2006.1500.25a	England EMA	England	Norton East Mill	54.5945	-1.3094	C14				500	550	600	H5	R1b1a1b1a1a1c2b2	Petrous		1240k	Half	single			639064	1.638392	0.13	0.00342					PASS	
+I17273	F	NEM 84; 2006.1500.98	England EMA	England	Norton East Mill	54.5945	-1.3094	C14				500	550	600	H1c2		Petrous		1240k	Half	single			686943	2.792304	0.084						PASS	
+I17274	M	NEM 84; 2006.1500.24	England EMA	England	Norton East Mill	54.5945	-1.3094	C14				500	550	600	T2e1	R1b1a1b1a1a1c2b1	Petrous		1240k	Half	single			673201	2.334742	0.097	0.00371					PASS	
+I17275	F	NEM 84; 2006.1500.7	England EMA	England	Norton East Mill	54.5945	-1.3094	C14				500	550	600	K1a4a1a+195		Petrous		1240k	Half	single			654186	2.369505	0.121						PASS	
+I17276	F	NEM 84; 2006.1500.90	England EMA	England	Norton East Mill	54.5945	-1.3094	C14				500	550	600	U5a1f1a1		Petrous		1240k	Half	single			881174	7.212	0.103						PASS	
+I3056	F	SB 447A	England EMA	England	Ribblesdale, Selside Grike	54.1606	-2.328	C14	1282	26	OxA-27201	669	719.5	770	U5a2c3a		Petrous		1240k	Half	single			412607	0.521	0.016						PASS	
+I11583	M	WH134	England EMA	England	West Heslerton	54.171	-0.6057	C14				450	550	650	H1c1	R1b1a1b1a1a1	Petrous		1240k	Half	single			448583	0.621051	0.136	0.00314					PASS	
+I11584	M	WH 87	England EMA	England	West Heslerton	54.171	-0.6057	C14				450	525	600	H1q	R1b1a1b1a1a1	Petrous		1240k	Half	single			347312	0.382372	0.12	0.0122					PASS	
+I11585	F	WH 100	England EMA	England	West Heslerton	54.171	-0.6057	C14				500	550	600	H1b		Petrous		1240k	Half	single			527328	0.691427	0.082						PASS	
+I11586	M	WH 131	England EMA	England	West Heslerton	54.171	-0.6057	C14				550	575	600	X2b4a	R1b1a1b1a1a2c	Petrous		1240k	Half	single			486525	0.641254	0.173	0.00672					PASS	
+I11587	F	WH 133	England EMA	England	West Heslerton	54.171	-0.6057	C14				450	550	650	U5a1a1e		Petrous		1240k	Half	single			623438	0.97942	0.13						PASS	
+I11588	M	WH 138	England EMA	England	West Heslerton	54.171	-0.6057	C14				450	550	650	K1d1	I1a2	Petrous		1240k	Half	single			225835	0.2141	0.13	NA					PASS	
+I11589	F	WH 139	England EMA	England	West Heslerton	54.171	-0.6057	C14				500	550	600	T2b2b		Petrous		1240k	Half	single			716612	1.833302	0.134						PASS	
+I11590	M	WH 145	England EMA	England	West Heslerton	54.171	-0.6057	C14				450	550	650	K1a4a1a+195	I2a1b2a	Petrous		1240k	Half	single			620019	1.069424	0.121	0.00559					PASS	
+I20638	M	WH 73	England EMA	England	West Heslerton	54.171	-0.6057	C14				450	550	650	H1+16278	I1a	Petrous		1240k	Half	single			506606	0.62	0.222	0.012					PASS	
+I20639	M	WH 115	England EMA	England	West Heslerton	54.171	-0.6057	C14				500	550	600	H59a	I1a2b	Petrous		1240k	Half	single			528629	0.627	0.169	0.013					PASS	
+I20640	M	WH 74	England EMA	England	West Heslerton	54.171	-0.6057	C14				500	550	600	U5a1a1d	I1a2a	Petrous		1240k	Half	single			883725	2.982	0.187	0.005					PASS	
+I20641	M	WH 171	England EMA	England	West Heslerton	54.171	-0.6057	C14				450	550	650	H1a3b	I2a1b2a	Tooth		1240k	Half	single			746717	1.51	0.237	0.007					PASS	
+I20642	F	WH 88	England EMA	England	West Heslerton	54.171	-0.6057	C14				450	525	600	K1a4a1a+195		Petrous		1240k	Half	single			95186	0.083	0.162						PASS	
+I20643	F	WH 111	England EMA	England	West Heslerton	54.171	-0.6057	C14				450	550	650	H7		Petrous		1240k	Half	single			353992	0.396	0.17						PASS	
+I20644	M	WH 125	England EMA	England	West Heslerton	54.171	-0.6057	C14				450	550	650	H1	R1b1a1b1a1a1c	Petrous		1240k	Half	single			928559	3.754	0.161	0.005					PASS	
+I20645	M	WH 149	England EMA	England	West Heslerton	54.171	-0.6057	C14				450	550	650	H1	I1a2	Petrous		1240k	Half	single			281709	0.283	0.211	0.014					PASS	
+I20646	M	WH 158	England EMA	England	West Heslerton	54.171	-0.6057	C14				450	550	650	T2f1a1	I1a2b	Petrous		1240k	Half	single			758318	1.784	0.177	0.006					PASS	
+I20648_d	U	WH 23	England EMA	England	West Heslerton	54.171	-0.6057	C14				450	550	650	NA		Petrous		1240k	Half	single			15434	0.013	NA						QUESTIONABLE CRITICAL (mtDNA contamination FAILED, Y chromosome contamination FAILED)	
+I20649	M	WH 70	England EMA	England	West Heslerton	54.171	-0.6057	C14				500	525	550	U2e2a1a	I1a2a	Petrous		1240k	Half	single			669353	1.03	0.156	0.011					PASS	
+I20650	M	WH 144	England EMA	England	West Heslerton	54.171	-0.6057	C14				500	575	650	H1a1	I1a2	Petrous		1240k	Half	single			781488	1.525	0.18	0.01					PASS	
+I20651_d	U	WH 76	England EMA	England	West Heslerton	54.171	-0.6057	C14				450	525	600	NA		Petrous		1240k	Half	single			8507	0.007	NA						QUESTIONABLE CRITICAL (mtDNA contamination FAILED, Y chromosome contamination FAILED)	
+I20652	M	WH 99	England EMA	England	West Heslerton	54.171	-0.6057	C14				450	550	650	K2a7	R1b1a1b1a1a1	Petrous		1240k	Half	single			956438	5.164	0.127	0.005					PASS	
+I20653	F	WH 96	England EMA	England	West Heslerton	54.171	-0.6057	C14				450	550	650	K1c2		Petrous		1240k	Half	single			543086	0.67	0.155						PASS	
+I20654	M	WH 98	England EMA	England	West Heslerton	54.171	-0.6057	C14				450	500	550	T1a3a	J2b	Petrous		1240k	Half	single			917000	4.381	0.162	0.008					PASS	
+I20655	F	WH 102	England EMA	England	West Heslerton	54.171	-0.6057	C14				450	550	650	T2b4+152		Petrous		1240k	Half	single			800237	1.769	0.153						PASS	
+I20656	M	WH 81	England EMA	England	West Heslerton	54.171	-0.6057	C14				450	550	650	I4a1	I1a2	Petrous		1240k	Half	single			835798	1.783	0.182	0.012					PASS	
+I20657_d	U	WH 105	England EMA	England	West Heslerton	54.171	-0.6057	C14				450	550	650	NA		Petrous		1240k	Half	single			16876	0.014	NA						QUESTIONABLE CRITICAL (mtDNA contamination FAILED, Y chromosome contamination FAILED)	
+I20658	F	WH 114	England EMA	England	West Heslerton	54.171	-0.6057	C14				550	575	600	T2b33		Petrous		1240k	Half	single			856605	2.261	0.155						PASS	
+I20659	F	WH 110	England EMA	England	West Heslerton	54.171	-0.6057	C14				450	550	650	J1c2e		Petrous		1240k	Half	single			836288	2.177	0.143						PASS	
+I20660	F	WH 166	England EMA	England	West Heslerton	54.171	-0.6057	C14				450	550	650	H10e		Petrous		1240k	Half	single			825012	2.092	0.231						PASS	
+I20661	M	WH 169	England EMA	England	West Heslerton	54.171	-0.6057	C14				450	550	650	T2b4a	I1a2	Petrous		1240k	Half	single			830270	3.222	0.143	0.008					PASS	
+I20663	F	WH 175	England EMA	England	West Heslerton	54.171	-0.6057	C14				450	550	650	NA		Petrous		1240k	Half	single			12221	0.01	0.06						QUESTIONABLE CRITICAL (mtDNA contamination FAILED, Y chromosome contamination FAILED)	
+I20665_d	U	WH 77	England EMA	England	West Heslerton	54.171	-0.6057	C14				450	525	600	NA		Petrous		1240k	Half	single			23075	0.019	NA						QUESTIONABLE CRITICAL (mtDNA contamination FAILED, Y chromosome contamination FAILED)	
+I20666	M	WH 94	England EMA	England	West Heslerton	54.171	-0.6057	C14				450	550	650	J1c3f	I1	Petrous		1240k	Half	single			164982	0.152	0.163	NA					PASS	
+I20667	F	WH 82	England EMA	England	West Heslerton	54.171	-0.6057	C14				500	525	550	H6a1b3		Petrous		1240k	Half	single			333026	0.337	0.229						PASS	
+I20668	F	WH 119	England EMA	England	West Heslerton	54.171	-0.6057	C14				550	575	600	V+@16298		Petrous		1240k	Half	single			851989	2.446	0.18						PASS	
+I20669	F	WH 124	England EMA	England	West Heslerton	54.171	-0.6057	C14				450	550	650	H6a1b		Petrous		1240k	Half	single			257841	0.256	0.184						PASS	
+I20670	F	WH 86	England EMA	England	West Heslerton	54.171	-0.6057	C14				450	525	600	T2b2b		Petrous		1240k	Half	single			817825	1.951	0.21						PASS	
+I20671	M	WH 162	England EMA	England	West Heslerton	54.171	-0.6057	C14				450	550	650	J1c2	R1b1a1b1a1a1c	Petrous		1240k	Half	single			886966	2.452	0.149	0.009					PASS	
+I20672	F	WH 163	England EMA	England	West Heslerton	54.171	-0.6057	C14				450	550	650	I1a1		Petrous		1240k	Half	single			159716	0.148	0.216						PASS	
+I20673	M	WH 182	England EMA	England	West Heslerton	54.171	-0.6057	C14				450	550	650	T2f1a1	R1a1a1	Petrous		1240k	Half	single			623538	0.859	0.192	0.004					PASS	
+I20674	M	WH 184	England EMA	England	West Heslerton	54.171	-0.6057	C14				500	550	600	T2f1a1	I1a3	Petrous		1240k	Half	single			760959	1.466	0.219	0.009					PASS	
+I20675_d	U	WH 103	England EMA	England	West Heslerton	54.171	-0.6057	C14				450	550	650	NA		Petrous		1240k	Half	single			43947	0.038	NA						QUESTIONABLE CRITICAL (mtDNA contamination FAILED, Y chromosome contamination FAILED)	
+I20676	F	WH 120	England EMA	England	West Heslerton	54.171	-0.6057	C14				450	550	650	U5a2c3		Petrous		1240k	Half	single			352720	0.385	0.193						PASS	
+I20677	M	WH 122	England EMA	England	West Heslerton	54.171	-0.6057	C14				500	525	550	H1	R1b1a1b1a1a1c	Petrous		1240k	Half	single			914962	4.262	0.162	0.005					PASS	
+I20678	F	WH 132	England EMA	England	West Heslerton	54.171	-0.6057	C14				450	550	650	U5a1b3		Petrous		1240k	Half	single			750748	1.478	0.196						PASS	
+I20679	M	WH 137	England EMA	England	West Heslerton	54.171	-0.6057	C14				450	550	650	X2b4	I1a2	Petrous		1240k	Half	single			900723	2.824	0.187	0.006					PASS	
+I20680	F	WH 152	England EMA	England	West Heslerton	54.171	-0.6057	C14				450	525	600	T2+16189		Petrous		1240k	Half	single			853801	2.424	0.278						PASS	
+DRU001	F	Grave I 4	Germany EMA	Germany	Drantum	52.8147	8.1923	C14	1295	18	MAMS 52074	666	719.5	773	HV+16311		Petrous		1240k	None	single			657795	2.1603	0.3717						PASS	
+DRU002	F	Grave II 10	Germany EMA	Germany	Drantum	52.8147	8.1923	C14				600	750	900	U2e2a		Petrous		1240k	None	single			495486	1.132	0.4566						PASS	
+DRU003	M	Grave I 18	Germany EMA	Germany	Drantum	52.8147	8.1923	C14	1194	19	MAMS 52075	775	830.5	886	H11a2a	R1a1a1b1a3a2b1~	Petrous		1240k	None	single			718486	2.6415	0.3589	0.031226					PASS	
+DRU004	F	Grave I 7	Germany EMA	Germany	Drantum	52.8147	8.1923	C14				600	750	900	U5b1c2b		Petrous		1240k	None	single			543563	1.406	0.3545						PASS	
+DRU005	M	Grave 7 West	Germany EMA	Germany	Drantum	52.8147	8.1923	C14				600	750	900	H4a1a4b	I1~ 	Petrous		1240k	None	single			275343	0.49	0.4668	0.062896  (0.049 after PMD)					PASS	
+DRU006	F	Grave 45	Germany EMA	Germany	Drantum	52.8147	8.1923	C14	1185	20	MAMS52096	775	854.5	934	K1a+195		Petrous		1240k	None	single			831658	4.1611	0.3376						PASS	
+DRU007	F	Grave II 11	Germany EMA	Germany	Drantum	52.8147	8.1923	C14				600	750	900	H51		Petrous		1240k	None	single			551379	1.4224	0.4531						PASS	
+DRU008	F (cont) 	Grave 33	Germany EMA	Germany	Drantum	52.8147	8.1923	C14				600	750	900	T2b		Tooth		1240k	None	single			16759	0.0236	0.3074						QUESTIONABLE CRITICAL (mtDNA contamination FAILED)	
+DRU009	F	Grave I 10	Germany EMA	Germany	Drantum	52.8147	8.1923	C14				600	750	900	K1a4a1a2b		Petrous		1240k	None	single			416923	0.8964	0.4513						PASS	
+DRU010	F (cont)	Grave 72	Germany EMA	Germany	Drantum	52.8147	8.1923	C14				600	750	900	K2a11		Tooth		1240k	None	single			1589	0.0023	0.0893						QUESTIONABLE CRITICAL (mtDNA contamination PASS)	
+DRU011	M	Grave II 12	Germany EMA	Germany	Drantum	52.8147	8.1923	C14	1196	19	MAMS 52097	775	830.5	886	K	I1a~	Petrous		1240k	None	single			459759	1.0847	0.4424	0.034734					PASS	
+DRU012	M	Grave I 19	Germany EMA	Germany	Drantum	52.8147	8.1923	C14				600	750	900	H2a2a1	R1b1a1b1a1a1c2b2a1b1a1a2b	Petrous		1240k	None	single			501346	1.1616	0.3681	0.053203 (0.011 after PMD)					PASS	
+DRU013	F	Grave 28 West	Germany EMA	Germany	Drantum	52.8147	8.1923	C14				600	750	900	K1a4d		Petrous		1240k	None	single			765804	3.4256	0.2579						PASS	
+DRU014	M	Grave 40	Germany EMA	Germany	Drantum	52.8147	8.1923	C14	1221	19	MAMS 52098	707	794.5	882	H17b	I1~	Petrous		1240k	None	single			781321	3.7066	0.3483	0.020868					PASS	
+DRU015	F	Grave 3	Germany EMA	Germany	Drantum	52.8147	8.1923	C14	1230	17	MAMS 52099	706	791.5	877	H31a		Petrous		1240k	None	single			704885	2.7866	0.4149						PASS	
+DRU016	F	Grave I 9	Germany EMA	Germany	Drantum	52.8147	8.1923	C14				600	750	900	U3a1		Petrous		1240k	None	single			700947	2.8592	0.3532						PASS	
+DRU017	F	Grave XIII 11	Germany EMA	Germany	Drantum	52.8147	8.1923	C14				600	750	900	H1bd		Petrous		1240k	None	single			824295	4.3088	0.3645						PASS	
+DRU018	F	27	Germany EMA	Germany	Drantum	52.8147	8.1923	C14				600	750	900	H31a		Petrous		1240k	None	single			824644	4.2541	0.34						PASS	
+DUN001.A	M	147	Germany EMA	Germany	Dunum	53.5962	7.6454	C14	1211	18	MAMS 52076	774	828.5	883	U2e2a1a	R1b1a1b	Petrous		1240k	None	single			196667	0.3278	0.3516	0.080083 (0.049 after PMD)					PASS	
+DUN001.B	M	147	Germany EMA	Germany	Dunum	53.5962	7.6454	C14				774	828.5	883	U2e2a1a	R1b1a1b1a1a2	Tooth		1240k	None	single			323502	0.6192	0.4295	0.048786					PASS	
+DUN002	M	128	Germany EMA	Germany	Dunum	53.5962	7.6454	C14	1128	18	MAMS 52077	886	937.5	989	H1	R1b1a1b1a1a	Petrous		1240k	None	single			568618	1.7088	0.3205	0.030669					PASS	
+DUN003	M	280	Germany EMA	Germany	Dunum	53.5962	7.6454	C14				600	800	1000	NA	I	Tooth		1240k	None	single			9037	0.0129	0.2818	NA					QUESTIONABLE MODERATE (mtDNA contamination FAILED, Y chromosome contamination FAILED)	
+DUN004	M	267	Germany EMA	Germany	Dunum	53.5962	7.6454	C14				600	800	1000	NA	BT	Bone		1240k	None	single			3633	0.0051	0.1263	NA					QUESTIONABLE CRITICAL (mtDNA contamination FAILED, Y chromosome contamination FAILED)	
+DUN005	M	127	Germany EMA	Germany	Dunum	53.5962	7.6454	C14	1256	19	MAMS 52100	676	750.5	825	X	I1~	Tooth		1240k	None	single			352338	0.7278	0.3477	0.030007					PASS	
+DUN006	M	39	Germany EMA	Germany	Dunum	53.5962	7.6454	C14				600	800	1000	J2b2	R1b1a1b1a1a1	Petrous		1240k	None	single			440343	0.9999	0.347	0.037755					PASS	
+DUN007	F	112	Germany EMA	Germany	Dunum	53.5962	7.6454	C14	1325	18	MAMS 52101	656	714	772	H1c3b		Petrous		1240k	None	single			632158	2.0461	0.3303						PASS	
+DUN008	M	351	Germany EMA	Germany	Dunum	53.5962	7.6454	C14				600	800	1000	NA	I2	Bone		1240k	None	single			24299	0.0357	0.25	NA					QUESTIONABLE MODERATE (mtDNA contamination FAILED, Y chromosome contamination FAILED)	
+DUN009	M	311	Germany EMA	Germany	Dunum	53.5962	7.6454	C14				600	800	1000	NA (H3au)	R1b1a1b1a1a1	Petrous		1240k	None	single			224301	0.3927	0.2976	0.007903					PASS	
+DUN010	M	122	Germany EMA	Germany	Dunum	53.5962	7.6454	C14				600	800	1000	H1au1	R1b1a1b1a1a1	Petrous		1240k	None	single			487401	1.1998	0.4162	0.028005					PASS	
+DUN011	M	352	Germany EMA	Germany	Dunum	53.5962	7.6454	C14	1278	20	MAMS 52102	672	722.5	773	U4b1b1	R1b1a1b1a1a1	Petrous		1240k	None	single			816416	4.08	0.3381	0.029337					PASS	
+DUN012	M	241	Germany EMA	Germany	Dunum	53.5962	7.6454	C14				600	800	1000	NA	I2a1b1~	Petrous		1240k	None	single			166922	0.2726	0.3324	0.074463 (0.041 after PMD)					PASS	
+DUN013	M	350	Germany EMA	Germany	Dunum	53.5962	7.6454	C14	1231	18	MAMS 52103	704	791.5	879	H58	R1b1a1b1a1a2	Petrous		1240k	None	single			321402	0.6331	0.3764	0.025563					PASS	
+DUN014	M	141	Germany EMA	Germany	Dunum	53.5962	7.6454	C14				600	800	1000	NA	BT	Tooth		1240k	None	single			3196	0.0045	0.1752	NA					QUESTIONABLE CRITICAL (mtDNA contamination FAILED, Y chromosome contamination FAILED)	
+ADN001	M	24033	Germany EMA	Germany	Hannover-Anderten	52.3597	9.8695	C14	1207	18	MAMS 52072	774	828.5	883	H56	J2b2a1a1a1a1a1a1~	Petrous		1240k	None	single			832578	4.1946	0.2762	0.013					PASS	
+ADN002	M	24071	Germany EMA	Germany	Hannover-Anderten	52.3597	9.8695	C14	1258	19	MAMS 52073	677	750	823	U5a2c3a	R1b1a1b1a1a1c2b2a1b1a	Petrous		1240k	None	single			816944	3.9893	0.2187	0.016					PASS	
+ADN003	F	24027	Germany EMA	Germany	Hannover-Anderten	52.3597	9.8695	C14	1251	16	MAMS 52092	678	770	862	H2a2a1		Petrous		1240k	None	single			806668	3.9086	0.2622						PASS	
+ADN004	M	24042	Germany EMA	Germany	Hannover-Anderten	52.3597	9.8695	C14				650	750	850	H5e1	R1b1a1b1a1a	Tooth		1240k	None	single			261883	0.4413	0.1853	0.013					PASS	
+ADN005	M	24020	Germany EMA	Germany	Hannover-Anderten	52.3597	9.8695	C14	1184	19	MAMS 52093	775	855.5	936	H2a2a1	J2b2a1a1a1a1a1a1~	Petrous		1240k	None	single			885606	4.9558	0.2382	0.017					PASS	
+ADN006	F	24017	Germany EMA	Germany	Hannover-Anderten	52.3597	9.8695	C14				650	750	850	J1b1a1b		Petrous		1240k	None	single			883114	5.1316	0.2629						PASS	
+ADN007	M	24072	Germany EMA	Germany	Hannover-Anderten	52.3597	9.8695	C14				650	750	850	V	R1b1a1b1a1a2	Petrous		1240k	None	single			866440	4.5097	0.253	0.015					PASS	
+ADN008	M	24070	Germany EMA	Germany	Hannover-Anderten	52.3597	9.8695	C14	1135	19	MAMS 52094	776	882.5	989	H3af	I1~	Petrous		1240k	None	single			908517	5.3902	0.2039	0.014					PASS	
+ADN009	M	24024	Germany EMA	Germany	Hannover-Anderten	52.3597	9.8695	C14				650	750	850	H2a2a1	J2b2a1a1a1a1a1a1~	Petrous		1240k	None	single			793913	3.6368	0.2512	0.018					PASS	
+ADN010	M	24024	Germany EMA	Germany	Hannover-Anderten	52.3597	9.8695	C14				650	750	850	H2a2a1	J2b2a1a1a1a1a1a1~	Petrous		1240k	None	single			865244	4.5292	0.2513	0.019					PASS	
+ADN011	F	24077	Germany EMA	Germany	Hannover-Anderten	52.3597	9.8695	C14				650	750	850	K1a4a1a2a		Petrous		1240k	None	single			799614	3.9006	0.2173						PASS	
+ADN012	M	24086	Germany EMA	Germany	Hannover-Anderten	52.3597	9.8695	C14				650	750	850	H+195+146	R1b1a1b	Petrous		1240k	None	single			29412	0.0412	0.262	0.3					PASS	
+ADN013	M	24064	Germany EMA	Germany	Hannover-Anderten	52.3597	9.8695	C14	1318	19	MAMS 52095	658	715	772	H1a1c	I2a1b1a2b1a1a~	Petrous		1240k	None	single			792566	3.3507	0.3021	0.03					PASS	
+ADN014	M	24099	Germany EMA	Germany	Hannover-Anderten	52.3597	9.8695	C14				650	750	850	H	R1b1a1b1a1a1	Petrous		1240k	None	single			871608	4.4876	0.2427	0.016					PASS	
+ADN015	F	24096	Germany EMA	Germany	Hannover-Anderten	52.3597	9.8695	C14				650	750	850	H1e		Petrous		1240k	None	single			904974	5.4384	0.1749						PASS	
+ADN016	F?	24091	Germany EMA	Germany	Hannover-Anderten	52.3597	9.8695	C14				650	750	850	W1		Petrous		1240k	None	single			1842	0.0025	0.265						QUESTIONABLE CRITICAL (mtDNA contamination PASS)	
+HID001.A	M	522n:2019	Germany EMA	Germany	Hiddestorf	52.2804	9.7125	C14	No	collagen	MAMS 52082	400 CE			NA	R1b1a1b1a1a2	Petrous		1240k	None	single			390189	0.7631	0.2029	0.003					PASS	
+HID001.B	M	522n:2019	Germany EMA	Germany	Hiddestorf	52.2804	9.7125	C14				400 CE			NA	R1b1a1b1a1a2	Tooth		1240k	None	single			624220	1.674	0.2219	0.004					PASS	
+HID002.A	M	538g:2019	Germany EMA	Germany	Hiddestorf	52.2804	9.7125	C14	No	collagen	MAMS 52083	400 CE			H15a1	R1b1a1b1a1a2	Petrous		1240k	None	single			932129	5.8442	0.2427	0.013					PASS	
+HID002.B	M	538g:2019	Germany EMA	Germany	Hiddestorf	52.2804	9.7125	C14				400 CE			H15a1	R1b1a1b1a1a2	Tooth		1240k	None	single			682012	1.6581	0.2755	0.018					PASS	
+HID003	M	539a:2019	Germany EMA	Germany	Hiddestorf	52.2804	9.7125	C14	1600	18	MAMS 52110	421	479	537	T2b3+151	R1b1a1b1a1a1	Tooth		1240k	None	single			195009	0.3199	0.2026	0.028					PASS	
+HID004	M	541a:2019	Germany EMA	Germany	Hiddestorf	52.2804	9.7125	C14	1599	17	MAMS 52111	422	479.5	537	K1a4a1e	R1b1a1b1a1a1	Tooth		1240k	None	single			809855	2.9054	0.2238	0.014					PASS	
+ISS001	F	1015/37:2001	Germany EMA	Germany	Issendorf	53.4876	9.5132	C14	1698	18	MAMS 52084	260	336	412	NA		Petrous		1240k	None	single			135643	0.2097	0.4832						PASS	
+ISS002	M	1018:2001	Germany EMA	Germany	Issendorf	53.4876	9.5132	C14				400	475	550	T2e	I1	Petrous		1240k	None	single			238880	0.4043	0.258	0.3  (0.033 after PMD)					QUESTIONABLE MODERATE (mtDNA contamination PASS, Y chromosome contamination FAILED, PASS after PMD)	
+LBU001	F	739/7:1980	Germany EMA	Germany	Liebenau	52.6053	9.0907	C14				300	550	800	NA		Petrous		1240k	None	single			1463	0.0022	0.2784						FAILED	
+LBU002	M	947/28:1980	Germany EMA	Germany	Liebenau	52.6053	9.0907	C14				300	550	800	NA	BT	Petrous		1240k	None	single			2108	0.003	0.2188	NA					FAILED	
+LBU003	M	638/B8:1980	Germany EMA	Germany	Liebenau	52.6053	9.0907	C14				300	550	800	NA	BT	Petrous		1240k	None	single			2378	0.0035	0.367	NA					FAILED	
+LBU004	F?	495/52:1980	Germany EMA	Germany	Liebenau	52.6053	9.0907	C14				300	550	800	NA		Petrous		1240k	None	single			1500	0.0023	0.2659						FAILED	
+LBU005	M	522/7:1980	Germany EMA	Germany	Liebenau	52.6053	9.0907	C14				300	550	800	NA		Petrous		1240k	None	single			3572	0.005	0.1956	NA					FAILED	
+LBU006	F	710/1:1971	Germany EMA	Germany	Liebenau	52.6053	9.0907	C14	1178	19	MAMS 52085	775	860	945	NA		Petrous		1240k	None	single			205956	0.343	0.2417						PASS	
+LBU007	F?	677/89:1980	Germany EMA	Germany	Liebenau	52.6053	9.0907	C14				300	550	800	NA		Petrous		1240k	None	single			3740	0.0052	0.2757						FAILED	
+LBU008	M	524/15:1980	Germany EMA	Germany	Liebenau	52.6053	9.0907	C14				300	550	800	NA	BT	Petrous		1240k	None	single			2089	0.003	0.2813	NA					FAILED	
+LBU009	F?	853/15:1980	Germany EMA	Germany	Liebenau	52.6053	9.0907	C14				300	550	800	NA		Petrous		1240k	None	single			1098	0.0016	0.2268						FAILED	
+LBU010	M	768/2:1980	Germany EMA	Germany	Liebenau	52.6053	9.0907	C14	No	collagen	MAMS 52086	300	550	800	NA	I1	Petrous		1240k	None	single			25909	0.0373	0.3609	NA					QUESTIONABLE MODERATE (mtDNA contamination FAILED, Y chromosome contamination FAILED)	
+SRS001	M	454	Germany EMA	Germany	Schortens	53.5377	7.9447	C14	1230	18	MAMS 52087	706	792	878	NA	R1b1a1b1a1a	Petrous		1240k	None	single			161490	0.255	0.49	0.012529					PASS	
+SRS002	M	85	Germany EMA	Germany	Schortens	53.5377	7.9447	C14				700	800	900	NA	R1a1a1~	Petrous		1240k	None	single			21547	0.0307	0.4544	NA					PASS	
+SRS003	M	87	Germany EMA	Germany	Schortens	53.5377	7.9447	C14				700	800	900	T1a1a1	R1a1a1~	Petrous		1240k	None	single			574379	1.456	0.4683	0.04207					PASS	
+SRS004	M	88	Germany EMA	Germany	Schortens	53.5377	7.9447	C14	1239	18	MAMS 52088	685	781	877	H6a1a2b1	R1b1a1b1a1a1c2b2b1a1a	Petrous		1240k	None	single			771867	2.9559	0.4125	0.033304					PASS	
+ZET001	M	Grave 99	Germany EMA	Germany	Zetel	53.4181	7.9734	C14	1267	18	MAMS 52089	673	735	797	NA	R1b1a1b	Petrous		1240k	None	single			97348	0.1512	0.4094	0.190027 (0.027 after PMD)					QUESTIONABLE MODERATE (mtDNA contamination PASS, Y chromosome contamination FAILED, PASS after PMD)	
+ZET002	F	Grave 548	Germany EMA	Germany	Zetel	53.4181	7.9734	C14				600	750	900	K1a4a1a		Tooth		1240k	None	single			7795	0.0112	0.1651						PASS	
+HVN001	M	Häven I 1196	Germany IA	Germany	Häven	53.7386	11.6318	C14				200	300	400	HV0f	R1b1a1b1a1a	Tooth		1240k	None	single			103551	0.1745	26.3	0.000271					PASS	
+HVN002	F	E 1274	Germany IA	Germany	Häven	53.7386	11.6318	C14				200	300	400	H2a2a1		Tooth		1240k	None	single			550161	1.3918	28.5						PASS	
+HVN003	M	E 1213 Häven 3	Germany IA	Germany	Häven	53.7386	11.6318	C14				200	300	400	H1af1b	R1b1a1b1a1a1	Tooth		1240k	None	single			136066	0.2204	32.1	0.010643					PASS	
+HVN004	M	E 1206	Germany IA	Germany	Häven	53.7386	11.6318	C14				200	300	400	J1c	R1b1a1b1a1a1	Tooth		1240k	None	single			723415	2.7357	34.5	0.031967					PASS	
+HVN005	M	Häven 1975 14,2	Germany IA	Germany	Häven	53.7386	11.6318	C14				200	300	400	H2a2a1b	R1b1a1b1a1a1	Tooth		1240k	None	single			898838	5.5717	22.4	0.01187					PASS	
+HVN006	M	Häven 1975 14,3	Germany IA	Germany	Häven	53.7386	11.6318	C14				200	300	400	U2e1	R1b1a1b1a1a1	Tooth		1240k	None	single			627019	2.0738	26.6	0.016652					PASS	
+HVN007	M	Häven V E 1220	Germany IA	Germany	Häven	53.7386	11.6318	C14				200	300	400	H10e	I1	Tooth		1240k	None	single			170296	0.2921	10.3	0.076497					PASS	
+HVN008	M	Häven G7/39	Germany IA	Germany	Häven	53.7386	11.6318	C14				200	300	400	I4a1	I1~	Tooth		1240k	None	single			643211	0.1083	26.6	0.003834					PASS	
+HVN009	M (?)	71/29	Germany IA	Germany	Häven	53.7386	11.6318	C14				200	300	400	NA		Tooth		1240k	None	single			3416	0.0072	5	0.013331					FAILED	
+HVN010	M	1/1967 G7 37,1	Germany IA	Germany	Häven	53.7386	11.6318	C14				200	300	400	H2a2a1	I1	Tooth		1240k	None	single			336372	0.6388	30.2	0.017741					PASS	
+IND001	M	623-5	Germany EMA	Germany	Alt-Inden	50.8461	6.3578	C14				400	600	800	U5b2a1a2	G2a2b2a1a1b1a1a2a1a	Petrous		1240k	None	single			541938	1.743	0.345	0.014056					PASS	
+IND002	M	606-1	Germany EMA	Germany	Alt-Inden	50.8461	6.3578	C14				400	600	800	V3c	R1b1a1b1a1a2	Petrous		1240k	None	single			910868	5.8283	0.2537	0.007031					PASS	
+IND003	M	2-4	Germany EMA	Germany	Alt-Inden	50.8461	6.3578	C14				400	600	800	T2b	R1b1a1b1a1a2e2	Petrous		1240k	None	single			718122	3.4108	0.2743	0.016767					PASS	
+IND004	F	579-7	Germany EMA	Germany	Alt-Inden	50.8461	6.3578	C14				400	600	800	U8b1b1		Petrous		1240k	None	single			597766	1.9397	0.3085						PASS	
+IND005	M	571-8	Germany EMA	Germany	Alt-Inden	50.8461	6.3578	C14				400	600	800	T2g1a1	R1b1a1b1a1a	Petrous		1240k	None	single			854146	5.0598	0.2704	0.013733					PASS	
+IND006	M	502-7	Germany EMA	Germany	Alt-Inden	50.8461	6.3578	C14				400	600	800	H13a1a	I2a1b1a2b1a~	Petrous		1240k	None	single			522551	1.2975	0.383	0.021821					PASS	
+IND007	M	518-6	Germany EMA	Germany	Alt-Inden	50.8461	6.3578	C14				400	600	800	J2b1a1	R1b1a1b1a1a2c1a	Petrous		1240k	None	single			867579	4.9719	0.2438	0.005566					PASS	
+IND008	M	521-17	Germany EMA	Germany	Alt-Inden	50.8461	6.3578	C14				400	600	800	H2a2	G2a2b2a1a1b1a 	Petrous		1240k	None	single			709184	2.4656	0.2801	0.007981					PASS	
+IND009	M	77-6	Germany EMA	Germany	Alt-Inden	50.8461	6.3578	C14				400	600	800	R0a (?)	E1b1b1a1b1a 	Petrous		1240k	None	single			638298	2.1414	0.2399	0.004944					PASS	
+IND010	M	574-6	Germany EMA	Germany	Alt-Inden	50.8461	6.3578	C14				400	600	800	H8c	R1a1a~	Petrous		1240k	None	single			707559	2.8491	0.3578	0.013376					PASS	
+IND011	M	629-8	Germany EMA	Germany	Alt-Inden	50.8461	6.3578	C14				400	600	800	U5b1	R1b1a1b1a1a2	Petrous		1240k	None	single			240101	0.4411	0.2538	0.012723					PASS	
+IND012	M	583-7	Germany EMA	Germany	Alt-Inden	50.8461	6.3578	C14				400	600	800	U5b1	R1b1a1b1a1a2	Petrous		1240k	None	single			804414	3.999	0.2542	0.006684					PASS	
+IND013	M	453-12	Germany EMA	Germany	Alt-Inden	50.8461	6.3578	C14				400	600	800	H3b1b1	R1b1a1b1a1a2c1a	Petrous		1240k	None	single			860246	4.9908	0.2698	0.007703					PASS	
+IND014	M	9-8	Germany EMA	Germany	Alt-Inden	50.8461	6.3578	C14				400	600	800	T2	R1b1a1b1b3a1a1	Petrous		1240k	None	single			634951	2.19	0.2988	0.011044					PASS	
+IND015	M	127-12	Germany EMA	Germany	Alt-Inden	50.8461	6.3578	C14				400	600	800	H3h3 (?)	G2a2	Petrous		1240k	None	single			147193	0.2381	0.3366	0.015352					PASS	
+IND016	M	103-7	Germany EMA	Germany	Alt-Inden	50.8461	6.3578	C14				400	600	800	T2f1a1	I1~	Petrous		1240k	None	single			128556	0.1981	0.3351	0.004485					PASS	
+IND017	M	32-8	Germany EMA	Germany	Alt-Inden	50.8461	6.3578	C14				400	600	800	U3a1	R1b1a1b1a1a2	Petrous		1240k	None	single			673526	1.9084	0.3054	0.022939					PASS	
+SWG001	M	Grave 80	Germany EMA	Germany	Schleswig Rathausmarkt	54.5205	9.5597	C14				1120	1140	1160	U5a1b1	R1b1a1b1a1a1	Tooth		1240k	Half	double			925194	2.7518	0.0859	0.003292					PASS	
+SWG002	F	Grave 100	Germany EMA	Germany	Schleswig Rathausmarkt	54.5205	9.5597	C14				1140	1175	1210	J2a1a1a		Tooth		1240k	Half	double			990514	2.7076	0.0522						PASS	
+SWG003	M	Grave 140	Germany EMA	Germany	Schleswig Rathausmarkt	54.5205	9.5597	C14				1120	1140	1160	K1c2	R1b1a1b1a1a2	Tooth		1240k	Half	double			642935	1.0272	0.0842	0.004917					PASS	
+SWG004	M	Grave 146	Germany EMA	Germany	Schleswig Rathausmarkt	54.5205	9.5597	C14				1070	1105	1140	K1b2a2	I1a2 	Tooth		1240k	Half	double			820618	1.9713	0.0959	0.005601					PASS	
+SWG005	F	Grave 158	Germany EMA	Germany	Schleswig Rathausmarkt	54.5205	9.5597	C14				1070	1105	1140	K1a13		Tooth		1240k	Half	double			763141	1.8749	0.0642						PASS	
+SWG006	M	Grave 171	Germany EMA	Germany	Schleswig Rathausmarkt	54.5205	9.5597	C14				1070	1105	1140	U5a1c1a	R1b1a1b1a1a2a1a1a1~	Tooth		1240k	None	single			905272	2.3651	0.0801	0.006524					PASS	
+SWG007	M	Grave 179	Germany EMA	Germany	Schleswig Rathausmarkt	54.5205	9.5597	C14				1070	1105	1140	H1a1	I1~	Tooth		1240k	None	single			825513	1.9459	0.0949	0.003237					PASS	
+SWG008	M	Grave 221	Germany EMA	Germany	Schleswig Rathausmarkt	54.5205	9.5597	C14				1120	1140	1160	H5a1c1a	I1a2  	Tooth		1240k	None	single			924015	2.4747	0.0874	0.004608					PASS	
+SWG009	M	Grave 230	Germany EMA	Germany	Schleswig Rathausmarkt	54.5205	9.5597	C14				1070	1105	1140	H2a2a1c	NO1	Tooth		1240k	None	single			219976	0.2143	0.0799	0.047753					PASS	
+SWG010	M	Grave 2	Germany EMA	Germany	Schleswig Rathausmarkt	54.5205	9.5597	C14				1070	1105	1140	H1c2	I2a1b1a2b1~	Tooth		1240k	None	single			666623	1.0685	0.0602	0.005024					PASS	
+SWG011	M	Grave 42	Germany EMA	Germany	Schleswig Rathausmarkt	54.5205	9.5597	C14				1070	1105	1140	J2b1a3	R1b1a1b1a	Tooth		1240k	Half	double			592109	1.0231	0.0392	0.027508					PASS	
+SWG012	M	Grave 81	Germany EMA	Germany	Schleswig Rathausmarkt	54.5205	9.5597	C14				1070	1105	1140	H7a1	R1b1a1b1a1a1c2b2b1a~	Tooth		1240k	Half	double			805448	1.5875	0.0587	0.002942					PASS	
+SWG013	M	Grave 113	Germany EMA	Germany	Schleswig Rathausmarkt	54.5205	9.5597	C14				1140	1175	1210	U8a1b	R1b1a1b1a1a1c2b2a1b1a1a2	Tooth		1240k	Half	double			799005	1.5249	0.0639	0.00818					PASS	
+SWG014	M	Grave 155	Germany EMA	Germany	Schleswig Rathausmarkt	54.5205	9.5597	C14				1070	1105	1140	H11a	R1b1a1b1a1	Tooth		1240k	Half	double			92127	0.0843	0.0432	0.088261  (0.032 after PMD)					PASS	
+SWG015	M	Grave 214	Germany EMA	Germany	Schleswig Rathausmarkt	54.5205	9.5597	C14				1070	1105	1140	V+@16298	I1a2  	Tooth		1240k	Half	double			591807	0.8717	0.0553	0.010999					PASS	
+KIL001	F	BL 41	Ireland EMA	Ireland	Kilteasheen, The Bishop’s Seat	54.0068	-8.2023	C14				600	950	1300	T2b+152		Tooth		1240k	None	single			823300	4.2285	0.1916						PASS	
+KIL002	M	BL 121	Ireland EMA	Ireland	Kilteasheen, The Bishop’s Seat	54.0068	-8.2023	C14				600	950	1300	U1a1a3	R1b1a1b1a1a2	Tooth		1240k	None	single			155064	0.2423	0.3382	0.044512					PASS	
+KIL003	F	BL 46	Ireland EMA	Ireland	Kilteasheen, The Bishop’s Seat	54.0068	-8.2023	C14				600	950	1300	H3as		Tooth		1240k	None	single			757869	3.6556	0.1964						PASS	
+KIL004	M	BL 135	Ireland EMA	Ireland	Kilteasheen, The Bishop’s Seat	54.0068	-8.2023	C14				600	950	1300	U5a1f1a1	R1b1a1b1a1a2	Tooth		1240k	None	single			831582	4.3104	0.221	0.006487					PASS	
+KIL006	F	BL 102	Ireland EMA	Ireland	Kilteasheen, The Bishop’s Seat	54.0068	-8.2023	C14				600	950	1300	H4a1a3a		Tooth		1240k	None	single			883009	4.7173	0.1526						PASS	
+KIL007	M	BL 72	Ireland EMA	Ireland	Kilteasheen, The Bishop’s Seat	54.0068	-8.2023	C14				600	950	1300	T2b19b	R1b1a1b1a1a2c	Tooth		1240k	None	single			82523	0.1208	0.3433	0.131472  (0.073 after PMD)					PASS	
+KIL008	F	BL 56	Ireland EMA	Ireland	Kilteasheen, The Bishop’s Seat	54.0068	-8.2023	C14				600	950	1300	U4a1a2		Tooth		1240k	None	single			248070	0.433	0.2076						PASS	
+KIL009	M	BL 27	Ireland EMA	Ireland	Kilteasheen, The Bishop’s Seat	54.0068	-8.2023	C14				600	950	1300	K1a4a1	R1b1a1b1a1a2c1a1a1a1a1a1	Tooth		1240k	None	single			784699	3.347	0.307	0.014913					PASS	
+KIL012	M	BL 2	Ireland EMA	Ireland	Kilteasheen, The Bishop’s Seat	54.0068	-8.2023	C14				600	950	1300	V3	R1b1a1b1a1a2c1	Tooth		1240k	None	single			815357	3.9933	0.2017	0.00917					PASS	
+KIL013	F	BL 3	Ireland EMA	Ireland	Kilteasheen, The Bishop’s Seat	54.0068	-8.2023	C14				600	950	1300	H13a1a4		Tooth		1240k	None	single			812873	4.5087	0.1623						PASS	
+KIL014	M	BL 6	Ireland EMA	Ireland	Kilteasheen, The Bishop’s Seat	54.0068	-8.2023	C14				600	950	1300	J1c1a	R1b1a1b1a1a2c1a1a1a1a1a1a	Tooth		1240k	None	single			499698	1.2189	0.2857	0.028933					PASS	
+KIL015	M	BL 7	Ireland EMA	Ireland	Kilteasheen, The Bishop’s Seat	54.0068	-8.2023	C14				600	950	1300	V10a	R1b1a1b1a1a2c1	Tooth		1240k	None	single			197364	0.3228	0.2258	0.046018					PASS	
+KIL016	M	BL 8	Ireland EMA	Ireland	Kilteasheen, The Bishop’s Seat	54.0068	-8.2023	C14				600	950	1300	J1c	R1b1a1b1a1a2c1a	Tooth		1240k	None	single			905110	4.7457	0.208	0.010377					PASS	
+KIL017	M	BL 18	Ireland EMA	Ireland	Kilteasheen, The Bishop’s Seat	54.0068	-8.2023	C14				600	950	1300	H1o	CT	Tooth		1240k	None	single			20160	0.0287	0.2362	NA					PASS	
+KIL018	M	BL 26A	Ireland EMA	Ireland	Kilteasheen, The Bishop’s Seat	54.0068	-8.2023	C14				600	950	1300	H1	I2a1a2~	Tooth		1240k	None	single			33056	0.0476	0.2206	-0.016118					QUESTIONABLE MODERATE (mtDNA contamination PASS, Y chromosome contamination PASS, PCA outlier)	
+KIL019	M	BL 32	Ireland EMA	Ireland	Kilteasheen, The Bishop’s Seat	54.0068	-8.2023	C14				600	950	1300	K1c2	R1b1a1b	Tooth		1240k	None	single			38466	0.0548	0.2428	NA					PASS	
+KIL020	M	BL 34	Ireland EMA	Ireland	Kilteasheen, The Bishop’s Seat	54.0068	-8.2023	C14				600	950	1300	V1a	R1b1a1b1a1a2	Tooth		1240k	None	single			52691	0.0756	0.266	0.203165 (0.04 after PMD)					QUESTIONABLE MODERATE (mtDNA contamination PASS, Y chromosome contamination FAILED, PASS after PMD)	
+KIL021	F	BL 39	Ireland EMA	Ireland	Kilteasheen, The Bishop’s Seat	54.0068	-8.2023	C14				600	950	1300	NA		Tooth		1240k	None	single			200994	0.3285	0.1502						QUESTIONABLE MODERATE (mtDNA contamination FAILED, Y chromosome contamination FAILED)	
+KIL022	M	BL 42	Ireland EMA	Ireland	Kilteasheen, The Bishop’s Seat	54.0068	-8.2023	C14				600	950	1300	U4b1b2	R1b1a1b1a1a2c1a	Tooth		1240k	None	single			834794	4.6152	0.2184	0.009843					PASS	
+KIL023	F	BL 44	Ireland EMA	Ireland	Kilteasheen, The Bishop’s Seat	54.0068	-8.2023	C14				600	950	1300	J2a1a1		Tooth		1240k	None	single			875025	5.5323	0.1763						PASS	
+KIL024	M	BL 45	Ireland EMA	Ireland	Kilteasheen, The Bishop’s Seat	54.0068	-8.2023	C14				600	950	1300	J1c3f	R1b1a1b1a1a2	Tooth		1240k	None	single			56689	0.082	0.2419	0.02439					PASS	
+KIL025	M	BL 58	Ireland EMA	Ireland	Kilteasheen, The Bishop’s Seat	54.0068	-8.2023	C14				600	950	1300	U5a1a	R1b1a1b1a1a2c1~	Tooth		1240k	None	single			891856	5.1423	0.1476	0.006212					PASS	
+KIL026	M	BL 59	Ireland EMA	Ireland	Kilteasheen, The Bishop’s Seat	54.0068	-8.2023	C14				600	950	1300	T2b	R1b1a1b1a1a2c1a	Tooth		1240k	None	single			616027	1.847	0.3114	0.010283					PASS	
+KIL027	M	BL 62	Ireland EMA	Ireland	Kilteasheen, The Bishop’s Seat	54.0068	-8.2023	C14				600	950	1300	H7a1b	R1b1a1b1a1a2a1a2~	Tooth		1240k	None	single			845012	4.7405	0.1869	0.006378					PASS	
+KIL028	F	BL 63	Ireland EMA	Ireland	Kilteasheen, The Bishop’s Seat	54.0068	-8.2023	C14				600	950	1300	K2b1a		Tooth		1240k	None	single			700306	2.376	0.2259						PASS	
+KIL030	M	BL 67	Ireland EMA	Ireland	Kilteasheen, The Bishop’s Seat	54.0068	-8.2023	C14				600	950	1300	U5a1a1	R1b1a1b1a1	Tooth		1240k	None	single			94821	0.1402	0.2286	0.13963					PASS	
+KIL031	F	BL 70	Ireland EMA	Ireland	Kilteasheen, The Bishop’s Seat	54.0068	-8.2023	C14				600	950	1300	T2e		Tooth		1240k	None	single			88748	0.1305	0.2348						PASS	
+KIL032	M	BL 71	Ireland EMA	Ireland	Kilteasheen, The Bishop’s Seat	54.0068	-8.2023	C14				600	950	1300	U4a1a	R1b1a1b1a1a2	Tooth		1240k	None	single			542423	1.3044	0.2435	0.017142					PASS	
+KIL033	M	BL 86-91	Ireland EMA	Ireland	Kilteasheen, The Bishop’s Seat	54.0068	-8.2023	C14				600	950	1300	K1a4a1	R1b1a1b1a1a2c1a1a1a1a1a1	Tooth		1240k	None	single			881613	4.961	0.2163	0.009603					PASS	
+KIL034	M	BL 85/90	Ireland EMA	Ireland	Kilteasheen, The Bishop’s Seat	54.0068	-8.2023	C14				600	950	1300	H3ao	R1b1a1b1a1a2c1a4c	Tooth		1240k	None	single			758808	2.7061	0.223	0.012689					PASS	
+KIL035	M	BL 87	Ireland EMA	Ireland	Kilteasheen, The Bishop’s Seat	54.0068	-8.2023	C14				600	950	1300	H1b	R1b1a1b1a1a2	Tooth		1240k	None	single			642100	1.9765	0.2069	0.011512					PASS	
+KIL037	M	BL 99	Ireland EMA	Ireland	Kilteasheen, The Bishop’s Seat	54.0068	-8.2023	C14				600	950	1300	H13a1a	R1b1a1b1a1a2c1a1a1a1a1a1	Tooth		1240k	None	single			915617	5.2614	0.1674	0.007831					PASS	
+KIL038	M	BL 110B	Ireland EMA	Ireland	Kilteasheen, The Bishop’s Seat	54.0068	-8.2023	C14				600	950	1300	I4a	R1b1a1b1a1	Tooth		1240k	None	single			94031	0.1399	0.242	0.052529					PASS	
+KIL041	M	BL 116	Ireland EMA	Ireland	Kilteasheen, The Bishop’s Seat	54.0068	-8.2023	C14				600	950	1300	V3a1	R1b1a1b1a1a2c1a1a1a1a1a1a	Tooth		1240k	None	single			702574	2.5779	0.2451	0.014732					PASS	
+KIL042	F	BL 118	Ireland EMA	Ireland	Kilteasheen, The Bishop’s Seat	54.0068	-8.2023	C14				600	950	1300	J1		Tooth		1240k	None	single			730103	2.4629	0.0192						QUESTIONABLE CRITICAL (mtDNA contamination PASS, PCA outlier)	
+KIL043	M	BL 124	Ireland EMA	Ireland	Kilteasheen, The Bishop’s Seat	54.0068	-8.2023	C14				600	950	1300	I2	R1b1a1b1a1a2c1	Tooth		1240k	None	single			834752	4.0167	0.243	0.013556					PASS	
+KIL044	M	BL 125	Ireland EMA	Ireland	Kilteasheen, The Bishop’s Seat	54.0068	-8.2023	C14				600	950	1300	U5b2c2b	R1b1a1b1a1a2c1a1a1a1a1a1a	Tooth		1240k	None	single			852458	4.0833	0.2103	0.008196					PASS	
+KIL045	M	BL 126	Ireland EMA	Ireland	Kilteasheen, The Bishop’s Seat	54.0068	-8.2023	C14				600	950	1300	U5a1g	R1b1a1b1a1	Tooth		1240k	None	single			49112	0.0717	0.3133	0.091081					PASS	
+KIL047	M	BL 134	Ireland EMA	Ireland	Kilteasheen, The Bishop’s Seat	54.0068	-8.2023	C14				600	950	1300	H	R1b1a1b1a1a2	Tooth		1240k	None	single			772775	3.4798	0.2013	0.009198					PASS	
+MDM001	F	ind1 M29 S112	Netherlands EMA	Netherlands	Midlum	53.1813	5.4525	C14				432	535.5	639	H5a1		Tooth		1240k	Half	double			1013220	2.9711	0.0478						PASS	
+MDM002	F	ind2 M32 S113	Netherlands EMA	Netherlands	Midlum	53.1813	5.4525	C14				420	492.5	565	J1c3		Tooth		Shotgun	Half	double			914084	1.3984	0.0749						PASS	
+MDM003	F	ind3 M33 S114	Netherlands EMA	Netherlands	Midlum	53.1813	5.4525	C14				399	469	539	U5b2b3		Tooth		1240k	Half	double			838257	1.6241	0.0373						PASS	
+MDM004	F	ind6 M37 S134	Netherlands EMA	Netherlands	Midlum	53.1813	5.4525	C14				538	591.5	645	K2a6		Tooth		1240k	Half	double			792658	1.51	0.0582						PASS	
+MDM005	F	ind7 M39 S147	Netherlands EMA	Netherlands	Midlum	53.1813	5.4525	C14				431	533	635	U4a1a		Tooth		Shotgun	Half	double			1117467	2.5827	0.1079						PASS	
+MDM006	F	ind4 M41 S122	Netherlands EMA	Netherlands	Midlum	53.1813	5.4525	C14				396	467.5	539	H1		Tooth		Shotgun	Half	double			522527	0.529	0.1173						PASS	
+MDM007	F	ind5 M35 S132	Netherlands EMA	Netherlands	Midlum	53.1813	5.4525	C14				428	518.5	609	H5b1		Tooth		1240k	Half	double			947104	2.4053	0.0993						PASS	
+GRO001	F	V0551	Netherlands EMA	Netherlands	Groningen	53.2173	6.5655	C14				1025	1092.5	1160	H1a1		Tooth		1240k	None	single			719617	1.1356	0.0556						PASS	
+GRO002	M	V0556	Netherlands EMA	Netherlands	Groningen	53.2173	6.5655	C14				775	885	995	U5a1i1	I2a1a1b1a1~	Tooth		1240k	None	single			778965	1.3493	0.039	0.004083					PASS	
+GRO004	F	V0568	Netherlands EMA	Netherlands	Groningen	53.2173	6.5655	C14				<1100 CE			J1c2c		Tooth		1240k	None	single			187582	0.1824	0.029						PASS	
+GRO005	M	V0592	Netherlands EMA	Netherlands	Groningen	53.2173	6.5655	C14				1037	1040	1043	U5b1b1	R1b1a1b1a1a2	Tooth		1240k	None	single			788670	1.4619	0.0677	0.002936					PASS	
+GRO006	F	V0604	Netherlands EMA	Netherlands	Groningen	53.2173	6.5655	C14				<1037 CE			T2b		Tooth		1240k	None	single			303116	0.3207	0.051						PASS	
+GRO007	M	V0773	Netherlands EMA	Netherlands	Groningen	53.2173	6.5655	C14				985	1007.5	1030	U7b	R1b1a1b1a1a1	Tooth		1240k	Half	double			900194	2.3853	0.0898	0.004153					PASS	
+GRO008	M	V0772	Netherlands EMA	Netherlands	Groningen	53.2173	6.5655	C14				995	1012.5	1030	J2b1a3	R1b1a1b1a1a1	Tooth		1240k	Half	double			786969	1.3844	0.0353	0.002578					PASS	
+GRO010	F	V0805	Netherlands EMA	Netherlands	Groningen	53.2173	6.5655	C14				915	972.5	1030	J2a1a1a2		Tooth		1240k	Half	double			943536	2.2142	0.0561						PASS	
+GRO012	M	V1076	Netherlands EMA	Netherlands	Groningen	53.2173	6.5655	C14				855	907.5	960	T2b1	R1b1a1b1a1a1a1	Tooth		1240k	Half	double			885451	1.8039	0.0396	0.003135					PASS	
+GRO013	M	V1053	Netherlands EMA	Netherlands	Groningen	53.2173	6.5655	C14				790	882.5	975	T1a1b	R1b1a1b1a1a	Tooth		1240k	Half	double			926421	2.0279	0.0637	0.000266					PASS	
+GRO014	F	V1071	Netherlands EMA	Netherlands	Groningen	53.2173	6.5655	C14				790	882.5	975	J2a1a1a2		Tooth		1240k	None	single			952164	2.2738	0.0631						PASS	
+GRO015	F	V1073	Netherlands EMA	Netherlands	Groningen	53.2173	6.5655	C14				<1050 CE			J2a1a1a2		Tooth		1240k	None	single			861687	1.6965	0.0629						PASS	
+GRO016	M	V1104	Netherlands EMA	Netherlands	Groningen	53.2173	6.5655	C14				<1100 CE			J2a1a1a2	R1b1a1b1a1a1	Tooth		1240k	None	single			850655	1.6364	0.0324	-0.000141					PASS	
+GRO017	M	V1119	Netherlands EMA	Netherlands	Groningen	53.2173	6.5655	C14				775	875	975	J1b1a1+146C	R1b1a1b	Tooth		1240k	None	single			847666	1.939	0.0751	0.001839					PASS	
+GRO019	M	V1135	Netherlands EMA	Netherlands	Groningen	53.2173	6.5655	C14				875	945	1015	K1a4d	I2a1b1a2b1a~  	Tooth		1240k	None	single			372770	0.418	0.0558	0.01271					PASS	
+GRO020	F	V1140	Netherlands EMA	Netherlands	Groningen	53.2173	6.5655	C14				<1100 CE			J2a1a1a2		Tooth		1240k	Half	double			188609	0.1844	0.0463						PASS	
+GRO021	M	V1254	Netherlands EMA	Netherlands	Groningen	53.2173	6.5655	C14				695	817.5	940	J1c	I1~	Tooth		1240k	Half	double			768316	1.3738	0.0365	0.00096					PASS	
+GRO023	M	V1253	Netherlands EMA	Netherlands	Groningen	53.2173	6.5655	C14				660	730	800	T2b8	R1b1a1b1a1a1c2b1b	Tooth		1240k	Half	double			968771	2.4899	0.076	0.000319					PASS	
+GRO024	M	V079	Netherlands EMA	Netherlands	Groningen	53.2173	6.5655	C14				985	1070	1155	H3b7	R1b1a1b1a1a2a1b1a1a~	Tooth		1240k	Half	double			985405	2.4622	0.0706	0.002622					PASS	
