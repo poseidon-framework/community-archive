@@ -1,7 +1,7 @@
 Poseidon_ID	Genetic_Sex	Group_Name	Collection_ID	Country	Location	Latitude	Longitude	Date_Type	Date_C14_Labnr	Date_C14_Uncal_BP	Date_C14_Uncal_BP_Err	Date_BC_AD_Start	Date_BC_AD_Median	Date_BC_AD_Stop	Y_Haplogroup	Source_Tissue	Capture_Type	UDG	Library_Built	Genotype_Ploidy	Nr_SNPs	Coverage_on_Target_SNPs	Publication	Note	Genetic_Source_Accession_IDs
-MA1.SG	M	Russia_MA1_HG.SG	MA1	Russia	Mal'ta	52.9	103.5	C14	UCIAMS-79666	20240	60	-22570	-22355	-22140	R	bone_longbone	Shotgun	minus	ds	haploid	820035	1.206	RaghavanNature2014	PASS (literature)	SRP029640
-AfontovaGora2.SG	M	Russia_AfontovaGora2.SG	AfontovaGora2	Russia	Afontova Gora	56.016	92.866	C14	UCIAMS-79661	13810	35	-14980	-14760	-14540	R1	bone_longbone	Shotgun	minus	ds	haploid	86317	0.075	RaghavanNature2014	PASS (literature)	SRP029640
-Avar.SG	M	Avar.SG	Avar	Russia	n/a	n/a	n/a	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Shotgun	n/a	ds	haploid	583802	13.733	RaghavanNature2014	PASS (literature)	SRP029640
-Manny.SG	F	Indian.SG	Manny	India	n/a	n/a	n/a	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Shotgun	n/a	ds	haploid	592966	15.989	RaghavanNature2014	PASS (literature)	SRP029640
-Mari.SG	M	Mari.SG	Mari	Russia	n/a	n/a	n/a	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Shotgun	n/a	ds	haploid	582336	9.071	RaghavanNature2014	PASS (literature)	SRP029640
-Tadjik.SG	M	Tajik.SG	Tadjik	Tajikistan	n/a	n/a	n/a	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Shotgun	n/a	ds	haploid	593253	17.771	RaghavanNature2014	PASS (literature)	SRP029640
+MA1.SG	M	Russia_MA1_HG.SG	MA1	Russia	Mal'ta	52.9	103.5	C14	UCIAMS-79666	20240	60	-22570	-22355	-22140	R	bone_longbone	Shotgun	minus	ds	haploid	820035	1.206	RaghavanNature2014;AADR;AADRv372	PASS (literature)	SRP029640
+AfontovaGora2.SG	M	Russia_AfontovaGora2.SG	AfontovaGora2	Russia	Afontova Gora	56.016	92.866	C14	UCIAMS-79661	13810	35	-14980	-14760	-14540	R1	bone_longbone	Shotgun	minus	ds	haploid	86317	0.075	RaghavanNature2014;AADR;AADRv372	PASS (literature)	SRP029640
+Avar.SG	M	Avar.SG	Avar	Russia	n/a	n/a	n/a	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Shotgun	n/a	ds	haploid	583802	13.733	RaghavanNature2014;AADR;AADRv372	PASS (literature)	SRP029640
+Manny.SG	F	Indian.SG	Manny	India	n/a	n/a	n/a	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Shotgun	n/a	ds	haploid	592966	15.989	RaghavanNature2014;AADR;AADRv372	PASS (literature)	SRP029640
+Mari.SG	M	Mari.SG	Mari	Russia	n/a	n/a	n/a	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Shotgun	n/a	ds	haploid	582336	9.071	RaghavanNature2014;AADR;AADRv372	PASS (literature)	SRP029640
+Tadjik.SG	M	Tajik.SG	Tadjik	Tajikistan	n/a	n/a	n/a	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Shotgun	n/a	ds	haploid	593253	17.771	RaghavanNature2014;AADR;AADRv372	PASS (literature)	SRP029640

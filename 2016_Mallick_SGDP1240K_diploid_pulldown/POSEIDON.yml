@@ -1,7 +1,6 @@
 poseidonVersion: 2.5.0
 title: 2016_Mallick_SGDP1240K_diploid_pulldown
-description: Modern samples from all around the world (Simons Genome Diversity Project
-  - SGDP)
+description: Modern samples from all around the world (Simons Genome Diversity Project - SGDP). Originally AADR v37.2.
 contributor:
 - name: Ayshin Ghalichi
   email: ghalichi@shh.mpg.de

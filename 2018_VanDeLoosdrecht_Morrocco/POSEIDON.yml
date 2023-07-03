@@ -1,7 +1,6 @@
 poseidonVersion: 2.5.0
 title: 2018_VanDeLoosdrecht_Morrocco
-description: Genetic data published in VanDeLoosdrecht et al. 2018. Ancient genomes
-  from Morocco
+description: Ancient genomes from Morocco. Originally AADR v37.2.
 contributor:
 - name: Marieke van de Loosdrecht
   email: loosdrecht@shh.mpg.de

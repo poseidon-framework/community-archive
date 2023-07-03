@@ -1,2 +1,2 @@
 Poseidon_ID	Genetic_Sex	Group_Name	Collection_ID	Country	Location	Latitude	Longitude	Date_Type	Date_C14_Labnr	Date_C14_Uncal_BP	Date_C14_Uncal_BP_Err	Date_BC_AD_Start	Date_BC_AD_Median	Date_BC_AD_Stop	Capture_Type	UDG	Library_Built	Genotype_Ploidy	Nr_SNPs	Coverage_on_Target_SNPs	Publication	Note	Genetic_Source_Accession_IDs
-CB13.SG	F	Iberia_EN.SG	CB13	Spain	Cova Bonica, Vallirana, Barcelona	41.37	1.89	C14	Beta-384724	6410	30	-5469	-5398	-5327	Shotgun	minus	ds	haploid	717337	0.979	OlaldeMBE2015	PASS	SRP057056 
+CB13.SG	F	Iberia_EN.SG	CB13	Spain	Cova Bonica, Vallirana, Barcelona	41.37	1.89	C14	Beta-384724	6410	30	-5469	-5398	-5327	Shotgun	minus	ds	haploid	717337	0.979	OlaldeMBE2015;AADR;AADRv372	PASS	SRP057056 

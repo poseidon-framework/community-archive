@@ -1,7 +1,6 @@
 poseidonVersion: 2.5.0
 title: 2018_Posth_SouthAmerica
-description: Genetic data published in Posth et al. 2018. Ancient genomes from South
-  America.
+description: Ancient genomes from South America. Originally AADR v37.2.
 contributor:
 - name: Cosimo Posth
   email: posth@shh.mpg.de

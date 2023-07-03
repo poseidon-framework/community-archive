@@ -1,7 +1,7 @@
 poseidonVersion: 2.5.0
 title: 2020_Bergstrom_HGDP
-description: Modern genomes from all around the world (Human Genome Diversity Project
-  - HGDP).
+description: Modern genomes from all around the world (Human Genome Diversity Project - HGDP).
+  Originally AADR v44.3.
 contributor:
 - name: Ayshin Ghalichi
   email: ghalichi@shh.mpg.de

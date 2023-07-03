@@ -1,6 +1,6 @@
 poseidonVersion: 2.5.0
 title: 2015_1000Genomes_1240K_haploid_pulldown
-description: 1000 Genomes project data pulled down to the 1240K SNP array.
+description: 1000 Genomes project data pulled down to the 1240K SNP array. Originally AADR v37.2.
 contributor:
 - name: Ayshin Ghalichi
   email: ghalichi@shh.mpg.de

@@ -1,3 +1,3 @@
 Poseidon_ID	Genetic_Sex	Group_Name	Collection_ID	Country	Location	Date_Type	Date_BC_AD_Start	Date_BC_AD_Median	Date_BC_AD_Stop	Capture_Type	UDG	Library_Built	Genotype_Ploidy	Nr_SNPs	Coverage_on_Target_SNPs	Publication	Note	Genetic_Source_Accession_IDs
-USR1.SG	F	USA_Ancient_Beringian.SG	USR1	USA	Upward Sun River	contextual	-9650	-9485	-9320	Shotgun	plus	ds	haploid	1150886	17	MorenoMayarNature2018	PASS (literature)	PRJEB20398
-USR2.SG	F	USA_Ancient_Beringian.SG	USR2	USA	Upward Sun River	contextual	-9650	-9485	-9320	Shotgun	plus	ds	haploid	140256	n/a	MorenoMayarNature2018	PASS (literature)	PRJEB20398
+USR1.SG	F	USA_Ancient_Beringian.SG	USR1	USA	Upward Sun River	contextual	-9650	-9485	-9320	Shotgun	plus	ds	haploid	1150886	17	MorenoMayarNature2018;AADR;AADRv372	PASS (literature)	PRJEB20398
+USR2.SG	F	USA_Ancient_Beringian.SG	USR2	USA	Upward Sun River	contextual	-9650	-9485	-9320	Shotgun	plus	ds	haploid	140256	n/a	MorenoMayarNature2018;AADR;AADRv372	PASS (literature)	PRJEB20398

@@ -1,2 +1,2 @@
 Poseidon_ID	Genetic_Sex	Group_Name	Collection_ID	Country	Location	Latitude	Longitude	Date_Type	Date_C14_Labnr	Date_BC_AD_Start	Date_BC_AD_Median	Date_BC_AD_Stop	Y_Haplogroup	Source_Tissue	Capture_Type	UDG	Library_Built	Genotype_Ploidy	Nr_SNPs	Coverage_on_Target_SNPs	Primary_Contact	Publication	Note	Genetic_Source_Accession_IDs
-Oase1_d	M	Romania_Oase1	Oase1	Romania	Oase Cave	45.12	21.9	contextual	GrA-22810;OxA-11711;OxA-	-39690	-37660	-35630	N1c1a	bone	1240K	mixed	ds	haploid	198158	0.194	Paabo, Svante	FuNature2015	PASS (literature)	PRJEB8987
+Oase1_d	M	Romania_Oase1	Oase1	Romania	Oase Cave	45.12	21.9	contextual	GrA-22810;OxA-11711;OxA-	-39690	-37660	-35630	N1c1a	bone	1240K	mixed	ds	haploid	198158	0.194	Paabo, Svante	FuNature2015;AADR;AADRv372	PASS (literature)	PRJEB8987

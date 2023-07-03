@@ -1,9 +1,9 @@
 Poseidon_ID	Genetic_Sex	Group_Name	Collection_ID	Country	Location	Date_Type	Date_BC_AD_Start	Date_BC_AD_Median	Date_BC_AD_Stop	Y_Haplogroup	Source_Tissue	Capture_Type	UDG	Library_Built	Genotype_Ploidy	Nr_SNPs	Coverage_on_Target_SNPs	Publication	Note	Genetic_Source_Accession_IDs
-M240.SG	M	Nepal_Mebrak_2125BP.SG	M240	Nepal	Mebrak Tomb, Nepal	contextual	-450	-175	100	O2a	tooth	Shotgun	minus	ds	haploid	51454	0.044	JeongPNAS2016	QUESTIONABLE (literature, African affinity in PCA)	SRP065070 
-M344.SG	M	Nepal_Mebrak_2125BP.SG	M344	Nepal	Mebrak Tomb, Nepal	contextual	-450	-175	100	O2a2b	tooth	Shotgun	minus	ds	haploid	54269	0.046	JeongPNAS2016	PASS (literature)	SRP065070 
-S40.SG	F	Nepal_Samdzong_1500BP.SG	S40	Nepal	Samdzong Tomb, Nepal	contextual	200	450	700	n/a	tooth	Shotgun	minus	ds	haploid	109735	0.097	JeongPNAS2016	PASS (literature)	SRP065070 
-C1.SG	M	Nepal_Chokhopani_2700BP.SG	C1	Nepal	Chokhopani Tomb, Nepal	contextual	-1200	-825	-450	O2a2b1a1a6a	tooth	Shotgun	minus	ds	haploid	1178495	7.182	JeongPNAS2016	PASS (literature)	SRP065070 
-M63.SG	M	Nepal_Mebrak_2125BP.SG	M63	Nepal	Mebrak Tomb, Nepal	contextual	-450	-175	100	O2a2b1a1a6a	tooth	Shotgun	minus	ds	haploid	750057	1.024	JeongPNAS2016	PASS (literature)	SRP065070 
-S10.SG	M	Nepal_Samdzong_1500BP.SG	S10	Nepal	Samdzong Tomb, Nepal	contextual	200	450	700	O2a2b1a1a6a	tooth	Shotgun	minus	ds	haploid	1124932	3.263	JeongPNAS2016	PASS (literature)	SRP065070 
-S35.SG	M	Nepal_Samdzong_1500BP.SG	S35	Nepal	Samdzong Tomb, Nepal	contextual	200	450	700	O2a2b1a1a6	tooth	Shotgun	minus	ds	haploid	1135160	3.72	JeongPNAS2016	PASS (literature)	SRP065070 
-S41.SG	M	Nepal_Samdzong_1500BP.SG	S41	Nepal	Samdzong Tomb, Nepal	contextual	200	450	700	D1b1d1	tooth	Shotgun	minus	ds	haploid	1023924	2.188	JeongPNAS2016	QUESTIONABLE (literature, affinity to West Eurasians)	SRP065070 
+M240.SG	M	Nepal_Mebrak_2125BP.SG	M240	Nepal	Mebrak Tomb, Nepal	contextual	-450	-175	100	O2a	tooth	Shotgun	minus	ds	haploid	51454	0.044	JeongPNAS2016;AADR;AADRv372	QUESTIONABLE (literature, African affinity in PCA)	SRP065070 
+M344.SG	M	Nepal_Mebrak_2125BP.SG	M344	Nepal	Mebrak Tomb, Nepal	contextual	-450	-175	100	O2a2b	tooth	Shotgun	minus	ds	haploid	54269	0.046	JeongPNAS2016;AADR;AADRv372	PASS (literature)	SRP065070 
+S40.SG	F	Nepal_Samdzong_1500BP.SG	S40	Nepal	Samdzong Tomb, Nepal	contextual	200	450	700	n/a	tooth	Shotgun	minus	ds	haploid	109735	0.097	JeongPNAS2016;AADR;AADRv372	PASS (literature)	SRP065070 
+C1.SG	M	Nepal_Chokhopani_2700BP.SG	C1	Nepal	Chokhopani Tomb, Nepal	contextual	-1200	-825	-450	O2a2b1a1a6a	tooth	Shotgun	minus	ds	haploid	1178495	7.182	JeongPNAS2016;AADR;AADRv372	PASS (literature)	SRP065070 
+M63.SG	M	Nepal_Mebrak_2125BP.SG	M63	Nepal	Mebrak Tomb, Nepal	contextual	-450	-175	100	O2a2b1a1a6a	tooth	Shotgun	minus	ds	haploid	750057	1.024	JeongPNAS2016;AADR;AADRv372	PASS (literature)	SRP065070 
+S10.SG	M	Nepal_Samdzong_1500BP.SG	S10	Nepal	Samdzong Tomb, Nepal	contextual	200	450	700	O2a2b1a1a6a	tooth	Shotgun	minus	ds	haploid	1124932	3.263	JeongPNAS2016;AADR;AADRv372	PASS (literature)	SRP065070 
+S35.SG	M	Nepal_Samdzong_1500BP.SG	S35	Nepal	Samdzong Tomb, Nepal	contextual	200	450	700	O2a2b1a1a6	tooth	Shotgun	minus	ds	haploid	1135160	3.72	JeongPNAS2016;AADR;AADRv372	PASS (literature)	SRP065070 
+S41.SG	M	Nepal_Samdzong_1500BP.SG	S41	Nepal	Samdzong Tomb, Nepal	contextual	200	450	700	D1b1d1	tooth	Shotgun	minus	ds	haploid	1023924	2.188	JeongPNAS2016;AADR;AADRv372	QUESTIONABLE (literature, affinity to West Eurasians)	SRP065070 

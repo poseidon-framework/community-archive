@@ -1,12 +1,12 @@
 Poseidon_ID	Genetic_Sex	Group_Name	Collection_ID	Country	Location	Date_Type	Date_C14_Labnr	Date_C14_Uncal_BP	Date_C14_Uncal_BP_Err	Date_BC_AD_Start	Date_BC_AD_Median	Date_BC_AD_Stop	Y_Haplogroup	Source_Tissue	Capture_Type	UDG	Library_Built	Genotype_Ploidy	Nr_SNPs	Coverage_on_Target_SNPs	Publication	Note	Genetic_Source_Accession_IDs
-ajv54	M	Sweden_PWC	ajv54	Sweden	Ajvide	C14	Beta-423311	4440	30	-3330	-3130	-2930	n/a	tooth	Shotgun	minus	ds	haploid	419024	0.47621	MalmstromProcBiolSci2019	PASS (literature)	PRJEB32786
-ber1M	M	Sweden_BAC	ber1	Sweden	Bergsgraven	C14	Beta-423305	4020	30	-2620	-2545	-2470	R1a-Z283	tooth	Shotgun	minus	ds	haploid	987701	1.858627	MalmstromProcBiolSci2019	PASS (literature)	PRJEB32786
-ber2F	F	Sweden_BAC	ber2	Sweden	Bergsgraven	C14	Beta-423306	4030	30	-2640	-2560	-2480	n/a	tooth	Shotgun	minus	ds	haploid	233422	0.221895	MalmstromProcBiolSci2019	PASS (literature)	PRJEB32786
-EKA1	F	Estonia_CWC	kar1	Estonia	Karlova	C14	Poz-15499	3805	35	n/a	n/a	n/a	n/a	tooth	Shotgun	minus	ds	haploid	915208	1.843664	MalmstromProcBiolSci2019	PASS (literature)	PRJEB32786
-oll007	F	Sweden_Megalithic	oll007	Sweden	Olljso	C14	Beta-417630	4090	30	-2860	-2680	-2500	n/a	tooth	Shotgun	minus	ds	haploid	669883	0.861027	MalmstromProcBiolSci2019	PASS (literature)	PRJEB32786
-oll009	M	Sweden_Megalithic	oll009	Sweden	Olljso	C14	Beta-417631	3520	30	-1930	-1840	-1750	n/a	tooth	Shotgun	minus	ds	haploid	390640	0.399896	MalmstromProcBiolSci2019	PASS (literature)	PRJEB32786
-oll010	F	Sweden_Megalithic	oll010	Sweden	Olljso	C14	Beta-417632	3440	30	-1880	-1770	-1660	n/a	tooth	Shotgun	minus	ds	haploid	132466	0.120869	MalmstromProcBiolSci2019	PASS (literature)	PRJEB32786
-poz44	F	Poland_CWC	poz44	Poland	Oblaczkowo	C14	UBA-16633	4117	28	-2870	-2725	-2580	n/a	tooth	Shotgun	minus	ds	haploid	67336	0.063068	MalmstromProcBiolSci2019	PASS (literature)	PRJEB32786
-poz81	M	Poland_CWC	poz81	Poland	Oblaczkowo	C14	Poz-36250	4160	35	-2880	-2755	-2630	R1a-M417	tooth	Shotgun	minus	ds	haploid	773809	1.147647	MalmstromProcBiolSci2019	PASS (literature)	PRJEB32786
-ros005_renamed	M	Sweden_FBC	ros005	Sweden	Rossberga	C14	Beta-423308	4280	30	-2900	-2790	-2680	IJ-M429*	tooth	Shotgun	minus	ds	haploid	395202	0.4056	MalmstromProcBiolSci2019	PASS (literature)	PRJEB32786
-ros3	F	Sweden_FBC	ros3	Sweden	Rossberga	C14	Beta-423313	4390	30	-3090	-3005	-2920	n/a	tooth	Shotgun	minus	ds	haploid	308663	0.3085	MalmstromProcBiolSci2019	PASS (literature)	PRJEB32786
+ajv54	M	Sweden_PWC	ajv54	Sweden	Ajvide	C14	Beta-423311	4440	30	-3330	-3130	-2930	n/a	tooth	Shotgun	minus	ds	haploid	419024	0.47621	MalmstromProcBiolSci2019;AADR;AADRv424	PASS (literature)	PRJEB32786
+ber1M	M	Sweden_BAC	ber1	Sweden	Bergsgraven	C14	Beta-423305	4020	30	-2620	-2545	-2470	R1a-Z283	tooth	Shotgun	minus	ds	haploid	987701	1.858627	MalmstromProcBiolSci2019;AADR;AADRv424	PASS (literature)	PRJEB32786
+ber2F	F	Sweden_BAC	ber2	Sweden	Bergsgraven	C14	Beta-423306	4030	30	-2640	-2560	-2480	n/a	tooth	Shotgun	minus	ds	haploid	233422	0.221895	MalmstromProcBiolSci2019;AADR;AADRv424	PASS (literature)	PRJEB32786
+EKA1	F	Estonia_CWC	kar1	Estonia	Karlova	C14	Poz-15499	3805	35	n/a	n/a	n/a	n/a	tooth	Shotgun	minus	ds	haploid	915208	1.843664	MalmstromProcBiolSci2019;AADR;AADRv424	PASS (literature)	PRJEB32786
+oll007	F	Sweden_Megalithic	oll007	Sweden	Olljso	C14	Beta-417630	4090	30	-2860	-2680	-2500	n/a	tooth	Shotgun	minus	ds	haploid	669883	0.861027	MalmstromProcBiolSci2019;AADR;AADRv424	PASS (literature)	PRJEB32786
+oll009	M	Sweden_Megalithic	oll009	Sweden	Olljso	C14	Beta-417631	3520	30	-1930	-1840	-1750	n/a	tooth	Shotgun	minus	ds	haploid	390640	0.399896	MalmstromProcBiolSci2019;AADR;AADRv424	PASS (literature)	PRJEB32786
+oll010	F	Sweden_Megalithic	oll010	Sweden	Olljso	C14	Beta-417632	3440	30	-1880	-1770	-1660	n/a	tooth	Shotgun	minus	ds	haploid	132466	0.120869	MalmstromProcBiolSci2019;AADR;AADRv424	PASS (literature)	PRJEB32786
+poz44	F	Poland_CWC	poz44	Poland	Oblaczkowo	C14	UBA-16633	4117	28	-2870	-2725	-2580	n/a	tooth	Shotgun	minus	ds	haploid	67336	0.063068	MalmstromProcBiolSci2019;AADR;AADRv424	PASS (literature)	PRJEB32786
+poz81	M	Poland_CWC	poz81	Poland	Oblaczkowo	C14	Poz-36250	4160	35	-2880	-2755	-2630	R1a-M417	tooth	Shotgun	minus	ds	haploid	773809	1.147647	MalmstromProcBiolSci2019;AADR;AADRv424	PASS (literature)	PRJEB32786
+ros005_renamed	M	Sweden_FBC	ros005	Sweden	Rossberga	C14	Beta-423308	4280	30	-2900	-2790	-2680	IJ-M429*	tooth	Shotgun	minus	ds	haploid	395202	0.4056	MalmstromProcBiolSci2019;AADR;AADRv424	PASS (literature)	PRJEB32786
+ros3	F	Sweden_FBC	ros3	Sweden	Rossberga	C14	Beta-423313	4390	30	-3090	-3005	-2920	n/a	tooth	Shotgun	minus	ds	haploid	308663	0.3085	MalmstromProcBiolSci2019;AADR;AADRv424	PASS (literature)	PRJEB32786
