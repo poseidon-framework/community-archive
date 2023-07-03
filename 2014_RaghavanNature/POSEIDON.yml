@@ -1,9 +1,7 @@
 poseidonVersion: 2.5.0
 title: 2014_RaghavanNature
 description: Two Paleolithic individuals from Mal’ta and Afontova Gora in Siberia
-  with multiple modern Eurasian reference samples. This package was initially constructed
-  based on the Allen Ancient DNA Resource (https://reich.hms.harvard.edu/allen-ancient-dna-resource-aadr-downloadable-genotypes-present-day-and-ancient-dna-data,
-  version 37.2)
+  with multiple modern Eurasian reference samples. Originally AADR v37.2.
 contributor:
 - name: Ayshin Ghalichi
   email: ghalichi@shh.mpg.de
