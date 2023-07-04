@@ -4,8 +4,8 @@ description: A Mesolithic individual from Spain. Originally AADR v37.2.
 contributor:
 - name: Ayshin Ghalichi
   email: ghalichi@shh.mpg.de
-packageVersion: 2.0.0
-lastModified: 2022-01-28
+packageVersion: 2.1.0
+lastModified: 2023-07-04
 genotypeData:
   format: PLINK
   genoFile: 2014_OlaldeNature.bed
@@ -16,7 +16,7 @@ genotypeData:
   indFileChkSum: 2e9d0c5c7704646aa7d02eefc0470fe8
   snpSet: 1240K
 jannoFile: 2014_OlaldeNature.janno
-jannoFileChkSum: b2025e1b4788044777a108f69a7207e4
+jannoFileChkSum: 9235e84933ab19be2d5ac5dc06214ea8
 bibFile: 2014_OlaldeNature.bib
-bibFileChkSum: d2fa34c400637ac31a46c8d344697d4e
+bibFileChkSum: 45f8ca1c5e20059626d2d8131c8ffa52
 changelogFile: CHANGELOG.md

@@ -1,11 +1,12 @@
 poseidonVersion: 2.7.1
 title: 2021_Clemente_Aegean
-description: The genomic history of the Aegean palatial civilizations. Originally AADR v50.
+description: The genomic history of the Aegean palatial civilizations. Originally
+  AADR v50.
 contributor:
 - name: Dhananjaya Aththanayaka
   email: dhananjaya_aththanayaka@eva.mpg.de
-packageVersion: 0.2.0
-lastModified: 2023-05-05
+packageVersion: 0.3.0
+lastModified: 2023-07-04
 genotypeData:
   format: PLINK
   genoFile: 2021_Clemente_Aegean.bed
@@ -16,9 +17,9 @@ genotypeData:
   indFileChkSum: 4e298b757ef0c9ab544c11c0bd9411ad
   snpSet: 1240K
 jannoFile: 2021_Clemente_Aegean.janno
-jannoFileChkSum: 1a35d061a2d4d1c6fa759c5a660fe333
+jannoFileChkSum: 785fa677114a7dfb2e6ea39de6c5b859
 sequencingSourceFile: ENAtable.ssf
 sequencingSourceFileChkSum: 1d3ab86410de34ac706fd80d5dd47d60
 bibFile: 2021_Clemente_Aegean.bib
-bibFileChkSum: 8449096d83f33ca292b9fea195c883ee
+bibFileChkSum: 3a686859216678e60f61898bbe833b6f
 changelogFile: CHANGELOG.md

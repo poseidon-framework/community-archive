@@ -1,11 +1,12 @@
 poseidonVersion: 2.7.1
 title: 2019_Antonio_AncientRome
-description: Ancient genomes from in and around Rome covering the last 12000 years. Originally AADR v42.4.
+description: Ancient genomes from in and around Rome covering the last 12000 years.
+  Originally AADR v42.4.
 contributor:
 - name: Ayshin Ghalichi
   email: ghalichi@shh.mpg.de
-packageVersion: 2.1.0
-lastModified: 2023-05-05
+packageVersion: 2.2.0
+lastModified: 2023-07-04
 genotypeData:
   format: PLINK
   genoFile: Antonio_AncRome.bed
@@ -16,9 +17,9 @@ genotypeData:
   indFileChkSum: 0466dcbb68f122c8848f51e0900125a6
   snpSet: 1240K
 jannoFile: Antonio_AncRome.janno
-jannoFileChkSum: 9d49b8cd665d4f225b728d621c418ee9
+jannoFileChkSum: 13dc6fda5cbc3ba8383314dc6a6e0165
 sequencingSourceFile: ENAtable.ssf
 sequencingSourceFileChkSum: 3d2d460456388a76dfac4c65748bc781
 bibFile: LITERATURE.bib
-bibFileChkSum: 342be617512a1cf91d0fdc28eafdfc3a
+bibFileChkSum: 162b2fb02762b19cf6ec49a33d3ec207
 changelogFile: CHANGELOG.md

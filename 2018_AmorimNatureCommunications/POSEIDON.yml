@@ -4,8 +4,8 @@ description: Individuals from early Medieval Hungary and Italy. Originally AADR 
 contributor:
 - name: Ayshin Ghalichi
   email: ghalichi@shh.mpg.de
-packageVersion: 2.0.1
-lastModified: 2022-02-25
+packageVersion: 2.1.0
+lastModified: 2023-07-04
 genotypeData:
   format: PLINK
   genoFile: 2018_AmorimNatureCommunications.bed
@@ -16,7 +16,7 @@ genotypeData:
   indFileChkSum: b5c41ad10ae5820fc5b918db4c0b7127
   snpSet: 1240K
 jannoFile: 2018_AmorimNatureCommunications.janno
-jannoFileChkSum: 65904d60cf477673c81985e4f5928775
+jannoFileChkSum: e0d563c420c7171e24174ce0365ce6fb
 bibFile: 2018_AmorimNatureCommunications.bib
-bibFileChkSum: d77dad216848ac27d1ffa0445d29da73
+bibFileChkSum: d3fbce7359f244ae8cec1d453d62ea4c
 changelogFile: CHANGELOG.md

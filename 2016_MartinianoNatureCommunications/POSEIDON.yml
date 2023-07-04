@@ -1,11 +1,12 @@
 poseidonVersion: 2.5.0
 title: 2016_MartinianoNatureCommunications
-description: Iron Age, Roman Era and Early Medieval samples from Great Britain. Originally AADR v37.2.
+description: Iron Age, Roman Era and Early Medieval samples from Great Britain. Originally
+  AADR v37.2.
 contributor:
 - name: Ayshin Ghalichi
   email: ghalichi@shh.mpg.de
-packageVersion: 2.0.1
-lastModified: 2022-02-21
+packageVersion: 2.1.0
+lastModified: 2023-07-04
 genotypeData:
   format: PLINK
   genoFile: 2016_MartinianoNatureCommunications.bed
@@ -16,7 +17,7 @@ genotypeData:
   indFileChkSum: 4a4a9bfc6c12987879421a331f90249f
   snpSet: 1240K
 jannoFile: 2016_MartinianoNatureCommunications.janno
-jannoFileChkSum: c46d52a2a5ecd1a4db4136007cc958a5
+jannoFileChkSum: c3d9438afa31923ec767fb4aa6b036e9
 bibFile: 2016_MartinianoNatureCommunications.bib
-bibFileChkSum: 425a979600fc935f2529ab8b9f9a9f59
+bibFileChkSum: 53a80f86c3f56fc55fb097a54b73efc5
 changelogFile: CHANGELOG.md

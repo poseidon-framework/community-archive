@@ -1,11 +1,12 @@
 poseidonVersion: 2.5.0
 title: 2017_LipsonNature
-description: Mesolithic and Neolithic samples from different European countries. Originally AADR v37.2.
+description: Mesolithic and Neolithic samples from different European countries. Originally
+  AADR v37.2.
 contributor:
 - name: Ayshin Ghalichi
   email: ghalichi@shh.mpg.de
-packageVersion: 2.0.1
-lastModified: 2022-02-25
+packageVersion: 2.1.0
+lastModified: 2023-07-04
 genotypeData:
   format: PLINK
   genoFile: 2017_LipsonNature.bed
@@ -16,7 +17,7 @@ genotypeData:
   indFileChkSum: f4f32889b2396065799979d8cb455875
   snpSet: 1240K
 jannoFile: 2017_LipsonNature.janno
-jannoFileChkSum: 5488044c02445d8c5c8a7625f59e1fd7
+jannoFileChkSum: 5325f2a5122d523f3cab2e881239e454
 bibFile: 2017_LipsonNature.bib
-bibFileChkSum: 07db7e1ed8cdb557047a062fd76c73f5
+bibFileChkSum: 627ab967fd5672c7b5d2821f7cb74142
 changelogFile: CHANGELOG.md

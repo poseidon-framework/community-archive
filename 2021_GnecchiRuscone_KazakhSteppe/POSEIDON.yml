@@ -7,8 +7,8 @@ contributor:
   email: gnecchiruscone@shh.mpg.de
 - name: Clemens Schmid
   email: schmid@shh.mpg.de
-packageVersion: 2.1.0
-lastModified: 2023-05-05
+packageVersion: 2.2.0
+lastModified: 2023-07-04
 genotypeData:
   format: PLINK
   genoFile: 2021_GnecchiRuscone_KazakhSteppe.bed
@@ -23,5 +23,5 @@ jannoFileChkSum: 4c872154b73d9e2eeae154970467a7d1
 sequencingSourceFile: ENAtable.ssf
 sequencingSourceFileChkSum: a74ca249b0a04c60fe0da1577038308f
 bibFile: GnecchiRuscone_KazakhSteppe.bib
-bibFileChkSum: 814e780e4f458d17259e25276b284c5b
+bibFileChkSum: fd160e5476567bb8bd25ffc7290d507e
 changelogFile: CHANGELOG.md

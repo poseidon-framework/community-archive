@@ -4,8 +4,8 @@ description: Jomon period samples from Japan. Originally AADR v37.2.
 contributor:
 - name: Ayshin Ghalichi
   email: ghalichi@shh.mpg.de
-packageVersion: 2.0.1
-lastModified: 2022-02-21
+packageVersion: 2.1.0
+lastModified: 2023-07-04
 genotypeData:
   format: PLINK
   genoFile: 2016_KanzawaJHG.bed
@@ -16,7 +16,7 @@ genotypeData:
   indFileChkSum: 97e32c92dfc3165c9d0785fcbce0c097
   snpSet: 1240K
 jannoFile: 2016_KanzawaJHG.janno
-jannoFileChkSum: c96e9d4d8e82c729b113fd3711e1d072
+jannoFileChkSum: 2bc28a397c907d136653b425cc94c909
 bibFile: 2016_KanzawaJHG.bib
-bibFileChkSum: 1f720fdc3784d46f80cb40cc79e2748e
+bibFileChkSum: abcc649f411415158373179a6e381de8
 changelogFile: CHANGELOG.md

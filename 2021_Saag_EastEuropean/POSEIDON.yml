@@ -1,11 +1,12 @@
 poseidonVersion: 2.7.1
 title: 2021_Saag_EastEuropean
-description: Genetic ancestry changes in Stone to Bronze Age transition in the East European plain.
+description: Genetic ancestry changes in Stone to Bronze Age transition in the East
+  European plain.
 contributor:
 - name: Ayshin Ghalichi
   email: ghalichi@shh.mpg.de
-packageVersion: 3.1.0
-lastModified: 2023-05-05
+packageVersion: 3.2.0
+lastModified: 2023-07-04
 genotypeData:
   format: PLINK
   genoFile: Saag_EastEurope.bed
@@ -20,5 +21,5 @@ jannoFileChkSum: 3729aafca96d854af23d9b375a851bf0
 sequencingSourceFile: ENAtable.ssf
 sequencingSourceFileChkSum: 01bc530ca01e7ed8f4672bcd94514ce5
 bibFile: LITERATURE.bib
-bibFileChkSum: d6b86d154d54a9c31704036adcd11d95
+bibFileChkSum: aa73ccbcec0a6055162c7b33ee6a4600
 changelogFile: CHANGELOG.md

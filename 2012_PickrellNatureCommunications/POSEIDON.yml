@@ -6,8 +6,8 @@ contributor:
   email: ghalichi@shh.mpg.de
 - name: Clemens Schmid
   email: schmid@shh.mpg.de
-packageVersion: 2.0.0
-lastModified: 2022-01-28
+packageVersion: 2.1.0
+lastModified: 2023-07-04
 genotypeData:
   format: PLINK
   genoFile: 2012_PickrellNatureCommunications.bed
@@ -18,7 +18,7 @@ genotypeData:
   indFileChkSum: ee8c45a83e3ed7ec8c38f34c796569ab
   snpSet: HumanOrigins
 jannoFile: 2012_PickrellNatureCommunications.janno
-jannoFileChkSum: 8a0d8eb19ab9df11e084243b1cdf6227
+jannoFileChkSum: 7454070aa699ad6a6f74a841e9fe4aa4
 bibFile: 2012_PickrellNatureCommunications.bib
-bibFileChkSum: cd049dfe5b9426c7a37e44d7826bc208
+bibFileChkSum: 137c4f8dcf57adedf8f0626aec7fb172
 changelogFile: CHANGELOG.md

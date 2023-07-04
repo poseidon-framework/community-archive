@@ -1,11 +1,12 @@
 poseidonVersion: 2.5.0
 title: 2019_Haber_Crusaders
-description: A Transient Pulse of Genetic Admixture from the Crusaders in the Near East Identified from Ancient Genome Sequences. Originally AADR v42.4.
+description: A Transient Pulse of Genetic Admixture from the Crusaders in the Near
+  East Identified from Ancient Genome Sequences. Originally AADR v42.4.
 contributor:
 - name: Ayshin Ghalichi
   email: ghalichi@shh.mpg.de
-packageVersion: 2.0.1
-lastModified: 2022-03-02
+packageVersion: 2.1.0
+lastModified: 2023-07-04
 genotypeData:
   format: PLINK
   genoFile: Haber_Crusaders.bed
@@ -16,7 +17,7 @@ genotypeData:
   indFileChkSum: 12d3f30a40834fbd5a177b658dc8aa04
   snpSet: 1240K
 jannoFile: Haber_Crusaders.janno
-jannoFileChkSum: 2365c0043fd4dd18f99f2d0be63d8101
+jannoFileChkSum: 2f2a931bf0c08aa3bbf2c58724846520
 bibFile: LITERATURE.bib
-bibFileChkSum: 3ca6ef276593c01f6ce4b063cbb1bb82
+bibFileChkSum: 2dfc1a5c25efa383814f5d9961ac028b
 changelogFile: CHANGELOG.md

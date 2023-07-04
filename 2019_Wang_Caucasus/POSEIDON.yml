@@ -1,11 +1,12 @@
 poseidonVersion: 2.7.1
 title: 2019_Wang_Caucasus
-description: Ancient human genome-wide data from a 3000-year interval in the Caucasus corresponds with eco-geographic regions. Originally AADR v42.4.
+description: Ancient human genome-wide data from a 3000-year interval in the Caucasus
+  corresponds with eco-geographic regions. Originally AADR v42.4.
 contributor:
 - name: Ayshin Ghalichi
   email: ghalichi@shh.mpg.de
-packageVersion: 2.1.0
-lastModified: 2023-05-05
+packageVersion: 2.2.0
+lastModified: 2023-07-04
 genotypeData:
   format: PLINK
   genoFile: Wang_Caucasus.bed
@@ -16,9 +17,9 @@ genotypeData:
   indFileChkSum: 8fb787751dbc900660be309ef03eddaf
   snpSet: 1240K
 jannoFile: Wang_Caucasus.janno
-jannoFileChkSum: 50588a22d09ea15ef37f788737c0e83f
+jannoFileChkSum: 5366af4032d523212807e7c251fa4485
 sequencingSourceFile: ENAtable.ssf
 sequencingSourceFileChkSum: 52a9a708798c8f80277b6533035d6712
 bibFile: LITERATURE.bib
-bibFileChkSum: 45d5593af09f97df350476c930071129
+bibFileChkSum: 3bb64f440bb27bb5174395d5f2149a0a
 changelogFile: CHANGELOG.md

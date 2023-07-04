@@ -4,8 +4,8 @@ description: Ancient genomes from South America. Originally AADR v37.2.
 contributor:
 - name: Ayshin Ghalichi
   email: ghalichi@shh.mpg.de
-packageVersion: 2.0.1
-lastModified: 2022-02-25
+packageVersion: 2.1.0
+lastModified: 2023-07-04
 genotypeData:
   format: PLINK
   genoFile: 2018_MorenoMayarScience.bed
@@ -16,7 +16,7 @@ genotypeData:
   indFileChkSum: 1ae6521cfdb99607adb2ffb94b7da94c
   snpSet: 1240K
 jannoFile: 2018_MorenoMayarScience.janno
-jannoFileChkSum: ec8be762adf60c26a7c7705999b2f06e
+jannoFileChkSum: 1ec294bfc0c54748ab19dbbfd5da2ad4
 bibFile: 2018_MorenoMayarScience.bib
-bibFileChkSum: 0210938a49a1e5d40635c0ba50c38be4
+bibFileChkSum: 0a3c1bf07f1684524fa540b07f50a291
 changelogFile: CHANGELOG.md

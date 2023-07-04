@@ -1,11 +1,12 @@
 poseidonVersion: 2.5.0
 title: 2017_JonesCurrentBiology
-description: Mesolithic and Neolithic samples from Latvia and Ukraine. Originally AADR v37.2.
+description: Mesolithic and Neolithic samples from Latvia and Ukraine. Originally
+  AADR v37.2.
 contributor:
 - name: Ayshin Ghalichi
   email: ghalichi@shh.mpg.de
-packageVersion: 2.0.1
-lastModified: 2022-02-22
+packageVersion: 2.1.0
+lastModified: 2023-07-04
 genotypeData:
   format: PLINK
   genoFile: 2017_JonesCurrentBiology.bed
@@ -16,7 +17,7 @@ genotypeData:
   indFileChkSum: 8bdd78a3f1b83132773397543c56b408
   snpSet: 1240K
 jannoFile: 2017_JonesCurrentBiology.janno
-jannoFileChkSum: 319d3556f13bc0bd692af4f18d885b1a
+jannoFileChkSum: fa026e194512b5ee545535020968c395
 bibFile: 2017_JonesCurrentBiology.bib
-bibFileChkSum: b16ef384ba801a987a57f55989771e30
+bibFileChkSum: 1fddcf602e97a8e97d3121647f170bab
 changelogFile: CHANGELOG.md

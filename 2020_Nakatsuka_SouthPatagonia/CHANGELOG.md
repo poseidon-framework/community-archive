@@ -1,3 +1,4 @@
+- V 4.2.0: Update of references in the .bib file
 - V 4.1.0: added a .ssf file
 - V 4.0.0: the .bed file in V 3.0.0 was broken - this version includes a fixed file (with a slightly changed order of individuals)
 - V 3.0.0: fully updated version of the package

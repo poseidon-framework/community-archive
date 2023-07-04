@@ -5,8 +5,8 @@ description: Low Prevalence of Lactase Persistence in Bronze Age Europe Indicate
 contributor:
 - name: Dhananjaya Aththanayaka
   email: dhananjaya_aththanayaka.eva.mpg.de
-packageVersion: 0.2.0
-lastModified: 2023-05-05
+packageVersion: 0.3.0
+lastModified: 2023-07-04
 genotypeData:
   format: PLINK
   genoFile: 2020_Burger_GermanyTollense.bed
@@ -17,9 +17,9 @@ genotypeData:
   indFileChkSum: 295138bf1a315b4a1d4eb784a13b41ff
   snpSet: 1240K
 jannoFile: 2020_Burger_GermanyTollense.janno
-jannoFileChkSum: bc6c5f3aaf03d0d11fa083e05ef536bd
+jannoFileChkSum: 6ed25379bf417cd04b5d69c41e220b1f
 sequencingSourceFile: ENAtable.ssf
 sequencingSourceFileChkSum: bf9b69f7ff9c75e834d792423f3db18d
 bibFile: 2020_Burger_GermanyTollense.bib
-bibFileChkSum: 54dc4f88aae46b967ea9f986d3f67e77
+bibFileChkSum: f4c57108e0bc71537aa94c12cd676851
 changelogFile: CHANGELOG.md

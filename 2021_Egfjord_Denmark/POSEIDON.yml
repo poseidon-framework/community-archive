@@ -5,8 +5,8 @@ description: Genomic Steppe ancestry in skeletons from the Neolithic Single Grav
 contributor:
 - name: Dhananjaya Aththanayaka
   email: dhananjaya_aththanayaka@mpg.eva.de
-packageVersion: 0.2.0
-lastModified: 2023-05-05
+packageVersion: 0.3.0
+lastModified: 2023-07-04
 genotypeData:
   format: PLINK
   genoFile: 2021_Egfjord_Denmark.bed
@@ -17,9 +17,9 @@ genotypeData:
   indFileChkSum: 13f36b71423fb5abe64d8e1e33b7b633
   snpSet: 1240K
 jannoFile: 2021_Egfjord_Denmark.janno
-jannoFileChkSum: 793dc08132b6fc623a6056dc226f6a29
+jannoFileChkSum: 89cb0bccd5e9ab990dfe7290804d44d0
 sequencingSourceFile: ENAtable.ssf
 sequencingSourceFileChkSum: 401849e9577c75d48a1b5e2cda51f588
 bibFile: 2021_Egfjord_Denmark.bib
-bibFileChkSum: 9ae5a164ffb8797d8cb178faea8cbfcd
+bibFileChkSum: ad79101cf4df8df1ac17c664c4efaaff
 changelogFile: CHANGELOG.md

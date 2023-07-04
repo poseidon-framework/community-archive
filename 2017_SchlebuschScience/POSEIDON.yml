@@ -4,8 +4,8 @@ description: Ancient samples from South Africa. Originally AADR v37.2.
 contributor:
 - name: Ayshin Ghalichi
   email: ghalichi@shh.mpg.de
-packageVersion: 2.0.1
-lastModified: 2022-02-25
+packageVersion: 2.1.0
+lastModified: 2023-07-04
 genotypeData:
   format: PLINK
   genoFile: 2017_SchlebuschScience.bed
@@ -16,7 +16,7 @@ genotypeData:
   indFileChkSum: 258b56c21bbbb377de098de2b2722e63
   snpSet: 1240K
 jannoFile: 2017_SchlebuschScience.janno
-jannoFileChkSum: 03c19512f831eeb7a833bf7c86c8b4d3
+jannoFileChkSum: d63ad598251081ce2c3c4985897598cc
 bibFile: 2017_SchlebuschScience.bib
-bibFileChkSum: 8dbb0c08a33ff0ea25eef39c17fb37ae
+bibFileChkSum: e2eeb34315c1380870c03e18b51eb9f5
 changelogFile: CHANGELOG.md

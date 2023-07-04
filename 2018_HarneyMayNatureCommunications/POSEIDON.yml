@@ -4,8 +4,8 @@ description: Individuals from Chalcolithic Israel. Originally AADR v37.2.
 contributor:
 - name: Ayshin Ghalichi
   email: ghalichi@shh.mpg.de
-packageVersion: 2.0.1
-lastModified: 2022-02-25
+packageVersion: 2.1.0
+lastModified: 2023-07-04
 genotypeData:
   format: PLINK
   genoFile: 2018_HarneyMayNatureCommunications.bed
@@ -16,7 +16,7 @@ genotypeData:
   indFileChkSum: 9bcd911853839ca5a4127796ec6c3adb
   snpSet: 1240K
 jannoFile: 2018_HarneyMayNatureCommunications.janno
-jannoFileChkSum: 82ef11ae572b26272b03c4b1770d4039
+jannoFileChkSum: 4c0ec48dd3e0aed76c4b4a0d3d7461b2
 bibFile: 2018_HarneyMayNatureCommunications.bib
-bibFileChkSum: cac343f653c4aef473da2981bf40a3e2
+bibFileChkSum: bd395a533021de459bfb3ee8684116a8
 changelogFile: CHANGELOG.md

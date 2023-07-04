@@ -4,8 +4,8 @@ description: Upper Palaeolithic samples from Russia. Originally AADR v37.2.
 contributor:
 - name: Ayshin Ghalichi
   email: ghalichi@shh.mpg.de
-packageVersion: 2.0.1
-lastModified: 2022-02-25
+packageVersion: 2.1.0
+lastModified: 2023-07-04
 genotypeData:
   format: PLINK
   genoFile: 2017_SikoraScience.bed
@@ -16,7 +16,7 @@ genotypeData:
   indFileChkSum: 4bdf3f3ff2ad27c0a916309083ed8d58
   snpSet: 1240K
 jannoFile: 2017_SikoraScience.janno
-jannoFileChkSum: c69b9f485ce1a373b4da3900fda1abfc
+jannoFileChkSum: b134d15608df6cab912a18df4cbb7a00
 bibFile: 2017_SikoraScience.bib
-bibFileChkSum: b2d4deaaf03c6a8f5b055989df12b7df
+bibFileChkSum: dc2c3f1b35bcf6b78dba064abf30eddd
 changelogFile: CHANGELOG.md

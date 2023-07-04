@@ -1,13 +1,14 @@
 poseidonVersion: 2.7.1
 title: 2019_SanchezQuinto_Megalithic
-description: Megalithic tombs in western and northern Neolithic Europe were linked to a kindred society. Originally AADR v42.4.
+description: Megalithic tombs in western and northern Neolithic Europe were linked
+  to a kindred society. Originally AADR v42.4.
 contributor:
 - name: Ayshin Ghalichi
   email: ghalichi@shh.mpg.de
 - name: Clemens Schmid
   email: schmid@shh.mpg.de
-packageVersion: 2.1.0
-lastModified: 2023-05-05
+packageVersion: 2.2.0
+lastModified: 2023-07-04
 genotypeData:
   format: PLINK
   genoFile: SanchezQuinto_Megalithic.bed
@@ -18,9 +19,9 @@ genotypeData:
   indFileChkSum: aceef4e561050330370c8a7f0f50a5f8
   snpSet: 1240K
 jannoFile: SanchezQuinto_Megalithic.janno
-jannoFileChkSum: f2b96e063187cf89591c5cc564864f31
+jannoFileChkSum: 650d537b5e1687cebcb4c38e1d7da908
 sequencingSourceFile: ENAtable.ssf
 sequencingSourceFileChkSum: e9ec3d8b19f97baf738d8846af81ce10
 bibFile: LITERATURE.bib
-bibFileChkSum: 40e32db44e67de8bf5d289bd2e7bed56
+bibFileChkSum: 1bcdc4b625fb6fecc7ca92baf80cb90c
 changelogFile: CHANGELOG.md

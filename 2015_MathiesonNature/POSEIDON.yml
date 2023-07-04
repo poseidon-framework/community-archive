@@ -4,8 +4,8 @@ description: Neolithic to Iron Age samples from Western Eurasia. Originally AADR
 contributor:
 - name: Ayshin Ghalichi
   email: ghalichi@shh.mpg.de
-packageVersion: 2.0.1
-lastModified: 2022-02-21
+packageVersion: 2.1.0
+lastModified: 2023-07-04
 genotypeData:
   format: PLINK
   genoFile: 2015_MathiesonNature.bed
@@ -16,7 +16,7 @@ genotypeData:
   indFileChkSum: ed38f4c8f00f9a580f0cc16049153856
   snpSet: 1240K
 jannoFile: 2015_MathiesonNature.janno
-jannoFileChkSum: 6944a0bb163b0332b275585372352d9e
+jannoFileChkSum: fce2903f56e37385eceb8f25eed7a2ff
 bibFile: 2015_MathiesonNature.bib
-bibFileChkSum: 48a14abc88da9fbe79c0bc4da57b8057
+bibFileChkSum: 8ba10269b421f212adbaa0db91082fe6
 changelogFile: CHANGELOG.md

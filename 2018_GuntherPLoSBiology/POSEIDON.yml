@@ -4,8 +4,8 @@ description: Individuals from Mesolithic Scandinavia. Originally AADR v37.2.
 contributor:
 - name: Ayshin Ghalichi
   email: ghalichi@shh.mpg.de
-packageVersion: 2.0.1
-lastModified: 2022-02-25
+packageVersion: 2.1.0
+lastModified: 2023-07-04
 genotypeData:
   format: PLINK
   genoFile: 2018_GuntherPLoSBiology.bed
@@ -16,7 +16,7 @@ genotypeData:
   indFileChkSum: c9b5ac5901bc3f9f1a68af8e575158d8
   snpSet: 1240K
 jannoFile: 2018_GuntherPLoSBiology.janno
-jannoFileChkSum: 052c47d01791b75cf5e811caef93efc8
+jannoFileChkSum: 697e0ef48f85099e30ae6f086a1544ce
 bibFile: 2018_GuntherPLoSBiology.bib
-bibFileChkSum: 73a1fdd7a49d5ed88d719ce96095e654
+bibFileChkSum: 34c64b5ce56eae4458dca26c8bce710b
 changelogFile: CHANGELOG.md

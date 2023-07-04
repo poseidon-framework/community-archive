@@ -1,13 +1,14 @@
 poseidonVersion: 2.5.0
 title: 2017_VyasAJPA
-description: Modern reference samples from African and Arabian populations. Originally AADR v37.2.
+description: Modern reference samples from African and Arabian populations. Originally
+  AADR v37.2.
 contributor:
 - name: Ayshin Ghalichi
   email: ghalichi@shh.mpg.de
 - name: Clemens Schmid
   email: schmid@shh.mpg.de
-packageVersion: 2.0.0
-lastModified: 2022-01-28
+packageVersion: 2.1.0
+lastModified: 2023-07-04
 genotypeData:
   format: PLINK
   genoFile: 2017_VyasAJPA.bed
@@ -18,7 +19,7 @@ genotypeData:
   indFileChkSum: 62d430c20439946aef6b53cc2b6b6e19
   snpSet: HumanOrigins
 jannoFile: 2017_VyasAJPA.janno
-jannoFileChkSum: 42bd5bf33073bb37f30e1189c3a06e7e
+jannoFileChkSum: cb31ae64d61f3ca5df1f1f551178acac
 bibFile: 2017_VyasAJPA.bib
-bibFileChkSum: cc4b10d6ff133aa8f16c929b27993954
+bibFileChkSum: 76d930d6dfd3621f71d93bcce0f238d6
 changelogFile: CHANGELOG.md

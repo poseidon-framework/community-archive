@@ -4,8 +4,8 @@ description: Originally AADR v42.4.
 contributor:
 - name: Ayshin Ghalichi
   email: ghalichi@shh.mpg.de
-packageVersion: 2.0.1
-lastModified: 2022-03-02
+packageVersion: 2.1.0
+lastModified: 2023-07-04
 genotypeData:
   format: PLINK
   genoFile: 2019_BraceNatureEcologyEvolution.bed
@@ -16,7 +16,7 @@ genotypeData:
   indFileChkSum: c561c00bb52d668f68b15f6125da310e
   snpSet: 1240K
 jannoFile: 2019_BraceNatureEcologyEvolution.janno
-jannoFileChkSum: 982113dd9de309924047f344a0b8b371
+jannoFileChkSum: b7b855f992d7f0bf383ef8fe6107ce70
 bibFile: 2019_BraceNatureEcologyEvolution.bib
-bibFileChkSum: 07e02b950c0d1630c65e29b5d0859bda
+bibFileChkSum: d54ec2439041dd846a8be1b7a84c8174
 changelogFile: CHANGELOG.md

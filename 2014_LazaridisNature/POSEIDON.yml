@@ -1,6 +1,7 @@
 poseidonVersion: 2.7.0
 title: 2014_LazaridisNature
-description: Early Farmers and Hunter Gatherers from Central and Northern Europe. This package does not include all published individuals, see README for details.
+description: Early Farmers and Hunter Gatherers from Central and Northern Europe.
+  This package does not include all published individuals, see README for details.
 contributor:
 - name: Ayshin Ghalichi
   email: ghalichi@shh.mpg.de
@@ -8,8 +9,8 @@ contributor:
   email: schmid@shh.mpg.de
 - name: Selina Carlhoff
   email: selina_carlhoff@eva.mpg.de
-packageVersion: 3.0.0
-lastModified: 2023-03-23
+packageVersion: 3.1.0
+lastModified: 2023-07-04
 genotypeData:
   format: PLINK
   genoFile: 2014_LazaridisNature.bed
@@ -20,8 +21,8 @@ genotypeData:
   indFileChkSum: d2ceac1d4831818ce220e36f76410411
   snpSet: 1240K
 jannoFile: 2014_LazaridisNature.janno
-jannoFileChkSum: db731bc142c21171b66163aa25094099
+jannoFileChkSum: 64c8e3a03712d4988ba19523d4ea73e5
 bibFile: 2014_LazaridisNature.bib
-bibFileChkSum: ad2fc6cce5570206c0d5b16da8feb21b
+bibFileChkSum: 2c7ef9a9a49308027c44b2286e79deb8
 readmeFile: README.txt
 changelogFile: CHANGELOG.md

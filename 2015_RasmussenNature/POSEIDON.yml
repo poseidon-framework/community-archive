@@ -1,11 +1,12 @@
 poseidonVersion: 2.5.0
 title: 2015_RasmussenNature
-description: An ancient North American individual (Kennewick Man). Originally AADR v37.2.
+description: An ancient North American individual (Kennewick Man). Originally AADR
+  v37.2.
 contributor:
 - name: Ayshin Ghalichi
   email: ghalichi@shh.mpg.de
-packageVersion: 2.0.1
-lastModified: 2022-02-21
+packageVersion: 2.1.0
+lastModified: 2023-07-04
 genotypeData:
   format: PLINK
   genoFile: 2015_RasmussenNature.bed
@@ -16,7 +17,7 @@ genotypeData:
   indFileChkSum: 105f9c4e51f291f72cd56ef0dd017edf
   snpSet: 1240K
 jannoFile: 2015_RasmussenNature.janno
-jannoFileChkSum: c7c13251a6b083a9830592a2a1476968
+jannoFileChkSum: dd1643c50581358794721b026c3e0ef7
 bibFile: 2015_RasmussenNature.bib
-bibFileChkSum: e4253d2cf43b51e630b8235b643f93ed
+bibFileChkSum: 592373523e0e9218a8084613bc827688
 changelogFile: CHANGELOG.md

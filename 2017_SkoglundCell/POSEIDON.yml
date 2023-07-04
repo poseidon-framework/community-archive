@@ -6,8 +6,8 @@ contributor:
   email: ghalichi@shh.mpg.de
 - name: Clemens Schmid
   email: schmid@shh.mpg.de
-packageVersion: 2.0.1
-lastModified: 2022-02-25
+packageVersion: 2.1.0
+lastModified: 2023-07-04
 genotypeData:
   format: PLINK
   genoFile: 2017_SkoglundCell.bed
@@ -18,7 +18,7 @@ genotypeData:
   indFileChkSum: 36db50175f0c4d444fa6ea781cb25661
   snpSet: 1240K
 jannoFile: 2017_SkoglundCell.janno
-jannoFileChkSum: 984c71759ffa057bf6a24cae11ef77c1
+jannoFileChkSum: 1ffaf1d84b58591123e0e0ea040fbdc5
 bibFile: 2017_SkoglundCell.bib
-bibFileChkSum: a2e8725913b58e7cc688ae0eeb0aa0aa
+bibFileChkSum: de7ff25fa4b11d949fbfa5aeedb529ff
 changelogFile: CHANGELOG.md

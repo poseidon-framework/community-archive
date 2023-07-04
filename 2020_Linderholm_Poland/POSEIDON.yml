@@ -6,8 +6,8 @@ contributor:
   email: ghalichi@shh.mpg.de
 - name: Clemens Schmid
   email: schmid@shh.mpg.de
-packageVersion: 2.1.0
-lastModified: 2023-05-05
+packageVersion: 2.2.0
+lastModified: 2023-07-04
 genotypeData:
   format: PLINK
   genoFile: Linderholm_Poland.bed
@@ -18,9 +18,9 @@ genotypeData:
   indFileChkSum: 20dd0111a968bc7de8fde78a615a2f6b
   snpSet: 1240K
 jannoFile: Linderholm_Poland.janno
-jannoFileChkSum: 193465736dd07cd2cd914df3fd94c9e4
+jannoFileChkSum: 1b5a7bca1ecc3afe6f9360a0e8374106
 sequencingSourceFile: ENAtable.ssf
 sequencingSourceFileChkSum: 6ed1bd2fde5593768077d71650297102
 bibFile: LITERATURE.bib
-bibFileChkSum: 820669ed24ce70b164d8af38d9e72fd4
+bibFileChkSum: 77aef71a87730cd4f7fd405e3d5e4992
 changelogFile: CHANGELOG.md

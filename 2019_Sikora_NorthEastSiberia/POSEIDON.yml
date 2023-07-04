@@ -1,13 +1,14 @@
 poseidonVersion: 2.7.1
 title: 2019_Sikora_NorthEastSiberia
-description: The population history of northeastern Siberia since the Pleistocene. Originally AADR v42.4.
+description: The population history of northeastern Siberia since the Pleistocene.
+  Originally AADR v42.4.
 contributor:
 - name: Ayshin Ghalichi
   email: ghalichi@shh.mpg.de
 - name: Clemens Schmid
   email: schmid@shh.mpg.de
-packageVersion: 2.1.0
-lastModified: 2023-05-05
+packageVersion: 2.2.0
+lastModified: 2023-07-04
 genotypeData:
   format: PLINK
   genoFile: Sikora_NorthEastSiberia.bed
@@ -18,9 +19,9 @@ genotypeData:
   indFileChkSum: 25fa495a0d588995f88d164e67ea52d3
   snpSet: 1240K
 jannoFile: Sikora_NorthEastSiberia.janno
-jannoFileChkSum: d1f872a9436b39e50291df61658ac7d1
+jannoFileChkSum: 4373b1b19e39889d9da6ae87bd2a0591
 sequencingSourceFile: ENAtable.ssf
 sequencingSourceFileChkSum: f6b17be665e322ef2fe7d1dcaf7dd50c
 bibFile: LITERATURE.bib
-bibFileChkSum: 0faacc859cc75d23249e2437cf986b55
+bibFileChkSum: eb9dc9ab7fc332b9d57486858dda6f6b
 changelogFile: CHANGELOG.md

@@ -4,8 +4,8 @@ description: An ancient Ethiopian individual (Mota). Originally AADR v37.2.
 contributor:
 - name: Ayshin Ghalichi
   email: ghalichi@shh.mpg.de
-packageVersion: 2.0.1
-lastModified: 2022-02-21
+packageVersion: 2.1.0
+lastModified: 2023-07-04
 genotypeData:
   format: PLINK
   genoFile: 2015_LlorenteScience.bed
@@ -16,7 +16,7 @@ genotypeData:
   indFileChkSum: 688dd4800f7bf6ea8d83a56718c79a50
   snpSet: 1240K
 jannoFile: 2015_LlorenteScience.janno
-jannoFileChkSum: df12f03a011e1bed1c869112c4ed0dca
+jannoFileChkSum: c1b08027fc6b9e5e7b49a8a8746aefec
 bibFile: 2015_LlorenteScience.bib
-bibFileChkSum: 6467f8410ec7738201a0efb091ec072e
+bibFileChkSum: 5a18d15dfa603603777f83f2e329ef74
 changelogFile: CHANGELOG.md

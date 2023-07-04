@@ -4,8 +4,8 @@ description: Ancient genomes from Southern Germany. Originally AADR v37.2.
 contributor:
 - name: Ayshin Ghalichi
   email: ghalichi@shh.mpg.de
-packageVersion: 2.1.0
-lastModified: 2023-05-05
+packageVersion: 2.2.0
+lastModified: 2023-07-04
 genotypeData:
   format: PLINK
   genoFile: 2018_VeeramahPNAS.bed
@@ -16,9 +16,9 @@ genotypeData:
   indFileChkSum: 5a52b9dcf138e4fd9673943c70189546
   snpSet: 1240K
 jannoFile: 2018_VeeramahPNAS.janno
-jannoFileChkSum: f0473b7d21fd0b84f29cbb2cb25a1e4f
+jannoFileChkSum: 478df2a8f94a1cb5998e8e23542d495d
 sequencingSourceFile: ENAtable.ssf
 sequencingSourceFileChkSum: b49702b0722af07d1278dd014b93104d
 bibFile: 2018_VeeramahPNAS.bib
-bibFileChkSum: 2c3cf7dd43c0fe58558fb927a7ab568f
+bibFileChkSum: 291a957f15749e9b849a3582b5f08cc2
 changelogFile: CHANGELOG.md

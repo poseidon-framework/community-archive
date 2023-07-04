@@ -4,8 +4,8 @@ description: Ancient genomes from Southeastern Europe. Originally AADR v37.2.
 contributor:
 - name: Ayshin Ghalichi
   email: ghalichi@shh.mpg.de
-packageVersion: 2.0.2
-lastModified: 2023-06-01
+packageVersion: 2.1.0
+lastModified: 2023-07-04
 genotypeData:
   format: PLINK
   genoFile: 2018_MathiesonNature.bed
@@ -16,7 +16,7 @@ genotypeData:
   indFileChkSum: 3484be31a91ca578c5c4c6dff15683f4
   snpSet: 1240K
 jannoFile: 2018_MathiesonNature.janno
-jannoFileChkSum: 5cedf87900f08df392615c901d7ee93d
+jannoFileChkSum: f1fe9c1304ad276e0720f86862583614
 bibFile: 2018_MathiesonNature.bib
-bibFileChkSum: d13c81a85a8486eb54f2dd8d7e9547a3
+bibFileChkSum: e724ea4af84b10891636ced9954428f7
 changelogFile: CHANGELOG.md

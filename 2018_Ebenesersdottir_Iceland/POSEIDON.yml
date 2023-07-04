@@ -4,8 +4,8 @@ description: Ancient genomes from Iceland. Originally AADR v37.2.
 contributor:
 - name: Ayshin Ghalichi
   email: ghalichi@shh.mpg.de
-packageVersion: 2.0.1
-lastModified: 2022-02-25
+packageVersion: 2.1.0
+lastModified: 2023-07-04
 genotypeData:
   format: PLINK
   genoFile: Ebenesersdottir_Iceland.bed
@@ -16,7 +16,7 @@ genotypeData:
   indFileChkSum: c74c87347a9b215978e9f9449eef1aa5
   snpSet: 1240K
 jannoFile: Ebenesersdottir_Iceland.janno
-jannoFileChkSum: a79dde22e34b5ab18c8883af4ed8d951
+jannoFileChkSum: 1bf4ba9c37c0b9db9deacb0c9c79c0fe
 bibFile: LITERATURE.bib
-bibFileChkSum: 5e4a11099a406890786772634ee81df0
+bibFileChkSum: 319f61b2d1886a3b34fc58f888282c84
 changelogFile: CHANGELOG.md

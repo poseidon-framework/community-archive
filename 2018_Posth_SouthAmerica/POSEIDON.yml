@@ -6,8 +6,8 @@ contributor:
   email: posth@shh.mpg.de
 - name: Clemens Schmid
   email: schmid@shh.mpg.de
-packageVersion: 2.0.1
-lastModified: 2022-02-25
+packageVersion: 2.1.0
+lastModified: 2023-07-04
 genotypeData:
   format: PLINK
   genoFile: Posth_SouthAmerica.bed
@@ -18,7 +18,7 @@ genotypeData:
   indFileChkSum: 7b099a56dcaf4b6adb0e98ff91399596
   snpSet: 1240K
 jannoFile: Posth_SouthAmerica.janno
-jannoFileChkSum: 602301167e88267c5e751a06c11493d5
+jannoFileChkSum: 82411c31e3e731869c3621759d9a2b37
 bibFile: LITERATURE.bib
-bibFileChkSum: 6a050eb1532922650bda72c77c9d6456
+bibFileChkSum: 4d5ca59a32e1a27113884c7c68c90601
 changelogFile: CHANGELOG.md

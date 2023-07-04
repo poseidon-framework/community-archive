@@ -4,8 +4,8 @@ description: Three samples from Egyptian mummies. Originally AADR v37.2.
 contributor:
 - name: Ayshin Ghalichi
   email: ghalichi@shh.mpg.de
-packageVersion: 2.0.1
-lastModified: 2022-02-25
+packageVersion: 2.1.0
+lastModified: 2023-07-04
 genotypeData:
   format: PLINK
   genoFile: EgyptianMummies.bed
@@ -16,7 +16,7 @@ genotypeData:
   indFileChkSum: a55aa3e7471481b9899829940d0db2d6
   snpSet: 1240K
 jannoFile: EgyptianMummies.janno
-jannoFileChkSum: a58e01e0b7ec85596bdd7f277cc1ad4e
+jannoFileChkSum: 731c6fcb7db72fbcdd2caaba7d710d18
 bibFile: LITERATURE.bib
-bibFileChkSum: dcad99440978a7e45b30e9ae9e025c59
+bibFileChkSum: 4f9f124143c2adc3ae8cb08e1eaa5651
 changelogFile: CHANGELOG.md

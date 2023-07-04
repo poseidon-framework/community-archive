@@ -1,11 +1,12 @@
 poseidonVersion: 2.7.1
 title: 2019_Ning_Tianshan
-description: Ancient Genomes Reveal Yamnaya-Related Ancestry and a Potential Source of Indo-European Speakers in Iron Age Tianshan. Originally AADR v42.4.
+description: Ancient Genomes Reveal Yamnaya-Related Ancestry and a Potential Source
+  of Indo-European Speakers in Iron Age Tianshan. Originally AADR v42.4.
 contributor:
 - name: Ayshin Ghalichi
   email: ghalichi@shh.mpg.de
-packageVersion: 2.1.0
-lastModified: 2023-05-05
+packageVersion: 2.2.0
+lastModified: 2023-07-04
 genotypeData:
   format: PLINK
   genoFile: Ning_Tianshan.bed
@@ -16,9 +17,9 @@ genotypeData:
   indFileChkSum: 14ce88790c2dff1ff5a009a37e22e5ce
   snpSet: 1240K
 jannoFile: Ning_Tianshan.janno
-jannoFileChkSum: ed68e03c71249ea6ac5283ca9d08c80b
+jannoFileChkSum: 88c3c21fd98944a16e693f7f4b63ed7a
 sequencingSourceFile: ENAtable.ssf
 sequencingSourceFileChkSum: 7522daa10851f565677801a5262de4d4
 bibFile: LITERATURE.bib
-bibFileChkSum: 5de7c2a48e39bce39a2f6b702027b98f
+bibFileChkSum: 5a2fc17c52156dcd82394540373be509
 changelogFile: CHANGELOG.md

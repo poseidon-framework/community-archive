@@ -1,13 +1,14 @@
 poseidonVersion: 2.7.1
 title: 2019_Olalde_Iberia
-description: The genomic history of the Iberian Peninsula over the past 8000 years. Originally AADR v42.4.
+description: The genomic history of the Iberian Peninsula over the past 8000 years.
+  Originally AADR v42.4.
 contributor:
 - name: Ayshin Ghalichi
   email: ghalichi@shh.mpg.de
 - name: Clemens Schmid
   email: schmid@shh.mpg.de
-packageVersion: 2.1.0
-lastModified: 2023-05-05
+packageVersion: 2.2.0
+lastModified: 2023-07-04
 genotypeData:
   format: PLINK
   genoFile: Olalde_Iberia.bed
@@ -18,9 +19,9 @@ genotypeData:
   indFileChkSum: cc57f1f73ad442acd81e72eeef6cc6ff
   snpSet: 1240K
 jannoFile: Olalde_Iberia.janno
-jannoFileChkSum: 09ce6dedd8731fece4673c85f92bf82b
+jannoFileChkSum: 46975214c390209a9a550372aded7540
 sequencingSourceFile: ENAtable.ssf
 sequencingSourceFileChkSum: 24d7f0315ff3c7c21e480f8aac668eb2
 bibFile: LITERATURE.bib
-bibFileChkSum: 6dbfa15f90654e4307379641cf4614fe
+bibFileChkSum: 1927017114ac3c66b31205eb43dc0ce2
 changelogFile: CHANGELOG.txt

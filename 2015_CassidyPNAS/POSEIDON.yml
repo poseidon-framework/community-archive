@@ -4,8 +4,8 @@ description: Neolithic and Bronze Age samples from Ireland. Originally AADR v37.
 contributor:
 - name: Ayshin Ghalichi
   email: ghalichi@shh.mpg.de
-packageVersion: 2.0.1
-lastModified: 2022-02-21
+packageVersion: 2.1.0
+lastModified: 2023-07-04
 genotypeData:
   format: PLINK
   genoFile: 2015_CassidyPNAS.bed
@@ -16,7 +16,7 @@ genotypeData:
   indFileChkSum: d05efd4fa34cc41602e4217471a8ffe8
   snpSet: 1240K
 jannoFile: 2015_CassidyPNAS.janno
-jannoFileChkSum: c061049d71093b78f23b4106ea762ee4
+jannoFileChkSum: 87734655f381179582efaf08b8341139
 bibFile: 2015_CassidyPNAS.bib
-bibFileChkSum: 15ed4fbf16737fc9e47be1f4518ab864
+bibFileChkSum: 147e0422eeab1b877b11b89189402657
 changelogFile: CHANGELOG.md

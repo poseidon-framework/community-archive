@@ -4,8 +4,8 @@ description: Minoan and Mycenaean samples from Crete. Originally AADR v37.2.
 contributor:
 - name: Ayshin Ghalichi
   email: ghalichi@shh.mpg.de
-packageVersion: 2.0.1
-lastModified: 2022-02-22
+packageVersion: 2.1.0
+lastModified: 2023-07-04
 genotypeData:
   format: PLINK
   genoFile: 2017_LazaridisNature.bed
@@ -16,7 +16,7 @@ genotypeData:
   indFileChkSum: ebb5fcc32d5e2ad119ca352d01f1c1be
   snpSet: 1240K
 jannoFile: 2017_LazaridisNature.janno
-jannoFileChkSum: c767bf8ecff4c47a15f2450e88cdba17
+jannoFileChkSum: 63ad16ca0dac293781ece097c9f95792
 bibFile: 2017_LazaridisNature.bib
-bibFileChkSum: b8ed4b57dc58bdb70dde3d20da8facfe
+bibFileChkSum: 5c0108bffc0612c3f676b7b5007b4bf6
 changelogFile: CHANGELOG.md

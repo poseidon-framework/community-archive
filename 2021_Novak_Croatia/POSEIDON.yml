@@ -1,11 +1,12 @@
 poseidonVersion: 2.7.1
 title: 2021_Novak_Croatia
-description: Genome-wide analysis of nearly all the victims of a 6200 year old massacre. Originally AADR v50.
+description: Genome-wide analysis of nearly all the victims of a 6200 year old massacre.
+  Originally AADR v50.
 contributor:
 - name: Dhananjaya Aththanayaka
   email: dhananjaya_aththanayaka@eva.mpg.de
-packageVersion: 0.2.0
-lastModified: 2023-05-05
+packageVersion: 0.3.0
+lastModified: 2023-07-04
 genotypeData:
   format: PLINK
   genoFile: 2021_Novak_Croatia.bed
@@ -16,9 +17,9 @@ genotypeData:
   indFileChkSum: 9942f88cf792a20ea86e8f5294c94ac7
   snpSet: 1240K
 jannoFile: 2021_Novak_Croatia.janno
-jannoFileChkSum: 1e540c69bbadae1edf3f4cd137bf369f
+jannoFileChkSum: cb53db2a6c5823b910f958bc74f01f8d
 sequencingSourceFile: ENAtable.ssf
 sequencingSourceFileChkSum: 7fbded6ce7ca2337ea2ea57db0900385
 bibFile: 2021_Novak_Croatia.bib
-bibFileChkSum: 6c303a2130ea139f640e7d890ee643bf
+bibFileChkSum: 87f372030dc464ca2d2532a707ffdd82
 changelogFile: CHANGELOG.md

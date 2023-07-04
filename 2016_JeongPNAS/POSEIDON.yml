@@ -4,8 +4,8 @@ description: Diachronic samples from the Himalayan arc. Originally AADR v37.2.
 contributor:
 - name: Ayshin Ghalichi
   email: ghalichi@shh.mpg.de
-packageVersion: 2.0.1
-lastModified: 2022-02-21
+packageVersion: 2.1.0
+lastModified: 2023-07-04
 genotypeData:
   format: PLINK
   genoFile: 2016_JeongPNAS.bed
@@ -16,7 +16,7 @@ genotypeData:
   indFileChkSum: 79629543b604878b574cd00e183b7499
   snpSet: 1240K
 jannoFile: 2016_JeongPNAS.janno
-jannoFileChkSum: 601135969db54895a1f44fe7da856089
+jannoFileChkSum: ea59fd99e798f67990a5166b0c6cde2d
 bibFile: 2016_JeongPNAS.bib
-bibFileChkSum: 53c559b3c482acfa7a47b63cb86f4af4
+bibFileChkSum: bff6c489452d1ae8f8ba9789bd321ea3
 changelogFile: CHANGELOG.txt

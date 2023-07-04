@@ -6,8 +6,8 @@ contributor:
   email: ghalichi@shh.mpg.de
 - name: Clemens Schmid
   email: schmid@shh.mpg.de
-packageVersion: 2.0.1
-lastModified: 2022-03-14
+packageVersion: 2.1.0
+lastModified: 2023-07-04
 genotypeData:
   format: PLINK
   genoFile: Yang_China.bed
@@ -20,5 +20,5 @@ genotypeData:
 jannoFile: Yang_China.janno
 jannoFileChkSum: 858721d0e72a14a8b7183c6babf11f44
 bibFile: LITERATURE.bib
-bibFileChkSum: 9469cd1c4a47d49068b80734837b05cf
+bibFileChkSum: a2d6c44dd250f30772fff800d3b3cd33
 changelogFile: CHANGELOG.md

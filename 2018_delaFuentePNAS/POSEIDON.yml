@@ -4,8 +4,8 @@ description: Ancient individuals from Patagonia. Originally AADR v37.2.
 contributor:
 - name: Ayshin Ghalichi
   email: ghalichi@shh.mpg.de
-packageVersion: 2.0.1
-lastModified: 2022-02-25
+packageVersion: 2.1.0
+lastModified: 2023-07-04
 genotypeData:
   format: PLINK
   genoFile: 2018_delaFuentePNAS.bed
@@ -16,7 +16,7 @@ genotypeData:
   indFileChkSum: 76b46ff253e0d169219043528f702b15
   snpSet: 1240K
 jannoFile: 2018_delaFuentePNAS.janno
-jannoFileChkSum: eab35587a1e2d27c335d3c5adfe5c047
+jannoFileChkSum: 4e8fd2cf74de66eb35b5ad285abc5cb4
 bibFile: 2018_delaFuentePNAS.bib
-bibFileChkSum: 7f04e5dcce578027bb7d6e14eed8fa9b
+bibFileChkSum: 8a42387ccdaaa27b1696bfb42866daa0
 changelogFile: CHANGELOG.md

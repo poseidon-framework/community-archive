@@ -4,8 +4,8 @@ description: Genetic data of Archaic Humans
 contributor:
 - name: Ayshin Ghalichi
   email: ghalichi@shh.mpg.de
-packageVersion: 2.0.0
-lastModified: 2022-01-28
+packageVersion: 2.1.0
+lastModified: 2023-07-04
 genotypeData:
   format: PLINK
   genoFile: Archaic_Humans.bed
@@ -18,5 +18,5 @@ genotypeData:
 jannoFile: Archaic_Humans.janno
 jannoFileChkSum: e2803f7b55bb8d24dadd4c04e3067307
 bibFile: Archaic_Humans.bib
-bibFileChkSum: 4618cc402c05c8961fd042d7055567a6
+bibFileChkSum: 21f13659bea59c06452a4fd4f9861d7e
 changelogFile: CHANGELOG.md

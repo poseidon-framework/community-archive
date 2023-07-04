@@ -7,8 +7,8 @@ contributor:
   email: ghalichi@shh.mpg.de
 - name: Clemens Schmid
   email: schmid@shh.mpg.de
-packageVersion: 2.0.1
-lastModified: 2022-02-07
+packageVersion: 2.1.0
+lastModified: 2023-07-04
 genotypeData:
   format: PLINK
   genoFile: 2014_RaghavanNature.bed
@@ -19,7 +19,7 @@ genotypeData:
   indFileChkSum: 2785e7fbdab8e33502f3b84afa177a82
   snpSet: 1240K
 jannoFile: 2014_RaghavanNature.janno
-jannoFileChkSum: b605a4c659fd4d2b4a6a0bc4cb44175a
+jannoFileChkSum: 01adce0fcc49e6adcf52a3b12631a7d1
 bibFile: 2014_RaghavanNature.bib
-bibFileChkSum: b5c3bc3df3ad1696550fe48a99d75066
+bibFileChkSum: afb8c41496aea03dd71aaeb46e5ecf28
 changelogFile: CHANGELOG.txt

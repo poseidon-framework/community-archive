@@ -1,13 +1,14 @@
 poseidonVersion: 2.5.0
 title: 2018_DamgaardScience
-description: Individuals from the first horse herders Inner Asia and Anatolia. Originally AADR v37.2.
+description: Individuals from the first horse herders Inner Asia and Anatolia. Originally
+  AADR v37.2.
 contributor:
 - name: Ayshin Ghalichi
   email: ghalichi@shh.mpg.de
 - name: Clemens Schmid
   email: schmid@shh.mpg.de
-packageVersion: 2.0.1
-lastModified: 2022-02-25
+packageVersion: 2.1.0
+lastModified: 2023-07-04
 genotypeData:
   format: PLINK
   genoFile: 2018_DamgaardScience.bed
@@ -18,7 +19,7 @@ genotypeData:
   indFileChkSum: 930f2d4d13544d8ce3ac8ce94ff93850
   snpSet: 1240K
 jannoFile: 2018_DamgaardScience.janno
-jannoFileChkSum: 7a1385c0f56597dd086cb4e76287bdb2
+jannoFileChkSum: 7393466dd58ad92e5170b67526e92ff7
 bibFile: 2018_DamgaardScience.bib
-bibFileChkSum: 37845302258fb92534b35d02ab61e8e6
+bibFileChkSum: 8cd8e455547aaf6cf675ad119cd505be
 changelogFile: CHANGELOG.md

@@ -7,8 +7,8 @@ contributor:
   email: ghalichi@shh.mpg.de
 - name: Clemens Schmid
   email: schmid@shh.mpg.de
-packageVersion: 2.0.1
-lastModified: 2022-02-07
+packageVersion: 2.1.0
+lastModified: 2023-07-04
 genotypeData:
   format: PLINK
   genoFile: 2014_RasmussenNature.bed
@@ -19,7 +19,7 @@ genotypeData:
   indFileChkSum: f7418dafeb50b98813c5c96828ad89b1
   snpSet: 1240K
 jannoFile: 2014_RasmussenNature.janno
-jannoFileChkSum: 325d896c270a3832eb70892392bc2d36
+jannoFileChkSum: db6b2efe33fe0161de8af3e8e836b75d
 bibFile: 2014_RasmussenNature.bib
-bibFileChkSum: 05351a28501f2c0d72b089a75e5ca103
+bibFileChkSum: 1f0f0ac45e8c9d27a7946dec91b2d989
 changelogFile: CHANGELOG.md

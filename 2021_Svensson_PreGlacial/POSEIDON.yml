@@ -5,8 +5,8 @@ description: Genome of Peştera Muierii skull shows high diversity and low mutat
 contributor:
 - name: Dhananjaya Aththanayaka
   email: dhananjaya_aththanayaka@mpg.eva.de
-packageVersion: 0.2.0
-lastModified: 2023-05-05
+packageVersion: 0.3.0
+lastModified: 2023-07-04
 genotypeData:
   format: PLINK
   genoFile: 2021_Svensson_PreGlacial.bed
@@ -17,9 +17,9 @@ genotypeData:
   indFileChkSum: e670e01b3810cbd831952172224bd9ad
   snpSet: 1240K
 jannoFile: 2021_Svensson_PreGlacial.janno
-jannoFileChkSum: 54e9042628b3eb1aec5d0b7f88f37876
+jannoFileChkSum: 458337a8e8459da633ca7314127b0bd5
 sequencingSourceFile: ENAtable.ssf
 sequencingSourceFileChkSum: a8e329f9b7996439f855b1ca3834526b
 bibFile: 2021_Svensson_PreGlacial.bib
-bibFileChkSum: cdaa498257898a2016f7114ff7e00f99
+bibFileChkSum: 69aa7d931165493fa0c375d329ed543f
 changelogFile: CHANGELOG.md

@@ -1,13 +1,14 @@
 poseidonVersion: 2.5.0
 title: 2019_Schroeder_Poland
-description: Unraveling ancestry, kinship, and violence in a Late Neolithic mass grave. Originally AADR v42.4.
+description: Unraveling ancestry, kinship, and violence in a Late Neolithic mass grave.
+  Originally AADR v42.4.
 contributor:
 - name: Ayshin Ghalichi
   email: ghalichi@shh.mpg.de
 - name: Clemens Schmid
   email: schmid@shh.mpg.de
-packageVersion: 2.0.1
-lastModified: 2022-03-02
+packageVersion: 2.1.0
+lastModified: 2023-07-04
 genotypeData:
   format: PLINK
   genoFile: Schroeder_Poland.bed
@@ -18,7 +19,7 @@ genotypeData:
   indFileChkSum: 9558bbb5d5686f43771f8f96f032cf7c
   snpSet: 1240K
 jannoFile: Schroeder_Poland.janno
-jannoFileChkSum: 5be5b2c940e38b480bc59f9c4d58baf7
+jannoFileChkSum: 26300d0752d42f3973804f7d168f8ad9
 bibFile: LITERATURE.bib
-bibFileChkSum: 5ae5aa1062a43f4131c1c0f640c91a56
+bibFileChkSum: d28a94f32644ce26c3fae5a6fe2d301e
 changelogFile: CHANGELOG.md

@@ -4,8 +4,8 @@ description: A 45000-year-old modern human from Siberia. Originally AADR v37.2.
 contributor:
 - name: Ayshin Ghalichi
   email: ghalichi@shh.mpg.de
-packageVersion: 2.0.1
-lastModified: 2022-02-01
+packageVersion: 2.1.0
+lastModified: 2023-07-04
 genotypeData:
   format: PLINK
   genoFile: 2014_FuNature.bed
@@ -16,7 +16,7 @@ genotypeData:
   indFileChkSum: a37a0443575618e933a7d3c4d35ffb71
   snpSet: 1240K
 jannoFile: 2014_FuNature.janno
-jannoFileChkSum: 60c52abe8fada2d9411660ffdd0681a8
+jannoFileChkSum: 617adf5623f0bd5f93148552980c3419
 bibFile: 2014_FuNature.bib
-bibFileChkSum: 51ec283e2307a79b44b1009a56fe01f6
+bibFileChkSum: a1ced373f7d022cd76f8dcda892fd89b
 changelogFile: CHANGELOG.md

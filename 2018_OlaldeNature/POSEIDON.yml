@@ -1,11 +1,12 @@
 poseidonVersion: 2.5.0
 title: 2018_OlaldeNature
-description: Ancient genomes from the Bell Beaker period in Europe. Originally AADR v37.2.
+description: Ancient genomes from the Bell Beaker period in Europe. Originally AADR
+  v37.2.
 contributor:
 - name: Ayshin Ghalichi
   email: ghalichi@shh.mpg.de
-packageVersion: 2.0.2
-lastModified: 2022-11-10
+packageVersion: 2.1.0
+lastModified: 2023-07-04
 genotypeData:
   format: PLINK
   genoFile: 2018_OlaldeNature.bed
@@ -16,7 +17,7 @@ genotypeData:
   indFileChkSum: 95f51d4ef3797b556e6c0154bf8d443d
   snpSet: 1240K
 jannoFile: 2018_OlaldeNature.janno
-jannoFileChkSum: 380416444149666fe8c71f3e566cdf53
+jannoFileChkSum: f59f328138d63c0934f1f418320e0e03
 bibFile: 2018_OlaldeNature.bib
-bibFileChkSum: 886f3b4dc43b80588fad5e9d99bcd981
+bibFileChkSum: 6213f9fcf6485c1f0057455f687060f5
 changelogFile: CHANGELOG.md

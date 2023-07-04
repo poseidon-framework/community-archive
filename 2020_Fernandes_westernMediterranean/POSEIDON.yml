@@ -5,8 +5,8 @@ description: Neolithic and Bronze Age samples from islands of the western Medite
 contributor:
 - name: Ayshin Ghalichi
   email: ghalichi@shh.mpg.de
-packageVersion: 2.1.0
-lastModified: 2023-05-05
+packageVersion: 2.2.0
+lastModified: 2023-07-04
 genotypeData:
   format: PLINK
   genoFile: Fernandes_westernMediterranean.bed
@@ -17,9 +17,9 @@ genotypeData:
   indFileChkSum: 32fb60eab2583576539d2c3c1ec11926
   snpSet: 1240K
 jannoFile: Fernandes_westernMediterranean.janno
-jannoFileChkSum: a7427ae7f3fcbf5a267b96e9a3c5730c
+jannoFileChkSum: 439b72533341aac412531dbd85aaa5af
 sequencingSourceFile: ENAtable.ssf
 sequencingSourceFileChkSum: 10c8eb92147340952bedbdda1363e6cf
 bibFile: LITERATURE.bib
-bibFileChkSum: fd72e09ba96d8a32ae3a850f32d1f41d
+bibFileChkSum: 1ab8abd4ba13ed497be6ee5812a55d40
 changelogFile: CHANGELOG.md

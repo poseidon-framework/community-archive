@@ -1,11 +1,12 @@
 poseidonVersion: 2.5.0
 title: 2016_Mallick_SGDP1240K_diploid_pulldown
-description: Modern samples from all around the world (Simons Genome Diversity Project - SGDP). Originally AADR v37.2.
+description: Modern samples from all around the world (Simons Genome Diversity Project
+  - SGDP). Originally AADR v37.2.
 contributor:
 - name: Ayshin Ghalichi
   email: ghalichi@shh.mpg.de
-packageVersion: 2.0.1
-lastModified: 2022-02-21
+packageVersion: 2.1.0
+lastModified: 2023-07-04
 genotypeData:
   format: PLINK
   genoFile: SGDP.bed
@@ -16,7 +17,7 @@ genotypeData:
   indFileChkSum: 890f6ce36d14c8053dbc0de45db7905f
   snpSet: 1240K
 jannoFile: SGDP.janno
-jannoFileChkSum: 3634872486fcdc6573701a2ff1056517
+jannoFileChkSum: 2a99364f3d44f08af4e7d1b9eae8c479
 bibFile: LITERATURE.bib
-bibFileChkSum: 1cca8ed8cbf2658df0bffbb3a88c6b68
+bibFileChkSum: 0d09399bc27be2c4924038770c5232a7
 changelogFile: CHANGELOG.md

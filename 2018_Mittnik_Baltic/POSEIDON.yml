@@ -4,8 +4,8 @@ description: Ancient genomes from around the Baltic Sea. Originally AADR v37.2.
 contributor:
 - name: Ayshin Ghalichi
   email: ghalichi@shh.mpg.de
-packageVersion: 2.0.1
-lastModified: 2022-02-25
+packageVersion: 2.1.0
+lastModified: 2023-07-04
 genotypeData:
   format: PLINK
   genoFile: Mittnik_Baltic.bed
@@ -16,7 +16,7 @@ genotypeData:
   indFileChkSum: d9293d7bd7139187a7836bad1f8a2e50
   snpSet: 1240K
 jannoFile: Mittnik_Baltic.janno
-jannoFileChkSum: 85680643aab83bc8a7e9ef04c7180f82
+jannoFileChkSum: 692498417f783f3de6e8e71cc5c12bf8
 bibFile: LITERATURE.bib
-bibFileChkSum: 6950a1aa4a56ef4431c6dc335ef065ed
+bibFileChkSum: 524840dea6cc85a5f10886f096c293e7
 changelogFile: CHANGELOG.md

@@ -6,8 +6,8 @@ contributor:
   email: ghalichi@shh.mpg.de
 - name: Clemens Schmid
   email: schmid@shh.mpg.de
-packageVersion: 2.0.0
-lastModified: 2022-01-28
+packageVersion: 2.1.0
+lastModified: 2023-07-04
 genotypeData:
   format: PLINK
   genoFile: Reference_Genomes.bed
@@ -20,5 +20,5 @@ genotypeData:
 jannoFile: Reference_Genomes.janno
 jannoFileChkSum: 04b8a8a5d0c84ec1e03f35248f5d4c6b
 bibFile: Reference_Genomes.bib
-bibFileChkSum: 0d80ceb444d1d05202c1773119cf1e27
+bibFileChkSum: 22e324991820949f41e5e498e4c9a7a4
 changelogFile: CHANGELOG.md

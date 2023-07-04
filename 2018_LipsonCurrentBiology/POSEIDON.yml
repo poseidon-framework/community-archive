@@ -4,8 +4,8 @@ description: Ancient genomes from Remote Oceania. Originally AADR v37.2.
 contributor:
 - name: Ayshin Ghalichi
   email: ghalichi@shh.mpg.de
-packageVersion: 2.0.1
-lastModified: 2022-02-25
+packageVersion: 2.1.0
+lastModified: 2023-07-04
 genotypeData:
   format: PLINK
   genoFile: 2018_LipsonCurrentBiology.bed
@@ -16,7 +16,7 @@ genotypeData:
   indFileChkSum: 396c8392ed04cbf526adf54b4ad0fc4f
   snpSet: 1240K
 jannoFile: 2018_LipsonCurrentBiology.janno
-jannoFileChkSum: d603cfdc25b25b96dc606788257a28d8
+jannoFileChkSum: ac93357cb35a38ddf841c3ba76ed9422
 bibFile: 2018_LipsonCurrentBiology.bib
-bibFileChkSum: 003bc4fcc0ea296f069087e20bffd579
+bibFileChkSum: 9777e5a47a7b3769a1a4fa5de85713fd
 changelogFile: CHANGELOG.md

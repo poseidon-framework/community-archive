@@ -1,2 +1,3 @@
+- V 0.3.0: Update of references in the .bib file
 - V 0.2.0: added a .ssf file
 - V 0.1.1: not specified

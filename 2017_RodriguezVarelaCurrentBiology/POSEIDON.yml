@@ -1,11 +1,12 @@
 poseidonVersion: 2.5.0
 title: 2017_RodriguezVarelaCurrentBiology
-description: Pre-European conquest samples from the Canary Islands. Originally AADR v37.2.
+description: Pre-European conquest samples from the Canary Islands. Originally AADR
+  v37.2.
 contributor:
 - name: Ayshin Ghalichi
   email: ghalichi@shh.mpg.de
-packageVersion: 2.0.1
-lastModified: 2022-02-25
+packageVersion: 2.1.0
+lastModified: 2023-07-04
 genotypeData:
   format: PLINK
   genoFile: 2017_RodriguezVarelaCurrentBiology.bed
@@ -16,7 +17,7 @@ genotypeData:
   indFileChkSum: c5154bb79de76e48c2f04614c9c4441f
   snpSet: 1240K
 jannoFile: 2017_RodriguezVarelaCurrentBiology.janno
-jannoFileChkSum: 9d8c74c7708f8989eb4590abf431025c
+jannoFileChkSum: f16c139f9342d04af66fe0b050a3dd41
 bibFile: 2017_RodriguezVarelaCurrentBiology.bib
-bibFileChkSum: 64ab328a26c77462159fa14fe1f062a5
+bibFileChkSum: 146b15ec95c51e036b954afc230b56b6
 changelogFile: CHANGELOG.md

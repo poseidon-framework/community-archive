@@ -4,8 +4,8 @@ description: Ancient genomic data from Phoenician human remains. Originally AADR
 contributor:
 - name: Ayshin Ghalichi
   email: ghalichi@shh.mpg.de
-packageVersion: 2.0.1
-lastModified: 2022-02-26
+packageVersion: 2.1.0
+lastModified: 2023-07-04
 genotypeData:
   format: PLINK
   genoFile: Zalloua_Phoenician.bed
@@ -16,7 +16,7 @@ genotypeData:
   indFileChkSum: 3041efcd382bd6d30771725dbc8f39e6
   snpSet: 1240K
 jannoFile: Zalloua_Phoenician.janno
-jannoFileChkSum: 1c332ba7be887d7d5c44b40ad506a576
+jannoFileChkSum: 85f72d30d3599cba5ae5afae6cef5fc9
 bibFile: LITERATURE.bib
-bibFileChkSum: 225a386fb1607ba3340337bd08e3f343
+bibFileChkSum: ff95c6f85d84d59827931bac6523816c
 changelogFile: CHANGELOG.md

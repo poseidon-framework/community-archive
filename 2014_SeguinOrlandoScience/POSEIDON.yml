@@ -5,8 +5,8 @@ description: A Paleolithic modern human sample from European Russia (Kostenki14)
 contributor:
 - name: Ayshin Ghalichi
   email: ghalichi@shh.mpg.de
-packageVersion: 2.0.1
-lastModified: 2022-02-07
+packageVersion: 2.1.0
+lastModified: 2023-07-04
 genotypeData:
   format: PLINK
   genoFile: 2014_SeguinOrlandoScience.bed
@@ -17,7 +17,7 @@ genotypeData:
   indFileChkSum: 8c4bf7c39675e52152606cf8c6583dfc
   snpSet: 1240K
 jannoFile: 2014_SeguinOrlandoScience.janno
-jannoFileChkSum: 85761ef31df163abca53d5025bfe30f0
+jannoFileChkSum: 092fa361dfda74902300a06ac38f5108
 bibFile: 2014_SeguinOrlandoScience.bib
-bibFileChkSum: 116e832fd84c2f65f1da7388fe4dd7e8
+bibFileChkSum: c0e7551ef229999d00c6d7eb19f11131
 changelogFile: CHANGELOG.md

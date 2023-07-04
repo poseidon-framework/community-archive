@@ -1,12 +1,13 @@
 poseidonVersion: 2.7.1
 title: 2021_Zegarac_SoutheasternEurope
 description: This article provides provide insights into family structure and the
-  heredity of social status in the early Bronze Age of southeastern Europe. Originally AADR v50.
+  heredity of social status in the early Bronze Age of southeastern Europe. Originally
+  AADR v50.
 contributor:
 - name: Dhananjaya Aththanayaka
   email: dhananjaya.aththanayaka@eva.mpg.de
-packageVersion: 1.1.0
-lastModified: 2023-05-05
+packageVersion: 1.2.0
+lastModified: 2023-07-04
 genotypeData:
   format: PLINK
   genoFile: 2021_Zegarac_SoutheasternEurope.bed
@@ -17,9 +18,9 @@ genotypeData:
   indFileChkSum: 11ca9cacf580e026a7fcffc8f11c5605
   snpSet: 1240K
 jannoFile: 2021_Zegarac_SoutheasternEurope.janno
-jannoFileChkSum: c5ffcac5c58e1e97ba577b39af82842a
+jannoFileChkSum: f887d111e33b674bf51544f746f59b7c
 sequencingSourceFile: ENAtable.ssf
 sequencingSourceFileChkSum: 99c5ad8160a48d0deeb0c2454e1204b3
 bibFile: 2021_Zegarac_SoutheasternEurope.bib
-bibFileChkSum: 04c000d063df7624c3eac0ec52c01b5d
+bibFileChkSum: cbe92b85bc854fff1f468aef8d5ad145
 changelogFile: CHANGELOG.md

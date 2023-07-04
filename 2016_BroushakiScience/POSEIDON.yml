@@ -4,8 +4,8 @@ description: Early Neolithic samples from Iran. Originally AADR v37.2.
 contributor:
 - name: Ayshin Ghalichi
   email: ghalichi@shh.mpg.de
-packageVersion: 2.0.1
-lastModified: 2022-02-21
+packageVersion: 2.1.0
+lastModified: 2023-07-04
 genotypeData:
   format: PLINK
   genoFile: 2016_BroushakiScience.bed
@@ -16,7 +16,7 @@ genotypeData:
   indFileChkSum: 856e7fbd4e0e4b52f52c14853870d4c1
   snpSet: 1240K
 jannoFile: 2016_BroushakiScience.janno
-jannoFileChkSum: c02753e7f3547eb0d681d350df8a1b00
+jannoFileChkSum: 64502f335a29cf6a60838edf84aaaee3
 bibFile: 2016_BroushakiScience.bib
-bibFileChkSum: b1acb1bd292016bc2e7edbae96341e90
+bibFileChkSum: 17b4a16b396f9811ad74085905f4d90e
 changelogFile: CHANGELOG.md

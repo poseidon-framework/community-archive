@@ -5,8 +5,8 @@ description: Early Alpine occupation backdates westward human migration in Late 
 contributor:
 - name: Dhananjaya Aththanayaka
   email: dhananjaya_aththanayaka@mpg.eva.de
-packageVersion: 0.1.2
-lastModified: 2022-08-12
+packageVersion: 0.2.0
+lastModified: 2023-07-04
 genotypeData:
   format: PLINK
   genoFile: 2021_Bortolini_Glacial.bed
@@ -17,7 +17,7 @@ genotypeData:
   indFileChkSum: ed357a795f7acd72f445ab5376d93edc
   snpSet: 1240K
 jannoFile: 2021_Bortolini_Glacial.janno
-jannoFileChkSum: 742bbdeb6383bb0a7fe6e23aca837984
+jannoFileChkSum: 482a833c917beb6a677b1ace75983584
 bibFile: 2021_Bortolini_Glacial.bib
-bibFileChkSum: 44eb10d1dfe94ae1c091a422eabb83a2
+bibFileChkSum: 385d4289820c366d3576a99ef6a4fdd8
 changelogFile: CHANGELOG.md
