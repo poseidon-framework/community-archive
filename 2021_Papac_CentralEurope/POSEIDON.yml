@@ -1,7 +1,7 @@
 poseidonVersion: 2.7.1
 title: 2021_Papac_CentralEurope
 description: Dynamic changes in genomic and social structures in third millennium
-  BCE central Europe
+  BCE central Europe. Originally AADR v50.
 contributor:
 - name: Dhananjaya Aththanayaka
   email: dhananjaya_aththanayaka@eva.mpg.de
@@ -24,5 +24,4 @@ sequencingSourceFile: ENAtable.ssf
 sequencingSourceFileChkSum: 678d5cc9797ae24361ff8c5cbd13467c
 bibFile: 2021_Papac_CentralEurope.bib
 bibFileChkSum: 6a55b62210c8db442d04674c4b9df02f
-readmeFile: README.txt
 changelogFile: CHANGELOG.md
