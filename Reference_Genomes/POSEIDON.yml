@@ -1,13 +1,13 @@
 poseidonVersion: 2.5.0
 title: Reference_Genomes
-description: Genetic data for Reference Genomes
+description: Modern human and non-human reference genomes. Originally AADR v42.4.
 contributor:
 - name: Ayshin Ghalichi
   email: ghalichi@shh.mpg.de
 - name: Clemens Schmid
   email: schmid@shh.mpg.de
-packageVersion: 2.1.0
-lastModified: 2023-07-04
+packageVersion: 2.2.0
+lastModified: 2023-07-11
 genotypeData:
   format: PLINK
   genoFile: Reference_Genomes.bed
@@ -18,7 +18,7 @@ genotypeData:
   indFileChkSum: 9b370b2061682fa168095db174f6073e
   snpSet: 1240K
 jannoFile: Reference_Genomes.janno
-jannoFileChkSum: 04b8a8a5d0c84ec1e03f35248f5d4c6b
+jannoFileChkSum: f1bf164f0998d2a8cde2c13a320d930b
 bibFile: Reference_Genomes.bib
-bibFileChkSum: 22e324991820949f41e5e498e4c9a7a4
+bibFileChkSum: c18de30880fa92db7f7d9fc4d5ca6641
 changelogFile: CHANGELOG.md
