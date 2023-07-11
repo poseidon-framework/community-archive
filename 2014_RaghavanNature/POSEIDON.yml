@@ -1,14 +1,14 @@
 poseidonVersion: 2.5.0
 title: 2014_RaghavanNature
 description: Two Paleolithic individuals from Mal’ta and Afontova Gora in Siberia
-  with multiple modern Eurasian reference samples. Originally AADR v37.2.
+  with multiple modern Eurasian reference samples. Originally AADR v42.4.
 contributor:
 - name: Ayshin Ghalichi
   email: ghalichi@shh.mpg.de
 - name: Clemens Schmid
   email: schmid@shh.mpg.de
-packageVersion: 2.1.0
-lastModified: 2023-07-04
+packageVersion: 2.1.1
+lastModified: 2023-07-11
 genotypeData:
   format: PLINK
   genoFile: 2014_RaghavanNature.bed
@@ -19,7 +19,7 @@ genotypeData:
   indFileChkSum: 2785e7fbdab8e33502f3b84afa177a82
   snpSet: 1240K
 jannoFile: 2014_RaghavanNature.janno
-jannoFileChkSum: 01adce0fcc49e6adcf52a3b12631a7d1
+jannoFileChkSum: 1af1e5f68af28f5ab6e3dd7d8ca74d20
 bibFile: 2014_RaghavanNature.bib
-bibFileChkSum: afb8c41496aea03dd71aaeb46e5ecf28
+bibFileChkSum: e7d50ea17a609fc526c4ece19679d682
 changelogFile: CHANGELOG.txt

@@ -1,11 +1,11 @@
 poseidonVersion: 2.5.0
 title: 2015_OlaldeMBE
-description: An Early Neolithic sample from Iberia. Originally AADR v37.2.
+description: An Early Neolithic sample from Iberia. Originally AADR v42.4.
 contributor:
 - name: Ayshin Ghalichi
   email: ghalichi@shh.mpg.de
-packageVersion: 2.1.0
-lastModified: 2023-07-04
+packageVersion: 2.1.1
+lastModified: 2023-07-11
 genotypeData:
   format: PLINK
   genoFile: 2015_OlaldeMBE.bed
@@ -16,7 +16,7 @@ genotypeData:
   indFileChkSum: fae8f1eb16048ceeea1316645bbfb60c
   snpSet: 1240K
 jannoFile: 2015_OlaldeMBE.janno
-jannoFileChkSum: 4f363964dc64a558999c47e9dac525af
+jannoFileChkSum: c85a80438459841df9f434b5d816488a
 bibFile: 2015_OlaldeMBE.bib
-bibFileChkSum: 75af7bb7a6207ee2f4fd5128ac976f7a
+bibFileChkSum: 35ad0caaf9fbd6f5b2a2a83dceddb961
 changelogFile: CHANGELOG.md

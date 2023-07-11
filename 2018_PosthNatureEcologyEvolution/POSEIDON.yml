@@ -1,11 +1,11 @@
 poseidonVersion: 2.5.0
 title: 2018_PosthNatureEcologyEvolution
-description: Ancient genomes from Remote Oceania. Originally AADR v37.2.
+description: Ancient genomes from Remote Oceania. Originally AADR v42.4.
 contributor:
 - name: Ayshin Ghalichi
   email: ghalichi@shh.mpg.de
-packageVersion: 2.1.0
-lastModified: 2023-07-04
+packageVersion: 2.1.1
+lastModified: 2023-07-11
 genotypeData:
   format: PLINK
   genoFile: 2018_PosthNatureEcologyEvolution.bed
@@ -16,7 +16,7 @@ genotypeData:
   indFileChkSum: 82994c5d2d7c5e31a5578ec7aa9b6ada
   snpSet: 1240K
 jannoFile: 2018_PosthNatureEcologyEvolution.janno
-jannoFileChkSum: 4dfe81fc9aff134176be893a40d22fa5
+jannoFileChkSum: 52c2f7e6c65f3ee35c5d5bc01a06071a
 bibFile: 2018_PosthNatureEcologyEvolution.bib
-bibFileChkSum: 196402bc78ed326e110de2734cf2ca11
+bibFileChkSum: fad5b37fd63e13accdbf41a0b9f1fbd0
 changelogFile: CHANGELOG.md

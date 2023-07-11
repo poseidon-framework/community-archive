@@ -1,11 +1,11 @@
 poseidonVersion: 2.5.0
 title: 2018_MorenoMayarNature
-description: An Upper Pleistocene genome from Alaska. Originally AADR v37.2.
+description: An Upper Pleistocene genome from Alaska. Originally AADR v42.4.
 contributor:
 - name: Ayshin Ghalichi
   email: ghalichi@shh.mpg.de
-packageVersion: 2.1.0
-lastModified: 2023-07-04
+packageVersion: 2.1.1
+lastModified: 2023-07-11
 genotypeData:
   format: PLINK
   genoFile: 2018_MorenoMayarNature.bed
@@ -16,7 +16,7 @@ genotypeData:
   indFileChkSum: b4b9047531f9a50c5cd00812d2eefc60
   snpSet: 1240K
 jannoFile: 2018_MorenoMayarNature.janno
-jannoFileChkSum: 1e92619762b0c237d7d14f7d9b1906e0
+jannoFileChkSum: f7b7ccf85f17f411fe6fb208b2875da8
 bibFile: 2018_MorenoMayarNature.bib
-bibFileChkSum: fc72f2441cd5cdabe20cbeec2effd21c
+bibFileChkSum: d85ecba2a4b7b6dcc3f3e207b01a0aa6
 changelogFile: CHANGELOG.md

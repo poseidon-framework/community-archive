@@ -1,11 +1,11 @@
 poseidonVersion: 2.5.0
 title: 2016_HofmanovaPNAS
-description: Neolithic samples from Turkey and Greece. Originally AADR v37.2.
+description: Neolithic samples from Turkey and Greece. Originally AADR v42.4.
 contributor:
 - name: Ayshin Ghalichi
   email: ghalichi@shh.mpg.de
-packageVersion: 2.1.0
-lastModified: 2023-07-04
+packageVersion: 2.1.1
+lastModified: 2023-07-11
 genotypeData:
   format: PLINK
   genoFile: 2016_HofmanovaPNAS.bed
@@ -16,7 +16,7 @@ genotypeData:
   indFileChkSum: a2ae4be9d6476f6a91a23a36f08bf5d2
   snpSet: 1240K
 jannoFile: 2016_HofmanovaPNAS.janno
-jannoFileChkSum: 8cac99e0f4601cbcfaab0a4a2a32c33f
+jannoFileChkSum: 7e5c29c56caa01f16d3bde144a051d11
 bibFile: 2016_HofmanovaPNAS.bib
-bibFileChkSum: 9a2fab6c6ed08a1d84caf89a32485f8e
+bibFileChkSum: 12f1476fba38d94a8b50a2b19942f231
 changelogFile: CHANGELOG.md

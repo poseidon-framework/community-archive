@@ -1,11 +1,11 @@
 poseidonVersion: 2.5.0
 title: 2016_OmrakCurrentBiology
-description: Neolithic samples from Turkey. Originally AADR v37.2.
+description: Neolithic samples from Turkey. Originally AADR v42.4.
 contributor:
 - name: Ayshin Ghalichi
   email: ghalichi@shh.mpg.de
-packageVersion: 2.1.0
-lastModified: 2023-07-04
+packageVersion: 2.1.1
+lastModified: 2023-07-11
 genotypeData:
   format: PLINK
   genoFile: 2016_OmrakCurrentBiology.bed
@@ -16,7 +16,7 @@ genotypeData:
   indFileChkSum: 8f59ba14704991079fd88717b31c4154
   snpSet: 1240K
 jannoFile: 2016_OmrakCurrentBiology.janno
-jannoFileChkSum: d7052941feb1303d20459d1e5443f1f4
+jannoFileChkSum: eccc17e9451acb881b31193bc6afe174
 bibFile: 2016_OmrakCurrentBiology.bib
-bibFileChkSum: 3f109ae2ba9da8495be7669e7db3891f
+bibFileChkSum: 1dbc51f7399cda115798347385a862d5
 changelogFile: CHANGELOG.md

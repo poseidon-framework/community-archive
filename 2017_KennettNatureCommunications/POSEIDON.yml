@@ -1,12 +1,12 @@
 poseidonVersion: 2.5.0
 title: 2017_KennettNatureCommunications
 description: Samples from Chaco Canyon in the Southwestern United States. Originally
-  AADR v37.2.
+  AADR v42.4.
 contributor:
 - name: Ayshin Ghalichi
   email: ghalichi@shh.mpg.de
-packageVersion: 2.1.0
-lastModified: 2023-07-04
+packageVersion: 2.1.1
+lastModified: 2023-07-11
 genotypeData:
   format: PLINK
   genoFile: 2017_KennettNatureCommunications.bed
@@ -17,7 +17,7 @@ genotypeData:
   indFileChkSum: a7baf7b67603cafc7b4f0e4b5e064cf7
   snpSet: 1240K
 jannoFile: 2017_KennettNatureCommunications.janno
-jannoFileChkSum: d191b7cbc2ce8ce5370c73c8eaf58169
+jannoFileChkSum: 23de483c3b1f8692e66ba25d7b3ca58b
 bibFile: 2017_KennettNatureCommunications.bib
-bibFileChkSum: 089aca0fdf483c8eab9a42044fe5dd10
+bibFileChkSum: d30ed46a0e276b5416b6f1ad181e2789
 changelogFile: CHANGELOG.md

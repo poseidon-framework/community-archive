@@ -1,11 +1,11 @@
 poseidonVersion: 2.5.0
 title: 2018_FernandesScientificReports
-description: Neolithic and Bronze Age samples from Poland. Originally AADR v37.2.
+description: Neolithic and Bronze Age samples from Poland. Originally AADR v42.4.
 contributor:
 - name: Ayshin Ghalichi
   email: ghalichi@shh.mpg.de
-packageVersion: 2.1.0
-lastModified: 2023-07-04
+packageVersion: 2.1.1
+lastModified: 2023-07-11
 genotypeData:
   format: PLINK
   genoFile: 2018_FernandesScientificReports.bed
@@ -16,7 +16,7 @@ genotypeData:
   indFileChkSum: 619563b41686b81029486693e4e899cb
   snpSet: 1240K
 jannoFile: 2018_FernandesScientificReports.janno
-jannoFileChkSum: ef3f6225a854083d953797bc2a4c1be4
+jannoFileChkSum: 34f3003bc2cde3a946771c22b4a0b002
 bibFile: 2018_FernandesScientificReports.bib
-bibFileChkSum: 973e9339cc25566427e3c1e8c272dab8
+bibFileChkSum: 55ba8f802084fffb74f7398c312082b5
 changelogFile: CHANGELOG.md

@@ -1,11 +1,11 @@
 poseidonVersion: 2.5.0
 title: 2017_SchlebuschScience
-description: Ancient samples from South Africa. Originally AADR v37.2.
+description: Ancient samples from South Africa. Originally AADR v42.4.
 contributor:
 - name: Ayshin Ghalichi
   email: ghalichi@shh.mpg.de
-packageVersion: 2.1.0
-lastModified: 2023-07-04
+packageVersion: 2.1.1
+lastModified: 2023-07-11
 genotypeData:
   format: PLINK
   genoFile: 2017_SchlebuschScience.bed
@@ -16,7 +16,7 @@ genotypeData:
   indFileChkSum: 258b56c21bbbb377de098de2b2722e63
   snpSet: 1240K
 jannoFile: 2017_SchlebuschScience.janno
-jannoFileChkSum: d63ad598251081ce2c3c4985897598cc
+jannoFileChkSum: 555792d1ad03d5847be0fa721be84d13
 bibFile: 2017_SchlebuschScience.bib
-bibFileChkSum: e2eeb34315c1380870c03e18b51eb9f5
+bibFileChkSum: ee0904acd7bc78c3ef97b7b154fbe742
 changelogFile: CHANGELOG.md

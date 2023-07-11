@@ -1,11 +1,11 @@
 poseidonVersion: 2.5.0
 title: 2017_SikoraScience
-description: Upper Palaeolithic samples from Russia. Originally AADR v37.2.
+description: Upper Palaeolithic samples from Russia. Originally AADR v42.4.
 contributor:
 - name: Ayshin Ghalichi
   email: ghalichi@shh.mpg.de
-packageVersion: 2.1.0
-lastModified: 2023-07-04
+packageVersion: 2.1.1
+lastModified: 2023-07-11
 genotypeData:
   format: PLINK
   genoFile: 2017_SikoraScience.bed
@@ -16,7 +16,7 @@ genotypeData:
   indFileChkSum: 4bdf3f3ff2ad27c0a916309083ed8d58
   snpSet: 1240K
 jannoFile: 2017_SikoraScience.janno
-jannoFileChkSum: b134d15608df6cab912a18df4cbb7a00
+jannoFileChkSum: 9fb407f26816abb88294bf8c2c59cc0a
 bibFile: 2017_SikoraScience.bib
-bibFileChkSum: dc2c3f1b35bcf6b78dba064abf30eddd
+bibFileChkSum: dd2d22fdd5d82b75e373764f3f825e83
 changelogFile: CHANGELOG.md

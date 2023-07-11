@@ -1,11 +1,11 @@
 poseidonVersion: 2.5.0
 title: 2017_UnterlanderNatureCommunications
-description: Iron Age samples from the Eurasian steppe. Originally AADR v37.2.
+description: Iron Age samples from the Eurasian steppe. Originally AADR v42.4.
 contributor:
 - name: Ayshin Ghalichi
   email: ghalichi@shh.mpg.de
-packageVersion: 2.1.0
-lastModified: 2023-07-04
+packageVersion: 2.1.1
+lastModified: 2023-07-11
 genotypeData:
   format: PLINK
   genoFile: 2017_UnterlanderNatureCommunications.bed
@@ -16,7 +16,7 @@ genotypeData:
   indFileChkSum: c384b1aeed0228b27826b91d2ac6478b
   snpSet: 1240K
 jannoFile: 2017_UnterlanderNatureCommunications.janno
-jannoFileChkSum: 2347ba4b0e0b9cdfc5bb243fcaee62f8
+jannoFileChkSum: 2a0fcfa89f2bd2f47e2b6aa75b3f4883
 bibFile: 2017_UnterlanderNatureCommunications.bib
-bibFileChkSum: 60a8246a570ab7cc6665f50070eab92c
+bibFileChkSum: feb0fa57221a1f3ec820203d43450c5f
 changelogFile: CHANGELOG.md

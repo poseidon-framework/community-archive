@@ -1,11 +1,11 @@
 poseidonVersion: 2.5.0
 title: 2018_ScheibScience
-description: Ancient genomes from North America. Originally AADR v37.2.
+description: Ancient genomes from North America. Originally AADR v42.4.
 contributor:
 - name: Ayshin Ghalichi
   email: ghalichi@shh.mpg.de
-packageVersion: 2.1.0
-lastModified: 2023-07-04
+packageVersion: 2.1.1
+lastModified: 2023-07-11
 genotypeData:
   format: PLINK
   genoFile: 2018_ScheibScience.bed
@@ -16,7 +16,7 @@ genotypeData:
   indFileChkSum: 8bc155c0772cc65c807de686b9960a2c
   snpSet: 1240K
 jannoFile: 2018_ScheibScience.janno
-jannoFileChkSum: 5b6027fa22b9caa5a0d962b5271afad2
+jannoFileChkSum: cc4c28aefb0259a1534c1ba82a7635b1
 bibFile: 2018_ScheibScience.bib
-bibFileChkSum: 5b42528a90bafe08e8d5ac79d2a28a72
+bibFileChkSum: 98a391b3af7a1846a5b2f5558c92d15c
 changelogFile: CHANGELOG.md

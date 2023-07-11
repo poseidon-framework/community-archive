@@ -1,11 +1,11 @@
 poseidonVersion: 2.5.0
 title: 2016_JeongPNAS
-description: Diachronic samples from the Himalayan arc. Originally AADR v37.2.
+description: Diachronic samples from the Himalayan arc. Originally AADR v42.4.
 contributor:
 - name: Ayshin Ghalichi
   email: ghalichi@shh.mpg.de
-packageVersion: 2.1.0
-lastModified: 2023-07-04
+packageVersion: 2.1.1
+lastModified: 2023-07-11
 genotypeData:
   format: PLINK
   genoFile: 2016_JeongPNAS.bed
@@ -16,7 +16,7 @@ genotypeData:
   indFileChkSum: 79629543b604878b574cd00e183b7499
   snpSet: 1240K
 jannoFile: 2016_JeongPNAS.janno
-jannoFileChkSum: ea59fd99e798f67990a5166b0c6cde2d
+jannoFileChkSum: 9b8492aee30a49c756b503012351fa30
 bibFile: 2016_JeongPNAS.bib
-bibFileChkSum: bff6c489452d1ae8f8ba9789bd321ea3
+bibFileChkSum: b925a9e869548788d826a860ecf6187d
 changelogFile: CHANGELOG.txt

@@ -1,11 +1,11 @@
 poseidonVersion: 2.5.0
 title: 2018_FregelPNAS
-description: Ancient genomes from North Africa and the Levant. Originally AADR v37.2.
+description: Ancient genomes from North Africa and the Levant. Originally AADR v42.4.
 contributor:
 - name: Ayshin Ghalichi
   email: ghalichi@shh.mpg.de
-packageVersion: 2.1.0
-lastModified: 2023-07-04
+packageVersion: 2.1.1
+lastModified: 2023-07-11
 genotypeData:
   format: PLINK
   genoFile: 2018_FregelPNAS.bed
@@ -16,7 +16,7 @@ genotypeData:
   indFileChkSum: ee429dbce12c3c86951890da0ac0c817
   snpSet: 1240K
 jannoFile: 2018_FregelPNAS.janno
-jannoFileChkSum: 5deda7ca3994c1825140031580c74e63
+jannoFileChkSum: ef3bb5318d3a8e179a3ce78a8a1f9a94
 bibFile: 2018_FregelPNAS.bib
-bibFileChkSum: c571f8b1f6d5c9fcb1dca0ffedf6dbd9
+bibFileChkSum: 22d526e2b90213f5830710f30259fb88
 changelogFile: CHANGELOG.md

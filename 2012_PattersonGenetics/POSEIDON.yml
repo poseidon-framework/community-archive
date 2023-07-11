@@ -1,14 +1,14 @@
 poseidonVersion: 2.5.0
 title: 2012_PattersonGenetics
 description: A large collection of modern samples from all around the world. Originally
-  AADR v37.2.
+  AADR v42.4.
 contributor:
 - name: Ayshin Ghalichi
   email: ghalichi@shh.mpg.de
 - name: Clemens Schmid
   email: schmid@shh.mpg.de
-packageVersion: 2.1.0
-lastModified: 2023-07-04
+packageVersion: 2.1.1
+lastModified: 2023-07-11
 genotypeData:
   format: PLINK
   genoFile: 2012_PattersonGenetics.bed
@@ -19,7 +19,7 @@ genotypeData:
   indFileChkSum: 224fd9ab583dc6ca3ee805e3c818e4ad
   snpSet: HumanOrigins
 jannoFile: 2012_PattersonGenetics.janno
-jannoFileChkSum: 9c7ecc3cd285e27ab18126947fbae10d
+jannoFileChkSum: b43ca66ea2859cc0abdec243555424f7
 bibFile: 2012_PattersonGenetics.bib
-bibFileChkSum: 219d49392da13fcedf90f58dc94c5a63
+bibFileChkSum: d2cb9f520044ec20ab69e71791f578a2
 changelogFile: CHANGELOG.md

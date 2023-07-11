@@ -1,11 +1,11 @@
 poseidonVersion: 2.5.0
 title: 2017_MartinianoPLoSGenetics
-description: Neolithic and Bronze Age samples from Iberia. Originally AADR v37.2.
+description: Neolithic and Bronze Age samples from Iberia. Originally AADR v42.4.
 contributor:
 - name: Ayshin Ghalichi
   email: ghalichi@shh.mpg.de
-packageVersion: 2.1.0
-lastModified: 2023-07-04
+packageVersion: 2.1.1
+lastModified: 2023-07-11
 genotypeData:
   format: PLINK
   genoFile: 2017_MartinianoPLoSGenetics.bed
@@ -16,7 +16,7 @@ genotypeData:
   indFileChkSum: 28b3fce62d949d71f7728fe9b83b31fd
   snpSet: 1240K
 jannoFile: 2017_MartinianoPLoSGenetics.janno
-jannoFileChkSum: 227daa30c7f38ab7b2abc348d3666ce4
+jannoFileChkSum: 610f79f11a6c67ba193dd08cd5ad241b
 bibFile: 2017_MartinianoPLoSGenetics.bib
-bibFileChkSum: 1d1f8687a1ef966c00db23e8ab5a905e
+bibFileChkSum: 8eb91f92e4e000dc69e710c3cc715f71
 changelogFile: CHANGELOG.md

@@ -1,11 +1,11 @@
 poseidonVersion: 2.5.0
 title: 2017_YangCurrentBiology
-description: A Palaeolithic sample from China. Originally AADR v37.2.
+description: A Palaeolithic sample from China. Originally AADR v42.4.
 contributor:
 - name: Ayshin Ghalichi
   email: ghalichi@shh.mpg.de
-packageVersion: 2.1.0
-lastModified: 2023-07-04
+packageVersion: 2.1.1
+lastModified: 2023-07-11
 genotypeData:
   format: PLINK
   genoFile: 2017_YangCurrentBiology.bed
@@ -16,7 +16,7 @@ genotypeData:
   indFileChkSum: 35346d385ab3dc1698d4d11feff2b9ee
   snpSet: 1240K
 jannoFile: 2017_YangCurrentBiology.janno
-jannoFileChkSum: f14b36dcfe5443f3f59408cec95eddcf
+jannoFileChkSum: 048099e7916967a44d6e11c27fbf6c4d
 bibFile: 2017_YangCurrentBiology.bib
-bibFileChkSum: 332c18c0f4febf0fa1e8d765321342e0
+bibFileChkSum: 64f0292b5f14f299c799a614e085f6d6
 changelogFile: CHANGELOG.md

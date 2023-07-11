@@ -1,12 +1,12 @@
 poseidonVersion: 2.5.0
 title: 2014_RaghavanScience
 description: Ancient individuals from Arctic Siberia, Alaska, Canada, and Greenland.
-  Originally AADR v37.2.
+  Originally AADR v42.4.
 contributor:
 - name: Ayshin Ghalichi
   email: ghalichi@shh.mpg.de
-packageVersion: 2.1.0
-lastModified: 2023-07-04
+packageVersion: 2.1.1
+lastModified: 2023-07-11
 genotypeData:
   format: PLINK
   genoFile: 2014_RaghavanScience.bed
@@ -17,7 +17,7 @@ genotypeData:
   indFileChkSum: d05aab20397bbbdc994bd6adc96bf222
   snpSet: 1240K
 jannoFile: 2014_RaghavanScience.janno
-jannoFileChkSum: ce9bd38f4845b0be7c5202b34e50b9bd
+jannoFileChkSum: 980ee76359088dc0c0be265986957ee9
 bibFile: 2014_RaghavanScience.bib
-bibFileChkSum: 5939cf542c02446dfbe7ae5b115d6e79
+bibFileChkSum: 9d8add9fb3c72a46aab1e39888fba9f4
 changelogFile: CHANGELOG.md

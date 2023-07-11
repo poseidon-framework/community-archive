@@ -1,11 +1,11 @@
 poseidonVersion: 2.5.0
 title: 2012_KellerNatureCommunications
-description: Copper age Tyrolean Iceman (Oetzi). Originally AADR v37.2.
+description: Copper age Tyrolean Iceman (Oetzi). Originally AADR v42.4.
 contributor:
 - name: Ayshin Ghalichi
   email: ghalichi@shh.mpg.de
-packageVersion: 2.1.0
-lastModified: 2023-07-04
+packageVersion: 2.1.1
+lastModified: 2023-07-11
 genotypeData:
   format: PLINK
   genoFile: 2012_KellerNatureCommunications.bed
@@ -16,7 +16,7 @@ genotypeData:
   indFileChkSum: a920cbe46c1f180b181c237793ec4d6e
   snpSet: 1240K
 jannoFile: 2012_KellerNatureCommunications.janno
-jannoFileChkSum: d00571d7b0cc60427fcaa80cd172023c
+jannoFileChkSum: 91411cf37fe77ae591c6c5b42cf14e96
 bibFile: 2012_KellerNatureCommunications.bib
-bibFileChkSum: e3179aa3f1650f1f3f75303f324a30a4
+bibFileChkSum: c54addca2335df3ffb97e9c32d4c5986
 changelogFile: CHANGELOG.md

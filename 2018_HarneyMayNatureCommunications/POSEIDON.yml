@@ -1,11 +1,11 @@
 poseidonVersion: 2.5.0
 title: 2018_HarneyMayNatureCommunications
-description: Individuals from Chalcolithic Israel. Originally AADR v37.2.
+description: Individuals from Chalcolithic Israel. Originally AADR v42.4.
 contributor:
 - name: Ayshin Ghalichi
   email: ghalichi@shh.mpg.de
-packageVersion: 2.1.0
-lastModified: 2023-07-04
+packageVersion: 2.1.1
+lastModified: 2023-07-11
 genotypeData:
   format: PLINK
   genoFile: 2018_HarneyMayNatureCommunications.bed
@@ -16,7 +16,7 @@ genotypeData:
   indFileChkSum: 9bcd911853839ca5a4127796ec6c3adb
   snpSet: 1240K
 jannoFile: 2018_HarneyMayNatureCommunications.janno
-jannoFileChkSum: 4c0ec48dd3e0aed76c4b4a0d3d7461b2
+jannoFileChkSum: 40177def73c6c2e216ac315df4a86ff0
 bibFile: 2018_HarneyMayNatureCommunications.bib
-bibFileChkSum: bd395a533021de459bfb3ee8684116a8
+bibFileChkSum: 97f21f033d43ede9b4a207d666f67533
 changelogFile: CHANGELOG.md

@@ -1,11 +1,11 @@
 poseidonVersion: 2.5.0
 title: 2015_GuntherPNAS
-description: Neolithic and Bronze Age samples from Spain. Originally AADR v37.2.
+description: Neolithic and Bronze Age samples from Spain. Originally AADR v42.4.
 contributor:
 - name: Ayshin Ghalichi
   email: ghalichi@shh.mpg.de
-packageVersion: 2.1.0
-lastModified: 2023-07-04
+packageVersion: 2.1.1
+lastModified: 2023-07-11
 genotypeData:
   format: PLINK
   genoFile: 2015_GuntherPNAS.bed
@@ -16,7 +16,7 @@ genotypeData:
   indFileChkSum: 7c157f8d93c32c3b699ae8f394e89db6
   snpSet: 1240K
 jannoFile: 2015_GuntherPNAS.janno
-jannoFileChkSum: c9ff0a7878f846cfea0a21fb5f8b674a
+jannoFileChkSum: fa8c7075fc3aaf61d42033a67b3f8118
 bibFile: 2015_GuntherPNAS.bib
-bibFileChkSum: c242c99c059ea3a6a58274e609637bef
+bibFileChkSum: eae7e8b1361558cfd8586be934193195
 changelogFile: CHANGELOG.md

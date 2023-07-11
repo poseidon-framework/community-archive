@@ -1,11 +1,11 @@
 poseidonVersion: 2.5.0
 title: 2015_LlorenteScience
-description: An ancient Ethiopian individual (Mota). Originally AADR v37.2.
+description: An ancient Ethiopian individual (Mota). Originally AADR v42.4.
 contributor:
 - name: Ayshin Ghalichi
   email: ghalichi@shh.mpg.de
-packageVersion: 2.1.0
-lastModified: 2023-07-04
+packageVersion: 2.1.1
+lastModified: 2023-07-11
 genotypeData:
   format: PLINK
   genoFile: 2015_LlorenteScience.bed
@@ -16,7 +16,7 @@ genotypeData:
   indFileChkSum: 688dd4800f7bf6ea8d83a56718c79a50
   snpSet: 1240K
 jannoFile: 2015_LlorenteScience.janno
-jannoFileChkSum: c1b08027fc6b9e5e7b49a8a8746aefec
+jannoFileChkSum: 0fe37ec340aa00868b132f9452ffabbe
 bibFile: 2015_LlorenteScience.bib
-bibFileChkSum: 5a18d15dfa603603777f83f2e329ef74
+bibFileChkSum: 2be7164300850a479b2e5b4e2edac7b1
 changelogFile: CHANGELOG.md

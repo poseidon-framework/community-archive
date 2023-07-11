@@ -1,11 +1,11 @@
 poseidonVersion: 2.5.0
 title: 2014_FuNature
-description: A 45000-year-old modern human from Siberia. Originally AADR v37.2.
+description: A 45000-year-old modern human from Siberia. Originally AADR v42.4.
 contributor:
 - name: Ayshin Ghalichi
   email: ghalichi@shh.mpg.de
-packageVersion: 2.1.0
-lastModified: 2023-07-04
+packageVersion: 2.1.1
+lastModified: 2023-07-11
 genotypeData:
   format: PLINK
   genoFile: 2014_FuNature.bed
@@ -16,7 +16,7 @@ genotypeData:
   indFileChkSum: a37a0443575618e933a7d3c4d35ffb71
   snpSet: 1240K
 jannoFile: 2014_FuNature.janno
-jannoFileChkSum: 617adf5623f0bd5f93148552980c3419
+jannoFileChkSum: b1957ec274dbb3ecdbc97725b9b88e58
 bibFile: 2014_FuNature.bib
-bibFileChkSum: a1ced373f7d022cd76f8dcda892fd89b
+bibFileChkSum: ce62a74312933ed1835d9028a848907f
 changelogFile: CHANGELOG.md

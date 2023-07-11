@@ -1,7 +1,7 @@
 Poseidon_ID	Genetic_Sex	Group_Name	Collection_ID	Country	Location	Latitude	Longitude	Date_Type	Capture_Type	Library_Built	Genotype_Ploidy	Nr_SNPs	Coverage_on_Target_SNPs	Publication	Note
-A_Mbuti-5.DG	M	Ignore_Mbuti(discovery).DG	HGDP00456	Congo	n/a	1.0	29.0	modern	Shotgun	ds	diploid	593057	24.34	MeyerScience2012;AADR;AADRv372	PASS
-A_Yoruba-4.DG	M	Ignore_Yoruba(discovery).DG	HGDP00927	Nigeria	n/a	n/a	n/a	modern	Shotgun	ds	diploid	593097	32.12	MeyerScience2012;AADR;AADRv372	PASS
-A_Sardinian-4.DG	M	Ignore_Sardinian(discovery).DG	HGDP00665	Italy	n/a	n/a	n/a	modern	Shotgun	ds	diploid	593109	24.68	MeyerScience2012;AADR;AADRv372	PASS
-A_French-4.DG	M	Ignore_French(discovery).DG	HGDP00521	France	n/a	46.0	2.0	modern	Shotgun	ds	diploid	592535	26.73	MeyerScience2012;AADR;AADRv372	PASS
-A_Dinka-4.DG	M	Dinka.DG	A_Dinka-4	Sudan	Aweil	8.78333	27.4	modern	Shotgun	ds	diploid	593076	27.98	MeyerScience2012;AADR;AADRv372	PASS
-A_Ju_hoan_North-5.DG	M	Ignore_Ju_hoan_North(discovery).DG	HGDP01029	Namibia	n/a	-18.93726	21.45245	modern	Shotgun	ds	diploid	593045	32.74	MeyerScience2012;AADR;AADRv372	PASS
+A_Mbuti-5.DG	M	Ignore_Mbuti(discovery).DG	HGDP00456	Congo	n/a	1.0	29.0	modern	Shotgun	ds	diploid	593057	24.34	MeyerScience2012;AADR;AADRv424	PASS
+A_Yoruba-4.DG	M	Ignore_Yoruba(discovery).DG	HGDP00927	Nigeria	n/a	n/a	n/a	modern	Shotgun	ds	diploid	593097	32.12	MeyerScience2012;AADR;AADRv424	PASS
+A_Sardinian-4.DG	M	Ignore_Sardinian(discovery).DG	HGDP00665	Italy	n/a	n/a	n/a	modern	Shotgun	ds	diploid	593109	24.68	MeyerScience2012;AADR;AADRv424	PASS
+A_French-4.DG	M	Ignore_French(discovery).DG	HGDP00521	France	n/a	46.0	2.0	modern	Shotgun	ds	diploid	592535	26.73	MeyerScience2012;AADR;AADRv424	PASS
+A_Dinka-4.DG	M	Dinka.DG	A_Dinka-4	Sudan	Aweil	8.78333	27.4	modern	Shotgun	ds	diploid	593076	27.98	MeyerScience2012;AADR;AADRv424	PASS
+A_Ju_hoan_North-5.DG	M	Ignore_Ju_hoan_North(discovery).DG	HGDP01029	Namibia	n/a	-18.93726	21.45245	modern	Shotgun	ds	diploid	593045	32.74	MeyerScience2012;AADR;AADRv424	PASS

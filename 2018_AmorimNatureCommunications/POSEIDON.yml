@@ -1,11 +1,11 @@
 poseidonVersion: 2.5.0
 title: 2018_AmorimNatureCommunications
-description: Individuals from early Medieval Hungary and Italy. Originally AADR v37.2.
+description: Individuals from early Medieval Hungary and Italy. Originally AADR v42.4.
 contributor:
 - name: Ayshin Ghalichi
   email: ghalichi@shh.mpg.de
-packageVersion: 2.1.0
-lastModified: 2023-07-04
+packageVersion: 2.1.1
+lastModified: 2023-07-11
 genotypeData:
   format: PLINK
   genoFile: 2018_AmorimNatureCommunications.bed
@@ -16,7 +16,7 @@ genotypeData:
   indFileChkSum: b5c41ad10ae5820fc5b918db4c0b7127
   snpSet: 1240K
 jannoFile: 2018_AmorimNatureCommunications.janno
-jannoFileChkSum: e0d563c420c7171e24174ce0365ce6fb
+jannoFileChkSum: c4d35a4ddc92c7294ea6de90977f8671
 bibFile: 2018_AmorimNatureCommunications.bib
-bibFileChkSum: d3fbce7359f244ae8cec1d453d62ea4c
+bibFileChkSum: 64779140447391de7d7703aca231048e
 changelogFile: CHANGELOG.md

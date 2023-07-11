@@ -1,11 +1,11 @@
 poseidonVersion: 2.5.0
 title: 2018_LipsonCurrentBiology
-description: Ancient genomes from Remote Oceania. Originally AADR v37.2.
+description: Ancient genomes from Remote Oceania. Originally AADR v42.4.
 contributor:
 - name: Ayshin Ghalichi
   email: ghalichi@shh.mpg.de
-packageVersion: 2.1.0
-lastModified: 2023-07-04
+packageVersion: 2.1.1
+lastModified: 2023-07-11
 genotypeData:
   format: PLINK
   genoFile: 2018_LipsonCurrentBiology.bed
@@ -16,7 +16,7 @@ genotypeData:
   indFileChkSum: 396c8392ed04cbf526adf54b4ad0fc4f
   snpSet: 1240K
 jannoFile: 2018_LipsonCurrentBiology.janno
-jannoFileChkSum: ac93357cb35a38ddf841c3ba76ed9422
+jannoFileChkSum: ed3eab97a081251f1c8be19cb9b35b19
 bibFile: 2018_LipsonCurrentBiology.bib
-bibFileChkSum: 9777e5a47a7b3769a1a4fa5de85713fd
+bibFileChkSum: 8f2183da6376a156846cf0dc9e49b937
 changelogFile: CHANGELOG.md

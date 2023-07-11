@@ -1,11 +1,11 @@
 poseidonVersion: 2.5.0
 title: 2018_Zalloua_Phoenician
-description: Ancient genomic data from Phoenician human remains. Originally AADR v37.2.
+description: Ancient genomic data from Phoenician human remains. Originally AADR v42.4.
 contributor:
 - name: Ayshin Ghalichi
   email: ghalichi@shh.mpg.de
-packageVersion: 2.1.0
-lastModified: 2023-07-04
+packageVersion: 2.1.1
+lastModified: 2023-07-11
 genotypeData:
   format: PLINK
   genoFile: Zalloua_Phoenician.bed
@@ -16,7 +16,7 @@ genotypeData:
   indFileChkSum: 3041efcd382bd6d30771725dbc8f39e6
   snpSet: 1240K
 jannoFile: Zalloua_Phoenician.janno
-jannoFileChkSum: 85f72d30d3599cba5ae5afae6cef5fc9
+jannoFileChkSum: fea752531a5df45998fdbc72e7ff9edb
 bibFile: LITERATURE.bib
-bibFileChkSum: ff95c6f85d84d59827931bac6523816c
+bibFileChkSum: e6adb05f8439fe1b2fdb07da50d6d405
 changelogFile: CHANGELOG.md

@@ -1,12 +1,12 @@
 poseidonVersion: 2.5.0
 title: 2015_RaghavanScience
 description: Diachronic transect of ancient individuals from the Americas. Originally
-  AADR v37.2.
+  AADR v42.4.
 contributor:
 - name: Ayshin Ghalichi
   email: ghalichi@shh.mpg.de
-packageVersion: 2.1.0
-lastModified: 2023-07-04
+packageVersion: 2.1.1
+lastModified: 2023-07-11
 genotypeData:
   format: PLINK
   genoFile: 2015_RaghavanScience.bed
@@ -17,7 +17,7 @@ genotypeData:
   indFileChkSum: 904a00d9242e9b48dbd1d5f055f2bc98
   snpSet: 1240K
 jannoFile: 2015_RaghavanScience.janno
-jannoFileChkSum: 05f2dd6d62765724ed22dff0ae4e29d9
+jannoFileChkSum: 24f5b3b9b24ff0a493351326faf303ff
 bibFile: 2015_RaghavanScience.bib
-bibFileChkSum: cd9b9ba849202aaddf4233322d73dad4
+bibFileChkSum: 3a6c0f18d8503a3d91e64bae4bb14f27
 changelogFile: CHANGELOG.md

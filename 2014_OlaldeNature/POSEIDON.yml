@@ -1,11 +1,11 @@
 poseidonVersion: 2.5.0
 title: 2014_OlaldeNature
-description: A Mesolithic individual from Spain. Originally AADR v37.2.
+description: A Mesolithic individual from Spain. Originally AADR v42.4.
 contributor:
 - name: Ayshin Ghalichi
   email: ghalichi@shh.mpg.de
-packageVersion: 2.1.0
-lastModified: 2023-07-04
+packageVersion: 2.1.1
+lastModified: 2023-07-11
 genotypeData:
   format: PLINK
   genoFile: 2014_OlaldeNature.bed
@@ -16,7 +16,7 @@ genotypeData:
   indFileChkSum: 2e9d0c5c7704646aa7d02eefc0470fe8
   snpSet: 1240K
 jannoFile: 2014_OlaldeNature.janno
-jannoFileChkSum: 9235e84933ab19be2d5ac5dc06214ea8
+jannoFileChkSum: 7247c4d5e2d30349843628fa325ea972
 bibFile: 2014_OlaldeNature.bib
-bibFileChkSum: 45f8ca1c5e20059626d2d8131c8ffa52
+bibFileChkSum: a797505dff4967a0f082f11826e23d75
 changelogFile: CHANGELOG.md

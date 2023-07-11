@@ -1,11 +1,11 @@
 poseidonVersion: 2.5.0
 title: 2018_GuntherPLoSBiology
-description: Individuals from Mesolithic Scandinavia. Originally AADR v37.2.
+description: Individuals from Mesolithic Scandinavia. Originally AADR v42.4.
 contributor:
 - name: Ayshin Ghalichi
   email: ghalichi@shh.mpg.de
-packageVersion: 2.1.0
-lastModified: 2023-07-04
+packageVersion: 2.1.1
+lastModified: 2023-07-11
 genotypeData:
   format: PLINK
   genoFile: 2018_GuntherPLoSBiology.bed
@@ -16,7 +16,7 @@ genotypeData:
   indFileChkSum: c9b5ac5901bc3f9f1a68af8e575158d8
   snpSet: 1240K
 jannoFile: 2018_GuntherPLoSBiology.janno
-jannoFileChkSum: 697e0ef48f85099e30ae6f086a1544ce
+jannoFileChkSum: 7bea34151617660c9040a175d27ef200
 bibFile: 2018_GuntherPLoSBiology.bib
-bibFileChkSum: 34c64b5ce56eae4458dca26c8bce710b
+bibFileChkSum: fcbaadf5c32580bfd34eb2db4cb6f49f
 changelogFile: CHANGELOG.md

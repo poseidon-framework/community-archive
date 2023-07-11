@@ -1,11 +1,11 @@
 poseidonVersion: 2.7.1
 title: 2018_VeeramahPNAS
-description: Ancient genomes from Southern Germany. Originally AADR v37.2.
+description: Ancient genomes from Southern Germany. Originally AADR v42.4.
 contributor:
 - name: Ayshin Ghalichi
   email: ghalichi@shh.mpg.de
-packageVersion: 2.2.0
-lastModified: 2023-07-04
+packageVersion: 2.2.1
+lastModified: 2023-07-11
 genotypeData:
   format: PLINK
   genoFile: 2018_VeeramahPNAS.bed
@@ -16,9 +16,9 @@ genotypeData:
   indFileChkSum: 5a52b9dcf138e4fd9673943c70189546
   snpSet: 1240K
 jannoFile: 2018_VeeramahPNAS.janno
-jannoFileChkSum: 478df2a8f94a1cb5998e8e23542d495d
+jannoFileChkSum: 6065df653a98bf958bd20b59c15374b9
 sequencingSourceFile: ENAtable.ssf
 sequencingSourceFileChkSum: b49702b0722af07d1278dd014b93104d
 bibFile: 2018_VeeramahPNAS.bib
-bibFileChkSum: 291a957f15749e9b849a3582b5f08cc2
+bibFileChkSum: 67f2fe3336cd25b3b512bfe0fa6c489c
 changelogFile: CHANGELOG.md

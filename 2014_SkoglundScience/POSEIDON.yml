@@ -1,12 +1,12 @@
 poseidonVersion: 2.5.0
 title: 2014_SkoglundScience
 description: Mesolithic and Neolithic samples from Sweden and Gotland. Originally
-  AADR v37.2.
+  AADR v42.4.
 contributor:
 - name: Ayshin Ghalichi
   email: ghalichi@shh.mpg.de
-packageVersion: 2.1.0
-lastModified: 2023-07-04
+packageVersion: 2.1.1
+lastModified: 2023-07-11
 genotypeData:
   format: PLINK
   genoFile: 2014_SkoglundScience.bed
@@ -17,7 +17,7 @@ genotypeData:
   indFileChkSum: d20f506eaba22542352c39459d07ad48
   snpSet: 1240K
 jannoFile: 2014_SkoglundScience.janno
-jannoFileChkSum: 4163333d4fbbe857a1e5998e3b52e56e
+jannoFileChkSum: 97603994d13ba28dd2449c83e5fb0d08
 bibFile: 2014_SkoglundScience.bib
-bibFileChkSum: 064ace6f37bfda9bacacd9e618f835ea
+bibFileChkSum: b239e7f575639c3b532161cd81e661a3
 changelogFile: CHANGELOG.md

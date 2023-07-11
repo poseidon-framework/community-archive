@@ -1,11 +1,11 @@
 poseidonVersion: 2.5.0
 title: 2017_LazaridisNature
-description: Minoan and Mycenaean samples from Crete. Originally AADR v37.2.
+description: Minoan and Mycenaean samples from Crete. Originally AADR v42.4.
 contributor:
 - name: Ayshin Ghalichi
   email: ghalichi@shh.mpg.de
-packageVersion: 2.1.0
-lastModified: 2023-07-04
+packageVersion: 2.1.1
+lastModified: 2023-07-11
 genotypeData:
   format: PLINK
   genoFile: 2017_LazaridisNature.bed
@@ -16,7 +16,7 @@ genotypeData:
   indFileChkSum: ebb5fcc32d5e2ad119ca352d01f1c1be
   snpSet: 1240K
 jannoFile: 2017_LazaridisNature.janno
-jannoFileChkSum: 63ad16ca0dac293781ece097c9f95792
+jannoFileChkSum: fd5045895ce65f213a9be6cd16a6fc4c
 bibFile: 2017_LazaridisNature.bib
-bibFileChkSum: 5c0108bffc0612c3f676b7b5007b4bf6
+bibFileChkSum: c4293d9bdc10468b3e0cd7215ee57f0a
 changelogFile: CHANGELOG.md

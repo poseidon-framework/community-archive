@@ -1,11 +1,11 @@
 poseidonVersion: 2.5.0
 title: 2018_ValdioseraPNAS
-description: Ancient genomes from Iberia. Originally AADR v37.2.
+description: Ancient genomes from Iberia. Originally AADR v42.4.
 contributor:
 - name: Ayshin Ghalichi
   email: ghalichi@shh.mpg.de
-packageVersion: 2.1.0
-lastModified: 2023-07-04
+packageVersion: 2.1.1
+lastModified: 2023-07-11
 genotypeData:
   format: PLINK
   genoFile: 2018_ValdioseraPNAS.bed
@@ -16,7 +16,7 @@ genotypeData:
   indFileChkSum: a8f0100c0e99f6e4f302ab4e4e865bcf
   snpSet: 1240K
 jannoFile: 2018_ValdioseraPNAS.janno
-jannoFileChkSum: 5651406b115ae52c8c81516c93456448
+jannoFileChkSum: d961d17954d5e314ab6ceeedec4f92c5
 bibFile: 2018_ValdioseraPNAS.bib
-bibFileChkSum: 539dca3636ea5e21f2152a1e625b0c40
+bibFileChkSum: 8a06498e84d9c93e7056e8c49665f054
 changelogFile: CHANGELOG.md

@@ -1,11 +1,11 @@
 poseidonVersion: 2.5.0
 title: 2018_LindoScienceAdvances
-description: Ancient genomes from South America. Originally AADR v37.2.
+description: Ancient genomes from South America. Originally AADR v42.4.
 contributor:
 - name: Ayshin Ghalichi
   email: ghalichi@shh.mpg.de
-packageVersion: 2.1.0
-lastModified: 2023-07-04
+packageVersion: 2.1.1
+lastModified: 2023-07-11
 genotypeData:
   format: PLINK
   genoFile: 2018_LindoScienceAdvances.bed
@@ -16,7 +16,7 @@ genotypeData:
   indFileChkSum: afad156b676fc3ae4465a31d4767ebfb
   snpSet: 1240K
 jannoFile: 2018_LindoScienceAdvances.janno
-jannoFileChkSum: 99a4de26223f5bbc895741d43062dc75
+jannoFileChkSum: 481609acdaa62491e955688661a86c15
 bibFile: 2018_LindoScienceAdvances.bib
-bibFileChkSum: bfabe6f0c3bddb22e6cd240a46b9e95a
+bibFileChkSum: 2322bb71e15389189acbfe0aee239cff
 changelogFile: CHANGELOG.md

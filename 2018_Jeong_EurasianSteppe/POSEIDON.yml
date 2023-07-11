@@ -1,11 +1,11 @@
 poseidonVersion: 2.5.0
 title: 2018_Jeong_EurasianSteppe
-description: Individuals from the eastern Eurasian Steppe. Originally AADR v37.2.
+description: Individuals from the eastern Eurasian Steppe. Originally AADR v42.4.
 contributor:
 - name: Ayshin Ghalichi
   email: ghalichi@shh.mpg.de
-packageVersion: 2.1.0
-lastModified: 2023-07-04
+packageVersion: 2.1.1
+lastModified: 2023-07-11
 genotypeData:
   format: PLINK
   genoFile: Jeong_EurasianSteppe.bed
@@ -16,7 +16,7 @@ genotypeData:
   indFileChkSum: 8814322af830f3ebb253ef792432fb54
   snpSet: 1240K
 jannoFile: Jeong_EurasianSteppe.janno
-jannoFileChkSum: 8d93b222ebb60ebb1d0dcc31723d20f4
+jannoFileChkSum: 53bd8cd014c98ef7afdac905cf3de65f
 bibFile: LITERATURE.bib
-bibFileChkSum: ffa20277d50d2ac3db2d5894b33a04f4
+bibFileChkSum: 2f10b1c5833b507b26c5ecf7eed8c6ee
 changelogFile: CHANGELOG.md

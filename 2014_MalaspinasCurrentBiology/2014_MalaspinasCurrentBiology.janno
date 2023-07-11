@@ -1,3 +1,3 @@
 Poseidon_ID	Genetic_Sex	Group_Name	Collection_ID	Country	Date_Type	Date_BC_AD_Start	Date_BC_AD_Median	Date_BC_AD_Stop	Y_Haplogroup	Capture_Type	UDG	Library_Built	Genotype_Ploidy	Nr_SNPs	Coverage_on_Target_SNPs	Publication	Note
-Botocudo15.SG	M	Brazil_Botocudo.SG	Botocudo15.SG	Brazil	contextual	1400	1650	1900	C1b2a1	Shotgun	minus	ds	haploid	923145	1.919	MalaspinasCurrentBiology2014;AADR;AADRv372	QUESTIONABLE (literature, Xcontam=0.023)
-Botocudo17.SG	M	Brazil_Botocudo.SG	Bot17	Brazil	contextual	1400	1650	1900	C1b2a1	Shotgun	minus	ds	haploid	885555	1.407	MalaspinasCurrentBiology2014;AADR;AADRv372	PASS (literature)
+Botocudo15.SG	M	Brazil_Botocudo.SG	Botocudo15.SG	Brazil	contextual	1400	1650	1900	C1b2a1	Shotgun	minus	ds	haploid	923145	1.919	MalaspinasCurrentBiology2014;AADR;AADRv424	QUESTIONABLE (literature, Xcontam=0.023)
+Botocudo17.SG	M	Brazil_Botocudo.SG	Bot17	Brazil	contextual	1400	1650	1900	C1b2a1	Shotgun	minus	ds	haploid	885555	1.407	MalaspinasCurrentBiology2014;AADR;AADRv424	PASS (literature)

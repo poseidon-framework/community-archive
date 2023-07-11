@@ -1,11 +1,11 @@
 poseidonVersion: 2.5.0
 title: 2016_KilincCurrentBiology
-description: Neolithic samples from Turkey. Originally AADR v37.2.
+description: Neolithic samples from Turkey. Originally AADR v42.4.
 contributor:
 - name: Ayshin Ghalichi
   email: ghalichi@shh.mpg.de
-packageVersion: 2.1.0
-lastModified: 2023-07-04
+packageVersion: 2.1.1
+lastModified: 2023-07-11
 genotypeData:
   format: PLINK
   genoFile: 2016_KilincCurrentBiology.bed
@@ -16,7 +16,7 @@ genotypeData:
   indFileChkSum: a96f2a7d10ebdccb82d7171dc8c953f0
   snpSet: 1240K
 jannoFile: 2016_KilincCurrentBiology.janno
-jannoFileChkSum: cea5bf7cc958a01ef4bbdf7ffc247ffa
+jannoFileChkSum: 4e06f2eb85b67371abe7007b4b6338d7
 bibFile: 2016_KilincCurrentBiology.bib
-bibFileChkSum: fc2763e06a137e884a9a00fb128a9e40
+bibFileChkSum: 7832c0f2a568ffafbf008945f4f370a6
 changelogFile: CHANGELOG.md
