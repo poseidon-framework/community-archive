@@ -4,8 +4,10 @@ description: Ancient samples from Mesolithic to Iron Age France.
 contributor:
 - name: Ayshin Ghalichi
   email: ghalichi@shh.mpg.de
-packageVersion: 2.2.0
-lastModified: 2023-07-04
+- name: Maite Rivollat
+  email: maite.rivollat@ugent.be
+packageVersion: 2.2.1
+lastModified: 2023-07-11
 genotypeData:
   format: PLINK
   genoFile: Brunel_France.bed

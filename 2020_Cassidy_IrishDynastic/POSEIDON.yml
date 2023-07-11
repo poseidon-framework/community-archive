@@ -4,10 +4,12 @@ description: Neolithic samples from Ireland.
 contributor:
 - name: Ayshin Ghalichi
   email: ghalichi@shh.mpg.de
+- name: Maite Rivollat
+  email: maite.rivollat@ugent.be
 - name: Clemens Schmid
   email: schmid@shh.mpg.de
-packageVersion: 2.2.0
-lastModified: 2023-07-04
+packageVersion: 2.2.1
+lastModified: 2023-07-11
 genotypeData:
   format: PLINK
   genoFile: Cassidy_IrishDynastic.bed
