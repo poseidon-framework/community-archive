@@ -1,6 +1,6 @@
 poseidonVersion: 2.7.1
 title: 2020_Nakatsuka_SouthPatagonia
-description: Ancient samples from South Patagonia.
+description: Ancient samples from South Patagonia. Originally AADR v42.4.
 contributor:
 - name: Ayshin Ghalichi
   email: ghalichi@shh.mpg.de
@@ -8,8 +8,8 @@ contributor:
   email: dhananjaya_aththnayaka@mpg.eva.net
 - name: Clemens Schmid
   email: clemens_schmid@eva.mpg.de
-packageVersion: 4.2.0
-lastModified: 2023-07-04
+packageVersion: 4.3.0
+lastModified: 2023-07-11
 genotypeData:
   format: PLINK
   genoFile: Nakatsuka_SouthPatagonia.bed
@@ -20,9 +20,9 @@ genotypeData:
   indFileChkSum: 9f00f829e11fa66f591cfa382a0c91b6
   snpSet: 1240K
 jannoFile: Nakatsuka_SouthPatagonia.janno
-jannoFileChkSum: 7ff0f84da5c8cb6411d468ac06d92952
+jannoFileChkSum: 7b112a891708c763709dbb99821273e7
 sequencingSourceFile: ENAtable.ssf
 sequencingSourceFileChkSum: c1dee730a20c623ff3e3e9735b7c4128
 bibFile: Nakatsuka_SouthPatagonia.bib
-bibFileChkSum: bd45690b30ee6491688c64c97c4164df
+bibFileChkSum: 7f4fd25f2ff3e1198453e4438fdcc45e
 changelogFile: CHANGELOG.md
