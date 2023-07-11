@@ -18,7 +18,7 @@ genotypeData:
   indFileChkSum: 9b370b2061682fa168095db174f6073e
   snpSet: 1240K
 jannoFile: Reference_Genomes.janno
-jannoFileChkSum: f1bf164f0998d2a8cde2c13a320d930b
+jannoFileChkSum: 979506c062490b2c787dd363888b343a
 bibFile: Reference_Genomes.bib
-bibFileChkSum: c18de30880fa92db7f7d9fc4d5ca6641
+bibFileChkSum: 94418b984a1b8be2c8c3fc441787bdf1
 changelogFile: CHANGELOG.md
