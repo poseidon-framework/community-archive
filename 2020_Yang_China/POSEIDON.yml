@@ -4,10 +4,12 @@ description: Diachronic ancient data from China.
 contributor:
 - name: Ayshin Ghalichi
   email: ghalichi@shh.mpg.de
+- name: He Yu
+  email: he_yu@eva.mpg.de
 - name: Clemens Schmid
   email: schmid@shh.mpg.de
-packageVersion: 2.1.0
-lastModified: 2023-07-04
+packageVersion: 2.1.1
+lastModified: 2023-07-11
 genotypeData:
   format: PLINK
   genoFile: Yang_China.bed
