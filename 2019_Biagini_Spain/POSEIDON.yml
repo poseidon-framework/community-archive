@@ -1,13 +1,14 @@
 poseidonVersion: 2.5.0
 title: 2019_Biagini_Spain
-description: Genetic data published in Biagini et al. 2019
+description: People from Ibiza - an unexpected isolate in the Western Mediterranean.
+  Originally AADR v42.4.
 contributor:
 - name: Ayshin Ghalichi
   email: ghalichi@shh.mpg.de
 - name: Lei Huang
   email: lei_huang@eva.mpg.de
-packageVersion: 2.1.2
-lastModified: 2022-05-27
+packageVersion: 2.2.0
+lastModified: 2023-07-04
 genotypeData:
   format: PLINK
   genoFile: Biagini_Spain.bed
@@ -18,7 +19,7 @@ genotypeData:
   indFileChkSum: d5095ad4920fc3c95bbfb250cd99f90f
   snpSet: HumanOrigins
 jannoFile: Biagini_Spain.janno
-jannoFileChkSum: 3b7a470c1d62fcd25532cb5b084bfc1b
+jannoFileChkSum: 3a28c5a2086df2df87314b3432f839d8
 bibFile: LITERATURE.bib
-bibFileChkSum: 84ed6dfe198af4eca7eaa536a046a730
+bibFileChkSum: 24fc60c8a32db6d4bc769cf7b3e09197
 changelogFile: CHANGELOG.md

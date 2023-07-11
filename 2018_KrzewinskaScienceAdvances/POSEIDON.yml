@@ -1,13 +1,11 @@
 poseidonVersion: 2.5.0
 title: 2018_KrzewinskaScienceAdvances
-description: This package was initially constructed based on the Allen Ancient DNA
-  Resource (https://reich.hms.harvard.edu/allen-ancient-dna-resource-aadr-downloadable-genotypes-present-day-and-ancient-dna-data,
-  version 37.2). The package contains Iron Age individuals from the Steppe.
+description: Iron Age individuals from the Steppe. Originally AADR v42.4.
 contributor:
 - name: Ayshin Ghalichi
   email: ghalichi@shh.mpg.de
-packageVersion: 2.0.1
-lastModified: 2022-02-25
+packageVersion: 2.1.1
+lastModified: 2023-07-11
 genotypeData:
   format: PLINK
   genoFile: 2018_KrzewinskaScienceAdvances.bed
@@ -18,7 +16,7 @@ genotypeData:
   indFileChkSum: 8efae3e0d2e93ef5b97e0a8f60e656f0
   snpSet: 1240K
 jannoFile: 2018_KrzewinskaScienceAdvances.janno
-jannoFileChkSum: a9161b9b621b9a9e3e6e094beb39c1e6
+jannoFileChkSum: 0e74a83223f9d314353a3e3e17271182
 bibFile: 2018_KrzewinskaScienceAdvances.bib
-bibFileChkSum: 0e957494b90b6b2262441d0441be2e24
+bibFileChkSum: 9f285635ae0d634f829f2d433d66cf7a
 changelogFile: CHANGELOG.md

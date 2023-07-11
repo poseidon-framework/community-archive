@@ -4,10 +4,12 @@ description: Neolithic samples from Ireland.
 contributor:
 - name: Ayshin Ghalichi
   email: ghalichi@shh.mpg.de
+- name: Maite Rivollat
+  email: maite.rivollat@ugent.be
 - name: Clemens Schmid
   email: schmid@shh.mpg.de
-packageVersion: 2.1.0
-lastModified: 2023-05-05
+packageVersion: 2.2.1
+lastModified: 2023-07-11
 genotypeData:
   format: PLINK
   genoFile: Cassidy_IrishDynastic.bed
@@ -22,5 +24,5 @@ jannoFileChkSum: 3856ea7dc7f975d9abd952993d7b9c4e
 sequencingSourceFile: ENAtable.ssf
 sequencingSourceFileChkSum: 6f07a37355906c19beda6a5dd0178067
 bibFile: LITERATURE.bib
-bibFileChkSum: 26f83bf6e8340ecb4f3258071db6fdb7
+bibFileChkSum: 9ed639f30a12d53779c72bee85ff292f
 changelogFile: CHANGELOG.md

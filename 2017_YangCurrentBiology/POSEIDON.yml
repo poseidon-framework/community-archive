@@ -1,13 +1,11 @@
 poseidonVersion: 2.5.0
 title: 2017_YangCurrentBiology
-description: This package was initially constructed based on the Allen Ancient DNA
-  Resource (https://reich.hms.harvard.edu/allen-ancient-dna-resource-aadr-downloadable-genotypes-present-day-and-ancient-dna-data,
-  version 37.2)
+description: A Palaeolithic sample from China. Originally AADR v42.4.
 contributor:
 - name: Ayshin Ghalichi
   email: ghalichi@shh.mpg.de
-packageVersion: 2.0.1
-lastModified: 2022-02-25
+packageVersion: 2.1.1
+lastModified: 2023-07-11
 genotypeData:
   format: PLINK
   genoFile: 2017_YangCurrentBiology.bed
@@ -18,7 +16,7 @@ genotypeData:
   indFileChkSum: 35346d385ab3dc1698d4d11feff2b9ee
   snpSet: 1240K
 jannoFile: 2017_YangCurrentBiology.janno
-jannoFileChkSum: d16c0705f297bf58c9df27b97db10d64
+jannoFileChkSum: 048099e7916967a44d6e11c27fbf6c4d
 bibFile: 2017_YangCurrentBiology.bib
-bibFileChkSum: 45756177801b6b9c94dad4754cb11293
+bibFileChkSum: 64f0292b5f14f299c799a614e085f6d6
 changelogFile: CHANGELOG.md

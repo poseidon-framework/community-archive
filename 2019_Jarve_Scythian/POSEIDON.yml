@@ -1,13 +1,14 @@
 poseidonVersion: 2.7.1
 title: 2019_Jarve_Scythian
-description: Genetic data published in Jarve] et al. 2019
+description: Shifts in the Genetic Landscape of the Western Eurasian Steppe Associated
+  with the Beginning and End of the Scythian Dominance. Originally AADR v42.4.
 contributor:
 - name: Ayshin Ghalichi
   email: ghalichi@shh.mpg.de
 - name: Clemens Schmid
   email: schmid@shh.mpg.de
-packageVersion: 2.1.0
-lastModified: 2023-05-05
+packageVersion: 2.2.0
+lastModified: 2023-07-04
 genotypeData:
   format: PLINK
   genoFile: Jarve_Scythian.bed
@@ -18,9 +19,9 @@ genotypeData:
   indFileChkSum: 45519039f657a23bda1a823583d02826
   snpSet: 1240K
 jannoFile: Jarve_Scythian.janno
-jannoFileChkSum: cf81c11e0b939e10cfdd7bf533b8a677
+jannoFileChkSum: 5604ebe10af2d5937dec841aac951d5d
 sequencingSourceFile: ENAtable.ssf
 sequencingSourceFileChkSum: aaef1e37ea34e7f05ca2ddaaf5d8e6e5
 bibFile: LITERATURE.bib
-bibFileChkSum: f6c415cd7c244ada01f827cb670dc0f1
+bibFileChkSum: 446204fbcc2afb7de2cd9ec45c5b3455
 changelogFile: CHANGELOG.md

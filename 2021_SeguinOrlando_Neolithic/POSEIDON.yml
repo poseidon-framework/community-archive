@@ -1,12 +1,12 @@
 poseidonVersion: 2.7.1
 title: 2021_SeguinOrlando_Neolithic
 description: Heterogeneous Hunter-Gatherer and Steppe-Related Ancestries in Late Neolithic
-  and Bell Beaker Genomes from Present-Day France
+  and Bell Beaker Genomes from Present-Day France. Originally AADR v50.
 contributor:
 - name: Dhananjaya Aththanayaka
   email: dhananjaya_aththnayaka@mpg.eva.de
-packageVersion: 0.2.0
-lastModified: 2023-05-05
+packageVersion: 0.3.0
+lastModified: 2023-07-04
 genotypeData:
   format: PLINK
   genoFile: 2021_SeguinOrlando_Neolithic.bed
@@ -17,9 +17,9 @@ genotypeData:
   indFileChkSum: a4a18a4383eaf9e02f78ad522094a028
   snpSet: 1240K
 jannoFile: 2021_SeguinOrlando_Neolithic.janno
-jannoFileChkSum: 65f3a389291f942a4e22c5f68d4aeebe
+jannoFileChkSum: ddbfa2cc09ddcf6cd95c47efeb61147f
 sequencingSourceFile: ENAtable.ssf
 sequencingSourceFileChkSum: e3436c4edbfab177b35b0dbeb0344d6d
 bibFile: 2021_SeguinOrlando_Neolithic.bib
-bibFileChkSum: a2fb77a853fb47f2648983e9e57ecb5e
+bibFileChkSum: cc44c6b1461851754595e88904b9d08f
 changelogFile: CHANGELOG.md

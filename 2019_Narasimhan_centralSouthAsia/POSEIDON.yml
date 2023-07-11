@@ -1,11 +1,12 @@
 poseidonVersion: 2.7.1
 title: 2019_Narasimhan_centralSouthAsia
-description: Genetic data published in Narasimhan et al. 2019
+description: The formation of human populations in South and Central Asia. Originally
+  AADR v42.4.
 contributor:
 - name: Ayshin Ghalichi
   email: ghalichi@shh.mpg.de
-packageVersion: 2.1.0
-lastModified: 2023-05-05
+packageVersion: 2.2.0
+lastModified: 2023-07-04
 genotypeData:
   format: PLINK
   genoFile: Narasimhan_centralSouthAsia.bed
@@ -16,9 +17,9 @@ genotypeData:
   indFileChkSum: d6b3f368f154783e58a29126c28f23b3
   snpSet: 1240K
 jannoFile: Narasimhan_centralSouthAsia.janno
-jannoFileChkSum: 876f4a8846b6668c8c9db72f081674ec
+jannoFileChkSum: daacbeaa4630f520f4cd2da20d9ab497
 sequencingSourceFile: ENAtable.ssf
 sequencingSourceFileChkSum: 2f7e6095bafbb99991a1bf93dccb9d33
 bibFile: LITERATURE.bib
-bibFileChkSum: 57909e695be2bb3962f12580bd6b4f5d
+bibFileChkSum: 1cd4a74e4d16f53e1257ecac379f53ec
 changelogFile: CHANGELOG.md

@@ -1,11 +1,12 @@
 poseidonVersion: 2.7.1
 title: 2019_Harney_LakeRoopkund
-description: Genetic data published in Harney et al. 2019
+description: Ancient DNA from the skeletons of Roopkund Lake reveals Mediterranean
+  migrants in India. Originally AADR v42.4.
 contributor:
 - name: Ayshin Ghalichi
   email: ghalichi@shh.mpg.de
-packageVersion: 2.1.0
-lastModified: 2023-05-05
+packageVersion: 2.2.0
+lastModified: 2023-07-04
 genotypeData:
   format: PLINK
   genoFile: Harney_LakeRoopkund.bed
@@ -16,9 +17,9 @@ genotypeData:
   indFileChkSum: c47b2e103e6d287e3ae878c62d0bfeb2
   snpSet: 1240K
 jannoFile: Harney_LakeRoopkund.janno
-jannoFileChkSum: f8c120e94b96385463bbd4c4af91675e
+jannoFileChkSum: 34123153f18eef9962a92d9e96123a1e
 sequencingSourceFile: ENAtable.ssf
 sequencingSourceFileChkSum: 3fe99024f0dded676be40a69d2d0a94a
 bibFile: LITERATURE.bib
-bibFileChkSum: a40de38d5301d91c2d67474ff6194dac
+bibFileChkSum: b53b02ea0f5766e837561eb08a5ee651
 changelogFile: CHANGELOG.md

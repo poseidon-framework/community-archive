@@ -1,11 +1,12 @@
 poseidonVersion: 2.7.1
 title: 2019_Mittnik_BAEurope
-description: Genetic data published in Mittnik et al. 2019
+description: Kinship-based social inequality in Bronze Age Europe. Originally AADR
+  v42.4.
 contributor:
 - name: Ayshin Ghalichi
   email: ghalichi@shh.mpg.de
-packageVersion: 2.1.0
-lastModified: 2023-05-05
+packageVersion: 2.2.0
+lastModified: 2023-07-04
 genotypeData:
   format: PLINK
   genoFile: Mittnik_BAEurope.bed
@@ -16,9 +17,9 @@ genotypeData:
   indFileChkSum: d8b665ed39f47a594b19adaccfb90106
   snpSet: 1240K
 jannoFile: Mittnik_BAEurope.janno
-jannoFileChkSum: e3cf6889ca863fbc22974da28d6b2d5d
+jannoFileChkSum: d0ab5415637e8f576d079bed41bdad9b
 sequencingSourceFile: ENAtable.ssf
 sequencingSourceFileChkSum: ef28336103a3dab39a4df4da12faed33
 bibFile: LITERATURE.bib
-bibFileChkSum: f0d59c58296902dc434e19114433f3fd
+bibFileChkSum: 8e35b6e1fd652e1ad7f9e02ee90663d3
 changelogFile: CHANGELOG.md

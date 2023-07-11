@@ -1,13 +1,11 @@
 poseidonVersion: 2.5.0
 title: 2018_SchroederPNAS
-description: This package was initially constructed based on the Allen Ancient DNA
-  Resource (https://reich.hms.harvard.edu/allen-ancient-dna-resource-aadr-downloadable-genotypes-present-day-and-ancient-dna-data,
-  version 37.2). Ancient genomes from the Carribean.
+description: An ancient genome from the Carribean. Originally AADR v42.4.
 contributor:
 - name: Ayshin Ghalichi
   email: ghalichi@shh.mpg.de
-packageVersion: 2.0.1
-lastModified: 2022-02-25
+packageVersion: 2.1.1
+lastModified: 2023-07-11
 genotypeData:
   format: PLINK
   genoFile: 2018_SchroederPNAS.bed
@@ -18,7 +16,7 @@ genotypeData:
   indFileChkSum: 0b54bdb6a0a53afa52cb85bc799a3ee4
   snpSet: 1240K
 jannoFile: 2018_SchroederPNAS.janno
-jannoFileChkSum: df453459d1a7be3b5dcbaf9082b96d90
+jannoFileChkSum: e4f1bae56020f3373177681b665fdf3a
 bibFile: 2018_SchroederPNAS.bib
-bibFileChkSum: 8ca4b802dc16609ea34f16383b3689d6
+bibFileChkSum: e2712d05bd99741bb915756bac0390b0
 changelogFile: CHANGELOG.md

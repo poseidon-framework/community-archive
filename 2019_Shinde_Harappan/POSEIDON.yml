@@ -1,11 +1,12 @@
 poseidonVersion: 2.7.1
 title: 2019_Shinde_Harappan
-description: Genetic data published in Shinde et al. 2019
+description: An Ancient Harappan Genome Lacks Ancestry from Steppe Pastoralists or
+  Iranian Farmers. Originally AADR v42.4.
 contributor:
 - name: Ayshin Ghalichi
   email: ghalichi@shh.mpg.de
-packageVersion: 2.1.0
-lastModified: 2023-05-05
+packageVersion: 2.2.0
+lastModified: 2023-07-04
 genotypeData:
   format: PLINK
   genoFile: Shinde_Harappan.bed
@@ -16,9 +17,9 @@ genotypeData:
   indFileChkSum: fa20540b6ab232088e3cdf8ac1a50aca
   snpSet: 1240K
 jannoFile: Shinde_Harappan.janno
-jannoFileChkSum: deca7623966edcc20b38ec2742682f44
+jannoFileChkSum: 31356e7d295e86bf7f09fc85be03a22f
 sequencingSourceFile: ENAtable.ssf
 sequencingSourceFileChkSum: aaa748926b19422eb7b6c6134873cdc6
 bibFile: LITERATURE.bib
-bibFileChkSum: 0c26b1e02438f49eb563256b1c54fc4e
+bibFileChkSum: 92adaa65d5a53e0c78be630ebaf10a8f
 changelogFile: CHANGELOG.md

@@ -1,11 +1,12 @@
 poseidonVersion: 2.7.1
 title: 2019_Feldman_Philistines
-description: Genetic data published in Feldman et al. 2019
+description: Ancient DNA sheds light on the genetic origins of early Iron Age Philistines.
+  Originally AADR v42.4.
 contributor:
 - name: Michal Feldman
   email: feldman@shh.mpg.de
-packageVersion: 2.1.0
-lastModified: 2023-05-05
+packageVersion: 2.2.0
+lastModified: 2023-07-04
 genotypeData:
   format: PLINK
   genoFile: Feldman_Philistines.bed
@@ -16,9 +17,9 @@ genotypeData:
   indFileChkSum: 911caa826fe758275d5946c25f4edad8
   snpSet: 1240K
 jannoFile: Feldman_Philistines.janno
-jannoFileChkSum: 1a5f3783226d5240b95f805e98cd216f
+jannoFileChkSum: 2912591fd69f96d2a8b20dde68036d25
 sequencingSourceFile: ENAtable.ssf
 sequencingSourceFileChkSum: 8298e119c8388ef73f82106035b551a8
 bibFile: LITERATURE.bib
-bibFileChkSum: cdc9bedcee91b5b3731c0c295b14a255
+bibFileChkSum: 675e1e4706d747a21808bbe2ef93fcbe
 changelogFile: CHANGELOG.md

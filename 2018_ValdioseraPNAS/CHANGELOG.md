@@ -1,3 +1,5 @@
+- V 2.1.1: Fixed attribution to a wrong AADR version
+- V 2.1.0: Update of references in the .bib file
 - V 2.0.3: fixed column headers for Latitude and Longitude
 - V 2.0.2: Coordinates updated
 - V 2.0.1: Genetic_Source_Accession_IDs added

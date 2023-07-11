@@ -1,16 +1,15 @@
 poseidonVersion: 2.5.0
 title: 2016_LazaridisNature
 description: Ancient Near Eastern samples from the Mesolithic to the Bronze Age. Also
-  modern reference samples from Europe, the Near East and Northern Africa. This package
-  was initially constructed based on the Allen Ancient DNA Resource (https://reich.hms.harvard.edu/allen-ancient-dna-resource-aadr-downloadable-genotypes-present-day-and-ancient-dna-data,
-  version 37.2)
+  modern reference samples from Europe, the Near East and Northern Africa. Originally
+  AADR v42.4.
 contributor:
 - name: Ayshin Ghalichi
   email: ghalichi@shh.mpg.de
 - name: Clemens Schmid
   email: schmid@shh.mpg.de
-packageVersion: 2.0.1
-lastModified: 2022-02-21
+packageVersion: 2.1.1
+lastModified: 2023-07-11
 genotypeData:
   format: PLINK
   genoFile: 2016_LazaridisNature.bed
@@ -21,7 +20,7 @@ genotypeData:
   indFileChkSum: a64277293eb1fda5dd9a947ccc4a9b90
   snpSet: 1240K
 jannoFile: 2016_LazaridisNature.janno
-jannoFileChkSum: 0ec9bc51dd92ae14a853207d6a2f7a34
+jannoFileChkSum: 32614b2dfe9a07ccf83e6084a38580c3
 bibFile: 2016_LazaridisNature.bib
-bibFileChkSum: 48cd3ae3302237ae6e028cb29457b8ef
+bibFileChkSum: 8ccfa108b7d4464ad13692ab843b63fd
 changelogFile: CHANGELOG.md

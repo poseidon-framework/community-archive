@@ -1,13 +1,11 @@
 poseidonVersion: 2.5.0
 title: 2018_MorenoMayarNature
-description: This package was initially constructed based on the Allen Ancient DNA
-  Resource (https://reich.hms.harvard.edu/allen-ancient-dna-resource-aadr-downloadable-genotypes-present-day-and-ancient-dna-data,
-  version 37.2). An upper Pleistocene genome from Alaska.
+description: An Upper Pleistocene genome from Alaska. Originally AADR v42.4.
 contributor:
 - name: Ayshin Ghalichi
   email: ghalichi@shh.mpg.de
-packageVersion: 2.0.1
-lastModified: 2022-02-25
+packageVersion: 2.1.1
+lastModified: 2023-07-11
 genotypeData:
   format: PLINK
   genoFile: 2018_MorenoMayarNature.bed
@@ -18,7 +16,7 @@ genotypeData:
   indFileChkSum: b4b9047531f9a50c5cd00812d2eefc60
   snpSet: 1240K
 jannoFile: 2018_MorenoMayarNature.janno
-jannoFileChkSum: b9736973e35b9da2fc8f3bb0b73f52dc
+jannoFileChkSum: f7b7ccf85f17f411fe6fb208b2875da8
 bibFile: 2018_MorenoMayarNature.bib
-bibFileChkSum: f57a46007351ea5d63ebb185a2cdfef6
+bibFileChkSum: d85ecba2a4b7b6dcc3f3e207b01a0aa6
 changelogFile: CHANGELOG.md

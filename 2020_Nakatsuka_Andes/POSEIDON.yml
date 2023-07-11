@@ -1,11 +1,11 @@
 poseidonVersion: 2.7.1
 title: 2020_Nakatsuka_Andes
-description: Transect of ancient samples from the Andes covering 10000 years.
+description: Transect of ancient samples from the Andes covering 10000 years. Originally AADR v42.4.
 contributor:
 - name: Ayshin Ghalichi
   email: ghalichi@shh.mpg.de
-packageVersion: 2.1.0
-lastModified: 2023-05-05
+packageVersion: 2.3.0
+lastModified: 2023-07-11
 genotypeData:
   format: PLINK
   genoFile: Nakatsuka_Andes.bed
@@ -16,9 +16,9 @@ genotypeData:
   indFileChkSum: dfd776fffe7c92c0e34ad541d3dc0b42
   snpSet: 1240K
 jannoFile: Nakatsuka_Andes.janno
-jannoFileChkSum: ae09152a2648c54ca044bc5ea912f884
+jannoFileChkSum: 92d23a1bb03e1f77b5adb94f13087db2
 sequencingSourceFile: ENAtable.ssf
 sequencingSourceFileChkSum: 1b8bc729994516a521fb1b9bcd7514f3
 bibFile: LITERATURE.bib
-bibFileChkSum: 9e8242997287859f76351ac63282de86
+bibFileChkSum: 02062168f0b87c835fcfe247810cb107
 changelogFile: CHANGELOG.md

@@ -7,8 +7,8 @@ contributor:
   email: yu@shh.mpg.de
 - name: Clemens Schmid
   email: schmid@shh.mpg.de
-packageVersion: 2.1.0
-lastModified: 2023-05-05
+packageVersion: 2.2.0
+lastModified: 2023-07-04
 genotypeData:
   format: PLINK
   genoFile: Yu_NorthRussia.bed
@@ -23,5 +23,5 @@ jannoFileChkSum: 15739989739db955ea863069be1c3529
 sequencingSourceFile: ENAtable.ssf
 sequencingSourceFileChkSum: d403fffda01c633116c7cfe2aa0cd50f
 bibFile: LITERATURE.bib
-bibFileChkSum: b265cbd3beedcff874cec2f4db793bd8
+bibFileChkSum: a77faf99bb68a379c3401792de93b3d9
 changelogFile: CHANGELOG.md

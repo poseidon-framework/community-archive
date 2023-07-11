@@ -1,11 +1,12 @@
 poseidonVersion: 2.7.1
 title: 2019_Nikitin_LBK
-description: Genetic data published in Nikitin et al. 2019
+description: Interactions between earliest Linearbandkeramik farmers and central European
+  hunter gatherers at the dawn of European Neolithization. Originally AADR v42.4.
 contributor:
 - name: Ayshin Ghalichi
   email: ghalichi@shh.mpg.de
-packageVersion: 2.1.0
-lastModified: 2023-05-05
+packageVersion: 2.2.0
+lastModified: 2023-07-04
 genotypeData:
   format: PLINK
   genoFile: Nikitin_LBK.bed
@@ -16,9 +17,9 @@ genotypeData:
   indFileChkSum: 3abe2144e4f5aea3aa0b83395ba9b355
   snpSet: 1240K
 jannoFile: Nikitin_LBK.janno
-jannoFileChkSum: 663d9358c94640fd56da3ff9bdf2e207
+jannoFileChkSum: 97ec8554b33684c11d062cf6fa1a509a
 sequencingSourceFile: ENAtable.ssf
 sequencingSourceFileChkSum: 76095d0dbe17661807fc30ef307a4713
 bibFile: LITERATURE.bib
-bibFileChkSum: cca005b00e7df1a37d41e11ba8a77cd9
+bibFileChkSum: adf109db3c969e3dd53ad4c251ecb8fe
 changelogFile: CHANGELOG.md

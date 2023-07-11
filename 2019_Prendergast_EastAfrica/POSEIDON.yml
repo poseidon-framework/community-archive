@@ -1,11 +1,12 @@
 poseidonVersion: 2.7.1
 title: 2019_Prendergast_EastAfrica
-description: Genetic data published in Prendergast et al. 2019
+description: Ancient DNA reveals a multistep spread of the first herders into sub-Saharan
+  Africa. Originally AADR v42.4.
 contributor:
 - name: Ayshin Ghalichi
   email: ghalichi@shh.mpg.de
-packageVersion: 2.1.0
-lastModified: 2023-05-05
+packageVersion: 2.2.0
+lastModified: 2023-07-04
 genotypeData:
   format: PLINK
   genoFile: Prendergast_EastAfrica.bed
@@ -16,9 +17,9 @@ genotypeData:
   indFileChkSum: cf302be58ea101e0f13e42395b9cc044
   snpSet: 1240K
 jannoFile: Prendergast_EastAfrica.janno
-jannoFileChkSum: d97edeac9610f6c83416f7eecf93fe21
+jannoFileChkSum: 86fdbaf542fe560147a415147b5dc315
 sequencingSourceFile: ENAtable.ssf
 sequencingSourceFileChkSum: bcb578b99ece337a4ea9a3f71b5676f2
 bibFile: LITERATURE.bib
-bibFileChkSum: dd1c48be4e0fd4321dd6eb43fb5e4301
+bibFileChkSum: 2e47cec0c0d314c4f5d1f3a9d675defc
 changelogFile: CHANGELOG.md

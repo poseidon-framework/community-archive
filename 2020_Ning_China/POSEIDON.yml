@@ -1,13 +1,13 @@
 poseidonVersion: 2.7.1
 title: 2020_Ning_China
-description: A transect of ancient samples from northern China.
+description: A transect of ancient samples from northern China. Originally AADR v44.3.
 contributor:
 - name: Guido Gnecchi Ruscone
   email: gnecchiruscone@shh.mpg.de
 - name: Clemens Schmid
   email: schmid@shh.mpg.de
-packageVersion: 2.1.0
-lastModified: 2023-05-05
+packageVersion: 2.2.0
+lastModified: 2023-07-04
 genotypeData:
   format: PLINK
   genoFile: Ning_China.bed
@@ -18,9 +18,9 @@ genotypeData:
   indFileChkSum: dd3c2fcfee2361edaa0c56d0aa502927
   snpSet: 1240K
 jannoFile: Ning_China.janno
-jannoFileChkSum: facbaee3325dcacfb84b5992b0bed3b6
+jannoFileChkSum: 3cd700d05d08df1fb4e2ca3befa79f05
 sequencingSourceFile: ENAtable.ssf
 sequencingSourceFileChkSum: b1c3311581491023e7c5dd6a414c69f2
 bibFile: LITERATURE.bib
-bibFileChkSum: 225baf6285f3ab7bd0de8099460f4d0e
+bibFileChkSum: b04d2cff55fb5183cb1e96726db02c5b
 changelogFile: CHANGELOG.md

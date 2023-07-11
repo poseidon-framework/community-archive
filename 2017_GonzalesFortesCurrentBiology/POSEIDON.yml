@@ -1,13 +1,11 @@
 poseidonVersion: 2.5.0
 title: 2017_GonzalesFortesCurrentBiology
-description: This package was initially constructed based on the Allen Ancient DNA
-  Resource (https://reich.hms.harvard.edu/allen-ancient-dna-resource-aadr-downloadable-genotypes-present-day-and-ancient-dna-data,
-  version 37.2)
+description: Mesolithic samples from Romania and Spain. Originally AADR v42.4.
 contributor:
 - name: Ayshin Ghalichi
   email: ghalichi@shh.mpg.de
-packageVersion: 2.0.2
-lastModified: 2022-11-10
+packageVersion: 2.1.1
+lastModified: 2023-07-11
 genotypeData:
   format: PLINK
   genoFile: 2017_GonzalesFortesCurrentBiology.bed
@@ -18,7 +16,7 @@ genotypeData:
   indFileChkSum: 239b0b040265593fd244d88edfb89615
   snpSet: 1240K
 jannoFile: 2017_GonzalesFortesCurrentBiology.janno
-jannoFileChkSum: 9c475ff9264812b4bc2cd5d1181b16e7
+jannoFileChkSum: b5bf0b310384e1f07224c388c1c747ae
 bibFile: 2017_GonzalesFortesCurrentBiology.bib
-bibFileChkSum: 7b989103b7b027d42c3209cd800f16d5
+bibFileChkSum: 36faa740281b64e9469573d21aab3399
 changelogFile: CHANGELOG.md
