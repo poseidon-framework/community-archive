@@ -1,4 +1,4 @@
-name: poseidon validate (trident)
+name: trident validate
 
 # Trigger the workflow on push or pull request, but only for the master branch
 on:
@@ -8,7 +8,7 @@ on:
 
 jobs:
   validate:
-    name: poseidon-hs validation
+    name: validate packages
     runs-on: ubuntu-latest
     steps:
         
@@ -18,7 +18,7 @@ jobs:
         chmod +x trident-Linux
         
     - name: Clone data repo
-      uses: actions/checkout@v2
+      uses: actions/checkout@v3
       with:
         path: data
 

@@ -3,7 +3,7 @@ name: build website
 # Trigger the workflow when the validation action finished
 on:
   workflow_run:
-    workflows: ["poseidon validate (trident)"]
+    workflows: ["trident validate"]
     types:
       - completed
     branches:
