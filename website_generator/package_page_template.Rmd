@@ -28,7 +28,7 @@ package_path <- file.path("../..", package_name)
 
 ```{r janno}
 janno_file <- list.files(package_path, pattern = ".janno", full.names = TRUE)
-janno <- poseidonR::read_janno(janno_file, validate = F)
+janno <- janno::read_janno(janno_file, validate = F)
 literature <- paste0("@", janno$Publication %>% unlist %>% unique, collapse = ", ")
 ```
 

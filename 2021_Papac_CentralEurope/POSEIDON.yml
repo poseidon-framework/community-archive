@@ -1,14 +1,14 @@
-poseidonVersion: 2.5.0
+poseidonVersion: 2.7.1
 title: 2021_Papac_CentralEurope
 description: Dynamic changes in genomic and social structures in third millennium
-  BCE central Europe
+  BCE central Europe. Originally AADR v50.
 contributor:
 - name: Dhananjaya Aththanayaka
   email: dhananjaya_aththanayaka@eva.mpg.de
 - name: Mikkel Nørtoft
   email: mattbeets@gmail.com
-packageVersion: 1.0.2
-lastModified: 2022-03-14
+packageVersion: 1.2.0
+lastModified: 2023-07-04
 genotypeData:
   format: PLINK
   genoFile: 2021_Papac_CentralEurope.bed
@@ -19,8 +19,9 @@ genotypeData:
   indFileChkSum: 0eddb1a589e30ec07eeaa20ec43834b7
   snpSet: 1240K
 jannoFile: 2021_Papac_CentralEurope.janno
-jannoFileChkSum: d6b93f3c0836c07824ab44c2784931d2
+jannoFileChkSum: 774bbceee3bdf89033fed5baf3be01c5
+sequencingSourceFile: ENAtable.ssf
+sequencingSourceFileChkSum: 678d5cc9797ae24361ff8c5cbd13467c
 bibFile: 2021_Papac_CentralEurope.bib
-bibFileChkSum: 6a55b62210c8db442d04674c4b9df02f
-readmeFile: README.txt
+bibFileChkSum: 29a00a33285ee443ca6d0d9c51b906fb
 changelogFile: CHANGELOG.md

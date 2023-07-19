@@ -1,15 +1,13 @@
 poseidonVersion: 2.5.0
 title: 2012_PickrellNatureCommunications
-description: 23 modern southern and eastern African populations. This package was
-  initially constructed based on the Allen Ancient DNA Resource (https://reich.hms.harvard.edu/allen-ancient-dna-resource-aadr-downloadable-genotypes-present-day-and-ancient-dna-data,
-  version 37.2)
+description: 23 modern southern and eastern African populations. Originally AADR v42.4.
 contributor:
 - name: Ayshin Ghalichi
   email: ghalichi@shh.mpg.de
 - name: Clemens Schmid
   email: schmid@shh.mpg.de
-packageVersion: 2.0.0
-lastModified: 2022-01-28
+packageVersion: 2.1.1
+lastModified: 2023-07-11
 genotypeData:
   format: PLINK
   genoFile: 2012_PickrellNatureCommunications.bed
@@ -20,7 +18,7 @@ genotypeData:
   indFileChkSum: ee8c45a83e3ed7ec8c38f34c796569ab
   snpSet: HumanOrigins
 jannoFile: 2012_PickrellNatureCommunications.janno
-jannoFileChkSum: 8a0d8eb19ab9df11e084243b1cdf6227
+jannoFileChkSum: ecd91147bdec4686344c73ef134e8953
 bibFile: 2012_PickrellNatureCommunications.bib
-bibFileChkSum: cd049dfe5b9426c7a37e44d7826bc208
+bibFileChkSum: f554e28c3fe2133bb2bb1a02faec657f
 changelogFile: CHANGELOG.md

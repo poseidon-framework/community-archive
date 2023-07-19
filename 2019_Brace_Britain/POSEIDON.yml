@@ -1,11 +1,11 @@
 poseidonVersion: 2.5.0
 title: 2019_Brace_Britain
-description: Genetic data published in Brace et al. 2019
+description: Originally AADR v42.4.
 contributor:
 - name: Ayshin Ghalichi
   email: ghalichi@shh.mpg.de
-packageVersion: 2.0.1
-lastModified: 2022-03-02
+packageVersion: 2.1.0
+lastModified: 2023-07-04
 genotypeData:
   format: PLINK
   genoFile: Brace_Britain.bed
@@ -16,7 +16,7 @@ genotypeData:
   indFileChkSum: 13edb4396603aad88829d12cdc4ed594
   snpSet: 1240K
 jannoFile: Brace_Britain.janno
-jannoFileChkSum: 068e4df5b3af73d3a0cd27829a290a0d
+jannoFileChkSum: f2edfa8b2462ca73af8e95c4a028e963
 bibFile: LITERATURE.bib
-bibFileChkSum: 46debd569e07625108078f413d59e059
+bibFileChkSum: 33c262ab809f47cba37bbb7a281ca5ba
 changelogFile: CHANGELOG.md

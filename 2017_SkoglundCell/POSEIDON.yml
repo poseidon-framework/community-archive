@@ -1,15 +1,13 @@
 poseidonVersion: 2.5.0
 title: 2017_SkoglundCell
-description: This package was initially constructed based on the Allen Ancient DNA
-  Resource (https://reich.hms.harvard.edu/allen-ancient-dna-resource-aadr-downloadable-genotypes-present-day-and-ancient-dna-data,
-  version 37.2)
+description: Ancient samples from Malawi (Africa). Originally AADR v42.4.
 contributor:
 - name: Ayshin Ghalichi
   email: ghalichi@shh.mpg.de
 - name: Clemens Schmid
   email: schmid@shh.mpg.de
-packageVersion: 2.0.1
-lastModified: 2022-02-25
+packageVersion: 2.1.1
+lastModified: 2023-07-11
 genotypeData:
   format: PLINK
   genoFile: 2017_SkoglundCell.bed
@@ -20,7 +18,7 @@ genotypeData:
   indFileChkSum: 36db50175f0c4d444fa6ea781cb25661
   snpSet: 1240K
 jannoFile: 2017_SkoglundCell.janno
-jannoFileChkSum: 984c71759ffa057bf6a24cae11ef77c1
+jannoFileChkSum: 27ef4509ea4db71e1f7a66d2d7e54312
 bibFile: 2017_SkoglundCell.bib
-bibFileChkSum: a2e8725913b58e7cc688ae0eeb0aa0aa
+bibFileChkSum: 7f7585b7107507b6d4376528774c590a
 changelogFile: CHANGELOG.md

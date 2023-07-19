@@ -1,11 +1,12 @@
-poseidonVersion: 2.5.0
+poseidonVersion: 2.7.1
 title: 2019_Saag_EasternBaltic
-description: Genetic data published in Saag et al. 2019
+description: The Arrival of Siberian Ancestry Connecting the Eastern Baltic to Uralic
+  Speakers further East. Originally AADR v42.4.
 contributor:
 - name: Ayshin Ghalichi
   email: ghalichi@shh.mpg.de
-packageVersion: 2.0.1
-lastModified: 2022-03-02
+packageVersion: 2.2.0
+lastModified: 2023-07-04
 genotypeData:
   format: PLINK
   genoFile: Saag_EasternBaltic.bed
@@ -16,7 +17,9 @@ genotypeData:
   indFileChkSum: a24f751fb490646efef59920e67a8823
   snpSet: 1240K
 jannoFile: Saag_EasternBaltic.janno
-jannoFileChkSum: 919fae0a2c519661d222b432a11eeda9
+jannoFileChkSum: ae27452a6ab5ab1913926a10ffd91d0d
+sequencingSourceFile: ENAtable.ssf
+sequencingSourceFileChkSum: e395f2dfcb0ead71cc7ef89bca94c4b4
 bibFile: LITERATURE.bib
-bibFileChkSum: 91c0c98a3c91de8040612c4b37a75527
+bibFileChkSum: 862f7e931b302496abc28f0bfb288591
 changelogFile: CHANGELOG.md

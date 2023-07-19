@@ -5,7 +5,7 @@ repo_path <- ".."
 #### janno input ####
 
 # read all janno files
-total_janno <- poseidonR::read_janno(repo_path, validate = F)
+total_janno <- janno::read_janno(repo_path, validate = F)
 
 # compile a useful overview table for all packages
 janno_table <- total_janno %>%
