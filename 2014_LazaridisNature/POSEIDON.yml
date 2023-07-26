@@ -10,8 +10,8 @@ contributor:
   email: schmid@shh.mpg.de
 - name: Selina Carlhoff
   email: selina_carlhoff@eva.mpg.de
-packageVersion: 3.1.1
-lastModified: 2023-07-11
+packageVersion: 4.0.0
+lastModified: 2023-07-26
 genotypeData:
   format: PLINK
   genoFile: 2014_LazaridisNature.bed
@@ -19,10 +19,10 @@ genotypeData:
   snpFile: 2014_LazaridisNature.bim
   snpFileChkSum: c989854c6bae2cfd99c3c87f083d8674
   indFile: 2014_LazaridisNature.fam
-  indFileChkSum: d2ceac1d4831818ce220e36f76410411
+  indFileChkSum: 39f17bb109a8f4b187ac0057d5eed0c1
   snpSet: 1240K
 jannoFile: 2014_LazaridisNature.janno
-jannoFileChkSum: a4f0ce9c374558d9361342b2dc4262f1
+jannoFileChkSum: b97f6c626f20710cc7aa51743c23701c
 bibFile: 2014_LazaridisNature.bib
 bibFileChkSum: ebc3da14d9fce13de536e82729cf3b73
 readmeFile: README.txt
