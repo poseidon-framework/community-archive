@@ -1,22 +1,22 @@
-poseidonVersion: 2.5.0
+poseidonVersion: 2.7.1
 title: 2019_Brace_Britain
 description: Originally AADR v42.4.
 contributor:
 - name: Ayshin Ghalichi
   email: ghalichi@shh.mpg.de
-packageVersion: 2.1.0
-lastModified: 2023-07-04
+packageVersion: 3.0.0
+lastModified: 2023-07-26
 genotypeData:
   format: PLINK
-  genoFile: Brace_Britain.bed
-  genoFileChkSum: 950ebe4f5693c133cc42f1c95527c1bb
-  snpFile: Brace_Britain.bim
-  snpFileChkSum: 838baca6c6e0531a1430a5944c412274
-  indFile: Brace_Britain.fam
-  indFileChkSum: 13edb4396603aad88829d12cdc4ed594
+  genoFile: 2019_Brace.bed
+  genoFileChkSum: 728fe1b07016e892dae83f85d23bb761
+  snpFile: 2019_Brace.bim
+  snpFileChkSum: 26974b8e8b591312105cacaf39df0c82
+  indFile: 2019_Brace.fam
+  indFileChkSum: 679602595d758a8a8de61808d1eb0337
   snpSet: 1240K
-jannoFile: Brace_Britain.janno
-jannoFileChkSum: f2edfa8b2462ca73af8e95c4a028e963
-bibFile: LITERATURE.bib
-bibFileChkSum: 33c262ab809f47cba37bbb7a281ca5ba
+jannoFile: 2019_Brace.janno
+jannoFileChkSum: b9908091490b47ebfff9b8d589bec9dc
+bibFile: 2019_Brace.bib
+bibFileChkSum: b0b371386ed61196c9486af9ece01a32
 changelogFile: CHANGELOG.md
