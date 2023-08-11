@@ -88,7 +88,7 @@ SED012	F	S0034	England_EMA	England	Sedgeford	52.8997	0.5443	C14				700	775	850	J
 SED019	M	S1049	England_EMA	England	Sedgeford	52.8997	0.5443	C14				700	775	850	H1bh		Tooth		1240k	None	single			325126	0.5752	0.1351	0.015365					PASS	PRJEB54899
 EAS001	F	Grave 34	England_EMA	England	Eastry Updown	51.2453	1.3034	C14	1416	17	MAMS 52078	605	629.5	654	U5b1c2b		Petrous		Shotgun	Half	double			971804	1.5375	0.1305						PASS	PRJEB54899
 EAS002	F	Grave 45	England_EMA	England	Eastry Updown	51.2453	1.3034	C14				600	650	700	U5b1c2b		Petrous		Shotgun	Half	double			446614	0.4121	0.1154						PASS	PRJEB54899
-EAS003	F	Grave 47	England_EMA_oAfrica	England	Eastry Updown	51.2453	1.3034	contextual				600	650	700	U5b1c2b		Petrous		Shotgun	Half	double			773188	0.932	0.1161						PASS		
+EAS003	F	Grave 47	England_EMA_oAfrica	England	Eastry Updown	51.2453	1.3034	contextual				600	650	700	U5b1c2b		Petrous		Shotgun	Half	double			773188	0.932	0.1161	0.01	0.01				PASS	n/a
 EAS004	M	Grave 48	England_EMA	England	Eastry Updown	51.2453	1.3034	C14	1480	18	MAMS 52079	562	601	640	H3+16311	R1b1a1b1a1a2c1	Petrous		Shotgun	Half	double			398861	0.3547	0.1328	0.012567					PASS	PRJEB54899
 ELY001	F	Sk 2209	England_EMA	England	Ely	52.4001	0.2607	C14	1562	32	SUERC-76688	418	492	566	J1c2b		Petrous		Shotgun	Half	double			399065	0.3617	0.1152						PASS	PRJEB54899
 ELY002	F	Sk 1918	England_EMA	England	Ely	52.4001	0.2607	C14	1609	19	MAMS 52104	417	477	537	H1bb		Petrous		Shotgun	Half	double			1002637	1.6432	0.0982						PASS	PRJEB54899
