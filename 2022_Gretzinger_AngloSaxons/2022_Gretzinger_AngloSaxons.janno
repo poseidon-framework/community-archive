@@ -2,26 +2,26 @@ Poseidon_ID	Genetic_Sex	Collection_ID	Group_Name	Country	Location	Latitude	Longi
 ADN001	M	24033	NGermany_EMA_Anderten	Germany	Hannover-Anderten	52.3597	9.8695	C14	1207	18	MAMS 52072	774	828.5	883	H56	J2b2a1a1a1a1a1a1~	Petrous		1240k	None	single			832578	4.1946	0.2762	0.013					PASS	PRJEB54899
 ADN002	M	24071	NGermany_EMA_Anderten	Germany	Hannover-Anderten	52.3597	9.8695	C14	1258	19	MAMS 52073	677	750	823	U5a2c3a	R1b1a1b1a1a1c2b2a1b1a	Petrous		1240k	None	single			816944	3.9893	0.2187	0.016					PASS	PRJEB54899
 ADN003	F	24027	NGermany_EMA_Anderten	Germany	Hannover-Anderten	52.3597	9.8695	C14	1251	16	MAMS 52092	678	770	862	H2a2a1		Petrous		1240k	None	single			806668	3.9086	0.2622						PASS	PRJEB54899
-ADN004	M	24042	NGermany_EMA_Anderten	Germany	Hannover-Anderten	52.3597	9.8695	C14				650	750	850	H5e1	R1b1a1b1a1a	Tooth		1240k	None	single			261883	0.4413	0.1853	0.013					PASS	PRJEB54899
+ADN004	M	24042	NGermany_EMA_Anderten	Germany	Hannover-Anderten	52.3597	9.8695	contextual				650	750	850	H5e1	R1b1a1b1a1a	Tooth		1240k	None	single			261883	0.4413	0.1853	0.013					PASS	PRJEB54899
 ADN005	M	24020	NGermany_EMA_Anderten	Germany	Hannover-Anderten	52.3597	9.8695	C14	1184	19	MAMS 52093	775	855.5	936	H2a2a1	J2b2a1a1a1a1a1a1~	Petrous		1240k	None	single			885606	4.9558	0.2382	0.017					PASS	PRJEB54899
-ADN006	F	24017	NGermany_EMA_Anderten	Germany	Hannover-Anderten	52.3597	9.8695	C14				650	750	850	J1b1a1b		Petrous		1240k	None	single			883114	5.1316	0.2629						PASS	PRJEB54899
-ADN007	M	24072	NGermany_EMA_Anderten	Germany	Hannover-Anderten	52.3597	9.8695	C14				650	750	850	V	R1b1a1b1a1a2	Petrous		1240k	None	single			866440	4.5097	0.253	0.015					PASS	PRJEB54899
+ADN006	F	24017	NGermany_EMA_Anderten	Germany	Hannover-Anderten	52.3597	9.8695	contextual				650	750	850	J1b1a1b		Petrous		1240k	None	single			883114	5.1316	0.2629						PASS	PRJEB54899
+ADN007	M	24072	NGermany_EMA_Anderten	Germany	Hannover-Anderten	52.3597	9.8695	contextual				650	750	850	V	R1b1a1b1a1a2	Petrous		1240k	None	single			866440	4.5097	0.253	0.015					PASS	PRJEB54899
 ADN008	M	24070	NGermany_EMA_Anderten	Germany	Hannover-Anderten	52.3597	9.8695	C14	1135	19	MAMS 52094	776	882.5	989	H3af	I1~	Petrous		1240k	None	single			908517	5.3902	0.2039	0.014					PASS	PRJEB54899
-ADN009	M	24024	NGermany_EMA_Anderten_dup	Germany	Hannover-Anderten	52.3597	9.8695	C14				650	750	850	H2a2a1	J2b2a1a1a1a1a1a1~	Petrous		1240k	None	single			793913	3.6368	0.2512	0.018					PASS	PRJEB54899
-ADN010	M	24024	NGermany_EMA_Anderten	Germany	Hannover-Anderten	52.3597	9.8695	C14				650	750	850	H2a2a1	J2b2a1a1a1a1a1a1~	Petrous		1240k	None	single			865244	4.5292	0.2513	0.019					PASS	PRJEB54899
-ADN011	F	24077	NGermany_EMA_Anderten	Germany	Hannover-Anderten	52.3597	9.8695	C14				650	750	850	K1a4a1a2a		Petrous		1240k	None	single			799614	3.9006	0.2173						PASS	PRJEB54899
+ADN009	M	24024	NGermany_EMA_Anderten_dup	Germany	Hannover-Anderten	52.3597	9.8695	contextual				650	750	850	H2a2a1	J2b2a1a1a1a1a1a1~	Petrous		1240k	None	single			793913	3.6368	0.2512	0.018					PASS	PRJEB54899
+ADN010	M	24024	NGermany_EMA_Anderten	Germany	Hannover-Anderten	52.3597	9.8695	contextual				650	750	850	H2a2a1	J2b2a1a1a1a1a1a1~	Petrous		1240k	None	single			865244	4.5292	0.2513	0.019					PASS	PRJEB54899
+ADN011	F	24077	NGermany_EMA_Anderten	Germany	Hannover-Anderten	52.3597	9.8695	contextual				650	750	850	K1a4a1a2a		Petrous		1240k	None	single			799614	3.9006	0.2173						PASS	PRJEB54899
 DRU001	F	Grave I 4	NGermany_EMA_Drantum	Germany	Drantum	52.8147	8.1923	C14	1295	18	MAMS 52074	666	719.5	773	HV+16311		Petrous		1240k	None	single			657795	2.1603	0.3717						PASS	PRJEB54899
-DRU002	F	Grave II 10	NGermany_EMA_Drantum	Germany	Drantum	52.8147	8.1923	C14				600	750	900	U2e2a		Petrous		1240k	None	single			495486	1.132	0.4566						PASS	PRJEB54899
+DRU002	F	Grave II 10	NGermany_EMA_Drantum	Germany	Drantum	52.8147	8.1923	contextual				600	750	900	U2e2a		Petrous		1240k	None	single			495486	1.132	0.4566						PASS	PRJEB54899
 DRU003	M	Grave I 18	NGermany_EMA_Drantum	Germany	Drantum	52.8147	8.1923	C14	1194	19	MAMS 52075	775	830.5	886	H11a2a	R1a1a1b1a3a2b1~	Petrous		1240k	None	single			718486	2.6415	0.3589	0.031226					PASS	PRJEB54899
-DRU004	F	Grave I 7	NGermany_EMA_Drantum	Germany	Drantum	52.8147	8.1923	C14				600	750	900	U5b1c2b		Petrous		1240k	None	single			543563	1.406	0.3545						PASS	PRJEB54899
-DRU005	M	Grave 7 West	NGermany_EMA_Drantum	Germany	Drantum	52.8147	8.1923	C14				600	750	900	H4a1a4b	I1~	Petrous		1240k	None	single			275343	0.49	0.4668	0.062896  (0.049 after PMD)					PASS	PRJEB54899
+DRU004	F	Grave I 7	NGermany_EMA_Drantum	Germany	Drantum	52.8147	8.1923	contextual				600	750	900	U5b1c2b		Petrous		1240k	None	single			543563	1.406	0.3545						PASS	PRJEB54899
+DRU005	M	Grave 7 West	NGermany_EMA_Drantum	Germany	Drantum	52.8147	8.1923	contextual				600	750	900	H4a1a4b	I1~	Petrous		1240k	None	single			275343	0.49	0.4668	0.062896					PASS	PRJEB54899
 DRU006	F	Grave 45	NGermany_EMA_Drantum	Germany	Drantum	52.8147	8.1923	C14	1185	20	MAMS52096	775	854.5	934	K1a+195		Petrous		1240k	None	single			831658	4.1611	0.3376						PASS	PRJEB54899
-DRU007	F	Grave II 11	NGermany_EMA_Drantum	Germany	Drantum	52.8147	8.1923	C14				600	750	900	H51		Petrous		1240k	None	single			551379	1.4224	0.4531						PASS	PRJEB54899
-EAS005	M	Grave 37	England_EMA	England	Eastry Updown	51.2453	1.3034	C14				600	650	700	I2		Tooth		1240k	None	single			13337	0.0189	0.3564	NA					PASS	PRJEB54899
-EAS006	M	Grave 52	England_EMA	England	Eastry Updown	51.2453	1.3034	C14				600	650	700	I4a	E1b1b1a1b1a	Tooth		1240k	None	single			751743	2.756	0.2604	0.012933					PASS	PRJEB54899
-HAD018	M	SK 224	England_EMA_dup	England	Hatherdene Close	52.1968	0.1703	C14				544	572.5	601	U4c1a	R1b1a1b1a1a2c1	Petrous		1240k	None	single			838425	4.3053	0.2611	0.017928					PASS	PRJEB54899
+DRU007	F	Grave II 11	NGermany_EMA_Drantum	Germany	Drantum	52.8147	8.1923	contextual				600	750	900	H51		Petrous		1240k	None	single			551379	1.4224	0.4531						PASS	PRJEB54899
+EAS005	M	Grave 37	England_EMA	England	Eastry Updown	51.2453	1.3034	contextual				600	650	700	I2		Tooth		1240k	None	single			13337	0.0189	0.3564	NA					PASS	PRJEB54899
+EAS006	M	Grave 52	England_EMA	England	Eastry Updown	51.2453	1.3034	contextual				600	650	700	I4a	E1b1b1a1b1a	Tooth		1240k	None	single			751743	2.756	0.2604	0.012933					PASS	PRJEB54899
+HAD018	M	SK 224	England_EMA_dup	England	Hatherdene Close	52.1968	0.1703	contextual				544	572.5	601	U4c1a	R1b1a1b1a1a2c1	Petrous		1240k	None	single			838425	4.3053	0.2611	0.017928					PASS	PRJEB54899
 HID001.A	M	522n:2019	NGermany_EMA_Hiddestorf_dup	Germany	Hiddestorf	52.2804	9.7125	C14	No	collagen	MAMS 52082	400 CE			NA	R1b1a1b1a1a2	Petrous		1240k	None	single			390189	0.7631	0.2029	0.003					PASS	PRJEB54899
-HID001.B	M	522n:2019	NGermany_EMA_Hiddestorf	Germany	Hiddestorf	52.2804	9.7125	C14				400 CE			NA	R1b1a1b1a1a2	Tooth		1240k	None	single			624220	1.674	0.2219	0.004					PASS	PRJEB54899
+HID001.B	M	522n:2019	NGermany_EMA_Hiddestorf	Germany	Hiddestorf	52.2804	9.7125	contextual				400 CE			NA	R1b1a1b1a1a2	Tooth		1240k	None	single			624220	1.674	0.2219	0.004					PASS	PRJEB54899
 HID002.A	M	538g:2019	NGermany_EMA_Hiddestorf	Germany	Hiddestorf	52.2804	9.7125	C14	No	collagen	MAMS 52083	400 CE			H15a1	R1b1a1b1a1a2	Petrous		1240k	None	single			932129	5.8442	0.2427	0.013					PASS	PRJEB54899
 HID002.B	M	538g:2019	NGermany_EMA_Hiddestorf_dup	Germany	Hiddestorf	52.2804	9.7125	C14				400 CE			H15a1	R1b1a1b1a1a2	Tooth		1240k	None	single			682012	1.6581	0.2755	0.018					PASS	PRJEB54899
 HID003	M	539a:2019	NGermany_EMA_Hiddestorf	Germany	Hiddestorf	52.2804	9.7125	C14	1600	18	MAMS 52110	421	479	537	T2b3+151	R1b1a1b1a1a1	Tooth		1240k	None	single			195009	0.3199	0.2026	0.028					PASS	PRJEB54899
@@ -88,6 +88,7 @@ SED012	F	S0034	England_EMA	England	Sedgeford	52.8997	0.5443	C14				700	775	850	J
 SED019	M	S1049	England_EMA	England	Sedgeford	52.8997	0.5443	C14				700	775	850	H1bh		Tooth		1240k	None	single			325126	0.5752	0.1351	0.015365					PASS	PRJEB54899
 EAS001	F	Grave 34	England_EMA	England	Eastry Updown	51.2453	1.3034	C14	1416	17	MAMS 52078	605	629.5	654	U5b1c2b		Petrous		Shotgun	Half	double			971804	1.5375	0.1305						PASS	PRJEB54899
 EAS002	F	Grave 45	England_EMA	England	Eastry Updown	51.2453	1.3034	C14				600	650	700	U5b1c2b		Petrous		Shotgun	Half	double			446614	0.4121	0.1154						PASS	PRJEB54899
+EAS003	F	Grave 47	England_EMA_oAfrica	England	Eastry Updown	51.2453	1.3034	contextual				600	650	700	U5b1c2b		Petrous		Shotgun	Half	double			773188	0.932	0.1161						PASS		
 EAS004	M	Grave 48	England_EMA	England	Eastry Updown	51.2453	1.3034	C14	1480	18	MAMS 52079	562	601	640	H3+16311	R1b1a1b1a1a2c1	Petrous		Shotgun	Half	double			398861	0.3547	0.1328	0.012567					PASS	PRJEB54899
 ELY001	F	Sk 2209	England_EMA	England	Ely	52.4001	0.2607	C14	1562	32	SUERC-76688	418	492	566	J1c2b		Petrous		Shotgun	Half	double			399065	0.3617	0.1152						PASS	PRJEB54899
 ELY002	F	Sk 1918	England_EMA	England	Ely	52.4001	0.2607	C14	1609	19	MAMS 52104	417	477	537	H1bb		Petrous		Shotgun	Half	double			1002637	1.6432	0.0982						PASS	PRJEB54899
