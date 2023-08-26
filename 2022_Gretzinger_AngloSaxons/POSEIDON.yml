@@ -1,0 +1,18 @@
+poseidonVersion: 2.5.0
+title: 2022_Gretzinger_AngloSaxons
+description: This article provides provide insights about the Anglo-Saxon migration and the formation of the early English gene pool
+contributor:
+- name: Dhananjaya Aththanayaka
+  email: dhananjaya.aththanayaka@eva.mpg.de
+packageVersion: 1.0.2
+lastModified: 2022-03-14
+genotypeData:
+  format: PLINK
+  genoFile: 2022_Gretzinger_AngloSaxons.geno
+  snpFile: 2022_Gretzinger_AngloSaxons.snp
+  indFile: 2022_Gretzinger_AngloSaxons.ind
+  snpSet: 1240K
+jannoFile: 2022_Gretzinger_AngloSaxons.janno
+bibFile: 2022_Gretzinger_AngloSaxons.bib
+readmeFile: README.txt
+changelogFile: CHANGELOG.md
