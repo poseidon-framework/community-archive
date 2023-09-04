@@ -9,10 +9,10 @@ contributor:
 packageVersion: 1.0.0
 lastModified: 2023-09-01
 genotypeData:
-  format: EIGENSTRAT
-  genoFile: 2022_Gretzinger_AngloSaxons.geno
-  snpFile: 2022_Gretzinger_AngloSaxons.snp
-  indFile: 2022_Gretzinger_AngloSaxons.ind
+  format: PLINK
+  genoFile: 2022_Gretzinger_AngloSaxons.bed
+  snpFile: 2022_Gretzinger_AngloSaxons.bim
+  indFile: 2022_Gretzinger_AngloSaxons.fam
   snpSet: 1240K
 jannoFile: 2022_Gretzinger_AngloSaxons.janno
 bibFile: 2022_Gretzinger_AngloSaxons.bib
