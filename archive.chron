@@ -1,6 +1,6 @@
 title: Poseidon community-archive chronicle
-chronicleVersion: 1.3.0
-lastModified: 2023-07-26
+chronicleVersion: 1.4.0
+lastModified: 2023-09-26
 packages:
 - title: 2010_RasmussenNature
   version: 2.1.1
@@ -18,9 +18,17 @@ packages:
   version: 2.1.1
   commit: 7f52e722d29286ccf04320b5dfb6efee4b19e9f5
   path: 2012_PattersonGenetics
+- title: 2012_PattersonGenetics
+  version: 2.1.3
+  commit: 6c49c1c37b8e6e2bb9555863a66fc2bce3622177
+  path: 2012_PattersonGenetics
 - title: 2012_PickrellNatureCommunications
   version: 2.1.1
   commit: 7f52e722d29286ccf04320b5dfb6efee4b19e9f5
+  path: 2012_PickrellNatureCommunications
+- title: 2012_PickrellNatureCommunications
+  version: 2.1.2
+  commit: 6c49c1c37b8e6e2bb9555863a66fc2bce3622177
   path: 2012_PickrellNatureCommunications
 - title: 2014_FuNature
   version: 2.1.1
@@ -37,6 +45,10 @@ packages:
 - title: 2014_LazaridisNature
   version: 4.0.0
   commit: e91a3be5eacda1be57f596b78a58a243829c6564
+  path: 2014_LazaridisNature
+- title: 2014_LazaridisNature
+  version: 4.0.2
+  commit: 6c49c1c37b8e6e2bb9555863a66fc2bce3622177
   path: 2014_LazaridisNature
 - title: 2014_MalaspinasCurrentBiology
   version: 2.1.1
@@ -69,6 +81,10 @@ packages:
 - title: 2015_1000Genomes_1240K_haploid_pulldown
   version: 2.1.1
   commit: 7f52e722d29286ccf04320b5dfb6efee4b19e9f5
+  path: 2015_1000Genomes_1240K_haploid_pulldown
+- title: 2015_1000Genomes_1240K_haploid_pulldown
+  version: 2.1.2
+  commit: 6c49c1c37b8e6e2bb9555863a66fc2bce3622177
   path: 2015_1000Genomes_1240K_haploid_pulldown
 - title: 2015_AllentoftNature
   version: 2.1.1
@@ -138,6 +154,10 @@ packages:
   version: 2.1.1
   commit: 7f52e722d29286ccf04320b5dfb6efee4b19e9f5
   path: 2016_LazaridisNature
+- title: 2016_LazaridisNature
+  version: 2.1.3
+  commit: 6c49c1c37b8e6e2bb9555863a66fc2bce3622177
+  path: 2016_LazaridisNature
 - title: 2016_Mallick_SGDP1240K_diploid_pulldown
   version: 2.1.1
   commit: 7f52e722d29286ccf04320b5dfb6efee4b19e9f5
@@ -161,6 +181,10 @@ packages:
 - title: 2016_SkoglundNature
   version: 2.1.1
   commit: 7f52e722d29286ccf04320b5dfb6efee4b19e9f5
+  path: 2016_SkoglundNature
+- title: 2016_SkoglundNature
+  version: 2.1.2
+  commit: 6c49c1c37b8e6e2bb9555863a66fc2bce3622177
   path: 2016_SkoglundNature
 - title: 2017_GonzalesFortesCurrentBiology
   version: 2.1.1
@@ -222,6 +246,10 @@ packages:
   version: 2.1.1
   commit: 7f52e722d29286ccf04320b5dfb6efee4b19e9f5
   path: 2017_SkoglundCell
+- title: 2017_SkoglundCell
+  version: 2.1.2
+  commit: 6c49c1c37b8e6e2bb9555863a66fc2bce3622177
+  path: 2017_SkoglundCell
 - title: 2017_UnterlanderNatureCommunications
   version: 2.1.1
   commit: 7f52e722d29286ccf04320b5dfb6efee4b19e9f5
@@ -233,6 +261,10 @@ packages:
 - title: 2017_VyasAJPA
   version: 2.1.1
   commit: 7f52e722d29286ccf04320b5dfb6efee4b19e9f5
+  path: 2017_VyasAJPA
+- title: 2017_VyasAJPA
+  version: 2.1.2
+  commit: 6c49c1c37b8e6e2bb9555863a66fc2bce3622177
   path: 2017_VyasAJPA
 - title: 2017_YangCurrentBiology
   version: 2.1.1
@@ -366,6 +398,10 @@ packages:
   version: 2.2.0
   commit: 7f52e722d29286ccf04320b5dfb6efee4b19e9f5
   path: 2019_Biagini_Spain
+- title: 2019_Biagini_Spain
+  version: 2.2.1
+  commit: 6c49c1c37b8e6e2bb9555863a66fc2bce3622177
+  path: 2019_Biagini_Spain
 - title: 2019_BraceNatureEcologyEvolution
   version: 2.1.0
   commit: 7f52e722d29286ccf04320b5dfb6efee4b19e9f5
@@ -390,6 +426,10 @@ packages:
   version: 2.2.0
   commit: 7f52e722d29286ccf04320b5dfb6efee4b19e9f5
   path: 2019_Flegontov_PalaeoEskimo
+- title: 2019_Flegontov_PalaeoEskimo
+  version: 2.2.1
+  commit: 6c49c1c37b8e6e2bb9555863a66fc2bce3622177
+  path: 2019_Flegontov_PalaeoEskimo
 - title: 2019_GonzalesFortes_Iberia
   version: 2.2.0
   commit: 7f52e722d29286ccf04320b5dfb6efee4b19e9f5
@@ -413,6 +453,10 @@ packages:
 - title: 2019_Jeong_InnerEurasia
   version: 3.0.0
   commit: e91a3be5eacda1be57f596b78a58a243829c6564
+  path: 2019_Jeong_InnerEurasia
+- title: 2019_Jeong_InnerEurasia
+  version: 3.0.1
+  commit: 6c49c1c37b8e6e2bb9555863a66fc2bce3622177
   path: 2019_Jeong_InnerEurasia
 - title: 2019_Malmstrom_Scandinavia
   version: 2.2.0
