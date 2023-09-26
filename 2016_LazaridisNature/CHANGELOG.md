@@ -1,3 +1,5 @@
+- V 2.1.3: removed Capture info for modern samples
+- V 2.1.2: fixed Genotype_Ploidy information
 - V 2.1.1: Fixed attribution to a wrong AADR version
 - V 2.1.0: Update of references in the .bib file
 - V 2.0.1: Genetic_Source_Accession_IDs

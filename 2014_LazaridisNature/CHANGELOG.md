@@ -1,3 +1,5 @@
+- V 4.0.2: removed Capture info for modern samples
+- V 4.0.1: fixed Genotype_Ploidy information
 - V 4.0.0: Changed a group name that is incompatible with trident ('<' -> 'lt')
 - V 3.1.1: Fixed attribution to a wrong AADR version
 - V 3.1.0: Update of references in the .bib file

@@ -1,3 +1,4 @@
+- V 2.2.1: removed Capture info for modern samples
 - V 2.2.0: Update of references in the .bib file
 - V 2.1.2: Fixed wrongly encoded characters in site names
 - V 2.1.1: Longitude and latitude in the .janno file were switched

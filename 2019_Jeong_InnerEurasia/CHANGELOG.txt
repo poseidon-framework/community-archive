@@ -1,3 +1,4 @@
+- V 3.0.1: fixed Genotype_Ploidy information
 - V 3.0.0: Changed two group names that are incompatible with trident ('<' -> 'lt')
 - V 2.1.0: Update of references in the .bib file
 - V 2.0.1: Genetic_Source_Accession_IDs added

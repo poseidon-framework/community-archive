@@ -7,8 +7,8 @@ contributor:
   email: ghalichi@shh.mpg.de
 - name: Clemens Schmid
   email: schmid@shh.mpg.de
-packageVersion: 2.1.1
-lastModified: 2023-07-11
+packageVersion: 2.1.2
+lastModified: 2023-09-14
 genotypeData:
   format: PLINK
   genoFile: 2017_VyasAJPA.bed
@@ -19,7 +19,7 @@ genotypeData:
   indFileChkSum: 62d430c20439946aef6b53cc2b6b6e19
   snpSet: HumanOrigins
 jannoFile: 2017_VyasAJPA.janno
-jannoFileChkSum: fe13a78dd7e7cdee04a66d9dbde3050c
+jannoFileChkSum: 6b0ed9733e93f8659c482977f3ef54fe
 bibFile: 2017_VyasAJPA.bib
 bibFileChkSum: 9e7306c2e6345c122bd990d485301220
 changelogFile: CHANGELOG.md
