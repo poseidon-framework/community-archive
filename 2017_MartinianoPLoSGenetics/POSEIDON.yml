@@ -1,13 +1,11 @@
 poseidonVersion: 2.5.0
 title: 2017_MartinianoPLoSGenetics
-description: This package was initially constructed based on the Allen Ancient DNA
-  Resource (https://reich.hms.harvard.edu/allen-ancient-dna-resource-aadr-downloadable-genotypes-present-day-and-ancient-dna-data,
-  version 37.2)
+description: Neolithic and Bronze Age samples from Iberia. Originally AADR v42.4.
 contributor:
 - name: Ayshin Ghalichi
   email: ghalichi@shh.mpg.de
-packageVersion: 2.0.1
-lastModified: 2022-02-25
+packageVersion: 2.1.1
+lastModified: 2023-07-11
 genotypeData:
   format: PLINK
   genoFile: 2017_MartinianoPLoSGenetics.bed
@@ -18,7 +16,7 @@ genotypeData:
   indFileChkSum: 28b3fce62d949d71f7728fe9b83b31fd
   snpSet: 1240K
 jannoFile: 2017_MartinianoPLoSGenetics.janno
-jannoFileChkSum: fe725cf506b7cebb9ca77f6901cad31d
+jannoFileChkSum: 610f79f11a6c67ba193dd08cd5ad241b
 bibFile: 2017_MartinianoPLoSGenetics.bib
-bibFileChkSum: e51647832570c2891eeec61d1f1cfeb5
+bibFileChkSum: 8eb91f92e4e000dc69e710c3cc715f71
 changelogFile: CHANGELOG.md

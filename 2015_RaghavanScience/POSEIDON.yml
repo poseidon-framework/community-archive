@@ -1,13 +1,12 @@
 poseidonVersion: 2.5.0
 title: 2015_RaghavanScience
-description: Diachronic transect of ancient individuals from the Americas. This package
-  was initially constructed based on the Allen Ancient DNA Resource (https://reich.hms.harvard.edu/allen-ancient-dna-resource-aadr-downloadable-genotypes-present-day-and-ancient-dna-data,
-  version 37.2)
+description: Diachronic transect of ancient individuals from the Americas. Originally
+  AADR v42.4.
 contributor:
 - name: Ayshin Ghalichi
   email: ghalichi@shh.mpg.de
-packageVersion: 2.0.1
-lastModified: 2022-02-21
+packageVersion: 2.1.1
+lastModified: 2023-07-11
 genotypeData:
   format: PLINK
   genoFile: 2015_RaghavanScience.bed
@@ -18,7 +17,7 @@ genotypeData:
   indFileChkSum: 904a00d9242e9b48dbd1d5f055f2bc98
   snpSet: 1240K
 jannoFile: 2015_RaghavanScience.janno
-jannoFileChkSum: 97afecbd889f7ef16a57b1821a0c2485
+jannoFileChkSum: 24f5b3b9b24ff0a493351326faf303ff
 bibFile: 2015_RaghavanScience.bib
-bibFileChkSum: 3c5c9c27c02298f0dfbb5fae9c5b3602
+bibFileChkSum: 3a6c0f18d8503a3d91e64bae4bb14f27
 changelogFile: CHANGELOG.md

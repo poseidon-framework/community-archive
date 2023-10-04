@@ -1,13 +1,11 @@
-poseidonVersion: 2.5.0
+poseidonVersion: 2.7.1
 title: 2018_VeeramahPNAS
-description: This package was initially constructed based on the Allen Ancient DNA
-  Resource (https://reich.hms.harvard.edu/allen-ancient-dna-resource-aadr-downloadable-genotypes-present-day-and-ancient-dna-data,
-  version 37.2). Ancient genomes from Southern Germany.
+description: Ancient genomes from Southern Germany. Originally AADR v42.4.
 contributor:
 - name: Ayshin Ghalichi
   email: ghalichi@shh.mpg.de
-packageVersion: 2.0.1
-lastModified: 2022-02-26
+packageVersion: 2.2.1
+lastModified: 2023-07-11
 genotypeData:
   format: PLINK
   genoFile: 2018_VeeramahPNAS.bed
@@ -18,7 +16,9 @@ genotypeData:
   indFileChkSum: 5a52b9dcf138e4fd9673943c70189546
   snpSet: 1240K
 jannoFile: 2018_VeeramahPNAS.janno
-jannoFileChkSum: f0473b7d21fd0b84f29cbb2cb25a1e4f
+jannoFileChkSum: 6065df653a98bf958bd20b59c15374b9
+sequencingSourceFile: ENAtable.ssf
+sequencingSourceFileChkSum: b49702b0722af07d1278dd014b93104d
 bibFile: 2018_VeeramahPNAS.bib
-bibFileChkSum: 2c3cf7dd43c0fe58558fb927a7ab568f
+bibFileChkSum: 67f2fe3336cd25b3b512bfe0fa6c489c
 changelogFile: CHANGELOG.md

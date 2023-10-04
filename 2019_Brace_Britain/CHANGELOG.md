@@ -1,2 +1,4 @@
-V 2.0.1: Genetic_Source_Accession_IDs added
-V 2.0.0: updated the package to Poseidon v2.5 and adjusted the .janno file accordingly
+- V 3.0.0: Merged 2019_Brace_Britain with 2019_BraceNatureEcologyEvolution - they are from the same publication
+- V 2.1.0: Update of references in the .bib file
+- V 2.0.1: Genetic_Source_Accession_IDs added
+- V 2.0.0: updated the package to Poseidon v2.5 and adjusted the .janno file accordingly

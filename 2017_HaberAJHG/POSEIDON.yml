@@ -1,13 +1,11 @@
 poseidonVersion: 2.5.0
 title: 2017_HaberAJHG
-description: This package was initially constructed based on the Allen Ancient DNA
-  Resource (https://reich.hms.harvard.edu/allen-ancient-dna-resource-aadr-downloadable-genotypes-present-day-and-ancient-dna-data,
-  version 37.2)
+description: Bronze Age samples from Lebanon. Originally AADR v42.4.
 contributor:
 - name: Ayshin Ghalichi
   email: ghalichi@shh.mpg.de
-packageVersion: 2.0.1
-lastModified: 2022-02-22
+packageVersion: 2.1.1
+lastModified: 2023-07-11
 genotypeData:
   format: PLINK
   genoFile: 2017_HaberAJHG.bed
@@ -18,7 +16,7 @@ genotypeData:
   indFileChkSum: dbc23075dbb1a60e1b5f7482bab12172
   snpSet: 1240K
 jannoFile: 2017_HaberAJHG.janno
-jannoFileChkSum: 2506a1b827a6f070bd3b28959f85da57
+jannoFileChkSum: 26bbfc8520c80d56ffe3c6d7296fb660
 bibFile: 2017_HaberAJHG.bib
-bibFileChkSum: bd2173142087b4bcb6c106ae6e0980c9
+bibFileChkSum: d02bea1eed51bf02695e9332939042e8
 changelogFile: CHANGELOG.md

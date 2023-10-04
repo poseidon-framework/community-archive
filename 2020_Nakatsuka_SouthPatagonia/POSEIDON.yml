@@ -1,22 +1,28 @@
-poseidonVersion: 2.5.0
+poseidonVersion: 2.7.1
 title: 2020_Nakatsuka_SouthPatagonia
-description: Ancient samples from South Patagonia.
+description: Ancient samples from South Patagonia. Originally AADR v42.4.
 contributor:
 - name: Ayshin Ghalichi
   email: ghalichi@shh.mpg.de
-packageVersion: 2.0.0
-lastModified: 2022-01-28
+- name: Dhananjaya Aththanayaka
+  email: dhananjaya_aththnayaka@mpg.eva.net
+- name: Clemens Schmid
+  email: clemens_schmid@eva.mpg.de
+packageVersion: 4.3.0
+lastModified: 2023-07-11
 genotypeData:
   format: PLINK
   genoFile: Nakatsuka_SouthPatagonia.bed
-  genoFileChkSum: 44a3d43c04cad943ae0cfe6b0e20ec90
+  genoFileChkSum: 576ac18cd88e8f4b48c5c36a5bf5d3a5
   snpFile: Nakatsuka_SouthPatagonia.bim
-  snpFileChkSum: 1e2346f22af653b45f0320485ced3699
+  snpFileChkSum: 433fa85a23f3123bade02348e4628b75
   indFile: Nakatsuka_SouthPatagonia.fam
-  indFileChkSum: 3a537caa5f74fc22c7baebee33ac5f27
+  indFileChkSum: 9f00f829e11fa66f591cfa382a0c91b6
   snpSet: 1240K
 jannoFile: Nakatsuka_SouthPatagonia.janno
-jannoFileChkSum: 529928ec41602fff1a6feccbfe86a5e4
-bibFile: LITERATURE.bib
-bibFileChkSum: d7ff8ee332d5ce11ea499d89d8d2616b
+jannoFileChkSum: 7b112a891708c763709dbb99821273e7
+sequencingSourceFile: ENAtable.ssf
+sequencingSourceFileChkSum: c1dee730a20c623ff3e3e9735b7c4128
+bibFile: Nakatsuka_SouthPatagonia.bib
+bibFileChkSum: 7f4fd25f2ff3e1198453e4438fdcc45e
 changelogFile: CHANGELOG.md

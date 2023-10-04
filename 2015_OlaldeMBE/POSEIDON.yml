@@ -1,13 +1,11 @@
 poseidonVersion: 2.5.0
 title: 2015_OlaldeMBE
-description: An Early Neolithic sample from Iberia. This package was initially constructed
-  based on the Allen Ancient DNA Resource (https://reich.hms.harvard.edu/allen-ancient-dna-resource-aadr-downloadable-genotypes-present-day-and-ancient-dna-data,
-  version 37.2)
+description: An Early Neolithic sample from Iberia. Originally AADR v42.4.
 contributor:
 - name: Ayshin Ghalichi
   email: ghalichi@shh.mpg.de
-packageVersion: 2.0.1
-lastModified: 2022-02-21
+packageVersion: 2.1.1
+lastModified: 2023-07-11
 genotypeData:
   format: PLINK
   genoFile: 2015_OlaldeMBE.bed
@@ -18,7 +16,7 @@ genotypeData:
   indFileChkSum: fae8f1eb16048ceeea1316645bbfb60c
   snpSet: 1240K
 jannoFile: 2015_OlaldeMBE.janno
-jannoFileChkSum: 459bd5871271b35e02ebfcf1b4d548b9
+jannoFileChkSum: c85a80438459841df9f434b5d816488a
 bibFile: 2015_OlaldeMBE.bib
-bibFileChkSum: a6b3f09a1dd4c6d68dfaad69fd383798
+bibFileChkSum: 35ad0caaf9fbd6f5b2a2a83dceddb961
 changelogFile: CHANGELOG.md

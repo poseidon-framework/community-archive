@@ -1,14 +1,13 @@
 poseidonVersion: 2.5.0
 title: 2018_Posth_SouthAmerica
-description: Genetic data published in Posth et al. 2018. Ancient genomes from South
-  America.
+description: Ancient genomes from South America. Originally AADR v42.4.
 contributor:
 - name: Cosimo Posth
   email: posth@shh.mpg.de
 - name: Clemens Schmid
   email: schmid@shh.mpg.de
-packageVersion: 2.0.1
-lastModified: 2022-02-25
+packageVersion: 2.1.1
+lastModified: 2023-07-11
 genotypeData:
   format: PLINK
   genoFile: Posth_SouthAmerica.bed
@@ -19,7 +18,7 @@ genotypeData:
   indFileChkSum: 7b099a56dcaf4b6adb0e98ff91399596
   snpSet: 1240K
 jannoFile: Posth_SouthAmerica.janno
-jannoFileChkSum: 602301167e88267c5e751a06c11493d5
+jannoFileChkSum: e6b4437c57e4586e89c1e16b035bfcf4
 bibFile: LITERATURE.bib
-bibFileChkSum: 6a050eb1532922650bda72c77c9d6456
+bibFileChkSum: 5948a0d4752448088f8202c1e78b9710
 changelogFile: CHANGELOG.md
