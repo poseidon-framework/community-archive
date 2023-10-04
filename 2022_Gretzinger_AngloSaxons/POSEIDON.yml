@@ -17,4 +17,5 @@ genotypeData:
 jannoFile: 2022_Gretzinger_AngloSaxons.janno
 bibFile: 2022_Gretzinger_AngloSaxons.bib
 readmeFile: README.md
+sequencingSourceFile: 2022_Gretzinger_AngloSaxons.ssf
 changelogFile: CHANGELOG.md
