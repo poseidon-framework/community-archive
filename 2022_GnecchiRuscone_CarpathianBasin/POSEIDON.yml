@@ -1,0 +1,16 @@
+poseidonVersion: 2.5.0
+title: 2022_GnecchiRuscone_CarpathianBasin
+description: Empty package template. Please add a description
+contributor:
+- name: Guido_Alberto_Gnecchi_Ruscone
+  email: guido_gnecchi@eva.mpg.de
+packageVersion: 0.1.0
+lastModified: 2022-04-25
+genotypeData:
+  format: EIGENSTRAT
+  genoFile: 1240K.Jena.Boston.pseudohapOnly.210302.geno
+  snpFile: 1240K.Jena.Boston.pseudohapOnly.210302.snp
+  indFile: 1240K.Jena.Boston.pseudohapOnly.210302.ind
+  snpSet: 1240K
+jannoFile: 2022_GnecchiRuscone_CarpathianBasin.janno
+bibFile: 2022_GnecchiRuscone_CarpathianBasin.bib
