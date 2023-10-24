@@ -16,8 +16,6 @@ You can now open this Pull Request and then work through the relevant checklists
 
 ## PR Checklist for a new package submission
 
-### General package properties
-
 - [ ] The package does not exist already in the community archive, also not with a different name.
 - [ ] The package title in the `POSEIDON.yml` conforms to the general title structure suggested here: `<Year>_<Last name of first author>_<Region, time period or special feature of the paper>`, e.g. `2021_Zegarac_SoutheasternEurope`, `2021_SeguinOrlando_BellBeaker` or `2021_Kivisild_MedievalEstonia`.
 - [ ] The package is stored in a directory that is named like the package title.
