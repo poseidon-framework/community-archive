@@ -5,7 +5,7 @@ Hello there!
 
 Thanks for either
 i. preparing a new package for submission to the community archive or
-ii. improving a package.
+ii. improving one or multiple packages.
 
 Both tasks are described in the submission guide here: https://www.poseidon-adna.org/#/archive_submission_guide
 
@@ -31,7 +31,7 @@ Please ensure you are completing all the TODOs below.
   - [ ] A `.bib` file with references for each sample in the `.janno` file.
 - [ ] Every file in the submission is correctly referenced in the `POSEIDON.yml` file and there are no additional, supplementary files in the submission that are not documented there.
 - [ ] Genotype data, `.janno` and `.bib` file are all named after the package title and only differ in the file extension.
-- [ ] All text files are UTF-8 encoded and have Unix/Unix-like line endings (`LF`, not `CR+LF` or `CR`)
+- [ ] All text files are UTF-8 encoded and have Unix/Unix-like line endings (`LF`, not `CR+LF` or `CR`).
 - [ ] The package version in the `POSEIDON.yml` file is `1.0.0`.
 - [ ] The `POSEIDON.yml` file contains the corresponding checksums for the fields `genoFile`, `snpFile`, `indFile`, `jannoFile` and `bibFile`.
 - [ ] There is either no `CHANGELOG` file or one with a single entry for version `1.0.0`.
@@ -48,9 +48,22 @@ Please ensure you are completing all the TODOs below.
 
 <!-- TODO: Delete this section if you are not modifying an existing package, but add an entirely new one. -->
 
-## PR Checklist for modifying an existing package
+## PR Checklist for modifying one or multiple existing packages
 
+- [ ] The changes maintain the structural integrity of the affected packages.
+- [ ] The checksums of the modified files in the respective `POSEIDON.yml` files were adjusted properly.
+- [ ] Every file in the submission is correctly referenced in the relevant `POSEIDON.yml` files and there are no additional, supplementary files in the submission that are not documented there.
+- [ ] All text files are still UTF-8 encoded and have Unix/Unix-like line endings (`LF`, not `CR+LF` or `CR`).
 
+***
 
+- [ ] The `packageVersion` numbers of the affected packages were increased in their `POSEIDON.yml` files.
+- [ ] The changes were documented in the respective `CHANGELOG` files. If no `CHANGELOG` files existed previously it was added here.
+- [ ] The `lastModified` fields of the affected `POSEIDON.yml` files were updated.
+- [ ] The `contributor` fields were updated with `name`, `email` and `orcid` of the relevant, new contributors.
+
+***
+
+- [ ] All affected packages pass a validation with `trident validate --fullGeno`.
 
 <!-- TODO: Follow the steps outlined above and tick them off as you go. -->
