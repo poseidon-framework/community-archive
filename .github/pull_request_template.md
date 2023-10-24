@@ -33,18 +33,23 @@ You can now open this Pull Request and then work through the relevant checklists
 - [ ] Genotype data, `.janno` and `.bib` file are all named after the package title and only differ in the file extension.
 - [ ] All text files are UTF-8 encoded and have Unix/Unix-like line endings (`LF`, not `CR+LF` or `CR`).
 - [ ] The package version in the `POSEIDON.yml` file is `1.0.0`.
+- [ ] The `poseidonVersion` of the package in the `POSEIDON.yml` file is set to the latest version of the Poseidon schema.
 - [ ] The `POSEIDON.yml` file contains the corresponding checksums for the fields `genoFile`, `snpFile`, `indFile`, `jannoFile` and `bibFile`.
 - [ ] There is either no `CHANGELOG` file or one with a single entry for version `1.0.0`.
 
 ***
 
 - [ ] The `Publication` column in the `.janno` file is filled and the respective `.bib` file has complete entries for the listed mentioned keys.
-- [ ] The `.janno` file does not include any columns or columns only filled with `n/a`.
+- [ ] The `.janno` file does not include any empty columns or columns only filled with `n/a`.
 - [ ] The order of columns in the `.janno` file adheres to the standard order as defined in the Poseidon schema [here](https://github.com/poseidon-framework/poseidon-schema/blob/master/janno_columns.tsv).
 
 ***
 
 - [ ] The package passes a validation with `trident validate --fullGeno`.
+
+***
+
+- [ ] Large genotype data files are properly tracked with Git LFS and not directly pushed to the repository. For an instruction on how to set up Git LFS please look [here](https://www.poseidon-adna.org/#/archive_submission_guide?id=submitting-the-package).
 
 
 
@@ -67,3 +72,7 @@ You can now open this Pull Request and then work through the relevant checklists
 ***
 
 - [ ] All affected packages pass a validation with `trident validate --fullGeno`.
+
+***
+
+- [ ] Large genotype data files are properly tracked with Git LFS and not directly pushed to the repository. For an instruction on how to set up Git LFS please look [here](https://www.poseidon-adna.org/#/archive_submission_guide?id=submitting-the-package).
