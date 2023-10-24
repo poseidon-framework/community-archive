@@ -1,6 +1,4 @@
 <!--
-# Adding or modifying a package in poseidon-framework/community-archive
-
 Hello there!
 
 Thanks for either
@@ -9,8 +7,10 @@ ii. improving one or multiple packages.
 
 Both tasks are described in the submission guide here: https://www.poseidon-adna.org/#/archive_submission_guide
 
-Please ensure you are completing all the TODOs below.
+You can now open this Pull Request and then work through the relevant checklists below.
 -->
+
+
 
 <!-- TODO: Delete this section if you are not adding a new package, but only modify an existing one. -->
 
@@ -25,10 +25,10 @@ Please ensure you are completing all the TODOs below.
 ***
 
 - [ ] The package is complete and features the following elements:
-  - [ ] Genotype data in binary PLINK format.
-  - [ ] A `POSEIDON.yml` file with all of the following non-file reference fields present and filled with meaningful information: `poseidonVersion`, `title`, `description`, `contributor`, `packageVersion`, `lastModified` (see [here](https://github.com/poseidon-framework/poseidon-schema/blob/master/POSEIDON_yml_fields.tsv) for their definition)
-  - [ ] A reasonably filled `.janno` file.
-  - [ ] A `.bib` file with references for each sample in the `.janno` file.
+  - [ ] Genotype data in binary PLINK format (not EIGENSTRAT format).
+  - [ ] A `POSEIDON.yml` file with not just the file-referencing fields, but also the following meta-information fields present and filled: `poseidonVersion`, `title`, `description`, `contributor`, `packageVersion`, `lastModified` (see [here](https://github.com/poseidon-framework/poseidon-schema/blob/master/POSEIDON_yml_fields.tsv) for their definition)
+  - [ ] A reasonably filled `.janno` file (for a list of available fields look [here](https://github.com/poseidon-framework/poseidon-schema/blob/master/janno_columns.tsv) and [here](https://www.poseidon-adna.org/#/janno_details) for more detailed documentation about them).
+  - [ ] A `.bib` file with the necessary literature references for each sample in the `.janno` file.
 - [ ] Every file in the submission is correctly referenced in the `POSEIDON.yml` file and there are no additional, supplementary files in the submission that are not documented there.
 - [ ] Genotype data, `.janno` and `.bib` file are all named after the package title and only differ in the file extension.
 - [ ] All text files are UTF-8 encoded and have Unix/Unix-like line endings (`LF`, not `CR+LF` or `CR`).
@@ -45,6 +45,8 @@ Please ensure you are completing all the TODOs below.
 ***
 
 - [ ] The package passes a validation with `trident validate --fullGeno`.
+
+
 
 <!-- TODO: Delete this section if you are not modifying an existing package, but add an entirely new one. -->
 
@@ -65,5 +67,3 @@ Please ensure you are completing all the TODOs below.
 ***
 
 - [ ] All affected packages pass a validation with `trident validate --fullGeno`.
-
-<!-- TODO: Follow the steps outlined above and tick them off as you go. -->
