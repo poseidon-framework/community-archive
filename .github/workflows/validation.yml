@@ -29,3 +29,7 @@ jobs:
       run: ./checkForDisplacedFiles.sh
       working-directory: ./data
 
+    - name: Check if all registered files are actually LFS pointers
+      run: git lfs fsck --pointers
+      working-directory: ./data
+
