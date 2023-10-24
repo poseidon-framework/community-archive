@@ -49,7 +49,7 @@ You can now open this Pull Request and then work through the relevant checklists
 
 ***
 
-- [ ] Large genotype data files are properly tracked with Git LFS and not directly pushed to the repository. For an instruction on how to set up Git LFS please look [here](https://www.poseidon-adna.org/#/archive_submission_guide?id=submitting-the-package).
+- [ ] Large genotype data files are properly tracked with Git LFS and not directly pushed to the repository. For an instruction on how to set up Git LFS please look [here](https://www.poseidon-adna.org/#/archive_submission_guide?id=submitting-the-package). If you accidentally pushed the files the wrong way you can fix it with `git lfs migrate import --no-rewrite path/to/file.bed` (see [here](https://github.com/git-lfs/git-lfs/blob/main/docs/man/git-lfs-migrate.adoc#import-without-rewriting-history)).
 
 
 
@@ -75,4 +75,4 @@ You can now open this Pull Request and then work through the relevant checklists
 
 ***
 
-- [ ] Large genotype data files are properly tracked with Git LFS and not directly pushed to the repository. For an instruction on how to set up Git LFS please look [here](https://www.poseidon-adna.org/#/archive_submission_guide?id=submitting-the-package).
+- [ ] Large genotype data files are properly tracked with Git LFS and not directly pushed to the repository. For an instruction on how to set up Git LFS please look [here](https://www.poseidon-adna.org/#/archive_submission_guide?id=submitting-the-package). If you accidentally pushed the files the wrong way you can fix it with `git lfs migrate import --no-rewrite path/to/file.bed` (see [here](https://github.com/git-lfs/git-lfs/blob/main/docs/man/git-lfs-migrate.adoc#import-without-rewriting-history)).
