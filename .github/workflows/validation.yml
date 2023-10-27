@@ -33,3 +33,6 @@ jobs:
       run: git lfs fsck --pointers
       working-directory: ./data
 
+    - name: Check if all files have UTF-8 encoding and Unix line endings
+      run: ./checkFileEncoding.sh
+      working-directory: ./data
