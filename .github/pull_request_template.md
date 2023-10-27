@@ -29,7 +29,6 @@ You can now open this Pull Request and then work through the relevant checklists
   - [ ] A `.bib` file with the necessary literature references for each sample in the `.janno` file.
 - [ ] Every file in the submission is correctly referenced in the `POSEIDON.yml` file and there are no additional, supplementary files in the submission that are not documented there.
 - [ ] Genotype data, `.janno` and `.bib` file are all named after the package title and only differ in the file extension.
-- [ ] All text files are UTF-8 encoded and have Unix/Unix-like line endings (`LF`, not `CR+LF` or `CR`).
 - [ ] The package version in the `POSEIDON.yml` file is `1.0.0`.
 - [ ] The `poseidonVersion` of the package in the `POSEIDON.yml` file is set to the latest version of the Poseidon schema.
 - [ ] The `POSEIDON.yml` file contains the corresponding checksums for the fields `genoFile`, `snpFile`, `indFile`, `jannoFile` and `bibFile`.
@@ -58,7 +57,6 @@ You can now open this Pull Request and then work through the relevant checklists
 - [ ] The changes maintain the structural integrity of the affected packages.
 - [ ] The checksums of the modified files in the respective `POSEIDON.yml` files were adjusted properly.
 - [ ] Every file in the submission is correctly referenced in the relevant `POSEIDON.yml` files and there are no additional, supplementary files in the submission that are not documented there.
-- [ ] All text files are still UTF-8 encoded and have Unix/Unix-like line endings (`LF`, not `CR+LF` or `CR`).
 
 ***
 
