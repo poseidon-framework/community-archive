@@ -30,7 +30,7 @@ You can now open this Pull Request and then work through the relevant checklists
 - [ ] Every file in the submission is correctly referenced in the `POSEIDON.yml` file and there are no additional, supplementary files in the submission that are not documented there.
 - [ ] Genotype data, `.janno` and `.bib` file are all named after the package title and only differ in the file extension.
 - [ ] The package version in the `POSEIDON.yml` file is `1.0.0`.
-- [ ] The `poseidonVersion` of the package in the `POSEIDON.yml` file is set to the latest version of the Poseidon schema.
+- [ ] The `poseidonVersion` of the package in the `POSEIDON.yml` file is set to the latest version of the [Poseidon schema](https://github.com/poseidon-framework/poseidon-schema/releases).
 - [ ] The `POSEIDON.yml` file contains the corresponding checksums for the fields `genoFile`, `snpFile`, `indFile`, `jannoFile` and `bibFile`.
 - [ ] There is either no `CHANGELOG` file or one with a single entry for version `1.0.0`.
 
