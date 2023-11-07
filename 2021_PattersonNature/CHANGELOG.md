@@ -1,3 +1,4 @@
+- V 0.4.1: added the main publication PattersonNature2021 to the Publication column in the .janno file of some samples
 - V 0.4.0: Update of references in the .bib file
 - V 0.3.0: added a .ssf file
 - V 0.2.0: added Genetic_Source_Accession_IDs
