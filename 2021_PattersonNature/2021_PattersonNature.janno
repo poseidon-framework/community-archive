@@ -37,7 +37,7 @@ I6771	F	Wales_IA	United Kingdom	Wales, Glamorgan, Llantwit Major, Llanmaes	51.41
 I6776	M	England_BellBeaker	United Kingdom	England, Somerset, Storgoursey, Wick Barrow	51.1807	-3.1413	-2200	R	R-P312	221559	0.08				PattersonNature2021	QUESTIONABLE	 PRJEB47891
 I6769	M	England_IA	United Kingdom	England, Cornwall, Padstow, St. Merryn, Harlyn Bay	50.539905	-4.997809	-598	H6a1b2	R-P312	788365	0.062	0.006	0.002	ANGSD v0.935	PattersonNature2021	PASS	 PRJEB47891
 I0525	F	England_EastYorkshire_LIA	United Kingdom	England, East Riding of Yorkshire, Melton	53.725076	-0.523009	-25	U2e1e		231911	0.103				PattersonNature2021	PASS	 PRJEB47891
-I0371	M	Russia_MBA_Poltavka	Russia	Samara Oblast, Volga River Valley, Sok River, Grachevka	53.58975	50.57129167	-2728	U2d2	R-Z2103	806519	0.064	0.015	0.009	ANGSD v0.935	MathiesonNature2015	PASS	 PRJEB47891
+I0371	M	Russia_MBA_Poltavka	Russia	Samara Oblast, Volga River Valley, Sok River, Grachevka	53.58975	50.57129167	-2728	U2d2	R-Z2103	806519	0.064	0.015	0.009	ANGSD v0.935	PattersonNature2021;MathiesonNature2015	PASS	 PRJEB47891
 I0527	F	England_EastYorkshire_MIA_LIA	United Kingdom	England, East Riding of Yorkshire, East Riding, North Ferriby, Melton Quarry	53.725076	-0.523009	-250	U2e1		40953	0.099				PattersonNature2021	PASS	 PRJEB47891
 I5287	F	Slovakia_IA_Vekerzug	Slovakia	Komárno, Chotín IA	47.808164	18.218719	-575	K1a1b2b		1002341	0.081				PattersonNature2021	PASS	 PRJEB47891
 I5288	M	Slovakia_IA_Vekerzug	Slovakia	Komárno, Chotín IA	47.808164	18.218719	-575	W	R-L2	843198	0.083	0.004	0.004	ANGSD v0.935	PattersonNature2021	PASS	 PRJEB47891
@@ -59,23 +59,23 @@ I7960	M	Czech_EBA_Unetice	Czech Republic	Central Bohemia, Prague 5, Prague-Stod�
 I7962	M	Czech_EBA_Unetice	Czech Republic	Central Bohemia, Prague 5, Prague-Stodůlky (Malá Ohrada site)	50.044984	14.339296	-1900	T2e	I-S6635	883341	0.082	0.004	0.002	ANGSD v0.935	PattersonNature2021	PASS	 PRJEB47891
 I7963	M	Czech_EBA_Unetice	Czech Republic	Central Bohemia, Prague 5, Prague-Stodůlky (Malá Ohrada site)	50.044984	14.339296	-1900	U2e2	I-S6635	866237	0.081	0.004	0.002	ANGSD v0.935	PattersonNature2021	PASS	 PRJEB47891
 I10342	M	France_LN_EBA	France	Lauzet-Ubaye, Villard	44.476	6.369	-2100	W6	R-P312	922895	0.064	0.0045	0.0015	ANGSD v0.935	PattersonNature2021	PASS	 PRJEB47891
-I1389	M	France_BellBeaker_1d.rel.I1390	France	Haut-Rhin, Sierentz, Les Villas d'Aurele	47.39	7.271	-2411	X2b4a	R-L2	184784	0.121				OlaldeNature2018	PASS	 PRJEB47891
-I1391	F	France_BellBeaker	France	Haut-Rhin, Rouffach	47.57	7.18	-2229	J1c4		162668	0.166				OlaldeNature2018	PASS	 PRJEB47891
-I2405	M	Poland_Globular_Amphora	Poland	Kierzkowo	52.85	17.88333333	-3182	W5	I-Y3259	116975	0.118				MathiesonNature2018	PASS	 PRJEB47891
-I2407	M	Poland_Globular_Amphora_brother.I2435_son.I2433_son.I2440	Poland	Kierzkowo	52.85	17.88333333	-3005	H28a	F	15520	0.136				MathiesonNature2018	PASS	 PRJEB47891
+I1389	M	France_BellBeaker_1d.rel.I1390	France	Haut-Rhin, Sierentz, Les Villas d'Aurele	47.39	7.271	-2411	X2b4a	R-L2	184784	0.121				PattersonNature2021;OlaldeNature2018	PASS	 PRJEB47891
+I1391	F	France_BellBeaker	France	Haut-Rhin, Rouffach	47.57	7.18	-2229	J1c4		162668	0.166				PattersonNature2021;OlaldeNature2018	PASS	 PRJEB47891
+I2405	M	Poland_Globular_Amphora	Poland	Kierzkowo	52.85	17.88333333	-3182	W5	I-Y3259	116975	0.118				PattersonNature2021;MathiesonNature2018	PASS	 PRJEB47891
+I2407	M	Poland_Globular_Amphora_brother.I2435_son.I2433_son.I2440	Poland	Kierzkowo	52.85	17.88333333	-3005	H28a	F	15520	0.136				PattersonNature2021;MathiesonNature2018	PASS	 PRJEB47891
 I2413	F	Scotland_C_EBA_highEEF	United Kingdom	Scotland, East Lothian, Innerwick, Thurston Mains	55.947339	-2.47072	-1986	H1a1		94124	0.012				PattersonNature2021	QUESTIONABLE	 PRJEB47891
 I2419	F	England_BellBeaker_mediumEEF	United Kingdom	England, Wiltshire, Amesbury Down	51.168023	-1.7725402	-2249	H1		84202	0.127				PattersonNature2021	PASS	 PRJEB47891
-I2435	M	Poland_Globular_Amphora_brother.I2407_son.I2433_son.I2440	Poland	Kierzkowo	52.85	17.88333333	-3000	H28a	I-Y3259	25429	0.111				MathiesonNature2018	PASS	 PRJEB47891
-I2569	M	Scotland_C_EBA	United Kingdom	Scotland, Eweford Cottages	55.99	-2.537	-2028	K1a3a	R-L21	56141	0.144				OlaldeNature2018	PASS	 PRJEB47891
-I2575	M	France_BellBeaker	France	Forcalquier, La Fare	43.9655	5.8126	-2373	K1c1	R-Y101296	40574	0.112				OlaldeNature2018	PASS	 PRJEB47891
-I2629	M	Scotland_N	United Kingdom	Scotland, Orkney, Isbister	58.74	-2.916	-2850	J1c1b	I-L161	28980	0.103				OlaldeNature2018	PASS	 PRJEB47891
-I2656	M	Scotland_LBA	United Kingdom	Scotland, Longniddry, Grainfoot	55.97	-2.896	-1131	H2a2a2	R-Z253	609344	0.147	0.198	0.019	ANGSD v0.935	OlaldeNature2018	QUESTIONABLE	 PRJEB47891
+I2435	M	Poland_Globular_Amphora_brother.I2407_son.I2433_son.I2440	Poland	Kierzkowo	52.85	17.88333333	-3000	H28a	I-Y3259	25429	0.111				PattersonNature2021;MathiesonNature2018	PASS	 PRJEB47891
+I2569	M	Scotland_C_EBA	United Kingdom	Scotland, Eweford Cottages	55.99	-2.537	-2028	K1a3a	R-L21	56141	0.144				PattersonNature2021;OlaldeNature2018	PASS	 PRJEB47891
+I2575	M	France_BellBeaker	France	Forcalquier, La Fare	43.9655	5.8126	-2373	K1c1	R-Y101296	40574	0.112				PattersonNature2021;OlaldeNature2018	PASS	 PRJEB47891
+I2629	M	Scotland_N	United Kingdom	Scotland, Orkney, Isbister	58.74	-2.916	-2850	J1c1b	I-L161	28980	0.103				PattersonNature2021;OlaldeNature2018	PASS	 PRJEB47891
+I2656	M	Scotland_LBA	United Kingdom	Scotland, Longniddry, Grainfoot	55.97	-2.896	-1131	H2a2a2	R-Z253	609344	0.147	0.198	0.019	ANGSD v0.935	PattersonNature2021;OlaldeNature2018	QUESTIONABLE	 PRJEB47891
 I2699	M	Scotland_LIA	United Kingdom	Scotland, South Uist, Hornish Point	57.4	-7.399	-50	V10	F	52075	0.086				PattersonNature2021	QUESTIONABLE	 PRJEB47891
-I2796	M	Scotland_N	United Kingdom	Scotland, Orkney, Point of Cott	59.3101	-2.940715	-3621	H3	I-L161	69412	0.154				OlaldeNature2018	PASS	 PRJEB47891
+I2796	M	Scotland_N	United Kingdom	Scotland, Orkney, Point of Cott	59.3101	-2.940715	-3621	H3	I-L161	69412	0.154				PattersonNature2021;OlaldeNature2018	PASS	 PRJEB47891
 I2824	M	Scotland_LIA	United Kingdom	Scotland, Isle of Harris, Northton	57.81	-7.094	42	H13a1a	R-M269	127268	0.092	0.0405	0.0405	ANGSD v0.935	PattersonNature2021	PASS	 PRJEB47891
-I3137	M	Scotland_N	United Kingdom	Scotland, Argyll and Bute, Oban, Raschoille Cave	56.414567	-5.469178	-3400	HV0+195	I-M436	242631	0.103				OlaldeNature2018	PASS	 PRJEB47891
-I4067	F	Netherlands_BellBeaker	Netherlands	Noord-Holland, Oostwoud, De Tuithoorn	52.733563	5.096183	-1820	R1b1		137016	0.097				OlaldeNature2018	PASS	 PRJEB47891
-I5471	F	Scotland_C_EBA_mediumhighEEF	United Kingdom	Scotland, East Lothian, Innerwick, Thurston Mains	55.947339	-2.47072	-2113	H1c3a		742482	0.062				OlaldeNature2018	QUESTIONABLE	 PRJEB47891
+I3137	M	Scotland_N	United Kingdom	Scotland, Argyll and Bute, Oban, Raschoille Cave	56.414567	-5.469178	-3400	HV0+195	I-M436	242631	0.103				PattersonNature2021;OlaldeNature2018	PASS	 PRJEB47891
+I4067	F	Netherlands_BellBeaker	Netherlands	Noord-Holland, Oostwoud, De Tuithoorn	52.733563	5.096183	-1820	R1b1		137016	0.097				PattersonNature2021;OlaldeNature2018	PASS	 PRJEB47891
+I5471	F	Scotland_C_EBA_mediumhighEEF	United Kingdom	Scotland, East Lothian, Innerwick, Thurston Mains	55.947339	-2.47072	-2113	H1c3a		742482	0.062				PattersonNature2021;OlaldeNature2018	QUESTIONABLE	 PRJEB47891
 I5474	F	Scotland_LIA	United Kingdom	Scotland, Scottish Borders, Cumledge (Auchencraw Park)	55.802822	-2.347257	-21	K1a26		39576	0.11				PattersonNature2021	PASS	 PRJEB47891
 I11034	F	England_EastYorkshire_MIA_LIA	United Kingdom	England, East Riding of Yorkshire, Pocklington (Burnby Lane)	53.919396	-0.766635	-225	H2a3b		779467	0.106				PattersonNature2021	PASS	 PRJEB47891
 I11033	F	England_EastYorkshire_EIA	United Kingdom	England, East Riding of Yorkshire, Pocklington (Burnby Lane)	53.919396	-0.766635	-471	H2a3b		803033	0.092				PattersonNature2021	PASS	 PRJEB47891
@@ -167,7 +167,7 @@ I13471	M	Czech_EBA_Unetice	Czech Republic	Central Bohemia, Prague 5, Prague-Stod
 I13469	M	Czech_EBA_Unetice	Czech Republic	Central Bohemia, Prague 5, Prague-Stodůlky (Malá Ohrada site)	50.044984	14.339296	-1900	J1c15	I-S6635	804955	0.117	0.004	0.002	ANGSD v0.935	PattersonNature2021	PASS	 PRJEB47891
 I12612	F	England_LBA_lc	United Kingdom	England, Wiltshire, Potterne, Blackberry Field	51.330985	-2.050187	-950	U1a1a		5038	0.094				PattersonNature2021	PASS	 PRJEB47891
 I12613	F	England_LBA_lc	United Kingdom	England, Wiltshire, Potterne, Blackberry Field	51.330985	-2.050187	-950	H1		9356	0.085				PattersonNature2021	PASS	 PRJEB47891
-I2470	M	Spain_MBA	Spain	Basque Country, Alava, El Sotillo	42.57	-2.62	-1325	J2a1a1	R-Y43704	866451	0.15	0.008	0.002	ANGSD v0.935	OlaldeScience2019	PASS	 PRJEB47891
+I2470	M	Spain_MBA	Spain	Basque Country, Alava, El Sotillo	42.57	-2.62	-1325	J2a1a1	R-Y43704	866451	0.15	0.008	0.002	ANGSD v0.935	PattersonNature2021;OlaldeScience2019	PASS	 PRJEB47891
 I13799	F	Czech_LBA_Knoviz	Czech Republic	Central Bohemia, Prague-West, Hostivice-Palouky	50.07884	14.280243	-1050	U2e1a1		840933	0.104				PattersonNature2021	PASS	 PRJEB47891
 I13792	M	Czech_LBA_Knoviz	Czech Republic	NW Bohemia, Teplice, Chouč	50.511285	13.767871	-1050	U5b2b1a1	R-L2	827292	0.096	0.006	0.002	ANGSD v0.935	PattersonNature2021	PASS	 PRJEB47891
 I13786	M	Czech_LBA_Knoviz_o3	Czech Republic	Central Bohemia, Prague-West, Hostivice-Palouky	50.07884	14.280243	-1050	H1q	R-L2	827291	0.106	0.0065	0.0025	ANGSD v0.935	PattersonNature2021	PASS	 PRJEB47891
@@ -199,10 +199,10 @@ I14468	M	Slovakia_IA_Vekerzug	Slovakia	Komárno, Chotín IA	47.808164	18.218719	
 I14464	F	Slovakia_IA_Vekerzug_lc	Slovakia	Komárno, Chotín IA	47.808164	18.218719	-575			7762	0.146				PattersonNature2021	PASS	 PRJEB47891
 I14467	F	Slovakia_IA_Vekerzug	Slovakia	Komárno, Chotín IA	47.808164	18.218719	-575	K1a4g		37128	0.147				PattersonNature2021	PASS	 PRJEB47891
 I14465	M	Slovakia_IA_Vekerzug	Slovakia	Komárno, Chotín IA	47.808164	18.218719	-575	U5a2b1b	E-V13	190124	0.125				PattersonNature2021	PASS	 PRJEB47891
-I0231	M	Russia_Samara_EBA_Yamnaya	Russia	Samara Oblast, Volga River Valley, Southern Steppe, Ekaterinovka	53.08561111	49.46591111	-2894	U4a1	R-Y20993	1081816	0.096	0.005	0.001	ANGSD v0.935	HaakLazaridisNature2015;MathiesonNature2015;NarasimhanPattersonScience2019	PASS	 PRJEB47891
-I2598	M	England_C_EBA	United Kingdom	England, Wiltshire, Amesbury Down	51.168023	-1.7725402	-2048	H	R-L52	168033	0.133	0.5	0.5	ANGSD v0.935	OlaldeNature2018	PASS	 PRJEB47891
-I4949	M	England_N	United Kingdom	England, Wiltshire, Winterbourne Monkton, North Millbarrow	51.5243	-2.501	-3467	T2b	I-L1195	91879	0.079	0.5	0.5	ANGSD v0.935	OlaldeNature2018	PASS	 PRJEB47891
-I2469	F	Spain_LBA	Spain	Basque Country, Alava, El Sotillo	42.57	-2.62	-876	H3an		215426	0.095				OlaldeScience2019	PASS	 PRJEB47891
+I0231	M	Russia_Samara_EBA_Yamnaya	Russia	Samara Oblast, Volga River Valley, Southern Steppe, Ekaterinovka	53.08561111	49.46591111	-2894	U4a1	R-Y20993	1081816	0.096	0.005	0.001	ANGSD v0.935	PattersonNature2021;HaakLazaridisNature2015;MathiesonNature2015;NarasimhanPattersonScience2019	PASS	 PRJEB47891
+I2598	M	England_C_EBA	United Kingdom	England, Wiltshire, Amesbury Down	51.168023	-1.7725402	-2048	H	R-L52	168033	0.133	0.5	0.5	ANGSD v0.935	PattersonNature2021;OlaldeNature2018	PASS	 PRJEB47891
+I4949	M	England_N	United Kingdom	England, Wiltshire, Winterbourne Monkton, North Millbarrow	51.5243	-2.501	-3467	T2b	I-L1195	91879	0.079	0.5	0.5	ANGSD v0.935	PattersonNature2021;OlaldeNature2018	PASS	 PRJEB47891
+I2469	F	Spain_LBA	Spain	Basque Country, Alava, El Sotillo	42.57	-2.62	-876	H3an		215426	0.095				PattersonNature2021;OlaldeScience2019	PASS	 PRJEB47891
 I5504	F	England_EastYorkshire_MIA_LIA	United Kingdom	England, East Riding of Yorkshire, Pocklington (Burnby Lane)	53.919396	-0.766635	-225	T1a1		62612	0.073				PattersonNature2021	PASS	 PRJEB47891
 I14481	M	Czech_LBA_Knoviz	Czech Republic	NW Bohemia, Louny, Břvany	50.400094	13.42304	-900	W3a	I-Z2069	86986	0.054				PattersonNature2021	PASS	 PRJEB47891
 I14326	F	England_N	United Kingdom	England, East Riding of Yorkshire, Thornholme, East Coast Pipeline (field 13)	54.11173333	-0.284113889	-2958	H1c		796802	0.125				PattersonNature2021	PASS	 PRJEB47891
@@ -408,7 +408,7 @@ I16436_d	M	ChannelIslands_C_lc	Channel Islands	Channel Islands, Herm, The Common
 I16467_d	M	England_LBA_lc	United Kingdom	England, North Yorkshire, Raven Scar Cave	54.176006	-2.416361	-995	U5a1g1		9937	0.71				PattersonNature2021	PASS	 PRJEB47891
 I11991	M	England_MIA_LIA	United Kingdom	England, Somerset, Worlebury	51.357334	-2.988282	-166	H3b+16129	R-DF13	930345	0.0895	0.005	0.002	ANGSD v0.935	PattersonNature2021	PASS	 PRJEB47891
 I7964	F	Czech_EBA_Unetice	Czech Republic	Central Bohemia, Prague 5, Prague-Stodůlky (Malá Ohrada site)	50.044984	14.339296	-1900	U5a2c		916530	0.166				PattersonNature2021	PASS	 PRJEB47891
-I3320	M	Spain_IA	Spain	Valencian Community, Castelló/Castellón, Vilafamés, Els Estrets de la Rata	40.138	-0.07	-200	I1	R-Z225	808137	0.116	0.011	0.004	ANGSD v0.935	OlaldeScience2019	PASS	 PRJEB47891
+I3320	M	Spain_IA	Spain	Valencian Community, Castelló/Castellón, Vilafamés, Els Estrets de la Rata	40.138	-0.07	-200	I1	R-Z225	808137	0.116	0.011	0.004	ANGSD v0.935	PattersonNature2021;OlaldeScience2019	PASS	 PRJEB47891
 I17145	M	Czech_IA_LaTene	Czech Republic	NW Bohemia, Teplice, Radosevice (Cemetery I)	50.410265	14.074597	-305	H5a4a1	R-P312	703681	0.072	0.0055	0.0025	ANGSD v0.935	PattersonNature2021	PASS	 PRJEB47891
 I17139	F	Czech_IA_LaTene	Czech Republic	NW Bohemia, Teplice, Radosevice (Cemetery II)	50.410265	14.074597	-270	H5c		581352	0.069				PattersonNature2021	PASS	 PRJEB47891
 I17143	M	Czech_IA_LaTene	Czech Republic	NW Bohemia, Teplice, Radosevice (Cemetery II)	50.410265	14.074597	-270	H5c	R-P312	463257	0.088	0.003	0.003	ANGSD v0.935	PattersonNature2021	PASS	 PRJEB47891
@@ -513,10 +513,10 @@ I18183	F	Hungary_IA_LaTene_o	Hungary	Jász-Nagykun-Szolnok county, Jászberény-
 I18181	M	Hungary_IA_LaTene	Hungary	Jász-Nagykun-Szolnok county, Jászberény-Cserőhalom	47.494826	19.909508	-235	U4a2	G-L497	122440	0.01				PattersonNature2021	PASS	 PRJEB47891
 I16597	M	England_MIA	United Kingdom	England, Bedfordshire, Broom Quarry	52.079115	-0.280974	-333	H1+16355	R-DF49	538745	0.135	0.008	0.006	ANGSD v0.935	PattersonNature2021	PASS	 PRJEB47891
 I16620	F	England_IA	United Kingdom	England, Co. Durham, Hartlepool, Catcote	54.676567	-1.236391	-167	H1bs		168278	0.098				PattersonNature2021	PASS	 PRJEB47891
-I3321_d	M	Spain_IA	Spain	Valencian Community, Castelló/Castellón, Vilafamés, Els Estrets de la Rata	40.138	-0.07	-200	U3a1	R-P312	129363	0.95				OlaldeScience2019	PASS	 PRJEB47891
+I3321_d	M	Spain_IA	Spain	Valencian Community, Castelló/Castellón, Vilafamés, Els Estrets de la Rata	40.138	-0.07	-200	U3a1	R-P312	129363	0.95				PattersonNature2021;OlaldeScience2019	PASS	 PRJEB47891
 I13720	M	France_SouthEast_IA2	France	Bouches-du-Rhône, Velaux, Roquepertuse	43.53	5.27	-300	U4b	F	37149	0.075				PattersonNature2021	QUESTIONABLE	 PRJEB47891
-I3141	F	Ukraine_EBA_Yamnaya	Ukraine	Shevchenko, OAE-2003	48.220364	37.146114	-2900	H15b1		112869	0.223				MathiesonNature2018	PASS	 PRJEB47891
-I12171	F	Spain_EIA_Tartessian	Spain	Sevilla, Alcalá del Río, La Angorrilla	37.51833	-5.97833	-658	J1c1b		365196	0.26				OlaldeScience2019	PASS	 PRJEB47891
+I3141	F	Ukraine_EBA_Yamnaya	Ukraine	Shevchenko, OAE-2003	48.220364	37.146114	-2900	H15b1		112869	0.223				PattersonNature2021;MathiesonNature2018	PASS	 PRJEB47891
+I12171	F	Spain_EIA_Tartessian	Spain	Sevilla, Alcalá del Río, La Angorrilla	37.51833	-5.97833	-658	J1c1b		365196	0.26				PattersonNature2021;OlaldeScience2019	PASS	 PRJEB47891
 I11992	M	England_MIA_LIA	United Kingdom	England, Somerset, Worlebury	51.357334	-2.988282	-145	H3b+16129	R-DF13	906032	0.095	0.0035	0.0015	ANGSD v0.935	PattersonNature2021	PASS	 PRJEB47891
 I13726	M	England_MIA_LIA	United Kingdom	England, Somerset, Worlebury	51.357334	-2.988282	-183	H13a1a1	R-DF13	831144	0.127	0.004	0.002	ANGSD v0.935	PattersonNature2021	PASS	 PRJEB47891
 I14984	M	Czech_IA_LaTene	Czech Republic	NW Bohemia, Teplice, Radosevice (Cemetery II)	50.410265	14.074597	-305	H1+152	R-L2	755197	0.162	0.0045	0.0025	ANGSD v0.935	PattersonNature2021	PASS	 PRJEB47891
@@ -653,7 +653,7 @@ I14200	M	England_BellBeaker_highEEF	United Kingdom	England, Wiltshire, Amesbury 
 I17313	F	Czech_IA_LaTene	Czech Republic	Central Bohemia, Prague 5, Prague-Jinonice (Holmanʼs Garden Centre)	50.054385	14.363387	-300	H1ae		564205	0.19				PattersonNature2021	PASS	 PRJEB47891
 I19987	F	Spain_LIA	Spain	Palencia, Monte Bernorio	42.7939	-4.19278	-63	H1e1a6		313978	0.202				PattersonNature2021	PASS	 PRJEB47891
 I20632	M	England_MIA_LIA_o	United Kingdom	England, Derbyshire, Fin Cop	53.235833	-1.736944	-225	V2b	R-L151	471182	0.155	0.0241	0.0139	ANGSD v0.935	PattersonNature2021	QUESTIONABLE	 PRJEB47891
-I2565	M	England_BellBeaker	United Kingdom	England, Wiltshire, Amesbury Down	51.168023	-1.7725402	-2287	W1+119	R-L21	58524	0.146				OlaldeNature2018	PASS	 PRJEB47891
+I2565	M	England_BellBeaker	United Kingdom	England, Wiltshire, Amesbury Down	51.168023	-1.7725402	-2287	W1+119	R-L21	58524	0.146				PattersonNature2021;OlaldeNature2018	PASS	 PRJEB47891
 I21314	F	England_MIA_LIA	United Kingdom	England, Wiltshire, Casterley Camp	51.28086	-1.835571	-145	V23		802473	0.1				PattersonNature2021	PASS	 PRJEB47891
 I21312	M	England_MIA_LIA	United Kingdom	England, Wiltshire, Casterley Camp	51.28086	-1.835571	-146	J1b1a1	R-DF13	772427	0.156	0.0025	0.0015	ANGSD v0.935	PattersonNature2021	PASS	 PRJEB47891
 I21315	M	England_LIA	United Kingdom	England, Somerset, Ham Hill	50.949985	-2.735842	-93	T1a1'3	R-Y83965	86341	0.205				PattersonNature2021	PASS	 PRJEB47891
@@ -746,11 +746,11 @@ I25504	M	Hungary_LBA	Hungary	Vas county, Kápolnadomb, Gór	47.353728	16.794725	
 I25525	F	Hungary_EIA_o3	Hungary	Nógrád county, Nógrádkövesd-Víztározó	47.874557	19.373144	-600	J1c3j		784761	0.097				PattersonNature2021	PASS	 PRJEB47891
 I25509	F	Hungary_IA_LaTene_o3	Hungary	Somogy county, Kútvölgyi-dűlő, Zamárdi (sites 56 and 89)	46.875901	17.96734	-200	U5a2b		843847	0.102				PattersonNature2021	PASS	 PRJEB47891
 I25517_d	F	Hungary_IA_LaTene_lc	Hungary	Somogy county, Kútvölgyi-dűlő, Zamárdi (sites 56 and 89)	46.875901	17.96734	-200			9831	0.789				PattersonNature2021	PASS	 PRJEB47891
-I3315_new	M	Spain_Menorca_LBA_new	Spain	Balearic Islands, Menorca, Naveta des Tudons	39.999	3.891	-859	U5b1+16189+@16192	R-DF27	795023	0.144	0.0069	0.0022	ANGSD v0.935	FernandesNatureEcologyEvolution2020	PASS	 PRJEB47891
+I3315_new	M	Spain_Menorca_LBA_new	Spain	Balearic Islands, Menorca, Naveta des Tudons	39.999	3.891	-859	U5b1+16189+@16192	R-DF27	795023	0.144	0.0069	0.0022	ANGSD v0.935	PattersonNature2021;FernandesNatureEcologyEvolution2020	PASS	 PRJEB47891
 I5505	M	England_EastYorkshire_MIA_LIA	United Kingdom	England, East Riding of Yorkshire, Pocklington (Burnby Lane)	53.919396	-0.766635	-225	V16	R-L21	877280	0.112	0.0073	0.0022	ANGSD v0.935	PattersonNature2021	PASS	 PRJEB47891
 I5698	F	Slovenia_EIA	Slovenia	Zagorje ob Savi	46.13711	14.992415	-643	H3		934032	0.1				PattersonNature2021	PASS	 PRJEB47891
-I11683	F	Hungary_LBA_EIA	Hungary	Borsod-Abaúj-Zemplén county, Mezőkeresztes-Cet-halom (M3 motorway, site 10)	47.815017	20.684121	-775	K1a+195		802173	0.077				HarneyCheronetGenomeResearch2021	PASS	 PRJEB47891
-I4188_new	M	Hungary_MN_ALPc_new	Hungary	Polgár-Piócás	47.865071	21.125287	-5100	K1a	I-CTS10057	412567	0.099	0.0057	0.0057	ANGSD v0.935	LipsonNature2017	PASS	 PRJEB47891
+I11683	F	Hungary_LBA_EIA	Hungary	Borsod-Abaúj-Zemplén county, Mezőkeresztes-Cet-halom (M3 motorway, site 10)	47.815017	20.684121	-775	K1a+195		802173	0.077				PattersonNature2021;HarneyCheronetGenomeResearch2021	PASS	 PRJEB47891
+I4188_new	M	Hungary_MN_ALPc_new	Hungary	Polgár-Piócás	47.865071	21.125287	-5100	K1a	I-CTS10057	412567	0.099	0.0057	0.0057	ANGSD v0.935	PattersonNature2021;LipsonNature2017	PASS	 PRJEB47891
 I24883	F	Croatia_EIA	Croatia	Osor-St. Peter	44.694464	14.3927	-800	HV0e		20082	0.194				PattersonNature2021	QUESTIONABLE	 PRJEB47891
 I24879	F	Croatia_EIA	Croatia	Skradnik-Sultanov grob	45.21455	15.315809	-649	H5		807701	0.112				PattersonNature2021	PASS	 PRJEB47891
 I24882	M	Croatia_EIA	Croatia	Mala Metaljka	45.173585	16.124298	-649	H	J-Y86930	817578	0.112	0.005	0.002	ANGSD v0.935	PattersonNature2021	PASS	 PRJEB47891
@@ -781,7 +781,7 @@ I26735	M	Croatia_LIA_LaTene	Croatia	Osijek (Vojarna/Faculty of Education)	45.551
 I26726	M	Croatia_MBA	Croatia	Gudnja cave	42.833333	17.7	-1461	J1c3	J-Z1297	896713	0.141	0.009	0.002	ANGSD v0.935	PattersonNature2021	REPLOT_MERGE_PASS	 PRJEB47891
 I26741	F	Croatia_MN_Sopot	Croatia	Osijek-Hermanov vinograd	45.55101	18.746617	-4635	T2b		880904	0.169				PattersonNature2021	PASS	 PRJEB47891
 I26742	M	Croatia_EIA	Croatia	Jazinka Cave	43.705878	16.520021	-700	HV0e	J-PH1602	925712	0.135	0.0065	0.0015	ANGSD v0.935	PattersonNature2021	PASS	 PRJEB47891
-I0418_new	F	Russia_MBA_Poltavka	Russia	Samara Oblast, Volga River Valley, Samara River, Utyevka VI	52.91277778	50.99055556	-1934	T1a1		767563	0.084				MathiesonNature2015	PASS	 PRJEB47891
+I0418_new	F	Russia_MBA_Poltavka	Russia	Samara Oblast, Volga River Valley, Samara River, Utyevka VI	52.91277778	50.99055556	-1934	T1a1		767563	0.084				PattersonNature2021;MathiesonNature2015	PASS	 PRJEB47891
 I12608	F	England_LBA	United Kingdom	England, Wiltshire, Potterne, Blackberry Field	51.330985	-2.050187	-979	H3ap		27605	0.146				PattersonNature2021	PASS	 PRJEB47891
 I12624	F	England_LBA	United Kingdom	England, Wiltshire, Potterne, Blackberry Field	51.330985	-2.050187	-850	H3		246346	0.152				PattersonNature2021	PASS	 PRJEB47891
 I14742	M	England_LBA	United Kingdom	England, Kent, Cliffs End Farm	51.329195	1.3693088	-948	H1+16189	P-P337	47760	0.225				PattersonNature2021	PASS	 PRJEB47891
@@ -792,13 +792,13 @@ I5690	M	Slovenia_EIA	Slovenia	Grofove njive	45.914224	15.4691	-624	T1a1	R-L2	943
 I5695	M	Slovenia_MBA	Slovenia	Obrežje	45.847908	15.690421	-1346	N1a1a1	R-L2	931229	0.116	0.006	0.001	ANGSD v0.935	PattersonNature2021	PASS	 PRJEB47891
 I5696	M	Slovenia_MIA_oSouth	Slovenia	Obrežje	45.847908	15.690421	-322	H4a1c1a	R-Y4353	923069	0.115	0.0065	0.0015	ANGSD v0.935	PattersonNature2021	PASS	 PRJEB47891
 I5697	F	Slovenia_LBA	Slovenia	Obrežje	45.847908	15.690421	-849	H7a1		922607	0.143				PattersonNature2021	PASS	 PRJEB47891
-I0438_new	M	Russia_Samara_EBA_Yamnaya	Russia	Samara Oblast, Volga River Valley, Samara River, Luzkhi I	53.38	50.38	-2835	U5a1a1	R-Y20993	901041	0.083	0.0055	0.0015	ANGSD v0.935	HaakLazaridisNature2015;MathiesonNature2015	PASS	 PRJEB47891
+I0438_new	M	Russia_Samara_EBA_Yamnaya	Russia	Samara Oblast, Volga River Valley, Samara River, Luzkhi I	53.38	50.38	-2835	U5a1a1	R-Y20993	901041	0.083	0.0055	0.0015	ANGSD v0.935	PattersonNature2021;HaakLazaridisNature2015;MathiesonNature2015	PASS	 PRJEB47891
 I12614	F	England_LBA	United Kingdom	England, Wiltshire, Potterne, Blackberry Field	51.330985	-2.050187	-950	K1a1b1		137860	0.097				PattersonNature2021	PASS	 PRJEB47891
 I12936	F	England_LBA	United Kingdom	England, North Yorkshire, Raven Scar Cave	54.176006	-2.416361	-995	J1c5f		49475	0.094				PattersonNature2021	QUESTIONABLE	 PRJEB47891
 I13710	M	England_MBA	United Kingdom	England, Kent, East Kent Access Road	51.3603	1.3405	-1302	I4a	R-M269	230560	0.349	0.0005	0.0005	ANGSD v0.935	PattersonNature2021	PASS	 PRJEB47891
-I16170_new	M	Italy_Sardinia_MBA	Italy	Sardinia, Anghelu Ruju	40.626667	8.323056	-1387	H3	I-Y21970	845846	0.179	0.0065	0.0025	ANGSD v0.935	FernandesNatureEcologyEvolution2020	PASS	 PRJEB47891
+I16170_new	M	Italy_Sardinia_MBA	Italy	Sardinia, Anghelu Ruju	40.626667	8.323056	-1387	H3	I-Y21970	845846	0.179	0.0065	0.0025	ANGSD v0.935	PattersonNature2021;FernandesNatureEcologyEvolution2020	PASS	 PRJEB47891
 I16469	M	England_LBA	United Kingdom	England, North Yorkshire, Raven Scar Cave	54.176006	-2.416361	-995	H3+152	R-CTS2501	78731	0.113	0.078	0.078	ANGSD v0.935	PattersonNature2021	PASS	 PRJEB47891
-I0440_new	M	Russia_MBA_Poltavka	Russia	Samara Oblast, Volga River Valley, Sok River, Lopatino II	53.38	50.39	-2770	I3a	R-Y20993	1013579	0.042	0.0035	0.0015	ANGSD v0.935	MathiesonNature2015	PASS	 PRJEB47891
+I0440_new	M	Russia_MBA_Poltavka	Russia	Samara Oblast, Volga River Valley, Sok River, Lopatino II	53.38	50.39	-2770	I3a	R-Y20993	1013579	0.042	0.0035	0.0015	ANGSD v0.935	PattersonNature2021;MathiesonNature2015	PASS	 PRJEB47891
 I14379	F	England_LBA	United Kingdom	England, Kent, Cliffs End Farm	51.329195	1.3693088	-851	T2c1d+152		663801	0.162				PattersonNature2021	PASS	 PRJEB47891
 I16405	M	Wales_MIA	United Kingdom	Wales, Glamorgan, RAF St Athan	51.409175	-3.421758	-300	K1a+195	R-DF13	841936	0.144	0.005	0.003	ANGSD v0.935	PattersonNature2021	PASS	 PRJEB47891
 I16475	M	Wales_MIA_LIA	United Kingdom	Wales, Clwyd, Dinorben	53.268526	-3.54858	-276	X2b	R-Z253	214132	0.118				PattersonNature2021	PASS	 PRJEB47891
@@ -819,9 +819,9 @@ I13616	F	England_LIA	United Kingdom	England, Kent, East Kent Access Road	51.3603
 I13617	F	England_LBA_highEEF	United Kingdom	England, Kent, Margetts Pit	51.3323	0.4784	-1136	H		502092	0.062				PattersonNature2021	PASS	 PRJEB47891
 I13682	M	England_EIA	United Kingdom	England, Somerset, Mells Down, Kingsdown Camp	51.264052	-2.405024	-662	H5a1	R-P312	728888	0.098	0.0055	0.0045	ANGSD v0.935	PattersonNature2021	PASS	 PRJEB47891
 I13684	F	England_EIA	United Kingdom	England, Somerset, Meare Lake Village West	51.176318	-2.796919	-458	W1+119		893133	0.081				PattersonNature2021	PASS	 PRJEB47891
-I2446	F	England_BellBeaker_highWHG	United Kingdom	England, Oxfordshire, Yarnton	51.7977	-1.313464	-2265	K1b1a1		490432	0.122				OlaldeNature2018	PASS	 PRJEB47891
+I2446	F	England_BellBeaker_highWHG	United Kingdom	England, Oxfordshire, Yarnton	51.7977	-1.313464	-2265	K1b1a1		490432	0.122				PattersonNature2021;OlaldeNature2018	PASS	 PRJEB47891
 I2448	M	England_MBA	United Kingdom	England, Oxfordshire, Yarnton	51.7977	-1.313464	-1250	U8a2	R-CTS6919	499135	0.066	0.0115	0.0095	ANGSD v0.935	PattersonNature2021	PASS	 PRJEB47891
-I2574	F	Wales_MBA	United Kingdom	Wales, North Wales, Llandudno, Great Orme	53.33	-3.84	-1327	U5a1a2b		315701	0.072				OlaldeNature2018	PASS	 PRJEB47891
+I2574	F	Wales_MBA	United Kingdom	Wales, North Wales, Llandudno, Great Orme	53.33	-3.84	-1327	U5a1a2b		315701	0.072				PattersonNature2021;OlaldeNature2018	PASS	 PRJEB47891
 I2611	M	England_N_o	United Kingdom	England, Tyne and Wear, Blaydon, Summerhill	54.97	-1.73	-2989	U5a2d1	R-A11001	275824	0.114	0.0215	0.0215	ANGSD v0.935	PattersonNature2021	QUESTIONABLE	 PRJEB47891
 I7629	M	England_LBA	United Kingdom	England, East Riding of Yorkshire, North Ferriby, Melton Quarry	53.725076	-0.523009	-1065	H17	R-Y30814	728058	0.118	0.0115	0.0045	ANGSD v0.935	PattersonNature2021	PASS	 PRJEB47891
 I8582	F	IsleofMan_EBA_lowsteppe	Isle of Man	Isle of Man, Rushen, Strandhall	54.08	-4.7	-2075	H2a1e1		99870	0.107				PattersonNature2021	PASS	 PRJEB47891

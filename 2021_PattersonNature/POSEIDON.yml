@@ -4,8 +4,10 @@ description: Large-scale migration into Britain during the Middle to Late Bronze
 contributor:
 - name: Stephen Clayton
   email: stephen_clayton@eva.mpg.de
-packageVersion: 0.4.0
-lastModified: 2023-07-04
+- name: Clemens Schmid
+  email: clemens_schmid@eva.mpg.de
+packageVersion: 0.4.1
+lastModified: 2023-11-07
 genotypeData:
   format: PLINK
   genoFile: 2021_PattersonNature.bed
@@ -16,7 +18,7 @@ genotypeData:
   indFileChkSum: 3d5f1803622433848bc177415fdb4d1f
   snpSet: 1240K
 jannoFile: 2021_PattersonNature.janno
-jannoFileChkSum: 53120de644eb2c8551ef16a6d45e8ae3
+jannoFileChkSum: c907687926e10374a734d68638b6c171
 sequencingSourceFile: ENAtable.ssf
 sequencingSourceFileChkSum: d77bc01fd44d9ccb721b7344cd9d5332
 bibFile: sources.bib
