@@ -1,0 +1,23 @@
+poseidonVersion: 2.7.1
+title: 2023_Penske_EarlyContact
+description: Early contact between late farming and pastoralist societies in southeastern Europe
+contributor:
+- name: Ayshin Ghalichi
+  email: ayshin_ghalichi@eva.mpg.de
+- name: Sandra Penske
+  email: sandra_penske@eva.mpg.de
+packageVersion: 1.0.0
+lastModified: 2023-11-14
+genotypeData:
+  format: PLINK
+  genoFile: 2023_Penske_EarlyContact.bed
+  genoFileChkSum: 74f54ba0636e74b5a2e37eaeccba46ea
+  snpFile: 2023_Penske_EarlyContact.bim
+  snpFileChkSum: 433fa85a23f3123bade02348e4628b75
+  indFile: 2023_Penske_EarlyContact.fam
+  indFileChkSum: b0459c7047f59a20fc8a19d6001ff5fd
+  snpSet: 1240K
+jannoFile: 2023_Penske_EarlyContact.janno
+jannoFileChkSum: 7836f898b009aee8ad9aeacb419edb2b
+bibFile: 2023_Penske_EarlyContact.bib
+bibFileChkSum: 58a77722660c24a060ab5bae008fb2b5
