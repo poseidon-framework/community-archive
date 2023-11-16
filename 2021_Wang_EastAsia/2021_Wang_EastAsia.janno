@@ -1,387 +1,387 @@
 Poseidon_ID	Genetic_Sex	Group_Name	Collection_ID	Country	Location	Latitude	Longitude	Date_Type	Date_C14_Uncal_BP	Date_C14_Uncal_BP_Err	Date_BC_AD_Start	Date_BC_AD_Median	Date_BC_AD_Stop	MT_Haplogroup	Y_Haplogroup	Source_Tissue	Nr_Libraries	Capture_Type	UDG	Library_Built	Genotype_Ploidy	Endogenous	Nr_SNPs	Coverage_on_Target_SNPs	Damage	Contamination	Contamination_Err	Contamination_Meas	Primary_Contact	Publication	Note	Genetic_Source_Accession_IDs
-GN01	M	Tibetan_Gannan	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-W14	F	Maonan	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-Han1994	M	Han_Fujian	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-Zhuang01	F	Zhuang	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-GN03	M	Tibetan_Gannan	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-W10	F	Maonan	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-Han1207	M	Han_Guangdong	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-Zhuang012	F	Zhuang	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-GN10	M	Tibetan_Gannan	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-J6	F	Maonan	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-Han1235	M	Han_Guangdong	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-Zhuang019	F	Zhuang	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-GN17	M	Tibetan_Gannan	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-J58	F	Maonan	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-Han1415	M	Han_Guangdong	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-Zhuang02	F	Zhuang	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-GN19	M	Tibetan_Gannan	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-J17	F	Maonan	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-Han1432	M	Han_Guangdong	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-Zhuang04	F	Zhuang	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-HK03	M	Kazakh_China	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-J9	F	Maonan	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-Han1434	M	Han_Guangdong	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-Zhuang013	M	Zhuang	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-HK4	M	Kazakh_China	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-J29	F	Maonan	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-Han2087	M	Han_Guangdong	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-GL01	M	Gelao	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-HK14	M	Kazakh_China	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-Ba37	F	Bahun	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-Han2088	M	Han_Guangdong	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-GL02	M	Gelao	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-HK15	M	Kazakh_China	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-Ba02	F	Bahun_outlier	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-Han894	M	Han_Henan	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-GL09	M	Gelao	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-BAO60	M	Bonan	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-Ba48	F	Bahun	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-Han1226	M	Han_Henan	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-GL07	F	Gelao	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-BAO53	M	Bonan	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-Te18	M	Tharu	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-Han1243	M	Han_Henan	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-GL10	F	Gelao	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-BAO15	M	Bonan	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-Te16	F	Tharu	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-Han1713	M	Han_Henan	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-GL23	U	Gelao	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-BAO12	M	Bonan	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-Ma41	M	Magar	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-Han1714	M	Han_Henan	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-GL13	F	Gelao	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-BAO26	M	Bonan	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-Ma11	M	Magar	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-Han788	M	Han_Hubei	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-GL16	F	Gelao	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-BAO47	M	Bonan	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-Ma30	M	Magar	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-Han789	M	Han_Hubei	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-GL20	U	Gelao	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-BAO54	M	Bonan	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-Ma23	F	Magar	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-Han874	M	Han_Hubei	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-Ne41	M	Newar	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-EYG48	M	Yugur	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-Ma07	F	Magar	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-Han2161	M	Han_Hubei	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-Ne72	F	Newar	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-EYG28	M	Yugur	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-Ma28	F	Magar	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-Han2162	M	Han_Hubei	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-Ne30	M	Newar	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-EYG13	M	Yugur	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-Gu18	F	Gurung	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-Han1452	F	Han_Jiangsu	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-Ne08	M	Newar	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-EYG18	M	Yugur	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-Gu22	M	Gurung	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-Han1962	M	Han_Jiangsu	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-Ta39	F	Tamang	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-Gu24	M	Gurung	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-Han2054	M	Han_Jiangsu	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-Ta43	F	Tamang	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-EYG31	M	Yugur	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-Gu26	M	Gurung	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-Han2057	M	Han_Jiangsu	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-Ta24	M	Tamang	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-XYG19	F	Yugur	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-Gu27	M	Gurung	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-Han2058	M	Han_Jiangsu	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-Ta64	M	Tamang	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-KZ78	M	Kyrgyz_China	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-Rai16	F	Rai	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-Han2076	M	Han_Jiangsu	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-Ta03	F	Tamang_outlier	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-KZ35	M	Kyrgyz_China	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-Rai12	U	Rai	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-Han2090	M	Han_Jiangsu	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-Ta80	M	Tamang	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-KZ15	M	Kyrgyz_China	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-Rai09	F	Rai	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-Han4	M	Han_Shandong	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-Ta52	F	Tamang	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-KZ77	M	Kyrgyz_China	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-Rai14	M	Rai	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-Han25	M	Han_Shandong	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-Ta05	F	Tamang	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-KZ52	M	Kyrgyz_China	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-Rai04	M	Rai	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-Han853	M	Han_Shandong	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-Ba15	F	Bahun	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-KZ12	M	Kyrgyz_China	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-Ne66	M	Newar	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-Han1329	M	Han_Shandong	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-Ba25	M	Bahun	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-KZ83	M	Kyrgyz_China	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-Ne61	M	Newar	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-Han1616	M	Han_Shandong	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-Te09	M	Tharu	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-CS411	F	Li	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-Ne35	F	Newar	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-Han1840	M	Han_Shandong	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-Te15	F	Tharu	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-LS001	M	Li	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-Ne01	F	Newar_outlier	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-Han1896	M	Han_Shandong	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-Te06	M	Tharu	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-SY071	M	Li	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-Sherpa08	M	Sherpa	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-Han1916	M	Han_Shandong	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-Zhuang09	F	Zhuang	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-WZS058	F	Li	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-Sherpa04	F	Sherpa	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-Han1978	M	Han_Shandong	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-Zhuang08	F	Zhuang	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-Dong02	M	Dong_Guizhou	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-Sherpa13	F	Sherpa	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-Han24	M	Han_Shanghai	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-W29	F	Maonan	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-Dong03	F	Dong_Guizhou	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-Sherpa09	M	Sherpa	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-Han496	M	Han_Shanghai	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-W3	F	Maonan	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-Dong05	M	Dong_Guizhou	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-T141	M	Tibetan_Chamdo	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-Han115	M	Han_Shanxi	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-W11	F	Maonan	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-Dong08	M	Dong_Guizhou	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-T173	M	Tibetan_Chamdo	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-Han790	M	Han_Shanxi	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-B87	F	Mulam	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-Dong09	M	Dong_Guizhou	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-T274	F	Tibetan_Chamdo	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-Han855	M	Han_Shanxi	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-B26	F	Mulam	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-Dong10	F	Dong_Guizhou	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-T363	M	Tibetan_Chamdo	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-Han1603	M	Han_Shanxi	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-J32	F	Maonan	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-Dong11	M	Dong_Guizhou	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-T247	M	Tibetan_Chamdo	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-Han1843	M	Han_Shanxi	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-J33	F	Maonan	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-Dong14	F	Dong_Guizhou	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-T74	M	Tibetan_Chamdo	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-Han1897	M	Han_Shanxi	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-J36	F	Maonan	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-Zhuang03	F	Zhuang	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-T144	M	Tibetan_Chamdo	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-Han1899	M	Han_Shanxi	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-A114	F	Mulam	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-Z01	M	Zhuang_outlier	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-T194	F	Tibetan_Chamdo	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-Han1970	M	Han_Shanxi	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-B3	F	Mulam	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-Z02	M	Zhuang_outlier	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-T196	F	Tibetan_Chamdo	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-Han1709	M	Han_Sichuan	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-W13	F	Maonan	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-Z05	M	Zhuang_outlier	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-T273	F	Tibetan_Chamdo	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-Han1917	M	Han_Sichuan	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-BM32	F	Qiang_Daofu	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-XHTB7	M	Tibetan_Xunhua	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-T282	F	Tibetan_Chamdo	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-Han2044	M	Han_Sichuan	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-QH1	M	Tibetan_Gangcha	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-XHTB17	M	Tibetan_Xunhua	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-T283	F	Tibetan_Chamdo	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-Han2145	M	Han_Sichuan	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-QH5	M	Tibetan_Gangcha	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-XHTB20	M	Tibetan_Xunhua	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-T21	F	Tibetan_Lhasa	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-Han2147	M	Han_Sichuan	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-QH7	M	Tibetan_Gangcha	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-SL1	M	Salar	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-T165	M	Tibetan_Lhasa	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-Han2151	M	Han_Sichuan	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-QH18	M	Tibetan_Gangcha	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-SL2	M	Salar	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-T170	M	Tibetan_Lhasa	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-Han2155	M	Han_Sichuan	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-QH10	M	Tibetan_Gangcha	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-SL3	M	Salar	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-T181	F	Tibetan_Lhasa	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-Tibetan870	M	Tibetan_Yunnan	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-HKC90	M	Kazakh_China	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-SL6	F	Salar	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-T183	F	Tibetan_Lhasa	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-Tibetan871	M	Tibetan_Yunnan	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-HKC29	M	Kazakh_China	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-SL7	M	Salar	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-T76	M	Tibetan_Lhasa	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-Tibetan872	M	Tibetan_Yunnan	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-QH9	M	Tibetan_Gangcha	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-SL9	M	Salar	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-T125	F	Tibetan_Lhasa	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-Tibetan937	M	Tibetan_Yunnan	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-QH14	M	Tibetan_Gangcha	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-SL10	F	Salar	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-T185	F	Tibetan_Lhasa	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-Han53	M	Han_Zhejiang	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-QH17	M	Tibetan_Gangcha	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-SL15	M	Salar	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-T67	F	Tibetan_Nagqu	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-Han192	M	Han_Zhejiang	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-Zhuang015	F	Zhuang	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-YJ86	M	Tibetan_Yajiang	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-T91	F	Tibetan_Nagqu	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-Han278	M	Han_Zhejiang	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-Zhuang018	F	Zhuang	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-YJ14	M	Tibetan_Yajiang	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-T121	F	Tibetan_Nagqu	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-Han605	M	Han_Zhejiang	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-Zhuang11	F	Zhuang	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-YJ39	M	Tibetan_Yajiang	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-T187	M	Tibetan_Nagqu	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-Han993	M	Han_Zhejiang	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-Zhuang017	F	Zhuang	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-YJ01	M	Tibetan_Yajiang	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-T238	M	Tibetan_Nagqu	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-Han220	M	Han_Shandong	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-Zhuang020	F	Zhuang	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-YJ140	M	Tibetan_Yajiang	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-T278	M	Tibetan_Nagqu	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-DBB006	M	Qiang_Danba	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-B81	F	Mulam	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-YJ37	M	Tibetan_Yajiang	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-T312	M	Tibetan_Nagqu	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-DBA19	M	Qiang_Danba	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-B48	F	Mulam	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-YJ12	M	Tibetan_Yajiang	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-T320	F	Tibetan_Nagqu	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-DBA021	M	Qiang_Danba	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-B49	F	Mulam	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-YJ111	M	Tibetan_Yajiang	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-T22	F	Tibetan_Shigatse	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-DBB007	M	Qiang_Danba	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-KZ46	F	Kyrgyz_China	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-YJ25	M	Tibetan_Yajiang	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-T41	F	Tibetan_Shigatse	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-DBA017	M	Qiang_Danba	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-KZ81	M	Kyrgyz_China	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-YJ104	M	Tibetan_Yajiang	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-T77	M	Tibetan_Shigatse	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-BM10	M	Qiang_Daofu	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-KZ87	M	Kyrgyz_China	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-XL120	M	Tibetan_Xinlong	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-T78	F	Tibetan_Shigatse	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-BM43	M	Qiang_Daofu	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-KZ65	M	Kyrgyz_China	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-XL61	M	Tibetan_Xinlong	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-T80	F	Tibetan_Shigatse	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-BM24	M	Qiang_Daofu	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-KZ22	M	Kyrgyz_China	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-XL20	M	Tibetan_Xinlong	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-T189	F	Tibetan_Shigatse	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-BM26	M	Qiang_Daofu	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-EYG8	M	Yugur	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-XL92	M	Tibetan_Xinlong	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-T192	M	Tibetan_Shigatse	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-BM21	M	Qiang_Daofu	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-EYG04	M	Yugur	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-XL60	M	Tibetan_Xinlong	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-T291	F	Tibetan_Shigatse	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-QH2	M	Tibetan_Gangcha	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-EYG45	M	Yugur	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-XL47	M	Tibetan_Xinlong	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-T297	F	Tibetan_Shigatse	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-QH3	M	Tibetan_Gangcha	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-EYG44	M	Yugur	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-XL76	M	Tibetan_Xinlong	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-T188	M	Tibetan_Shannan	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-QH4	M	Tibetan_Gangcha	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-EYG40	M	Yugur	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-BM28	M	Qiang_Daofu	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-T190	F	Tibetan_Shannan	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-QH8	M	Tibetan_Gangcha	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-HKC109	M	Kazakh_China	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-BM37	M	Qiang_Daofu	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-T242	M	Tibetan_Shannan	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-QH11	M	Tibetan_Gangcha	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-HKC140	M	Kazakh_China	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-BM27	M	Qiang_Daofu	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-T248	M	Tibetan_Shannan	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-QH13	M	Tibetan_Gangcha	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-KZ73	M	Kyrgyz_China	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-BM02	M	Qiang_Daofu	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-T126	F	Tibetan_Shannan	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-QH15	M	Tibetan_Gangcha	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-DX1157	M	Dongxiang	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-BM18	M	Qiang_Daofu	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-T127	F	Tibetan_Shannan	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-QH16	M	Tibetan_Gangcha	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-DX1175	M	Dongxiang	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-DBA018	M	Qiang_Danba	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-T199	M	Tibetan_Shannan	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-QH19	M	Tibetan_Gangcha	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-DX1170	M	Dongxiang	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-DBB001	M	Qiang_Danba	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-T200	M	Tibetan_Shannan	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-QH20	M	Tibetan_Gangcha	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-DX1047	M	Dongxiang	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-DBA01	M	Qiang_Danba	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-T289	F	Tibetan_Shannan	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-T18	F	Tibetan_Lhasa	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-DX1146	M	Dongxiang	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-DBB002	M	Qiang_Danba	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-HN1-243	M	Dong_Hunan	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-T215	M	Tibetan_Shigatse	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-DX1058	M	Dongxiang	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-GL24	M	Gelao	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-HN1-273	M	Dong_Hunan	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-XL22	M	Tibetan_Xinlong	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-DX1131	M	Dongxiang	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-B8	F	Mulam	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-HN1-232	M	Dong_Hunan	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-XL37	M	Tibetan_Xinlong	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-QH6	M	Tibetan_Gangcha	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-B14	F	Mulam	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-HN1-218	M	Dong_Hunan	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-XL05	M	Tibetan_Xinlong	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-QH12	M	Tibetan_Gangcha	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-B43	F	Mulam	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-HN1-206	M	Dong_Hunan	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-XHTB5	M	Tibetan_Xunhua	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-Dong04	F	Dong_Hunan	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-B18	F	Mulam	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-HN1-260	M	Dong_Hunan	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-Dong12	F	Dong_Hunan	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-EYG06	M	Yugur	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-B32	F	Mulam	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-HN1-106	M	Dong_Hunan	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-Dong13	F	Dong_Guizhou	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-EYG25	M	Yugur	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-A019	F	Mulam	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-Han516	M	Han_Chongqing	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-Dong01	F	Dong_Guizhou	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-EYG42	M	Yugur	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-A015	F	Mulam	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-Han1968	M	Han_Chongqing	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-A005	F	Mulam	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-EYG46	M	Yugur	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-A016	F	Mulam	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-Han2150	M	Han_Chongqing	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-Zhuang16	F	Zhuang	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-EYG24	M	Yugur	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-A123	F	Mulam	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-Han1467	M	Han_Fujian	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-Zhuang10	F	Zhuang	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-BAO22	M	Bonan	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-W26	F	Maonan	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-Han1619	M	Han_Fujian	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-Zhuang06	M	Zhuang	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-BAO11	M	Bonan	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-W15	F	Maonan	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-Han1900	M	Han_Fujian	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-Zhuang05	F	Zhuang	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-BAO03	F	Bonan	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-W41	F	Maonan	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-Han1934	M	Han_Fujian	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-Zhuang07	M	Zhuang	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
-Dong007	M	Dong_Guizhou	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+GN01	M	Tibetan_Gannan	n/a	China	Tibetic, Bodish, Sino-Tibetan, Gannan, Gansu, Y.haplogroup=J2b2	35	102.9	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+W14	F	Maonan	n/a	China	Kam-Sui, Tai‚ÄìKadai, Huanjiang, Guangxi	24.8	108.3	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+Han1994	M	Han_Fujian	n/a	China	Chinese, Sino-Tibetan, Fujian, Y.haplogroup=N1c1	26.1	119.3	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+Zhuang01	F	Zhuang	n/a	China	Tai, Tai-Kadai, Wuxuan, Laibin, Guangxi	23.6	109.7	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+GN03	M	Tibetan_Gannan	n/a	China	Tibetic, Bodish, Sino-Tibetan, Gannan, Gansu, Y.haplogroup=N	35	102.9	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+W10	F	Maonan	n/a	China	Kam-Sui, Tai‚ÄìKadai, Huanjiang, Guangxi	24.8	108.3	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+Han1207	M	Han_Guangdong	n/a	China	Chinese, Sino-Tibetan, Guangdong, Y.haplogroup=O3a2c1a	23.2	113.2	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+Zhuang012	F	Zhuang	n/a	China	Tai, Tai-Kadai, Xilin, Baise, Guangxi	24.5	105.1	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+GN10	M	Tibetan_Gannan	n/a	China	Tibetic, Bodish, Sino-Tibetan, Gannan, Gansu, Y.haplogroup=N	35	102.9	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+J6	F	Maonan	n/a	China	Kam-Sui, Tai‚ÄìKadai, Huanjiang, Guangxi	24.8	108.3	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+Han1235	M	Han_Guangdong	n/a	China	Chinese, Sino-Tibetan, Guangdong, Y.haplogroup=O2a1a	23.2	113.2	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+Zhuang019	F	Zhuang	n/a	China	Tai, Tai-Kadai, Xilin, Baise, Guangxi	24.5	105.1	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+GN17	M	Tibetan_Gannan	n/a	China	Tibetic, Bodish, Sino-Tibetan, Gannan, Gansu, Y.haplogroup=O3a2	35	102.9	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+J58	F	Maonan	n/a	China	Kam-Sui, Tai‚ÄìKadai, Huanjiang, Guangxi	24.8	108.3	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+Han1415	M	Han_Guangdong	n/a	China	Chinese, Sino-Tibetan, Guangdong, Y.haplogroup=O3a2b1	23.2	113.2	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+Zhuang02	F	Zhuang	n/a	China	Tai, Tai-Kadai, Xingbin, Laibin, Guangxi	23.7	109.2	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+GN19	M	Tibetan_Gannan	n/a	China	Tibetic, Bodish, Sino-Tibetan, Gannan, Gansu, Y.haplogroup=D	35	102.9	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+J17	F	Maonan	n/a	China	Kam-Sui, Tai‚ÄìKadai, Huanjiang, Guangxi	24.8	108.3	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+Han1432	M	Han_Guangdong	n/a	China	Chinese, Sino-Tibetan, Guangdong, Y.haplogroup=O3a2b1	23.2	113.2	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+Zhuang04	F	Zhuang	n/a	China	Tai, Tai-Kadai, Xingbin, Laibin, Guangxi	23.7	109.2	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+HK03	M	Kazakh_China	n/a	China	Kipchak, Turkic, Kazak Autonomous  County of Aksay, Gansu, Y.haplogroup=C	38.5	94.3	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+J9	F	Maonan	n/a	China	Kam-Sui, Tai‚ÄìKadai, Huanjiang, Guangxi	24.8	108.3	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+Han1434	M	Han_Guangdong	n/a	China	Chinese, Sino-Tibetan, Guangdong, Y.haplogroup=O3a2b1	23.2	113.2	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+Zhuang013	M	Zhuang	n/a	China	Tai, Tai-Kadai, Xingbin, Laibin, Guangxi, Y.haplogroup=O3a1c	23.7	109.2	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+HK4	M	Kazakh_China	n/a	China	Kipchak, Turkic, Kazak Autonomous  County of Aksay, Gansu, Y.haplogroup=Q1a2a1	38.5	94.3	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+J29	F	Maonan	n/a	China	Kam-Sui, Tai‚ÄìKadai, Huanjiang, Guangxi	24.8	108.3	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+Han2087	M	Han_Guangdong	n/a	China	Chinese, Sino-Tibetan, Guangdong, Y.haplogroup=O3a2c1a	23.2	113.2	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+GL01	M	Gelao	n/a	China	Kra, Tai-Kadai, Longlin, Baise, Guangxi, Y.haplogroup=O1a	24.8	105.3	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+HK14	M	Kazakh_China	n/a	China	Kipchak, Turkic, Kazak Autonomous  County of Aksay, Gansu, Y.haplogroup=C	38.5	94.3	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+Ba37	F	Bahun	n/a	Nepal	Nepali, Indo-European,	27.4	85.3	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+Han2088	M	Han_Guangdong	n/a	China	Chinese, Sino-Tibetan, Guangdong, Y.haplogroup=O3a1c	23.2	113.2	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+GL02	M	Gelao	n/a	China	Kra, Tai-Kadai, Longlin, Baise, Guangxi, Y.haplogroup=O1a	24.8	105.3	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+HK15	M	Kazakh_China	n/a	China	Kipchak, Turkic, Kazak Autonomous  County of Aksay, Gansu, Y.haplogroup=O2a1	38.5	94.3	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+Ba02	F	Bahun_outlier	n/a	Nepal	Nepali, Indo-European,	27.4	85.3	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+Han894	M	Han_Henan	n/a	China	Chinese, Sino-Tibetan, Henan, Y.haplogroup=O3a2	34.8	113.6	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+GL09	M	Gelao	n/a	China	Kra, Tai-Kadai, Longlin, Baise, Guangxi, Y.haplogroup=O1a	24.8	105.3	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+BAO60	M	Bonan	n/a	China	Mongolic, Jishishan, Gansu	35.7	102.8	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+Ba48	F	Bahun	n/a	Nepal	Nepali, Indo-European,	27.4	85.3	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+Han1226	M	Han_Henan	n/a	China	Chinese, Sino-Tibetan, Henan, Y.haplogroup=O3a2c1a	34.8	113.6	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+GL07	F	Gelao	n/a	China	Kra, Tai-Kadai, Longlin, Baise, Guangxi	24.8	105.3	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+BAO53	M	Bonan	n/a	China	Mongolic, Jishishan, Gansu	35.7	102.8	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+Te18	M	Tharu	n/a	Nepal	Indo-Aryan, Indo-European, , Y.haplogroup=O3a2c1a	27.4	86.2	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+Han1243	M	Han_Henan	n/a	China	Chinese, Sino-Tibetan, Henan, Y.haplogroup=J	34.8	113.6	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+GL10	F	Gelao	n/a	China	Kra, Tai-Kadai, Longlin, Baise, Guangxi	24.8	105.3	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+BAO15	M	Bonan	n/a	China	Mongolic, Jishishan, Gansu	35.7	102.8	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+Te16	F	Tharu	n/a	Nepal	Indo-Aryan, Indo-European,	27.4	86.2	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+Han1713	M	Han_Henan	n/a	China	Chinese, Sino-Tibetan, Henan, Y.haplogroup=O3a2	34.8	113.6	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+GL23	U	Gelao	n/a	China	Kra, Tai-Kadai, Longlin, Baise, Guangxi	24.8	105.3	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+BAO12	M	Bonan	n/a	China	Mongolic, Jishishan, Gansu	35.7	102.8	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+Ma41	M	Magar	n/a	Nepal	Nepal, Tanahun	27.4	86.2	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+Han1714	M	Han_Henan	n/a	China	Chinese, Sino-Tibetan, Henan, Y.haplogroup=Q*	34.8	113.6	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+GL13	F	Gelao	n/a	China	Kra, Tai-Kadai, Longlin, Baise, Guangxi	24.8	105.3	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+BAO26	M	Bonan	n/a	China	Mongolic, Jishishan, Gansu	35.7	102.8	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+Ma11	M	Magar	n/a	Nepal	Nepal, Tanahun	27.4	86.2	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+Han788	M	Han_Hubei	n/a	China	Chinese, Sino-Tibetan, Hubei, Y.haplogroup=O1a	30.5	114.3	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+GL16	F	Gelao	n/a	China	Kra, Tai-Kadai, Longlin, Baise, Guangxi	24.8	105.3	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+BAO47	M	Bonan	n/a	China	Mongolic, Jishishan, Gansu	35.7	102.8	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+Ma30	M	Magar	n/a	Nepal	Nepal, Tanahun	27.4	86.2	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+Han789	M	Han_Hubei	n/a	China	Chinese, Sino-Tibetan, Hubei, Y.haplogroup=O1a	30.5	114.3	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+GL20	U	Gelao	n/a	China	Kra, Tai-Kadai, Longlin, Baise, Guangxi	24.8	105.3	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+BAO54	M	Bonan	n/a	China	Mongolic, Jishishan, Gansu	35.7	102.8	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+Ma23	F	Magar	n/a	Nepal	Nepal, Tanahun	27.4	86.2	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+Han874	M	Han_Hubei	n/a	China	Chinese, Sino-Tibetan, Hubei, Y.haplogroup=O3a2c1a	30.5	114.3	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+Ne41	M	Newar	n/a	Nepal	Nepal, Kathmandu	27.7	85.33333333	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+EYG48	M	Yugur	n/a	China	Mongolic, Sunan, Gansu, Y.haplogroup=N	38.9	99.6	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+Ma07	F	Magar	n/a	Nepal	Nepal, Tanahun	27.4	86.2	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+Han2161	M	Han_Hubei	n/a	China	Chinese, Sino-Tibetan, Hubei, Y.haplogroup=O3a1c	30.5	114.3	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+Ne72	F	Newar	n/a	Nepal	Nepal, Kathmandu	27.7	85.33333333	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+EYG28	M	Yugur	n/a	China	Mongolic, Sunan, Gansu, Y.haplogroup=D	38.9	99.6	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+Ma28	F	Magar	n/a	Nepal	Nepal, Tanahun	27.4	86.2	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+Han2162	M	Han_Hubei	n/a	China	Chinese, Sino-Tibetan, Hubei, Y.haplogroup=O3a2c1a	30.5	114.3	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+Ne30	M	Newar	n/a	#N/A	#N/A	#N/A	#N/A	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+EYG13	M	Yugur	n/a	China	Mongolic, Sunan, Gansu, Y.haplogroup=O3a2b1	38.9	99.6	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+Gu18	F	Gurung	n/a	Nepal	Tamangic, Sino-Tibetan,	27.4	86.2	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+Han1452	F	Han_Jiangsu	n/a	China	Chinese, Sino-Tibetan, Jiangsu	32.1	118.8	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+Ne08	M	Newar	n/a	Nepal	Nepal, Kathmandu	27.7	85.33333333	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+EYG18	M	Yugur	n/a	China	Mongolic, Sunan, Gansu, Y.haplogroup=C	38.9	99.6	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+Gu22	M	Gurung	n/a	Nepal	Tamangic, Sino-Tibetan, , Y.haplogroup=O3a2c1a	27.4	86.2	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+Han1962	M	Han_Jiangsu	n/a	China	Chinese, Sino-Tibetan, Jiangsu, Y.haplogroup=O3a1	32.1	118.8	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+Ta39	F	Tamang	n/a	Nepal	Tamangic, Sino-Tibetan,	27.4	86.2	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+Gu24	M	Gurung	n/a	Nepal	Tamangic, Sino-Tibetan, , Y.haplogroup=O3a2c1a	27.4	86.2	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+Han2054	M	Han_Jiangsu	n/a	China	Chinese, Sino-Tibetan, Jiangsu, Y.haplogroup=O1a	32.1	118.8	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+Ta43	F	Tamang	n/a	Nepal	Tamangic, Sino-Tibetan,	27.4	86.2	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+EYG31	M	Yugur	n/a	China	Mongolic, Sunan, Gansu, Y.haplogroup=O3a2	38.9	99.6	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+Gu26	M	Gurung	n/a	Nepal	Tamangic, Sino-Tibetan, , Y.haplogroup=O3a2c1a	27.4	86.2	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+Han2057	M	Han_Jiangsu	n/a	China	Chinese, Sino-Tibetan, Jiangsu, Y.haplogroup=O3	32.1	118.8	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+Ta24	M	Tamang	n/a	Nepal	Tamangic, Sino-Tibetan, , Y.haplogroup=O3a2c1a	27.4	86.2	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+XYG19	F	Yugur	n/a	China	Turkic, Sunan, Gansu	38.9	99.6	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+Gu27	M	Gurung	n/a	Nepal	Tamangic, Sino-Tibetan, , Y.haplogroup=F*	27.4	86.2	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+Han2058	M	Han_Jiangsu	n/a	China	Chinese, Sino-Tibetan, Jiangsu, Y.haplogroup=N	32.1	118.8	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+Ta64	M	Tamang	n/a	Nepal	Tamangic, Sino-Tibetan, , Y.haplogroup=O3a2c1a	27.4	86.2	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+KZ78	M	Kyrgyz_China	n/a	China	Kipchak, Turkic, Urumqi, Xinjiang, Y.haplogroup=R1b1	43.8	87.7	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+Rai16	F	Rai	n/a	Nepal	Kiranti/Nepali,	27.4	85.3	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+Han2076	M	Han_Jiangsu	n/a	China	Chinese, Sino-Tibetan, Jiangsu, Y.haplogroup=C	32.1	118.8	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+Ta03	F	Tamang_outlier	n/a	Nepal	Tamangic, Sino-Tibetan,	27.4	86.2	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+KZ35	M	Kyrgyz_China	n/a	China	Kipchak, Turkic, Urumqi, Xinjiang, Y.haplogroup=R1a1a1	43.8	87.7	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+Rai12	U	Rai	n/a	Nepal	Kiranti/Nepali,	27.4	85.3	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+Han2090	M	Han_Jiangsu	n/a	China	Chinese, Sino-Tibetan, Jiangsu, Y.haplogroup=O3a1c	32.1	118.8	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+Ta80	M	Tamang	n/a	Nepal	Tamangic, Sino-Tibetan, , Y.haplogroup=N	27.4	86.2	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+KZ15	M	Kyrgyz_China	n/a	China	Kipchak, Turkic, Urumqi, Xinjiang, Y.haplogroup=J2a1h	43.8	87.7	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+Rai09	F	Rai	n/a	Nepal	Kiranti/Nepali,	27.4	85.3	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+Han4	M	Han_Shandong	n/a	China	Chinese, Sino-Tibetan, Shandong, Y.haplogroup=C	36.6	117	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+Ta52	F	Tamang	n/a	Nepal	Tamangic, Sino-Tibetan,	27.4	86.2	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+KZ77	M	Kyrgyz_China	n/a	China	Kipchak, Turkic, Urumqi, Xinjiang, Y.haplogroup=R1b1	43.8	87.7	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+Rai14	M	Rai	n/a	Nepal	Kiranti/Nepali, , Y.haplogroup=O3a2c1a	27.4	85.3	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+Han25	M	Han_Shandong	n/a	China	Chinese, Sino-Tibetan, Shandong, Y.haplogroup=D	36.6	117	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+Ta05	F	Tamang	n/a	Nepal	Tamangic, Sino-Tibetan,	27.4	86.2	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+KZ52	M	Kyrgyz_China	n/a	China	Kipchak, Turkic, Urumqi, Xinjiang, Y.haplogroup=N	43.8	87.7	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+Rai04	M	Rai	n/a	Nepal	Kiranti/Nepali, , Y.haplogroup=O3a2c1a	27.4	85.3	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+Han853	M	Han_Shandong	n/a	China	Chinese, Sino-Tibetan, Shandong, Y.haplogroup=O2b	36.6	117	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+Ba15	F	Bahun	n/a	Nepal	Nepali, Indo-European, , Y.haplogroup=J2a1h	27.4	85.3	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+KZ12	M	Kyrgyz_China	n/a	China	Kipchak, Turkic, Urumqi, Xinjiang, Y.haplogroup=R1a1a1	43.8	87.7	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+Ne66	M	Newar	n/a	Nepal	Nepal, Kathmandu	27.7	85.33333333	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+Han1329	M	Han_Shandong	n/a	China	Chinese, Sino-Tibetan, Shandong, Y.haplogroup=O3a2c1a	36.6	117	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+Ba25	M	Bahun	n/a	Nepal	Nepali, Indo-European, , Y.haplogroup=R2 (Investigation)	27.4	85.3	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+KZ83	M	Kyrgyz_China	n/a	China	Kipchak, Turkic, Urumqi, Xinjiang, Y.haplogroup=N1c1	43.8	87.7	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+Ne61	M	Newar	n/a	#N/A	#N/A	#N/A	#N/A	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+Han1616	M	Han_Shandong	n/a	China	Chinese, Sino-Tibetan, Shandong, Y.haplogroup=C	36.6	117	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+Te09	M	Tharu	n/a	Nepal	Indo-Aryan, Indo-European, , Y.haplogroup=D	27.4	86.2	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+CS411	F	Li	n/a	China	Hlai, Tai‚ÄìKadai, Baisha, Hainan	19.2	109.4	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+Ne35	F	Newar	n/a	#N/A	#N/A	#N/A	#N/A	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+Han1840	M	Han_Shandong	n/a	China	Chinese, Sino-Tibetan, Shandong, Y.haplogroup=O3a2c1a	36.6	117	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+Te15	F	Tharu	n/a	Nepal	Indo-Aryan, Indo-European,	27.4	86.2	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+LS001	M	Li	n/a	China	Hlai, Tai‚ÄìKadai, Lingshui, Hainan, Y.haplogroup=O2a1	18.5	110	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+Ne01	F	Newar_outlier	n/a	Nepal	Sino-Tibetan,	27.4	85.3	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+Han1896	M	Han_Shandong	n/a	China	Chinese, Sino-Tibetan, Shandong, Y.haplogroup=Q*	36.6	117	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+Te06	M	Tharu	n/a	Nepal	Indo-Aryan, Indo-European, , Y.haplogroup=R2 (Investigation)	27.4	86.2	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+SY071	M	Li	n/a	China	Hlai, Tai‚ÄìKadai, SanyaÔºå Hainan, Y.haplogroup=O1a	18.1	109.3	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+Sherpa08	M	Sherpa	n/a	Nepal	West Bengal, Singel	27.2	88.15	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+Han1916	M	Han_Shandong	n/a	China	Chinese, Sino-Tibetan, Shandong, Y.haplogroup=O3a1c	36.6	117	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+Zhuang09	F	Zhuang	n/a	China	Tai, Tai-Kadai, Guigang, Guangxi	23.1	109.6	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+WZS058	F	Li	n/a	China	Hlai, Tai‚ÄìKadai, Wuzhishan, Hainan	18.8	109.5	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+Sherpa04	F	Sherpa	n/a	Nepal	West Bengal, Singel	27.2	88.15	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+Han1978	M	Han_Shandong	n/a	China	Chinese, Sino-Tibetan, Shandong, Y.haplogroup=C	36.6	117	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+Zhuang08	F	Zhuang	n/a	China	Tai, Tai-Kadai, Guiping, Guangxi	23.4	110.1	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+Dong02	M	Dong_Guizhou	n/a	China	Kam, Kam-Sui, Tai‚ÄìKadai, Liping, Guizhou, Y.haplogroup=O1a2	26.2	109.2	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+Sherpa13	F	Sherpa	n/a	Nepal	West Bengal, Singel	27.2	88.15	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+Han24	M	Han_Shanghai	n/a	China	Chinese, Sino-Tibetan, Shanghai, Y.haplogroup=O3a1c	31.2	121.5	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+W29	F	Maonan	n/a	China	Kam-Sui, Tai‚ÄìKadai, Huanjiang, Guangxi	24.8	108.3	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+Dong03	F	Dong_Guizhou	n/a	China	Kam, Kam-Sui, Tai‚ÄìKadai, Liping, Guizhou	26.2	109.2	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+Sherpa09	M	Sherpa	n/a	Nepal	West Bengal, Singel	27.2	88.15	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+Han496	M	Han_Shanghai	n/a	China	Chinese, Sino-Tibetan, Shanghai, Y.haplogroup=O	31.2	121.5	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+W3	F	Maonan	n/a	China	Kam-Sui, Tai‚ÄìKadai, Huanjiang, Guangxi	24.8	108.3	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+Dong05	M	Dong_Guizhou	n/a	China	Kam, Kam-Sui, Tai‚ÄìKadai, Tianzhu, Guizhou, Y.haplogroup=O3a2c1a	26.9	109.2	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+T141	M	Tibetan_Chamdo	n/a	China	Tibetic, Bodish, Sino-Tibetan, Chamdo, Tibet, Y.haplogroup=O3a2c1a	31.1	97.2	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+Han115	M	Han_Shanxi	n/a	China	Chinese, Sino-Tibetan, Shanxi, Y.haplogroup=R1a1a1	37.9	112.5	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+W11	F	Maonan	n/a	China	Kam-Sui, Tai‚ÄìKadai, Huanjiang, Guangxi	24.8	108.3	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+Dong08	M	Dong_Guizhou	n/a	China	Kam, Kam-Sui, Tai‚ÄìKadai, Tongren, Guizhou, Y.haplogroup=O1a	27.7	109.2	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+T173	M	Tibetan_Chamdo	n/a	China	Tibetic, Bodish, Sino-Tibetan, Chamdo, Tibet, Y.haplogroup=D	31.1	97.2	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+Han790	M	Han_Shanxi	n/a	China	Chinese, Sino-Tibetan, Shanxi, Y.haplogroup=O3a2	37.9	112.5	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+B87	F	Mulam	n/a	China	Kam-Sui, Tai‚ÄìKadai, Luocheng, Guangxi	24.8	108.9	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+Dong09	M	Dong_Guizhou	n/a	China	Kam, Kam-Sui, Tai‚ÄìKadai, Rongjiang, Guizhou, Y.haplogroup=O3	25.9	108.5	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+T274	F	Tibetan_Chamdo	n/a	China	Tibetic, Bodish, Sino-Tibetan, Chamdo, Tibet	31.1	97.2	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+Han855	M	Han_Shanxi	n/a	China	Chinese, Sino-Tibetan, Shanxi, Y.haplogroup=O3a1c	37.9	112.5	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+B26	F	Mulam	n/a	China	Kam-Sui, Tai‚ÄìKadai, Luocheng, Guangxi	24.8	108.9	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+Dong10	F	Dong_Guizhou	n/a	China	Kam, Kam-Sui, Tai‚ÄìKadai, Congjiang, Kaili, Guizhou	25.8	108.9	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+T363	M	Tibetan_Chamdo	n/a	China	Tibetic, Bodish, Sino-Tibetan, Chamdo, Tibet, Y.haplogroup=J	31.1	97.2	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+Han1603	M	Han_Shanxi	n/a	China	Chinese, Sino-Tibetan, Shanxi, Y.haplogroup=O3a1c	37.9	112.5	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+J32	F	Maonan	n/a	China	Kam-Sui, Tai‚ÄìKadai, Huanjiang, Guangxi	24.8	108.3	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+Dong11	M	Dong_Guizhou	n/a	China	Kam, Kam-Sui, Tai‚ÄìKadai, Liping, Guizhou, Y.haplogroup=O1a	26.2	109.2	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+T247	M	Tibetan_Chamdo	n/a	China	Tibetic, Bodish, Sino-Tibetan, Chamdo, Tibet, Y.haplogroup=D	31.1	97.2	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+Han1843	M	Han_Shanxi	n/a	China	Chinese, Sino-Tibetan, Shanxi, Y.haplogroup=G2a	37.9	112.5	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+J33	F	Maonan	n/a	China	Kam-Sui, Tai‚ÄìKadai, Huanjiang, Guangxi	24.8	108.3	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+Dong14	F	Dong_Guizhou	n/a	China	Kam, Kam-Sui, Tai‚ÄìKadai, Liping, Guizhou	26.2	109.2	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+T74	M	Tibetan_Chamdo	n/a	China	Tibetic, Bodish, Sino-Tibetan, Chamdo, Tibet, Y.haplogroup=D	31.1	97.2	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+Han1897	M	Han_Shanxi	n/a	China	Chinese, Sino-Tibetan, Shanxi, Y.haplogroup=O3a2	37.9	112.5	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+J36	F	Maonan	n/a	China	Kam-Sui, Tai‚ÄìKadai, Huanjiang, Guangxi	24.8	108.3	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+Zhuang03	F	Zhuang	n/a	China	Tai, Tai-Kadai, Luzhai, Liuzhou, Guangxi	24.5	109.7	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+T144	M	Tibetan_Chamdo	n/a	China	Tibetic, Bodish, Sino-Tibetan, Chamdo, Tibet, Y.haplogroup=D	31.1	97.2	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+Han1899	M	Han_Shanxi	n/a	China	Chinese, Sino-Tibetan, Shanxi, Y.haplogroup=O3a2	37.9	112.5	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+A114	F	Mulam	n/a	China	Kam-Sui, Tai‚ÄìKadai, Luocheng, Guangxi	24.8	108.9	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+Z01	M	Zhuang_outlier	n/a	China	Tai, Tai-Kadai, Longlin, Baise, Guangxi, Y.haplogroup=O2a1	24.8	105.3	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+T194	F	Tibetan_Chamdo	n/a	China	Tibetic, Bodish, Sino-Tibetan, Chamdo, Tibet	31.1	97.2	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+Han1970	M	Han_Shanxi	n/a	China	Chinese, Sino-Tibetan, Shanxi, Y.haplogroup=O3a2c1a	37.9	112.5	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+B3	F	Mulam	n/a	China	Kam-Sui, Tai‚ÄìKadai, Luocheng, Guangxi	24.8	108.9	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+Z02	M	Zhuang_outlier	n/a	China	Tai, Tai-Kadai, Longlin, Baise, Guangxi, Y.haplogroup=O3a2	24.8	105.3	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+T196	F	Tibetan_Chamdo	n/a	China	Tibetic, Bodish, Sino-Tibetan, Chamdo, Tibet	31.1	97.2	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+Han1709	M	Han_Sichuan	n/a	China	Chinese, Sino-Tibetan, Sichuan, Y.haplogroup=C	30.7	104.1	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+W13	F	Maonan	n/a	China	Kam-Sui, Tai‚ÄìKadai, Huanjiang, Guangxi	24.8	108.3	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+Z05	M	Zhuang_outlier	n/a	China	Tai, Tai-Kadai, Longlin, Baise, Guangxi, Y.haplogroup=O2a1	24.8	105.3	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+T273	F	Tibetan_Chamdo	n/a	China	Tibetic, Bodish, Sino-Tibetan, Chamdo, Tibet	31.1	97.2	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+Han1917	M	Han_Sichuan	n/a	China	Chinese, Sino-Tibetan, Sichuan, Y.haplogroup=O1a	30.7	104.1	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+BM32	F	Qiang_Daofu	n/a	China	Qiangic, Sino-Tibetan, Daofu, Sichuan	30.9	101.1	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+XHTB7	M	Tibetan_Xunhua	n/a	China	Tibetic, Bodish, Sino-Tibetan, Xunhua, Qinghai, Y.haplogroup=O2b	35.8	102.5	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+T282	F	Tibetan_Chamdo	n/a	China	Tibetic, Bodish, Sino-Tibetan, Chamdo, Tibet	31.1	97.2	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+Han2044	M	Han_Sichuan	n/a	China	Chinese, Sino-Tibetan, Sichuan, Y.haplogroup=C	30.7	104.1	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+QH1	M	Tibetan_Gangcha	n/a	China	Tibetic, Bodish, Sino-Tibetan, Gangcha, Qinghai, Y.haplogroup=N1c1	37.3	100.2	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+XHTB17	M	Tibetan_Xunhua	n/a	China	Tibetic, Bodish, Sino-Tibetan, Xunhua, Qinghai, Y.haplogroup=N	35.8	102.5	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+T283	F	Tibetan_Chamdo	n/a	China	Tibetic, Bodish, Sino-Tibetan, Chamdo, Tibet	31.1	97.2	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+Han2145	M	Han_Sichuan	n/a	China	Chinese, Sino-Tibetan, Sichuan, Y.haplogroup=Q*	30.7	104.1	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+QH5	M	Tibetan_Gangcha	n/a	China	Tibetic, Bodish, Sino-Tibetan, Gangcha, Qinghai, Y.haplogroup=G2a	37.3	100.2	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+XHTB20	M	Tibetan_Xunhua	n/a	China	Tibetic, Bodish, Sino-Tibetan, Xunhua, Qinghai, Y.haplogroup=C	35.8	102.5	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+T21	F	Tibetan_Lhasa	n/a	China	Tibetic, Bodish, Sino-Tibetan, Lhasa, Tibet	30	91.1	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+Han2147	M	Han_Sichuan	n/a	China	Chinese, Sino-Tibetan, Sichuan, Y.haplogroup=O3a1	30.7	104.1	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+QH7	M	Tibetan_Gangcha	n/a	China	Tibetic, Bodish, Sino-Tibetan, Gangcha, Qinghai, Y.haplogroup=D	37.3	100.2	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+SL1	M	Salar	n/a	China	Oghuz, Turkic, Xunhua, Qinghai, Y.haplogroup=O2a1	35.8	102.5	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+T165	M	Tibetan_Lhasa	n/a	China	Tibetic, Bodish, Sino-Tibetan, Lhasa, Tibet, Y.haplogroup=N	30	91.1	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+Han2151	M	Han_Sichuan	n/a	China	Chinese, Sino-Tibetan, Sichuan, Y.haplogroup=O1a	30.7	104.1	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+QH18	M	Tibetan_Gangcha	n/a	China	Tibetic, Bodish, Sino-Tibetan, Gangcha, Qinghai, Y.haplogroup=D	37.3	100.2	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+SL2	M	Salar	n/a	China	Oghuz, Turkic, Xunhua, Qinghai, Y.haplogroup=N	35.8	102.5	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+T170	M	Tibetan_Lhasa	n/a	China	Tibetic, Bodish, Sino-Tibetan, Lhasa, Tibet, Y.haplogroup=O3a2c1a	30	91.1	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+Han2155	M	Han_Sichuan	n/a	China	Chinese, Sino-Tibetan, Sichuan, Y.haplogroup=O2a1	30.7	104.1	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+QH10	M	Tibetan_Gangcha	n/a	China	Tibetic, Bodish, Sino-Tibetan, Gangcha, Qinghai, Y.haplogroup=D	37.3	100.2	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+SL3	M	Salar	n/a	China	Oghuz, Turkic, Xunhua, Qinghai, Y.haplogroup=O3a1c	35.8	102.5	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+T181	F	Tibetan_Lhasa	n/a	China	Tibetic, Bodish, Sino-Tibetan, Lhasa, Tibet	30	91.1	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+Tibetan870	M	Tibetan_Yunnan	n/a	China	Tibetic, Bodish, Sino-Tibetan, Yunnan, Y.haplogroup=D	27.8	99.7	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+HKC90	M	Kazakh_China	n/a	China	Kipchak, Turkic, Kazak Autonomous  County of Aksay, Gansu, Y.haplogroup=C	38.5	94.3	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+SL6	F	Salar	n/a	China	Oghuz, Turkic, Xunhua, Qinghai	35.8	102.5	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+T183	F	Tibetan_Lhasa	n/a	China	Tibetic, Bodish, Sino-Tibetan, Lhasa, Tibet	30	91.1	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+Tibetan871	M	Tibetan_Yunnan	n/a	China	Tibetic, Bodish, Sino-Tibetan, Yunnan, Y.haplogroup=D	27.8	99.7	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+HKC29	M	Kazakh_China	n/a	China	Kipchak, Turkic, Kazak Autonomous  County of Aksay, Gansu, Y.haplogroup=C	38.5	94.3	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+SL7	M	Salar	n/a	China	Oghuz, Turkic, Xunhua, Qinghai, Y.haplogroup=R1a1a1	35.8	102.5	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+T76	M	Tibetan_Lhasa	n/a	China	Tibetic, Bodish, Sino-Tibetan, Lhasa, Tibet, Y.haplogroup=D	30	91.1	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+Tibetan872	M	Tibetan_Yunnan	n/a	China	Tibetic, Bodish, Sino-Tibetan, Yunnan, Y.haplogroup=D	27.8	99.7	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+QH9	M	Tibetan_Gangcha	n/a	China	Tibetic, Bodish, Sino-Tibetan, Gangcha, Qinghai, Y.haplogroup=D	37.3	100.2	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+SL9	M	Salar	n/a	China	Oghuz, Turkic, Xunhua, Qinghai, Y.haplogroup=D	35.8	102.5	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+T125	F	Tibetan_Lhasa	n/a	China	Tibetic, Bodish, Sino-Tibetan, Lhasa, Tibet	30	91.1	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+Tibetan937	M	Tibetan_Yunnan	n/a	China	Tibetic, Bodish, Sino-Tibetan, Yunnan, Y.haplogroup=O3a2c1a	27.8	99.7	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+QH14	M	Tibetan_Gangcha	n/a	China	Tibetic, Bodish, Sino-Tibetan, Gangcha, Qinghai, Y.haplogroup=G2a	37.3	100.2	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+SL10	F	Salar	n/a	China	Oghuz, Turkic, Xunhua, Qinghai	35.8	102.5	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+T185	F	Tibetan_Lhasa	n/a	China	Tibetic, Bodish, Sino-Tibetan, Lhasa, Tibet	30	91.1	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+Han53	M	Han_Zhejiang	n/a	China	Chinese, Sino-Tibetan, Zhejiang, Y.haplogroup=O1a	30.3	120.2	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+QH17	M	Tibetan_Gangcha	n/a	China	Tibetic, Bodish, Sino-Tibetan, Gangcha, Qinghai, Y.haplogroup=D	37.3	100.2	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+SL15	M	Salar	n/a	China	Oghuz, Turkic, Xunhua, Qinghai, Y.haplogroup=O3a2c1a	35.8	102.5	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+T67	F	Tibetan_Nagqu	n/a	China	Tibetic, Bodish, Sino-Tibetan, Nagqu, Tibet	31.5	92.1	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+Han192	M	Han_Zhejiang	n/a	China	Chinese, Sino-Tibetan, Zhejiang, Y.haplogroup=O3a2	30.3	120.2	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+Zhuang015	F	Zhuang	n/a	China	Tai, Tai-Kadai, Qinzhou, Guangxi	22	108.6	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+YJ86	M	Tibetan_Yajiang	n/a	China	Tibetic, Bodish, Sino-Tibetan, Yajiang, Sichuan, Y.haplogroup=J2b2	30	101	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+T91	F	Tibetan_Nagqu	n/a	China	Tibetic, Bodish, Sino-Tibetan, Nagqu, Tibet	31.5	92.1	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+Han278	M	Han_Zhejiang	n/a	China	Chinese, Sino-Tibetan, Zhejiang, Y.haplogroup=O1a	30.3	120.2	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+Zhuang018	F	Zhuang	n/a	China	Tai, Tai-Kadai, Shanglin, Guangxi	23.4	108.6	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+YJ14	M	Tibetan_Yajiang	n/a	China	Tibetic, Bodish, Sino-Tibetan, Yajiang, Sichuan, Y.haplogroup=C	30	101	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+T121	F	Tibetan_Nagqu	n/a	China	Tibetic, Bodish, Sino-Tibetan, Nagqu, Tibet	31.5	92.1	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+Han605	M	Han_Zhejiang	n/a	China	Chinese, Sino-Tibetan, Zhejiang, Y.haplogroup=O2a1	30.3	120.2	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+Zhuang11	F	Zhuang	n/a	China	Tai, Tai-Kadai, Hengxian, Guangxi	22.7	109.2	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+YJ39	M	Tibetan_Yajiang	n/a	China	Tibetic, Bodish, Sino-Tibetan, Yajiang, Sichuan, Y.haplogroup=O1a	30	101	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+T187	M	Tibetan_Nagqu	n/a	China	Tibetic, Bodish, Sino-Tibetan, Nagqu, Tibet, Y.haplogroup=D	31.5	92.1	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+Han993	M	Han_Zhejiang	n/a	China	Chinese, Sino-Tibetan, Zhejiang, Y.haplogroup=O3a1c	30.3	120.2	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+Zhuang017	F	Zhuang	n/a	China	Tai, Tai-Kadai, Yongning, Guangxi	22.7	108.5	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+YJ01	M	Tibetan_Yajiang	n/a	China	Tibetic, Bodish, Sino-Tibetan, Yajiang, Sichuan, Y.haplogroup=O3a2c1a	30	101	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+T238	M	Tibetan_Nagqu	n/a	China	Tibetic, Bodish, Sino-Tibetan, Nagqu, Tibet, Y.haplogroup=D	31.5	92.1	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+Han220	M	Han_Shandong	n/a	China	Chinese, Sino-Tibetan, Shandong, Y.haplogroup=O3a1c	36.6	117	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+Zhuang020	F	Zhuang	n/a	China	Tai, Tai-Kadai, Wuming, Guangxi	23.2	108.3	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+YJ140	M	Tibetan_Yajiang	n/a	China	Tibetic, Bodish, Sino-Tibetan, Yajiang, Sichuan, Y.haplogroup=D	30	101	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+T278	M	Tibetan_Nagqu	n/a	China	Tibetic, Bodish, Sino-Tibetan, Nagqu, Tibet	31.5	92.1	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+DBB006	M	Qiang_Danba	n/a	China	Qiangic, Sino-Tibetan, Danba, Sichuan, Y.haplogroup=D	30.8	101.9	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+B81	F	Mulam	n/a	China	Kam-Sui, Tai‚ÄìKadai, Luocheng, Guangxi	24.8	108.9	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+YJ37	M	Tibetan_Yajiang	n/a	China	Tibetic, Bodish, Sino-Tibetan, Yajiang, Sichuan, Y.haplogroup=O1a	30	101	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+T312	M	Tibetan_Nagqu	n/a	China	Tibetic, Bodish, Sino-Tibetan, Nagqu, Tibet, Y.haplogroup=D	31.5	92.1	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+DBA19	M	Qiang_Danba	n/a	China	Qiangic, Sino-Tibetan, Danba, Sichuan, Y.haplogroup=O3a2	30.8	101.9	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+B48	F	Mulam	n/a	China	Kam-Sui, Tai‚ÄìKadai, Luocheng, Guangxi	24.8	108.9	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+YJ12	M	Tibetan_Yajiang	n/a	China	Tibetic, Bodish, Sino-Tibetan, Yajiang, Sichuan, Y.haplogroup=O3a2c1a	30	101	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+T320	F	Tibetan_Nagqu	n/a	China	Tibetic, Bodish, Sino-Tibetan, Nagqu, Tibet	31.5	92.1	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+DBA021	M	Qiang_Danba	n/a	China	Qiangic, Sino-Tibetan, Danba, Sichuan, Y.haplogroup=O3a2c1a	30.8	101.9	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+B49	F	Mulam	n/a	China	Kam-Sui, Tai‚ÄìKadai, Luocheng, Guangxi	24.8	108.9	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+YJ111	M	Tibetan_Yajiang	n/a	China	Tibetic, Bodish, Sino-Tibetan, Yajiang, Sichuan, Y.haplogroup=O2a1	30	101	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+T22	F	Tibetan_Shigatse	n/a	China	Tibetic, Bodish, Sino-Tibetan, Shigatse, Tibet	29.3	88.9	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+DBB007	M	Qiang_Danba	n/a	China	Qiangic, Sino-Tibetan, Danba, Sichuan, Y.haplogroup=O3a2c1a	30.8	101.9	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+KZ46	F	Kyrgyz_China	n/a	China	Kipchak, Turkic, Urumqi, Xinjiang	43.8	87.7	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+YJ25	M	Tibetan_Yajiang	n/a	China	Tibetic, Bodish, Sino-Tibetan, Yajiang, Sichuan, Y.haplogroup=D	30	101	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+T41	F	Tibetan_Shigatse	n/a	China	Tibetic, Bodish, Sino-Tibetan, Shigatse, Tibet	29.3	88.9	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+DBA017	M	Qiang_Danba	n/a	China	Qiangic, Sino-Tibetan, Danba, Sichuan, Y.haplogroup=D	30.8	101.9	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+KZ81	M	Kyrgyz_China	n/a	China	Kipchak, Turkic, Urumqi, Xinjiang, Y.haplogroup=R1a1a1	43.8	87.7	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+YJ104	M	Tibetan_Yajiang	n/a	China	Tibetic, Bodish, Sino-Tibetan, Yajiang, Sichuan, Y.haplogroup=D	30	101	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+T77	M	Tibetan_Shigatse	n/a	China	Tibetic, Bodish, Sino-Tibetan, Shigatse, Tibet, Y.haplogroup=O3a2c1a	29.3	88.9	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+BM10	M	Qiang_Daofu	n/a	China	Qiangic, Sino-Tibetan, Daofu, Sichuan, Y.haplogroup=O1a	30.9	101.1	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+KZ87	M	Kyrgyz_China	n/a	China	Kipchak, Turkic, Urumqi, Xinjiang, Y.haplogroup=R1a1a1	43.8	87.7	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+XL120	M	Tibetan_Xinlong	n/a	China	Tibetic, Bodish, Sino-Tibetan, Xinlong, Sichuan, Y.haplogroup=D	31	100.3	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+T78	F	Tibetan_Shigatse	n/a	China	Tibetic, Bodish, Sino-Tibetan, Shigatse, Tibet	29.3	88.9	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+BM43	M	Qiang_Daofu	n/a	China	Qiangic, Sino-Tibetan, Daofu, Sichuan, Y.haplogroup=O3a1	30.9	101.1	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+KZ65	M	Kyrgyz_China	n/a	China	Kipchak, Turkic, Urumqi, Xinjiang, Y.haplogroup=R1a1a1	43.8	87.7	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+XL61	M	Tibetan_Xinlong	n/a	China	Tibetic, Bodish, Sino-Tibetan, Xinlong, Sichuan, Y.haplogroup=O3a2c1a	31	100.3	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+T80	F	Tibetan_Shigatse	n/a	China	Tibetic, Bodish, Sino-Tibetan, Shigatse, Tibet	29.3	88.9	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+BM24	M	Qiang_Daofu	n/a	China	Qiangic, Sino-Tibetan, Daofu, Sichuan, Y.haplogroup=D	30.9	101.1	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+KZ22	M	Kyrgyz_China	n/a	China	Kipchak, Turkic, Urumqi, Xinjiang, Y.haplogroup=R1a1a1	43.8	87.7	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+XL20	M	Tibetan_Xinlong	n/a	China	Tibetic, Bodish, Sino-Tibetan, Xinlong, Sichuan, Y.haplogroup=O3a1c	31	100.3	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+T189	F	Tibetan_Shigatse	n/a	China	Tibetic, Bodish, Sino-Tibetan, Shigatse, Tibet	29.3	88.9	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+BM26	M	Qiang_Daofu	n/a	China	Qiangic, Sino-Tibetan, Daofu, Sichuan, Y.haplogroup=O3a1	30.9	101.1	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+EYG8	M	Yugur	n/a	China	Mongolic, Sunan, Gansu, Y.haplogroup=O3a1c	38.9	99.6	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+XL92	M	Tibetan_Xinlong	n/a	China	Tibetic, Bodish, Sino-Tibetan, Xinlong, Sichuan, Y.haplogroup=O3	31	100.3	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+T192	M	Tibetan_Shigatse	n/a	China	Tibetic, Bodish, Sino-Tibetan, Shigatse, Tibet, Y.haplogroup=R*	29.3	88.9	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+BM21	M	Qiang_Daofu	n/a	China	Qiangic, Sino-Tibetan, Daofu, Sichuan, Y.haplogroup=R2 (Investigation)	30.9	101.1	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+EYG04	M	Yugur	n/a	China	Mongolic, Sunan, Gansu, Y.haplogroup=O3a1c	38.9	99.6	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+XL60	M	Tibetan_Xinlong	n/a	China	Tibetic, Bodish, Sino-Tibetan, Xinlong, Sichuan, Y.haplogroup=D	31	100.3	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+T291	F	Tibetan_Shigatse	n/a	China	Tibetic, Bodish, Sino-Tibetan, Shigatse, Tibet	29.3	88.9	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+QH2	M	Tibetan_Gangcha	n/a	China	Tibetic, Bodish, Sino-Tibetan, Gangcha, Qinghai, Y.haplogroup=N	37.3	100.2	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+EYG45	M	Yugur	n/a	China	Mongolic, Sunan, Gansu, Y.haplogroup=C	38.9	99.6	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+XL47	M	Tibetan_Xinlong	n/a	China	Tibetic, Bodish, Sino-Tibetan, Xinlong, Sichuan, Y.haplogroup=O3	31	100.3	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+T297	F	Tibetan_Shigatse	n/a	China	Tibetic, Bodish, Sino-Tibetan, Shigatse, Tibet	29.3	88.9	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+QH3	M	Tibetan_Gangcha	n/a	China	Tibetic, Bodish, Sino-Tibetan, Gangcha, Qinghai, Y.haplogroup=D	37.3	100.2	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+EYG44	M	Yugur	n/a	China	Mongolic, Sunan, Gansu, Y.haplogroup=C	38.9	99.6	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+XL76	M	Tibetan_Xinlong	n/a	China	Tibetic, Bodish, Sino-Tibetan, Xinlong, Sichuan, Y.haplogroup=F*	31	100.3	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+T188	M	Tibetan_Shannan	n/a	China	Tibetic, Bodish, Sino-Tibetan, Shannan, Tibet, Y.haplogroup=C	29.2	91.8	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+QH4	M	Tibetan_Gangcha	n/a	China	Tibetic, Bodish, Sino-Tibetan, Gangcha, Qinghai, Y.haplogroup=R1a1a1	37.3	100.2	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+EYG40	M	Yugur	n/a	China	Mongolic, Sunan, Gansu, Y.haplogroup=C	38.9	99.6	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+BM28	M	Qiang_Daofu	n/a	China	Qiangic, Sino-Tibetan, Daofu, Sichuan, Y.haplogroup=D	30.9	101.1	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+T190	F	Tibetan_Shannan	n/a	China	Tibetic, Bodish, Sino-Tibetan, Shannan, Tibet	29.2	91.8	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+QH8	M	Tibetan_Gangcha	n/a	China	Tibetic, Bodish, Sino-Tibetan, Gangcha, Qinghai, Y.haplogroup=D	37.3	100.2	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+HKC109	M	Kazakh_China	n/a	China	Kipchak, Turkic, Kazak Autonomous  County of Aksay, Gansu, Y.haplogroup=C	38.5	94.3	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+BM37	M	Qiang_Daofu	n/a	China	Qiangic, Sino-Tibetan, Daofu, Sichuan, Y.haplogroup=D	30.9	101.1	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+T242	M	Tibetan_Shannan	n/a	China	Tibetic, Bodish, Sino-Tibetan, Shannan, Tibet, Y.haplogroup=D	29.2	91.8	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+QH11	M	Tibetan_Gangcha	n/a	China	Tibetic, Bodish, Sino-Tibetan, Gangcha, Qinghai, Y.haplogroup=O3a2	37.3	100.2	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+HKC140	M	Kazakh_China	n/a	China	Kipchak, Turkic, Kazak Autonomous  County of Aksay, Gansu, Y.haplogroup=C	38.5	94.3	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+BM27	M	Qiang_Daofu	n/a	China	Qiangic, Sino-Tibetan, Daofu, Sichuan, Y.haplogroup=O3a2c1a	30.9	101.1	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+T248	M	Tibetan_Shannan	n/a	China	Tibetic, Bodish, Sino-Tibetan, Shannan, Tibet, Y.haplogroup=O3a2c1a	29.2	91.8	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+QH13	M	Tibetan_Gangcha	n/a	China	Tibetic, Bodish, Sino-Tibetan, Gangcha, Qinghai, Y.haplogroup=O3a2c1a	37.3	100.2	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+KZ73	M	Kyrgyz_China	n/a	China	Kipchak, Turkic, Urumqi, Xinjiang, Y.haplogroup=R1a1a1	43.8	87.7	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+BM02	M	Qiang_Daofu	n/a	China	Qiangic, Sino-Tibetan, Daofu, Sichuan, Y.haplogroup=N1c1	30.9	101.1	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+T126	F	Tibetan_Shannan	n/a	China	Tibetic, Bodish, Sino-Tibetan, Shannan, Tibet	29.2	91.8	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+QH15	M	Tibetan_Gangcha	n/a	China	Tibetic, Bodish, Sino-Tibetan, Gangcha, Qinghai, Y.haplogroup=D	37.3	100.2	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+DX1157	M	Dongxiang	n/a	China	Mongolic, Linxia, Gansu, Y.haplogroup=J2a1h	35.6	103.2	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+BM18	M	Qiang_Daofu	n/a	China	Qiangic, Sino-Tibetan, Daofu, Sichuan, Y.haplogroup=D	30.9	101.1	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+T127	F	Tibetan_Shannan	n/a	China	Tibetic, Bodish, Sino-Tibetan, Shannan, Tibet	29.2	91.8	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+QH16	M	Tibetan_Gangcha	n/a	China	Tibetic, Bodish, Sino-Tibetan, Gangcha, Qinghai, Y.haplogroup=D	37.3	100.2	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+DX1175	M	Dongxiang	n/a	China	Mongolic, Linxia, Gansu, Y.haplogroup=J	35.6	103.2	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+DBA018	M	Qiang_Danba	n/a	China	Qiangic, Sino-Tibetan, Danba, Sichuan, Y.haplogroup=C	30.8	101.9	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+T199	M	Tibetan_Shannan	n/a	China	Tibetic, Bodish, Sino-Tibetan, Shannan, Tibet, Y.haplogroup=D	29.2	91.8	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+QH19	M	Tibetan_Gangcha	n/a	China	Tibetic, Bodish, Sino-Tibetan, Gangcha, Qinghai, Y.haplogroup=D	37.3	100.2	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+DX1170	M	Dongxiang	n/a	China	Mongolic, Linxia, Gansu, Y.haplogroup=R1a1a1	35.6	103.2	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+DBB001	M	Qiang_Danba	n/a	China	Qiangic, Sino-Tibetan, Danba, Sichuan, Y.haplogroup=O3a2b1	30.8	101.9	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+T200	M	Tibetan_Shannan	n/a	China	Tibetic, Bodish, Sino-Tibetan, Shannan, Tibet, Y.haplogroup=O3a2c1a	29.2	91.8	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+QH20	M	Tibetan_Gangcha	n/a	China	Tibetic, Bodish, Sino-Tibetan, Gangcha, Qinghai, Y.haplogroup=D	37.3	100.2	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+DX1047	M	Dongxiang	n/a	China	Mongolic, Linxia, Gansu, Y.haplogroup=C2b2a	35.6	103.2	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+DBA01	M	Qiang_Danba	n/a	China	Qiangic, Sino-Tibetan, Danba, Sichuan, Y.haplogroup=D	30.8	101.9	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+T289	F	Tibetan_Shannan	n/a	China	Tibetic, Bodish, Sino-Tibetan, Shannan, Tibet	29.2	91.8	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+T18	F	Tibetan_Lhasa	n/a	China	Tibetic, Bodish, Sino-Tibetan, Lhasa, Tibet	30	91.1	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+DX1146	M	Dongxiang	n/a	China	Mongolic, Linxia, Gansu, Y.haplogroup=G2a	35.6	103.2	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+DBB002	M	Qiang_Danba	n/a	China	Qiangic, Sino-Tibetan, Danba, Sichuan, Y.haplogroup=O2a1a	30.8	101.9	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+HN1-243	M	Dong_Hunan	n/a	China	Kam, Kam-Sui, Tai‚ÄìKadai, Hunan, Y.haplogroup=O2a1a	27.4	109.2	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+T215	M	Tibetan_Shigatse	n/a	China	Tibetic, Bodish, Sino-Tibetan, Shigatse, Tibet, Y.haplogroup=O3a2c1a	29.3	88.9	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+DX1058	M	Dongxiang	n/a	China	Mongolic, Linxia, Gansu, Y.haplogroup=C	35.6	103.2	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+GL24	M	Gelao	n/a	China	Kra, Tai-Kadai, Longlin, Baise, Guangxi, Y.haplogroup=O2a1	24.8	105.3	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+HN1-273	M	Dong_Hunan	n/a	China	Kam, Kam-Sui, Tai‚ÄìKadai, Hunan, Y.haplogroup=O2a1	27.4	109.2	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+XL22	M	Tibetan_Xinlong	n/a	China	Tibetic, Bodish, Sino-Tibetan, Xinlong, Sichuan, Y.haplogroup=Q*	31	100.3	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+DX1131	M	Dongxiang	n/a	China	Mongolic, Linxia, Gansu, Y.haplogroup=R2 (Investigation)	35.6	103.2	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+B8	F	Mulam	n/a	China	Kam-Sui, Tai‚ÄìKadai, Luocheng, Guangxi	24.8	108.9	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+HN1-232	M	Dong_Hunan	n/a	China	Kam, Kam-Sui, Tai‚ÄìKadai, Hunan, Y.haplogroup=O3a1c	27.4	109.2	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+XL37	M	Tibetan_Xinlong	n/a	China	Tibetic, Bodish, Sino-Tibetan, Xinlong, Sichuan, Y.haplogroup=O3a2	31	100.3	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+QH6	M	Tibetan_Gangcha	n/a	China	Tibetic, Bodish, Sino-Tibetan, Gangcha, Qinghai, Y.haplogroup=D	37.3	100.2	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+B14	F	Mulam	n/a	China	Kam-Sui, Tai‚ÄìKadai, Luocheng, Guangxi	24.8	108.9	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+HN1-218	M	Dong_Hunan	n/a	China	Kam, Kam-Sui, Tai‚ÄìKadai, Hunan, Y.haplogroup=O2a1a	27.4	109.2	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+XL05	M	Tibetan_Xinlong	n/a	China	Tibetic, Bodish, Sino-Tibetan, Xinlong, Sichuan, Y.haplogroup=D	31	100.3	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+QH12	M	Tibetan_Gangcha	n/a	China	Tibetic, Bodish, Sino-Tibetan, Gangcha, Qinghai, Y.haplogroup=O3a2	37.3	100.2	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+B43	F	Mulam	n/a	China	Kam-Sui, Tai‚ÄìKadai, Luocheng, Guangxi	24.8	108.9	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+HN1-206	M	Dong_Hunan	n/a	China	Kam, Kam-Sui, Tai‚ÄìKadai, Hunan, Y.haplogroup=O2a1a	27.4	109.2	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+XHTB5	M	Tibetan_Xunhua	n/a	China	Tibetic, Bodish, Sino-Tibetan, Xunhua, Qinghai, Y.haplogroup=D	35.8	102.5	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+Dong04	F	Dong_Hunan	n/a	China	Kam, Kam-Sui, Tai‚ÄìKadai, Congjiang, Kaili, Guizhou	25.8	108.9	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+B18	F	Mulam	n/a	China	Kam-Sui, Tai‚ÄìKadai, Luocheng, Guangxi	24.8	108.9	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+HN1-260	M	Dong_Hunan	n/a	China	Kam, Kam-Sui, Tai‚ÄìKadai, Hunan, Y.haplogroup=O3a2b1	27.4	109.2	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+Dong12	F	Dong_Hunan	n/a	China	Kam, Kam-Sui, Tai‚ÄìKadai, Liping, Guizhou	26.2	109.2	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+EYG06	M	Yugur	n/a	China	Mongolic, Sunan, Gansu, Y.haplogroup=G2a	38.9	99.6	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+B32	F	Mulam	n/a	China	Kam-Sui, Tai‚ÄìKadai, Luocheng, Guangxi	24.8	108.9	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+HN1-106	M	Dong_Hunan	n/a	China	Kam, Kam-Sui, Tai‚ÄìKadai, Hunan, Y.haplogroup=N	27.4	109.2	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+Dong13	F	Dong_Guizhou	n/a	China	Kam, Kam-Sui, Tai‚ÄìKadai, Liping, Guizhou	26.2	109.2	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+EYG25	M	Yugur	n/a	China	Mongolic, Sunan, Gansu, Y.haplogroup=O3a2	38.9	99.6	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+A019	F	Mulam	n/a	China	Kam-Sui, Tai‚ÄìKadai, Luocheng, Guangxi	24.8	108.9	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+Han516	M	Han_Chongqing	n/a	China	Chinese, Sino-Tibetan, Chongqing, Y.haplogroup=O2b	29.3	106.3	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+Dong01	F	Dong_Guizhou	n/a	China	Kam, Kam-Sui, Tai‚ÄìKadai, Congjiang, Kaili, Guizhou	25.8	108.9	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+EYG42	M	Yugur	n/a	China	Mongolic, Sunan, Gansu, Y.haplogroup=O3a2c1a	38.9	99.6	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+A015	F	Mulam	n/a	China	Kam-Sui, Tai‚ÄìKadai, Luocheng, Guangxi	24.8	108.9	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+Han1968	M	Han_Chongqing	n/a	China	Chinese, Sino-Tibetan, Chongqing, Y.haplogroup=O1a	29.3	106.3	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+A005	F	Mulam	n/a	China	Kam-Sui, Tai‚ÄìKadai, Luocheng, Guangxi	24.8	108.9	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+EYG46	M	Yugur	n/a	China	Mongolic, Sunan, Gansu, Y.haplogroup=O3a2	38.9	99.6	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+A016	F	Mulam	n/a	China	Kam-Sui, Tai‚ÄìKadai, Luocheng, Guangxi	24.8	108.9	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+Han2150	M	Han_Chongqing	n/a	China	Chinese, Sino-Tibetan, Chongqing, Y.haplogroup=O3a1c	29.3	106.3	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+Zhuang16	F	Zhuang	n/a	China	Tai, Tai-Kadai, Donglan, Hechi, Guangxi	24.5	107.4	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+EYG24	M	Yugur	n/a	China	Mongolic, Sunan, Gansu, Y.haplogroup=O3a2	38.9	99.6	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+A123	F	Mulam	n/a	China	Kam-Sui, Tai‚ÄìKadai, Luocheng, Guangxi	24.8	108.9	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+Han1467	M	Han_Fujian	n/a	China	Chinese, Sino-Tibetan, Fujian, Y.haplogroup=O3a2	26.1	119.3	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+Zhuang10	F	Zhuang	n/a	China	Tai, Tai-Kadai, Jinchengjiang, Hechi, Guangxi	24.7	108.1	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+BAO22	M	Bonan	n/a	China	Mongolic, Jishishan, Gansu	35.7	102.8	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+W26	F	Maonan	n/a	China	Kam-Sui, Tai‚ÄìKadai, Huanjiang, Guangxi	24.8	108.3	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+Han1619	M	Han_Fujian	n/a	China	Chinese, Sino-Tibetan, Fujian, Y.haplogroup=N	26.1	119.3	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+Zhuang06	M	Zhuang	n/a	China	Tai, Tai-Kadai, Jinchengjiang, Hechi, Guangxi, Y.haplogroup=O2a1	24.7	108.1	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+BAO11	M	Bonan	n/a	China	Mongolic, Jishishan, Gansu	35.7	102.8	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+W15	F	Maonan	n/a	China	Kam-Sui, Tai‚ÄìKadai, Huanjiang, Guangxi	24.8	108.3	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+Han1900	M	Han_Fujian	n/a	China	Chinese, Sino-Tibetan, Fujian, Y.haplogroup=O3a1c	26.1	119.3	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+Zhuang05	F	Zhuang	n/a	China	'Tai, Tai-Kadai, Rong''an, Liuzhou, Guangxi'	24.3	109.4	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+BAO03	F	Bonan	n/a	China	Mongolic, Jishishan, Gansu	35.7	102.8	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+W41	F	Maonan	n/a	China	Kam-Sui, Tai‚ÄìKadai, Huanjiang, Guangxi	24.8	108.3	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+Han1934	M	Han_Fujian	n/a	China	Chinese, Sino-Tibetan, Fujian, Y.haplogroup=O3a1c	26.1	119.3	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+Zhuang07	M	Zhuang	n/a	China	Tai, Tai-Kadai, Wuxuan, Laibin, Guangxi, Y.haplogroup=O1a	23.6	109.7	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
+Dong007	M	Dong_Guizhou	n/a	China	Kam, Kam-Sui, Tai‚ÄìKadai, Rongjiang, Guizhou, Y.haplogroup=O1a	25.9	108.5	modern	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1240K	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	WangNature2021	n/a	PRJEB42781
 I6221	M	Mongolia_Chalcolithic_1_Afanasievo	I6221	Mongolia	Bayankhongor aimag, Erdenetsogt sum, Shatar chuluu kurgan 2	46.4	100.82	contextual	n/a	n/a	-3000	-2750	-2500	U5a1+16192	J1	petrous_cbd	1	1240K	half	ds	haploid	0.698	822131	4.338	0.071	0.00443	0.003376363636364	X-based (unknown software)	Wang, Chuanchao	WangNature2021	PASS (Xcontam=0.004)	PRJEB42781
 I6222	M	Mongolia_Chalcolithic_1_Afanasievo	I6222	Mongolia	Bayankhongor aimag, Erdenetsogt sum, Shatar chuluu kurgan 2	46.4	100.82	C14	4415	31	-3316	-3117	-2918	R	R1b1a1a2a1a	petrous_cbd	1	1240K	half	ds	haploid	0.0095	146406	0.136	0.042	n/a	n/a	n/a	Wang, Chuanchao	WangNature2021	QUESTIONABLE (mtmatchmax=0.861)	PRJEB42781
 I6224	M	Mongolia_EIA_4_Sagly	I6224	Mongolia	Uvs aimag, Ulaangom sum, Chandman Uul, Ulaangom cemetery Grave #33, Burial 3	49.96	92.05	C14	2210	20	-361	-282	-203	T2b34	R1a1a1b	petrous_cbd	1	1240K	half	ds	haploid	0.3237	824255	3.154	0.049	0.00989	0.003702424242424	X-based (unknown software)	Wang, Chuanchao	WangNature2021	PASS (Xcontam=0.010)	PRJEB42781
@@ -498,7 +498,7 @@ I3616	F	Taiwan_Hanben	I3616	Taiwan	Yilan, Hanben	24.32778	121.76556	contextual	n
 I3731	M	Taiwan_Hanben	I3731	Taiwan	Yilan, Hanben	24.32778	121.76556	contextual	n/a	n/a	510	690	870	F3b1	O1a1a1a1a1	petrous	2	1240K	half	ds	haploid	n/a	961555	4.124141	n/a	0.00947	0.002744242424242	X-based (unknown software)	Wang, Chuanchao	WangNature2021	PASS (Xcontam=0.009)	PRJEB42781
 I3734	M	Taiwan_Hanben	I3734	Taiwan	Yilan, Hanben	24.32778	121.76556	contextual	n/a	n/a	510	690	870	E1a	O2a2a1a2	petrous	2	1240K	half	ds	haploid	n/a	939803	3.707348	n/a	0.00928	0.002858181818182	X-based (unknown software)	Wang, Chuanchao	WangNature2021	PASS (Xcontam=0.009)	PRJEB42781
 I3735	F	Taiwan_Hanben	I3735	Taiwan	Yilan, Hanben	24.32778	121.76556	contextual	n/a	n/a	510	690	870	E1a	n/a	petrous	2	1240K	half	ds	haploid	n/a	922440	3.727906	n/a	n/a	n/a	n/a	Wang, Chuanchao	WangNature2021	PASS	PRJEB42781
-I1192	M	Boisman_MN_1d.rel.I1206	I1192	Russia	Primorsky Krai, Boisman-2	42.78944	131.27611	C14	5890	60	-4932	-4770	-4608	B4d1'2'3	C2a1(xC2a1a1a,C2a1a2a)	tooth	4	1240K	half	ds	haploid	n/a	230282	0.225216	n/a	0.02139	0.028852121212121	X-based (unknown software)	Wang, Chuanchao	WangNature2021	PASS	PRJEB42781
+I1192	M	Boisman_MN_1d.rel.I1206	I1192	Russia	Primorsky Krai, Boisman-2	42.78944	131.27611	C14	5890	60	-4932	-4770	-4608	'B4d1''2''3'	C2a1(xC2a1a1a,C2a1a2a)	tooth	4	1240K	half	ds	haploid	n/a	230282	0.225216	n/a	0.02139	0.028852121212121	X-based (unknown software)	Wang, Chuanchao	WangNature2021	PASS	PRJEB42781
 I1194	F	Boisman_MN	I1194	Russia	Primorsky Krai, Boisman-2	42.78944	131.27611	C14	5840	35	-4792	-4698	-4604	C5a	n/a	bone_longbone	4	1240K	half	ds	haploid	n/a	190194	0.184206	n/a	n/a	n/a	n/a	Wang, Chuanchao	WangNature2021	PASS	PRJEB42781
 I1209	M	Russia_Heshui_Mohe_Early_Medieval	I1209	Russia	Roshino-4, Primorsky Krai	45.91361	134.87694	C14	880	35	1039	1132	1224	D4a1e	O2	tooth	3	1240K	half	ds	haploid	n/a	142242	0.129348	n/a	0.06388	0.082494545454546	X-based (unknown software)	Wang, Chuanchao	WangNature2021	PASS	PRJEB42781
 I8071	F	Taiwan_Hanben	I8071	Taiwan	Yilan, Hanben	24.32778	121.76556	contextual	n/a	n/a	150	308	465	R	n/a	bone	1	1240K	half	ds	haploid	0.0112	29316	0.025242	0.102	n/a	n/a	n/a	Wang, Chuanchao	WangNature2021	PASS	PRJEB42781
