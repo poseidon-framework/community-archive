@@ -1,41 +1,41 @@
-Poseidon_ID	Genetic_Sex	Group_Name	Publication	Genetic_Source_Accession_IDs
-bla001	M	bla001	KilincScienceAdvances2021	PRJEB39378
-brn001	F	brn001	KilincScienceAdvances2021	PRJEB39378
-brn002	M	brn002	KilincScienceAdvances2021	PRJEB39378
-brn003	M	brn003	KilincScienceAdvances2021	PRJEB39378
-brn008	M	brn008	KilincScienceAdvances2021	PRJEB39378
-brn012	F	brn012	KilincScienceAdvances2021	PRJEB39378
-cta016	F	cta016	KilincScienceAdvances2021	PRJEB39378
-irk007	M	irk007	KilincScienceAdvances2021	PRJEB39378
-irk008	F	irk008	KilincScienceAdvances2021	PRJEB39378
-irk00x	M	irk00x	KilincScienceAdvances2021	PRJEB39378
-irk017	F	irk017	KilincScienceAdvances2021	PRJEB39378
-irk022	M	irk022	KilincScienceAdvances2021	PRJEB39378
-irk025	M	irk025	KilincScienceAdvances2021	PRJEB39378
-irk030	M	irk030	KilincScienceAdvances2021	PRJEB39378
-irk032	M	irk032	KilincScienceAdvances2021	PRJEB39378
-irk033	M	irk033	KilincScienceAdvances2021	PRJEB39378
-irk034	M	irk034	KilincScienceAdvances2021	PRJEB39378
-irk036	M	irk036	KilincScienceAdvances2021	PRJEB39378
-irk040	M	irk040	KilincScienceAdvances2021	PRJEB39378
-irk050	F	irk050	KilincScienceAdvances2021	PRJEB39378
-irk051	F	irk051	KilincScienceAdvances2021	PRJEB39378
-irk057	M	irk057	KilincScienceAdvances2021	PRJEB39378
-irk061	M	irk061	KilincScienceAdvances2021	PRJEB39378
-irk068	M	irk068	KilincScienceAdvances2021	PRJEB39378
-irk071	M	irk071	KilincScienceAdvances2021	PRJEB39378
-irk075	M	irk075	KilincScienceAdvances2021	PRJEB39378
-irk076	M	irk076	KilincScienceAdvances2021	PRJEB39378
-irk078	F	irk078	KilincScienceAdvances2021	PRJEB39378
-kra001	M	kra001	KilincScienceAdvances2021	PRJEB39378
-mak026	F	mak026	KilincScienceAdvances2021	PRJEB39378
-N2a	F	N2a	KilincScienceAdvances2021	PRJEB39378
-N4a1	M	N4a1	KilincScienceAdvances2021	PRJEB39378
-N4b2	M	N4b2	KilincScienceAdvances2021	PRJEB39378
-N5a	M	N5a	KilincScienceAdvances2021	PRJEB39378
-yak021	F	yak021	KilincScienceAdvances2021	PRJEB39378
-yak022	F	yak022	KilincScienceAdvances2021	PRJEB39378
-yak023	F	yak023	KilincScienceAdvances2021	PRJEB39378
-yak024	F	yak024	KilincScienceAdvances2021	PRJEB39378
-yak025	F	yak025	KilincScienceAdvances2021	PRJEB39378
-Yak030	M	Yak030	KilincScienceAdvances2021	PRJEB39378
+"Poseidon_ID"	"Genetic_Sex"	"Group_Name"	"Collection_ID"	"Country"	"Site"	"Latitude"	"Longitude"	"Date_Type"	"MT_Haplogroup"	"Y_Haplogroup"	"Source_Tissue"	"Nr_Libraries"	"Capture_Type"	"Library_Built"	"Publication"	"Genetic_Source_Accession_IDs"
+"bla001"	"M"	"bla001"	"Russia_Blagovechensk_IA.SG"	"Russia"	"Far Eastern Federal District, Amur Oblast, Blagovechensk, Oktyabr'skoe"	49.6731	127.885	"Direct: IntCal20"	"D4e4a"	"C2b1a1b1"	"tooth"	2	"Shotgun"	"ds.minus,ds.minus"	"KilincScienceAdvances2021"	"PRJEB39378"
+"brn001"	"F"	"brn001"	"Russia_KuengaRiver_N_1.SG"	"Russia"	"Siberian Federal District, Trans-Baikal, Kuenga River, Izvestkovaja-1 site"	52.2308	116.9933	"Direct: IntCal20"	"A"	"n/a (female)"	"tooth"	2	"Shotgun"	"ds.minus,ds.minus"	"KilincScienceAdvances2021"	"PRJEB39378"
+"brn002"	"M"	"brn002"	"Russia_AginBuryat_N.SG"	"Russia"	"Siberian Federal District, Trans-Baikal, Agin-Buryat Autonomous Okrug, Nozhyj Lake burial site-2"	50.8158	114.8367	"Direct: IntCal20"	"D2a'b"	"NA"	"tooth"	2	"Shotgun"	"ds.minus,ds.minus"	"KilincScienceAdvances2021"	"PRJEB39378"
+"brn003"	"M"	"brn003"	"Russia_KadalinkaRiver_N.SG"	"Russia"	"Siberian Federal District, Trans-Baikal, Kadalinka River, Dvorcy-Dacha burial"	52.0742	113.2139	"Direct: IntCal20"	"D4"	"N1c1a1"	"tooth"	5	"Shotgun"	"ds.plus,ds.plus,ds.plus,ds.minus,ds.minus"	"KilincScienceAdvances2021"	"PRJEB39378"
+"brn008"	"M"	"brn008"	"Russia_KuengaRiver_N_2.SG"	"Russia"	"Siberian Federal District, Trans-Baikal, Kuenga River, Izvestkovaja-1 site"	52.2308	116.9933	"Direct: IntCal20"	"D4"	"N1c1a1"	"tooth"	5	"Shotgun"	"ds.plus,ds.plus,ds.plus,ds.minus,ds.minus"	"KilincScienceAdvances2021"	"PRJEB39378"
+"brn012"	"F"	"brn012"	"Russia_AginBuryat_N.SG"	"Russia"	"Siberian Federal District, Trans-Baikal, Agin-Buryat Autonomous Okrug, Nozhyj Lake burial site-1"	50.8158	114.8367	"Direct: IntCal20"	"D4b1a2"	"n/a (female)"	"tooth"	2	"Shotgun"	"ds.minus,ds.minus"	"KilincScienceAdvances2021"	"PRJEB39378"
+"cta016"	"F"	"cta016"	"Russia_ArgunRiver_M.SG"	"Russia"	"Siberian Federal District, Trans-Baikal, Argun River, Western Hill, Mt. Bolishaja Kanga, Duroj"	50.0171	118.9395	"Direct: IntCal20"	"G2a1"	"n/a (female)"	"tooth"	6	"Shotgun"	"ds.minus,ds.plus,ds.plus,ds.plus,ds.plus,ds.plus"	"KilincScienceAdvances2021"	"PRJEB39378"
+"irk007"	"M"	"irk007"	"Russia_LenaRiver_EN.SG"	"Russia"	"Siberian Federal District, Cis-Baikal, Lena River, Popovskij Lug site"	53.9867	105.8477	"Direct: IntCal20"	"F1b"	"N1c2b2"	"tooth"	8	"Shotgun"	"ds.plus,ds.plus,ds.plus,ds.plus,ds.plus,ds.plus,ds.minus,ds.minus"	"KilincScienceAdvances2021"	"PRJEB39378"
+"irk008"	"F"	"irk008"	"Russia_LenaRiver_BA.SG"	"Russia"	"Siberian Federal District, Cis-Baikal, Lena River, Silinskij burial site"	54.0027	105.7103	"Direct: IntCal20"	"C4a1a"	"n/a (female)"	"tooth"	2	"Shotgun"	"ds.minus,ds.minus"	"KilincScienceAdvances2021"	"PRJEB39378"
+"irk00x"	"M"	"irk00x"	"Russia_Buryatia_M.SG"	"Russia"	"Siberian Federal District, Trans-Baikal, Buryatia, Dzhylinda site"	55.6689	115.8721	"Direct: IntCal20"	"C5c"	"NA"	"tooth"	3	"Shotgun"	"ds.minus,ds.minus,ds.minus"	"KilincScienceAdvances2021"	"PRJEB39378"
+"irk017"	"F"	"irk017"	"Russia_LenaRiver_N.SG"	"Russia"	"Siberian Federal District, Cis-Baikal, Lena River, Makarovo site-1"	54.003	105.7941	"Direct: IntCal20"	"D4j5"	"n/a (female)"	"tooth"	13	"Shotgun"	"ds.plus,ds.minus,ds.minus,ds.plus,ds.plus,ds.plus,ds.plus,ds.plus,ds.minus,ds.minus,ds.minus,ds.plus,ds.minus"	"KilincScienceAdvances2021"	"PRJEB39378"
+"irk022"	"M"	"irk022"	"Russia_AngaraRiver_BA.SG"	"Russia"	"Siberian Federal District, Cis-Baikal, Angara River, Ust'-Dolgoe site"	52.9943	103.4209	"Direct: IntCal20"	"D4b1c"	"Q1a2a1c"	"tooth"	7	"Shotgun"	"ds.plus,ds.plus,ds.plus,ds.plus,ds.plus,ds.minus,ds.minus"	"KilincScienceAdvances2021"	"PRJEB39378"
+"irk025"	"M"	"irk025"	"Russia_AngaraRiver_BA.SG"	"Russia"	"Siberian Federal District, Cis-Baikal, Angara River, Sukhaja Pad' Buret' site"	52.9838	103.5207	"Direct: IntCal20"	"A"	"Q1a2a"	"tooth"	7	"Shotgun"	"ds.plus,ds.plus,ds.plus,ds.plus,ds.plus,ds.minus,ds.minus"	"KilincScienceAdvances2021"	"PRJEB39378"
+"irk030"	"M"	"irk030"	"Russia_LenaRiver_N.SG"	"Russia"	"Siberian Federal District, Cis-Baikal, Lena River, Korkino"	54.3738	105.21	"Direct: IntCal20"	"A10"	"Q1a2a1c"	"tooth"	7	"Shotgun"	"ds.plus,ds.plus,ds.plus,ds.plus,ds.plus,ds.minus,ds.minus"	"KilincScienceAdvances2021"	"PRJEB39378"
+"irk032"	"M"	"irk032"	"Russia_AngaraRiver_Medieval.SG"	"Russia"	"Siberian Federal District, Cis-Baikal, Angara River, Zarubino site"	57.4743	102.8364	"Direct: IntCal20"	"D6c"	"I*"	"tooth"	2	"Shotgun"	"ds.minus,ds.minus"	"KilincScienceAdvances2021"	"PRJEB39378"
+"irk033"	"M"	"irk033"	"Russia_AngaraRiver_N.SG"	"Russia"	"Siberian Federal District, Cis-Baikal, Angara River, Chastaja Padi"	52.9892	103.4509	"Direct: IntCal20"	"C4a"	"Q1a"	"tooth"	2	"Shotgun"	"ds.minus,ds.minus"	"KilincScienceAdvances2021"	"PRJEB39378"
+"irk034"	"M"	"irk034"	"Russia_AngaraRiver_N.SG"	"Russia"	"Siberian Federal District, Cis-Baikal, Angara River, Kirpichnyj Saraj site"	53.2207	103.3948	"Direct: IntCal20"	"D4j"	"Q1a2a"	"tooth"	7	"Shotgun"	"ds.plus,ds.plus,ds.plus,ds.minus,ds.minus,ds.minus,ds.minus"	"KilincScienceAdvances2021"	"PRJEB39378"
+"irk036"	"M"	"irk036"	"Russia_AngaraRiver_BA.SG"	"Russia"	"Siberian Federal District, Cis-Baikal, Angara River, Glazkovo site"	52.2864	104.2601	"Direct: IntCal20"	"F1b1b"	"Q1a2a"	"tooth"	7	"Shotgun"	"ds.plus,ds.plus,ds.plus,ds.plus,ds.plus,ds.minus,ds.minus"	"KilincScienceAdvances2021"	"PRJEB39378"
+"irk040"	"M"	"irk040"	"Russia_AngaraRiver_N.SG"	"Russia"	"Siberian Federal District, Cis-Baikal, Angara River, Gorodische N 1"	53.2207	103.3948	"Direct: IntCal20"	"A"	"Q1a2a"	"tooth"	3	"Shotgun"	"ds.plus,ds.plus,ds.plus"	"KilincScienceAdvances2021"	"PRJEB39378"
+"irk050"	"F"	"irk050"	"Russia_AngaraRiver_BA.SG"	"Russia"	"Siberian Federal District, Cis-Baikal, Angara River, Anosovo N 1"	54.6659	103.2322	"Direct: IntCal20"	"R1b"	"n/a (female)"	"tooth"	2	"Shotgun"	"ds.minus,ds.minus"	"KilincScienceAdvances2021"	"PRJEB39378"
+"irk051"	"F"	"irk051"	"Russia_AngaraRiver_EN.SG"	"Russia"	"Siberian Federal District, Cis-Baikal, Angara River, Cyclodrome site"	52.2888	104.2526	"Direct: IntCal20"	"F1b"	"n/a (female)"	"tooth"	7	"Shotgun"	"ds.plus,ds.plus,ds.plus,ds.plus,ds.plus,ds.minus,ds.minus"	"KilincScienceAdvances2021"	"PRJEB39378"
+"irk057"	"M"	"irk057"	"Russia_AngaraRiver_BA.SG"	"Russia"	"Siberian Federal District, Cis-Baikal, Angara River, Podostrozhnoe N 3"	53.2207	103.3948	"Direct: IntCal20"	"C4"	"Q1a2"	"tooth"	2	"Shotgun"	"ds.minus,ds.minus"	"KilincScienceAdvances2021"	"PRJEB39378"
+"irk061"	"M"	"irk061"	"Russia_LenaRiver_BA.SG"	"Russia"	"Siberian Federal District, Cis-Baikal, Lena River, Zvjozdochka site"	53.9695	105.8412	"Direct: IntCal20"	"D4j1"	"Q1a2a"	"tooth"	7	"Shotgun"	"ds.plus,ds.plus,ds.plus,ds.plus,ds.plus,ds.minus,ds.minus"	"KilincScienceAdvances2021"	"PRJEB39378"
+"irk068"	"M"	"irk068"	"Russia_LenaRiver_BA.SG"	"Russia"	"Siberian Federal District, Cis-Baikal, Lena River, Shishkino N 1"	54.0066	105.6815	"Direct: IntCal20"	"F1b1b"	"Q1a2a"	"tooth"	7	"Shotgun"	"ds.plus,ds.plus,ds.plus,ds.plus,ds.plus,ds.minus,ds.minus"	"KilincScienceAdvances2021"	"PRJEB39378"
+"irk071"	"M"	"irk071"	"Russia_LakeBaikal_N.SG"	"Russia"	"Siberian Federal District, Cis-Baikal, Lake Baikal, Mys Uyuga site"	53.1529	106.9598	"Direct: IntCal20"	"D4j"	"Q1a2a"	"tooth"	7	"Shotgun"	"ds.plus,ds.plus,ds.plus,ds.plus,ds.plus,ds.minus,ds.minus"	"KilincScienceAdvances2021"	"PRJEB39378"
+"irk075"	"M"	"irk075"	"Russia_LakeBaikal_N.SG"	"Russia"	"Siberian Federal District, Cis-Baikal, Lake Baikal, complex 1, Sokhter site"	53.0189	106.7615	"Direct: IntCal20"	"D4j12"	"Q1a2a"	"tooth"	7	"Shotgun"	"ds.plus,ds.plus,ds.plus,ds.plus,ds.plus,ds.minus,ds.minus"	"KilincScienceAdvances2021"	"PRJEB39378"
+"irk076"	"M"	"irk076"	"Russia_LakeBaikal_BA.SG"	"Russia"	"Siberian Federal District, Cis-Baikal, Lake Baikal, Shamanka 2 site"	51.6945	103.7048	"Direct: IntCal20"	"C4a2a1"	"NA"	"tooth"	2	"Shotgun"	"ds.minus,ds.minus"	"KilincScienceAdvances2021"	"PRJEB39378"
+"irk078"	"F"	"irk078"	"Russia_Chita_BA.SG"	"Russia"	"Siberian Federal District, Trans-Baikal, Chita Oblast, Okoshki-1"	50.3172	118.2754	"Direct: IntCal20"	"M1"	"n/a (female)"	"tooth"	2	"Shotgun"	"ds.minus,ds.minus"	"KilincScienceAdvances2021"	"PRJEB39378"
+"kra001"	"M"	"kra001"	"Russia_Krasnoyarsk_BA.SG"	"Russia"	"Siberian Federal District, Krasnoyarsk Krai, Krasnoyarsk Krai, Nefteprovod-2 site"	56.1947	95.8195	"Direct: IntCal20"	"C4b"	"N1c1a1a"	"tooth"	7	"Shotgun"	"ds.plus,ds.plus,ds.plus,ds.minus,ds.minus,ds.plus,ds.plus"	"KilincScienceAdvances2021"	"PRJEB39378"
+"mak026"	"F"	"mak026"	"Russia_LenaRiver_N.SG"	"Russia"	"Siberian Federal District, Cis-Baikal, Lena River, Makrushyno site"	53.8767	106.2674	"Direct: IntCal20"	"C4"	"n/a (female)"	"bone (femur)"	9	"Shotgun"	"ds.minus,ds.minus,ds.minus,ds.minus,ds.minus,ds.minus,ds.minus,ds.minus,ds.minus"	"KilincScienceAdvances2021"	"PRJEB39378"
+"N2a"	"F"	"N2a"	"Russia_LenaRiver_EN.SG"	"Russia"	"Far Eastern Federal District, Yakutia, Lena River, Matta lake burial"	62.3557	130.6484	"Direct: IntCal20"	"F1d"	"n/a (female)"	"bone (os cueniform)"	6	"Shotgun"	"ds.minus,ds.minus,ds.minus,ds.minus,ds.minus,ds.minus"	"KilincScienceAdvances2021"	"PRJEB39378"
+"N4a1"	"M"	"N4a1"	"Russia_CentralYakutia_LN.SG"	"Russia"	"Far Eastern Federal District, Yakutia, Central Yakutia, Kyordyughen 2"	62.0667	132.3336	"Direct: IntCal20"	"A12a"	"N1c2b2"	"tooth"	4	"Shotgun"	"ds.minus,ds.minus,ds.minus,ds.minus"	"KilincScienceAdvances2021"	"PRJEB39378"
+"N4b2"	"M"	"N4b2"	"Russia_CentralYakutia_LN.SG"	"Russia"	"Far Eastern Federal District, Yakutia, Central Yakutia, Kyordyughen 1"	62.0667	132.3333	"Direct: IntCal20"	"A12a"	"n/a (female)"	"tooth"	9	"Shotgun"	"ds.plus,ds.plus,ds.plus,ds.plus,ds.plus,ds.minus,ds.plus,ds.minus,ds.minus"	"KilincScienceAdvances2021"	"PRJEB39378"
+"N5a"	"M"	"N5a"	"Russia_LenaRiver_MiddleN.SG"	"Russia"	"Far Eastern Federal District, Yakutia, Lena River, Onnyos burial"	60.4583	131.0917	"Direct: IntCal20"	"D4b1c"	"n/a (female)"	"tooth"	"n/a"	"Shotgun"	"NA"	"KilincScienceAdvances2021"	"PRJEB39378"
+"yak021"	"F"	"yak021"	"Russia_KolymaRiver_LN.SG"	"Russia"	"Far Eastern Federal District, Yakutia, Kolyma River, Pomazkino site"	67.9167	156.5	"Direct: IntCal20"	"C4b"	"n/a (female)"	"tooth"	2	"Shotgun"	"ds.minus,ds.minus"	"KilincScienceAdvances2021"	"PRJEB39378"
+"yak022"	"F"	"yak022"	"Russia_KolymaRiver_LN.SG"	"Russia"	"Far Eastern Federal District, Yakutia, Kolyma River, Kamenka 2"	66.8	152.6333	"Direct: IntCal20"	"C4b"	"n/a (female)"	"tooth"	7	"Shotgun"	"ds.plus,ds.plus,ds.plus,ds.plus,ds.plus,ds.minus,ds.minus"	"KilincScienceAdvances2021"	"PRJEB39378"
+"yak023"	"F"	"yak023"	"Russia_KolymaRiver_LN_1d.rel.yak024.SG"	"Russia"	"Far Eastern Federal District, Yakutia, Kolyma River, Kamenka 2"	66.8	152.6333	"Direct: IntCal20"	"C4b"	"n/a (female)"	"tooth"	2	"Shotgun"	"ds.minus,ds.minus"	"KilincScienceAdvances2021"	"PRJEB39378"
+"yak024"	"F"	"yak024"	"Russia_KolymaRiver_LN.SG"	"Russia"	"Far Eastern Federal District, Yakutia, Kolyma River, Kamenka 2"	66.8	152.6333	"contextual"	"C4b"	"n/a (female)"	"petrous"	7	"Shotgun"	"ds.plus,ds.plus,ds.plus,ds.plus,ds.plus,ds.minus,ds.minus"	"KilincScienceAdvances2021"	"PRJEB39378"
+"yak025"	"F"	"yak025"	"Russia_LenaRiver_LUP.SG"	"Russia"	"Far Eastern Federal District, Yakutia, Lena River, Khaiyrgas Cave"	59.95	117.4667	"Direct: IntCal20"	"R1b"	"n/a (female)"	"tooth"	17	"Shotgun"	"ds.minus,ds.minus,ds.minus,ds.minus,ds.minus,ds.minus,ds.minus,ds.minus,ds.minus,ds.minus,ds.minus,ds.minus,ds.minus,ds.minus,ds.minus,ds.minus,ds.minus"	"KilincScienceAdvances2021"	"PRJEB39378"
+"Yak030"	"M"	"Yak030"	"Russia_CentralYakutia_IA.SG"	"Russia"	"Far Eastern Federal District, Yakutia, Central Yakutia, Dyupsya"	63.0739	130.7369	"Direct: IntCal20"	"C4b3"	"n/a (female)"	"tooth"	1	"Shotgun"	"ds.minus"	"KilincScienceAdvances2021"	"PRJEB39378"
