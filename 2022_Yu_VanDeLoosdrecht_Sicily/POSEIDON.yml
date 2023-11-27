@@ -1,0 +1,22 @@
+poseidonVersion: 2.7.1
+title: 2022_Yu_VanDeLoosdrecht_Sicily
+description: Genotypes of ancient individuals from Grotta dell'Uzzo, excluding SNP sites on CpG islands
+contributor:
+- name: He Yu
+  email: yuhe@pku.edu.cn
+  orcid: 0000-0003-1323-4730
+packageVersion: 1.0.0
+lastModified: 2023-11-23
+genotypeData:
+  format: PLINK
+  genoFile: 2022_Yu_VanDeLoosdrecht_Sicily.bed
+  genoFileChkSum: f2af7b655647dfaec0693fa4261c87b1
+  snpFile: 2022_Yu_VanDeLoosdrecht_Sicily.bim
+  snpFileChkSum: edd19822c7bbd57beed401227449dd4b
+  indFile: 2022_Yu_VanDeLoosdrecht_Sicily.fam
+  indFileChkSum: 037de6f64408600714bd1bf1f84ccbb0
+  snpSet: Other
+jannoFile: 2022_Yu_VanDeLoosdrecht_Sicily.janno
+jannoFileChkSum: d116eb31c178751bc745c5bd24a58faa
+bibFile: 2022_Yu_VanDeLoosdrecht_Sicily.bib
+bibFileChkSum: d36069459616beeff6b56d486a775c73
