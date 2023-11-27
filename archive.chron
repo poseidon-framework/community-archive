@@ -1,6 +1,6 @@
 title: Poseidon community-archive chronicle
-chronicleVersion: 1.8.0
-lastModified: 2023-11-24
+chronicleVersion: 1.9.0
+lastModified: 2023-11-27
 packages:
 - title: 2010_RasmussenNature
   version: 2.1.1
@@ -750,6 +750,10 @@ packages:
   version: 1.0.0
   commit: 3d04838b789b8a33c464348d6b5c262215d92bdd
   path: 2022_Gretzinger_AngloSaxons
+- title: 2022_Yu_VanDeLoosdrecht_Sicily
+  version: 1.0.0
+  commit: 655ced28348aaf1bcfb36d3852a9474eaf8ad13d
+  path: 2022_Yu_VanDeLoosdrecht_Sicily
 - title: 2023_Penske_EarlyContact
   version: 1.0.0
   commit: 45f919833071030a2d6ce09cb041d5fdad5f8edd
