@@ -1,12 +1,11 @@
 poseidonVersion: 2.5.0
 title: 2018_Ebenesersdottir_Iceland
-description: Genetic data published in Ebenesersdottir et al. 2018. Ancient genomes
-  from Iceland.
+description: Ancient genomes from Iceland. Originally AADR v42.4.
 contributor:
 - name: Ayshin Ghalichi
   email: ghalichi@shh.mpg.de
-packageVersion: 2.0.1
-lastModified: 2022-02-25
+packageVersion: 2.1.1
+lastModified: 2023-07-11
 genotypeData:
   format: PLINK
   genoFile: Ebenesersdottir_Iceland.bed
@@ -17,7 +16,7 @@ genotypeData:
   indFileChkSum: c74c87347a9b215978e9f9449eef1aa5
   snpSet: 1240K
 jannoFile: Ebenesersdottir_Iceland.janno
-jannoFileChkSum: a79dde22e34b5ab18c8883af4ed8d951
+jannoFileChkSum: 76712511c6be209f8f38b1af3d776ea1
 bibFile: LITERATURE.bib
-bibFileChkSum: 5e4a11099a406890786772634ee81df0
+bibFileChkSum: ec3ee3f11d3c489c7060bcf2e7a0d933
 changelogFile: CHANGELOG.md

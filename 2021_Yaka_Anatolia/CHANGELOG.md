@@ -1,3 +1,5 @@
+- V 0.2.1: Added the ssf file
+- V 0.2.0: Update of references in the .bib file
 - V 0.1.4: fixed wrong checksum
 - V 0.1.3: corrected Library_Built column for some individuals from ss to ds
 - V 0.1.2: not specified

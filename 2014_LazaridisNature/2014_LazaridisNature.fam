@@ -224,7 +224,7 @@ Tubalar	Tuba9	0	0	2	0
 Tubalar	Tuba17	0	0	1	0
 Tubalar	Tuba25	0	0	1	0
 Yukagir	Nel15	0	0	2	0
-Ignore_Even(<0.95_completeness)	Nlk9	0	0	2	0
+Ignore_Even(lt0.95_completeness)	Nlk9	0	0	2	0
 Tlingit	Ale14	0	0	2	0
 Eskimo_ChaplinSireniki	Sir14	0	0	1	0
 Koryak	Kor54	0	0	2	0

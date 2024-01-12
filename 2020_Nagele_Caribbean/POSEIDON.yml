@@ -1,11 +1,12 @@
-poseidonVersion: 2.5.0
+poseidonVersion: 2.7.1
 title: 2020_Nagele_Caribbean
-description: A diachronic set of ancient samples from the Caribbean.
+description: A diachronic set of ancient samples from the Caribbean. Originally AADR
+  v44.3.
 contributor:
 - name: Ayshin Ghalichi
   email: ghalichi@shh.mpg.de
-packageVersion: 2.0.1
-lastModified: 2022-03-13
+packageVersion: 2.2.0
+lastModified: 2023-07-04
 genotypeData:
   format: PLINK
   genoFile: Nagele_Caribbean.bed
@@ -16,7 +17,9 @@ genotypeData:
   indFileChkSum: a31df03e943a5f7bee9f97e40f72da4a
   snpSet: 1240K
 jannoFile: Nagele_Caribbean.janno
-jannoFileChkSum: 9d2df9cbef1a1e1edddae477f12ad423
+jannoFileChkSum: a3a7ab0149c51538d0aabd38c7e5e539
+sequencingSourceFile: ENAtable.ssf
+sequencingSourceFileChkSum: 75c9d20951b1cb0499bc8000d58da05c
 bibFile: LITERATURE.bib
-bibFileChkSum: 9ba54a4998f8f276052f842bf9e7b9e4
+bibFileChkSum: 187579671272a157a62c2f1b5345587c
 changelogFile: CHANGELOG.md

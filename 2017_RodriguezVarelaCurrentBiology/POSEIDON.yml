@@ -1,13 +1,12 @@
 poseidonVersion: 2.5.0
 title: 2017_RodriguezVarelaCurrentBiology
-description: This package was initially constructed based on the Allen Ancient DNA
-  Resource (https://reich.hms.harvard.edu/allen-ancient-dna-resource-aadr-downloadable-genotypes-present-day-and-ancient-dna-data,
-  version 37.2)
+description: Pre-European conquest samples from the Canary Islands. Originally AADR
+  v42.4.
 contributor:
 - name: Ayshin Ghalichi
   email: ghalichi@shh.mpg.de
-packageVersion: 2.0.1
-lastModified: 2022-02-25
+packageVersion: 2.1.1
+lastModified: 2023-07-11
 genotypeData:
   format: PLINK
   genoFile: 2017_RodriguezVarelaCurrentBiology.bed
@@ -18,7 +17,7 @@ genotypeData:
   indFileChkSum: c5154bb79de76e48c2f04614c9c4441f
   snpSet: 1240K
 jannoFile: 2017_RodriguezVarelaCurrentBiology.janno
-jannoFileChkSum: 9d8c74c7708f8989eb4590abf431025c
+jannoFileChkSum: e5421d346f4befcc3a2170e639efcadc
 bibFile: 2017_RodriguezVarelaCurrentBiology.bib
-bibFileChkSum: 64ab328a26c77462159fa14fe1f062a5
+bibFileChkSum: e68bcd13b08dfb55b884ec4503f12efd
 changelogFile: CHANGELOG.md

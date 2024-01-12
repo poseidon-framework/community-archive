@@ -276,7 +276,7 @@ Ezid	EZI-012	0	0	1	0
 Ezid	EZI-013	0	0	1	0
 Ezid	EZI-020	0	0	1	0
 Ezid	EZI-029	0	0	1	0
-Ignore_Ezid(<0.95_completeness)	EZI-057	0	0	1	0
+Ignore_Ezid(lt0.95_completeness)	EZI-057	0	0	1	0
 Ezid	EZI-060	0	0	1	0
 Ezid	EZI-074	0	0	1	0
 Gagauz	GAG-183	0	0	2	0
@@ -563,7 +563,7 @@ Russian_Archangelsk_Pinezhsky	RPin-123	0	0	1	0
 Russian_Archangelsk_Pinezhsky	RPin-143	0	0	1	0
 Russian_Archangelsk_Pinezhsky	RPin-145	0	0	1	0
 Russian_Archangelsk_Pinezhsky	RPin-151	0	0	1	0
-Ignore_Russian(<0.95_completeness)	Rps-001	0	0	1	0
+Ignore_Russian(lt0.95_completeness)	Rps-001	0	0	1	0
 Russian	Rps-002	0	0	1	0
 Russian	Rps-004	0	0	1	0
 Russian	Rps-006	0	0	1	0

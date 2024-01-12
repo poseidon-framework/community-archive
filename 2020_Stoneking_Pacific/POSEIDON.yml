@@ -1,11 +1,12 @@
-poseidonVersion: 2.5.0
+poseidonVersion: 2.7.1
 title: 2020_Stoneking_Pacific
-description: Ancient DNA from Guam and the peopling of the Pacific
+description: Ancient DNA from Guam and the peopling of the Pacific. Originally AADR
+  v44.3.
 contributor:
 - name: Dhananjaya Aththnayaka
   email: dhananjaya_aththanayaka@mpg.eva.de
-packageVersion: 0.1.1
-lastModified: 2022-06-15
+packageVersion: 0.3.0
+lastModified: 2023-07-04
 genotypeData:
   format: PLINK
   genoFile: 2020_Stoneking_Pacific.bed
@@ -16,7 +17,9 @@ genotypeData:
   indFileChkSum: 48a7c798ad035068e2f6ab344951923c
   snpSet: 1240K
 jannoFile: 2020_Stoneking_Pacific.janno
-jannoFileChkSum: 46df548192f56537ccba7670db1e38b9
+jannoFileChkSum: 46b585c6026f4ae03d3a5c0503c2d6cc
+sequencingSourceFile: ENAtable.ssf
+sequencingSourceFileChkSum: 8373d10c19b68a32ad908e1805df17c9
 bibFile: 2020_Stoneking_Pacific.bib
-bibFileChkSum: e001b8c084836c9410beed76d7668686
+bibFileChkSum: 452051a05c33aa53776d2d9ee43f078a
 changelogFile: CHANGELOG.md

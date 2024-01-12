@@ -1,11 +1,11 @@
 poseidonVersion: 2.5.0
 title: 2020_Haber_NearEast
-description: Iron Age to Medieval samples from the Near East.
+description: Iron Age to Medieval samples from the Near East. Originally AADR v44.3.
 contributor:
 - name: Ayshin Ghalichi
   email: ghalichi@shh.mpg.de
-packageVersion: 2.0.1
-lastModified: 2022-03-13
+packageVersion: 2.1.0
+lastModified: 2023-07-04
 genotypeData:
   format: PLINK
   genoFile: Haber_NearEast.bed
@@ -16,7 +16,7 @@ genotypeData:
   indFileChkSum: 09e1023a1bdb3581271057443b52178d
   snpSet: 1240K
 jannoFile: Haber_NearEast.janno
-jannoFileChkSum: c15e0e517f73e95f89a635bba652d6ef
+jannoFileChkSum: 6b0939d30244fbbd8e68171812f95abb
 bibFile: LITERATURE.bib
-bibFileChkSum: 15799e155cd6159e3e35cb8e0f74251f
+bibFileChkSum: 1569c72756905ebc11fc4bba10113552
 changelogFile: CHANGELOG.md
