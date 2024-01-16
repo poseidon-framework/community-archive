@@ -8,14 +8,14 @@ packageVersion: 1.0.0
 lastModified: 2022-12-15
 genotypeData:
   format: PLINK
-  genoFile: suzdal.bed
+  genoFile: 2023_Peltola_VolgaOka.bed
   genoFileChkSum: 2ab24d1c0f5cf7946d5a2f9dc115d2a2
-  snpFile: suzdal.bim
+  snpFile: 2023_Peltola_VolgaOka.bim
   snpFileChkSum: 50f8b2a49d819a3ee13e79f06bd70ff1
-  indFile: suzdal.fam
-  indFileChkSum: 63e5157b96341268abac4a2c17eb7822
+  indFile: 2023_Peltola_VolgaOka.fam
+  indFileChkSum: 69c3ce7fb648c10adcae4f8d10cbafb4
   snpSet: 1240K
 jannoFile: 2023_Peltola_VolgaOka.janno
-jannoFileChkSum: add44ccf1cee9a7c10019cde84627461
+jannoFileChkSum: 9b2c20479d92bebca6e627479f475dda
 bibFile: 2023_Peltola_VolgaOka.bib
 bibFileChkSum: 2262b38bb4e5d8bfff2353fdbcb5bd20
