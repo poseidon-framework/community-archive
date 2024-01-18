@@ -23,3 +23,5 @@ sequencingSourceFileChkSum: b41bfd8227363c796cd2d682a987a9b0
 bibFile: LITERATURE.bib
 bibFileChkSum: aeb1ee68a4dd737fe8f4ed2a8c5bd220
 changelogFile: CHANGELOG.md
+sequencingSourceFile: ENAtable.ssf
+sequencingSourceFileChkSum: c72dadbec3f2d6e9b300253607ddb89d
