@@ -18,7 +18,7 @@ genotypeData:
   indFileChkSum: 07112a5954755d7ee910de00a6b15f91
   snpSet: 1240K
 jannoFile: 2021_Wang_EastAsia.janno
-jannoFileChkSum: ebbdfc247ca8809dbe8259731bcf41f0
+jannoFileChkSum: 8f6635deef9eecec829f483f6f8e9a91
 sequencingSourceFile: ENAtable.ssf
 sequencingSourceFileChkSum: 3c15f62fe652bb95731eaa1ad77fc086
 bibFile: 2021_Wang_EastAsia.bib
