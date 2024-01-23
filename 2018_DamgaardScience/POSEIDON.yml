@@ -1,16 +1,14 @@
 poseidonVersion: 2.5.0
 title: 2018_DamgaardScience
-description: This package was initially constructed based on the Allen Ancient DNA
-  Resource (https://reich.hms.harvard.edu/allen-ancient-dna-resource-aadr-downloadable-genotypes-present-day-and-ancient-dna-data,
-  version 37.2). The package contains individuals from the first horse herders Inner
-  Asia and Anatolia.
+description: Individuals from the first horse herders Inner Asia and Anatolia. Originally
+  AADR v42.4.
 contributor:
 - name: Ayshin Ghalichi
   email: ghalichi@shh.mpg.de
 - name: Clemens Schmid
   email: schmid@shh.mpg.de
-packageVersion: 2.0.1
-lastModified: 2022-02-25
+packageVersion: 2.1.1
+lastModified: 2023-07-11
 genotypeData:
   format: PLINK
   genoFile: 2018_DamgaardScience.bed
@@ -21,7 +19,7 @@ genotypeData:
   indFileChkSum: 930f2d4d13544d8ce3ac8ce94ff93850
   snpSet: 1240K
 jannoFile: 2018_DamgaardScience.janno
-jannoFileChkSum: 7a1385c0f56597dd086cb4e76287bdb2
+jannoFileChkSum: b47d0d859765b9d5e3dd98dcdd1db13e
 bibFile: 2018_DamgaardScience.bib
-bibFileChkSum: 37845302258fb92534b35d02ab61e8e6
+bibFileChkSum: 143d4da5f781c48ffe7227269a303825
 changelogFile: CHANGELOG.md

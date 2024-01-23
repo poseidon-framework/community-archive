@@ -1,13 +1,11 @@
 poseidonVersion: 2.5.0
 title: 2018_LipsonScience
-description: This package was initially constructed based on the Allen Ancient DNA
-  Resource (https://reich.hms.harvard.edu/allen-ancient-dna-resource-aadr-downloadable-genotypes-present-day-and-ancient-dna-data,
-  version 37.2). Ancient genomes from South East Asia.
+description: Ancient genomes from South East Asia. Originally AADR v42.4.
 contributor:
 - name: Ayshin Ghalichi
   email: ghalichi@shh.mpg.de
-packageVersion: 2.0.1
-lastModified: 2022-02-25
+packageVersion: 2.1.1
+lastModified: 2023-07-11
 genotypeData:
   format: PLINK
   genoFile: 2018_LipsonScience.bed
@@ -18,7 +16,7 @@ genotypeData:
   indFileChkSum: 1ea1e0c45c8e9f8400934523d0a4ade8
   snpSet: 1240K
 jannoFile: 2018_LipsonScience.janno
-jannoFileChkSum: 980462f225a4fd5317009158996dd5de
+jannoFileChkSum: 3d6fa2f7064fc2de09021ebf90398cae
 bibFile: 2018_LipsonScience.bib
-bibFileChkSum: 05197f2563e566e09a321bd8d529a2dc
+bibFileChkSum: 71292cf8b144b110a6d7cc072b2d6dae
 changelogFile: CHANGELOG.md

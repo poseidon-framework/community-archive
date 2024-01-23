@@ -1,11 +1,11 @@
-poseidonVersion: 2.5.0
+poseidonVersion: 2.7.1
 title: 2020_Lipson_WestAfrica
-description: Ancient samples from Cameroon.
+description: Ancient samples from Cameroon. Originally AADR v44.3.
 contributor:
 - name: Ayshin Ghalichi
   email: ghalichi@shh.mpg.de
-packageVersion: 2.0.1
-lastModified: 2022-03-13
+packageVersion: 2.2.0
+lastModified: 2023-07-04
 genotypeData:
   format: PLINK
   genoFile: Lipson_WestAfrica.bed
@@ -16,7 +16,9 @@ genotypeData:
   indFileChkSum: f7ed17c9ea0b2dbec19acf6ccc7b96d1
   snpSet: 1240K
 jannoFile: Lipson_WestAfrica.janno
-jannoFileChkSum: eb003f85a2a9269c0194e8a55592649a
+jannoFileChkSum: 773926449377b3bd4819e7f70155f54f
+sequencingSourceFile: ENAtable.ssf
+sequencingSourceFileChkSum: 60634e33301d6063c5837c8a18ff07bc
 bibFile: LITERATURE.bib
-bibFileChkSum: eb9e806bafac4f6a38a0fac02da1d145
+bibFileChkSum: 5b804c76eca710ac924c08a02af92e3e
 changelogFile: CHANGELOG.md

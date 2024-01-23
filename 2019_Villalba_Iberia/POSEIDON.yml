@@ -1,11 +1,12 @@
-poseidonVersion: 2.5.0
+poseidonVersion: 2.7.1
 title: 2019_Villalba_Iberia
-description: Genetic data published in Villalba et al. 2019
+description: Survival of Late Pleistocene Hunter-Gatherer Ancestry in the Iberian. Originally AADR v42.4.
+  Peninsula.
 contributor:
 - name: Vanessa Villalba
   email: villalba@shh.mpg.de
-packageVersion: 2.0.1
-lastModified: 2022-03-02
+packageVersion: 2.3.0
+lastModified: 2023-07-11
 genotypeData:
   format: PLINK
   genoFile: Villalba_Iberia.bed
@@ -16,7 +17,9 @@ genotypeData:
   indFileChkSum: 994782f427775c08f653cbc02a0ee137
   snpSet: 1240K
 jannoFile: Villalba_Iberia.janno
-jannoFileChkSum: 62b23966bd625b03b917e63960dbc749
+jannoFileChkSum: 372f285d02f2ff36ea9f65eeab658ef1
+sequencingSourceFile: ENAtable.ssf
+sequencingSourceFileChkSum: d9d4de6a96950364b5b94d4cd2d08fc7
 bibFile: LITERATURE.bib
-bibFileChkSum: 11defb31b4e384b4d5192fbc85f0beb5
+bibFileChkSum: 8ac08475509ab6395b7348620fd9e60e
 changelogFile: CHANGELOG.md

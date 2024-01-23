@@ -1,11 +1,12 @@
 poseidonVersion: 2.5.0
 title: 2015_1000Genomes_1240K_haploid_pulldown
-description: 1000 Genomes project data pulled down to the 1240K SNP array.
+description: 1000 Genomes project data pulled down to the 1240K SNP array. Originally
+  AADR v42.4.
 contributor:
 - name: Ayshin Ghalichi
   email: ghalichi@shh.mpg.de
-packageVersion: 2.0.1
-lastModified: 2022-03-22
+packageVersion: 2.1.2
+lastModified: 2023-09-25
 genotypeData:
   format: PLINK
   genoFile: KGP.bed
@@ -16,7 +17,7 @@ genotypeData:
   indFileChkSum: ddb38772e86acacaac56fc1a59e3c214
   snpSet: 1240K
 jannoFile: KGP.janno
-jannoFileChkSum: 9f1fe343781411cb5ac2270566eb0786
+jannoFileChkSum: 526200987306bc3e967efc4aaa72ca3c
 bibFile: LITERATURE.bib
-bibFileChkSum: 998078e5db0f2146f61ada0d259bfb5f
+bibFileChkSum: e08b0ab1243ae9ecaf3592f1d873b8e7
 changelogFile: CHANGELOG.md

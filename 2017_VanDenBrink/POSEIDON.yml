@@ -1,13 +1,11 @@
 poseidonVersion: 2.5.0
 title: 2017_VanDenBrink
-description: This package was initially constructed based on the Allen Ancient DNA
-  Resource (https://reich.hms.harvard.edu/allen-ancient-dna-resource-aadr-downloadable-genotypes-present-day-and-ancient-dna-data,
-  version 37.2)
+description: Bronze Age samples from a burial context in Israel. Originally AADR v42.4.
 contributor:
 - name: Ayshin Ghalichi
   email: ghalichi@shh.mpg.de
-packageVersion: 2.0.0
-lastModified: 2022-01-28
+packageVersion: 2.1.1
+lastModified: 2023-07-11
 genotypeData:
   format: PLINK
   genoFile: 2017_VanDenBrink.bed
@@ -18,7 +16,7 @@ genotypeData:
   indFileChkSum: 7be9d65e0f8e5b2632ff27056cd47754
   snpSet: 1240K
 jannoFile: 2017_VanDenBrink.janno
-jannoFileChkSum: 0a4b6a6192a82eb2ea2244ad8d96086f
+jannoFileChkSum: 163b8847b1d3f55440b3f442650a3545
 bibFile: 2017_VanDenBrink.bib
-bibFileChkSum: 162474fb230c7838f34ed71c5c2c3190
+bibFileChkSum: 6c0ca3bdf3a78e4c9e89a18e43c2e28d
 changelogFile: CHANGELOG.md

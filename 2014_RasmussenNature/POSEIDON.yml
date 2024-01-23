@@ -1,16 +1,14 @@
 poseidonVersion: 2.5.0
 title: 2014_RasmussenNature
 description: One ancient Clovis complex individual (Anzick-1) from North America and
-  two modern American reference samples. This package was initially constructed based
-  on the Allen Ancient DNA Resource (https://reich.hms.harvard.edu/allen-ancient-dna-resource-aadr-downloadable-genotypes-present-day-and-ancient-dna-data,
-  version 37.2)
+  two modern American reference samples. Originally AADR v42.4.
 contributor:
 - name: Ayshin Ghalichi
   email: ghalichi@shh.mpg.de
 - name: Clemens Schmid
   email: schmid@shh.mpg.de
-packageVersion: 2.0.1
-lastModified: 2022-02-07
+packageVersion: 2.1.1
+lastModified: 2023-07-11
 genotypeData:
   format: PLINK
   genoFile: 2014_RasmussenNature.bed
@@ -21,7 +19,7 @@ genotypeData:
   indFileChkSum: f7418dafeb50b98813c5c96828ad89b1
   snpSet: 1240K
 jannoFile: 2014_RasmussenNature.janno
-jannoFileChkSum: 325d896c270a3832eb70892392bc2d36
+jannoFileChkSum: 532c4d1886981121cee74b7792d1e945
 bibFile: 2014_RasmussenNature.bib
-bibFileChkSum: 05351a28501f2c0d72b089a75e5ca103
+bibFileChkSum: 9106115811417a6ee458a0f110704998
 changelogFile: CHANGELOG.md

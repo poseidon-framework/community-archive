@@ -1,0 +1,41 @@
+name: update chronicle
+
+# Trigger the workflow when the validation action finished
+on:
+  workflow_run:
+    workflows: ["trident validate"]
+    types:
+      - completed
+    branches:
+      - "master"
+
+jobs:
+  chronicle:
+    name: update chronicle file
+    runs-on: ubuntu-latest
+    steps:
+        
+    - name: Install trident
+      run: |
+        wget https://github.com/poseidon-framework/poseidon-hs/releases/latest/download/trident-Linux
+        chmod +x trident-Linux
+        
+    - name: Clone data repo
+      uses: actions/checkout@v3
+      with:
+        path: data
+
+    - name: Update file
+      run: ./trident-Linux chronicle -d data -u data/archive.chron --logMode VerboseLog
+
+    - name: Create pull request with updates
+      uses: peter-evans/create-pull-request@v5
+      with:
+        path: data
+        commit-message: Update of chronicle file
+        branch: chronicleUpdates
+        delete-branch: true
+        title: '[Automatic PR] Update chronicle file'
+        body: |
+          Please check if the changes are as expected.
+        reviewers: AyGhal,nevrome

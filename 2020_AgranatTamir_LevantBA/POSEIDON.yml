@@ -1,11 +1,11 @@
-poseidonVersion: 2.5.0
+poseidonVersion: 2.7.1
 title: 2020_AgranatTamir_LevantBA
-description: Samples from the Bronze Age Levant.
+description: Samples from the Bronze Age Levant. Originally AADR v44.3.
 contributor:
 - name: Ayshin Ghalichi
   email: ghalichi@shh.mpg.de
-packageVersion: 2.0.1
-lastModified: 2022-03-02
+packageVersion: 2.2.0
+lastModified: 2023-07-04
 genotypeData:
   format: PLINK
   genoFile: AgranatTamir_LevantBA.bed
@@ -16,7 +16,9 @@ genotypeData:
   indFileChkSum: 19aebbed36a2fbf086f10b1969f84d4f
   snpSet: 1240K
 jannoFile: AgranatTamir_LevantBA.janno
-jannoFileChkSum: bbf79418b0b03c7bfcb128b59b72db10
+jannoFileChkSum: f6e307d91ab68e950101f708df7370c5
+sequencingSourceFile: ENAtable.ssf
+sequencingSourceFileChkSum: fdcc05c4e2844f8dde208dd588efa13d
 bibFile: LITERATURE.bib
-bibFileChkSum: 289faf5d308208492d10406617a4a439
+bibFileChkSum: 17c194acd7bc14a82564d2863d30706f
 changelogFile: CHANGELOG.md
