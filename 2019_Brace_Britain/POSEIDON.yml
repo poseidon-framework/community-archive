@@ -4,7 +4,7 @@ description: Originally AADR v42.4.
 contributor:
 - name: Ayshin Ghalichi
   email: ghalichi@shh.mpg.de
-packageVersion: 3.0.2
+packageVersion: 3.1.0
 lastModified: 2024-01-25
 genotypeData:
   format: PLINK
