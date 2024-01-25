@@ -4,8 +4,8 @@ description: Originally AADR v42.4.
 contributor:
 - name: Ayshin Ghalichi
   email: ghalichi@shh.mpg.de
-packageVersion: 3.0.0
-lastModified: 2023-07-26
+packageVersion: 3.0.2
+lastModified: 2024-01-25
 genotypeData:
   format: PLINK
   genoFile: 2019_Brace.bed
@@ -17,8 +17,8 @@ genotypeData:
   snpSet: 1240K
 jannoFile: 2019_Brace.janno
 jannoFileChkSum: b9908091490b47ebfff9b8d589bec9dc
+sequencingSourceFile: ENAtable.ssf
+sequencingSourceFileChkSum: 2a4424e80a40d9124326ddbf4c86d122
 bibFile: 2019_Brace.bib
 bibFileChkSum: b0b371386ed61196c9486af9ece01a32
 changelogFile: CHANGELOG.md
-sequencingSourceFile: ENAtable.ssf
-sequencingSourceFileChkSum: 6b53d07eb075775d391f45765d93f3d8
