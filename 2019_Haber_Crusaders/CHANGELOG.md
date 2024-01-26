@@ -1,4 +1,4 @@
-- V 2.1.1: Linked Sequencing Source Dile to the .Janno file
+- V 2.2.0: Linked Sequencing Source Dile to the .Janno file
 - V 2.1.0: Update of references in the .bib file
 - V 2.0.1: Genetic_Source_Accession_IDs added
 - V 2.0.0: updated the package to Poseidon v2.5 and adjusted the .janno file accordingly
