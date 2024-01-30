@@ -1,10 +1,11 @@
 poseidonVersion: 2.5.0
 title: 2019_Jeong_InnerEurasia
-description: Genetic data published in Jeong et al. 2019
+description: The genetic history of admixture across inner Eurasia. Originally AADR
+  v42.4.
 contributor:
 - name: Ayshin Ghalichi
   email: ghalichi@shh.mpg.de
-packageVersion: 3.0.1
+packageVersion: 3.1.0
 lastModified: 2024-01-25
 genotypeData:
   format: PLINK
