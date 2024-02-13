@@ -1,11 +1,11 @@
 poseidonVersion: 2.5.0
 title: 2015_AllentoftNature
-description: Bronze Age samples from Europe.
+description: Bronze Age samples from Europe. Originally AADR v42.4.
 contributor:
 - name: Ayshin Ghalichi
   email: ghalichi@shh.mpg.de
-packageVersion: 2.0.1
-lastModified: 2022-02-21
+packageVersion: 2.1.1
+lastModified: 2023-07-11
 genotypeData:
   format: PLINK
   genoFile: 2015_AllentoftNature.bed
@@ -16,7 +16,7 @@ genotypeData:
   indFileChkSum: d59e66306cb1d98bf62d4c0bc0d2cc69
   snpSet: 1240K
 jannoFile: 2015_AllentoftNature.janno
-jannoFileChkSum: 1317313c9f07163875204c6949a56c84
+jannoFileChkSum: c199019e38c309ce6007000f39211668
 bibFile: 2015_AllentoftNature.bib
-bibFileChkSum: b819dd175820e02a1a5f108f9a5a2a52
+bibFileChkSum: a1fe95e99966aec5216e6a5315cfadc2
 changelogFile: CHANGELOG.md

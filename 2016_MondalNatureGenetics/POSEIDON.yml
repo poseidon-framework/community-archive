@@ -1,15 +1,14 @@
 poseidonVersion: 2.5.0
 title: 2016_MondalNatureGenetics
-description: Samples from different modern populations from India. This package was
-  initially constructed based on the Allen Ancient DNA Resource (https://reich.hms.harvard.edu/allen-ancient-dna-resource-aadr-downloadable-genotypes-present-day-and-ancient-dna-data,
-  version 37.2)
+description: Samples from different modern populations from India. Originally AADR
+  v42.4.
 contributor:
 - name: Ayshin Ghalichi
   email: ghalichi@shh.mpg.de
 - name: Clemens Schmid
   email: schmid@shh.mpg.de
-packageVersion: 2.0.1
-lastModified: 2022-02-21
+packageVersion: 2.1.1
+lastModified: 2023-07-11
 genotypeData:
   format: PLINK
   genoFile: 2016_MondalNatureGenetics.bed
@@ -20,7 +19,7 @@ genotypeData:
   indFileChkSum: 2583e98ea014969fc781ce9e287ebc63
   snpSet: HumanOrigins
 jannoFile: 2016_MondalNatureGenetics.janno
-jannoFileChkSum: 4249654f5123770d42b60bc1bd03db46
+jannoFileChkSum: 6f017573e48eff353743348cf2d985c1
 bibFile: 2016_MondalNatureGenetics.bib
-bibFileChkSum: 3b5bbae6cd2173877b428e5c2a8f1225
+bibFileChkSum: f7a78032faf31083949db3562227c996
 changelogFile: CHANGELOG.md

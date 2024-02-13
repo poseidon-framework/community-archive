@@ -1,15 +1,14 @@
-poseidonVersion: 2.5.0
+poseidonVersion: 2.7.1
 title: 2019_Flegontov_PalaeoEskimo
-description: This package was initially constructed based on the Allen Ancient DNA
-  Resource (https://reich.hms.harvard.edu/allen-ancient-dna-resource-aadr-downloadable-genotypes-present-day-and-ancient-dna-data,
-  version 37.2)
+description: Palaeo-Eskimo genetic ancestry and the peopling of Chukotka and North
+  America. Originally AADR v42.4.
 contributor:
 - name: Ayshin Ghalichi
   email: ghalichi@shh.mpg.de
 - name: Clemens Schmid
   email: schmid@shh.mpg.de
-packageVersion: 2.0.1
-lastModified: 2022-03-02
+packageVersion: 2.2.1
+lastModified: 2023-09-14
 genotypeData:
   format: PLINK
   genoFile: 2019_Flegontov_PalaeoEskimo.bed
@@ -20,7 +19,9 @@ genotypeData:
   indFileChkSum: 978a0f5e8925ac29077bbc490660ce16
   snpSet: 1240K
 jannoFile: 2019_Flegontov_PalaeoEskimo.janno
-jannoFileChkSum: e158c193696bcd82edbc783a97a5382a
+jannoFileChkSum: bcd25caecbd3995f79ea21bb334c6971
+sequencingSourceFile: ENAtable.ssf
+sequencingSourceFileChkSum: 8a26c7217b425df53dcda90126bfc107
 bibFile: 2019_Flegontov_PalaeoEskimo.bib
-bibFileChkSum: b03c30b90b48cd515423c5daecc08206
+bibFileChkSum: 663453bfbf2da8644a592abfc6fedd41
 changelogFile: CHANGELOG.md

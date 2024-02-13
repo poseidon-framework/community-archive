@@ -1,11 +1,11 @@
 poseidonVersion: 2.5.0
 title: 2018_MorenoMayarScience
-description: Ancient genomes from South America.
+description: Ancient genomes from South America. Originally AADR v42.4.
 contributor:
 - name: Ayshin Ghalichi
   email: ghalichi@shh.mpg.de
-packageVersion: 2.0.1
-lastModified: 2022-02-25
+packageVersion: 2.1.1
+lastModified: 2023-07-11
 genotypeData:
   format: PLINK
   genoFile: 2018_MorenoMayarScience.bed
@@ -16,7 +16,7 @@ genotypeData:
   indFileChkSum: 1ae6521cfdb99607adb2ffb94b7da94c
   snpSet: 1240K
 jannoFile: 2018_MorenoMayarScience.janno
-jannoFileChkSum: ec8be762adf60c26a7c7705999b2f06e
+jannoFileChkSum: 099f2227137dd1fd0a2738d1c3c74a8f
 bibFile: 2018_MorenoMayarScience.bib
-bibFileChkSum: 0210938a49a1e5d40635c0ba50c38be4
+bibFileChkSum: 45aed052bd7a429063805f011a88b1ff
 changelogFile: CHANGELOG.md

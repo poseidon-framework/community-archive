@@ -1,13 +1,11 @@
 poseidonVersion: 2.5.0
 title: 2018_LipsonCurrentBiology
-description: This package was initially constructed based on the Allen Ancient DNA
-  Resource (https://reich.hms.harvard.edu/allen-ancient-dna-resource-aadr-downloadable-genotypes-present-day-and-ancient-dna-data,
-  version 37.2). Ancient genomes from Remote Oceania.
+description: Ancient genomes from Remote Oceania. Originally AADR v42.4.
 contributor:
 - name: Ayshin Ghalichi
   email: ghalichi@shh.mpg.de
-packageVersion: 2.0.1
-lastModified: 2022-02-25
+packageVersion: 2.1.1
+lastModified: 2023-07-11
 genotypeData:
   format: PLINK
   genoFile: 2018_LipsonCurrentBiology.bed
@@ -18,7 +16,7 @@ genotypeData:
   indFileChkSum: 396c8392ed04cbf526adf54b4ad0fc4f
   snpSet: 1240K
 jannoFile: 2018_LipsonCurrentBiology.janno
-jannoFileChkSum: d603cfdc25b25b96dc606788257a28d8
+jannoFileChkSum: ed3eab97a081251f1c8be19cb9b35b19
 bibFile: 2018_LipsonCurrentBiology.bib
-bibFileChkSum: 003bc4fcc0ea296f069087e20bffd579
+bibFileChkSum: 8f2183da6376a156846cf0dc9e49b937
 changelogFile: CHANGELOG.md

@@ -1,5 +1,5 @@
 Poseidon_ID	Genetic_Sex	Group_Name	Collection_ID	Date_Type	Capture_Type	Library_Built	Genotype_Ploidy	Nr_SNPs	Publication	Note
-Ancestor.REF	M	Ancestor.REF	Ancestor	modern	ReferenceGenome	ds	haploid	1135001	GRC_for_GRCh37_e71	GRCh37_e71
-Href.REF	M	Href.REF	Href	modern	ReferenceGenome	ds	haploid	1150639	1000_Genomes_Project_Consortium_2015	human_g1k_hs37d5
-Chimp.REF	M	Chimp.REF	Chimp	modern	ReferenceGenome	ds	haploid	1102442	WatersonNature2005	pt2__cs-hg19
-Gorilla.REF	F	Gorilla.REF	Gorilla	modern	ReferenceGenome	ds	haploid	1054589	GordonScience2016	gorGor__cs-hg19
+Ancestor.REF	M	Ancestor.REF	Ancestor	modern	ReferenceGenome	ds	haploid	1135001	GRC_for_GRCh37_e71;AADR;AADRv424	GRCh37_e71
+Href.REF	M	Href.REF	Href	modern	ReferenceGenome	ds	haploid	1150639	1000_Genomes_Project_Consortium_2015;AADR;AADRv424	human_g1k_hs37d5
+Chimp.REF	M	Chimp.REF	Chimp	modern	ReferenceGenome	ds	haploid	1102442	WatersonNature2005;AADR;AADRv424	pt2__cs-hg19
+Gorilla.REF	F	Gorilla.REF	Gorilla	modern	ReferenceGenome	ds	haploid	1054589	GordonScience2016;AADR;AADRv424	gorGor__cs-hg19

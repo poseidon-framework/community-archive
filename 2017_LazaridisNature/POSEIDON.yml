@@ -1,13 +1,11 @@
 poseidonVersion: 2.5.0
 title: 2017_LazaridisNature
-description: This package was initially constructed based on the Allen Ancient DNA
-  Resource (https://reich.hms.harvard.edu/allen-ancient-dna-resource-aadr-downloadable-genotypes-present-day-and-ancient-dna-data,
-  version 37.2)
+description: Minoan and Mycenaean samples from Crete. Originally AADR v42.4.
 contributor:
 - name: Ayshin Ghalichi
   email: ghalichi@shh.mpg.de
-packageVersion: 2.0.1
-lastModified: 2022-02-22
+packageVersion: 2.1.1
+lastModified: 2023-07-11
 genotypeData:
   format: PLINK
   genoFile: 2017_LazaridisNature.bed
@@ -18,7 +16,7 @@ genotypeData:
   indFileChkSum: ebb5fcc32d5e2ad119ca352d01f1c1be
   snpSet: 1240K
 jannoFile: 2017_LazaridisNature.janno
-jannoFileChkSum: c767bf8ecff4c47a15f2450e88cdba17
+jannoFileChkSum: fd5045895ce65f213a9be6cd16a6fc4c
 bibFile: 2017_LazaridisNature.bib
-bibFileChkSum: b8ed4b57dc58bdb70dde3d20da8facfe
+bibFileChkSum: c4293d9bdc10468b3e0cd7215ee57f0a
 changelogFile: CHANGELOG.md

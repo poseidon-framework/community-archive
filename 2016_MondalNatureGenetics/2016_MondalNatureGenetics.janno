@@ -1,71 +1,71 @@
 Poseidon_ID	Genetic_Sex	Group_Name	Collection_ID	Country	Location	Date_Type	Capture_Type	Library_Built	Genotype_Ploidy	Nr_SNPs	Coverage_on_Target_SNPs	Publication	Note	Genetic_Source_Accession_IDs
-mondal_BIR-08.SG	M	BIR.SG	BIR-08	India	Birhor	modern	Shotgun	ds	haploid	590013	14.19	MondalNatureGenetics2016	PASS (literature)	PRJEB11455
-mondal_BIR-11.SG	M	BIR.SG	BIR-11	India	Birhor	modern	Shotgun	ds	haploid	590634	12.71	MondalNatureGenetics2016	PASS (literature)	PRJEB11455
-mondal_BIR-12.SG	M	BIR.SG	BIR-12	India	Birhor	modern	Shotgun	ds	haploid	590061	15.11	MondalNatureGenetics2016	PASS (literature)	PRJEB11455
-mondal_BIR-13.SG	M	BIR.SG	BIR-13	India	Birhor	modern	Shotgun	ds	haploid	590071	13.67	MondalNatureGenetics2016	PASS (literature)	PRJEB11455
-mondal_BIR-14.SG	M	BIR.SG	BIR-14	India	Birhor	modern	Shotgun	ds	haploid	584515	13.83	MondalNatureGenetics2016	PASS (literature)	PRJEB11455
-mondal_BIR-15.SG	M	BIR.SG	BIR-15	India	Birhor	modern	Shotgun	ds	haploid	589804	14.27	MondalNatureGenetics2016	PASS (literature)	PRJEB11455
-mondal_BIR-16.SG	M	BIR.SG	BIR-16	India	Birhor	modern	Shotgun	ds	haploid	590557	13.85	MondalNatureGenetics2016	PASS (literature)	PRJEB11455
-mondal_BIR-18.SG	M	BIR.SG	BIR-18	India	Birhor	modern	Shotgun	ds	haploid	588109	14.29	MondalNatureGenetics2016	PASS (literature)	PRJEB11455
-mondal_BIR-22.SG	M	BIR.SG	BIR-22	India	Birhor	modern	Shotgun	ds	haploid	586746	18.91	MondalNatureGenetics2016	PASS (literature)	PRJEB11455
-mondal_BR1-10.SG	M	UBR.SG	BR1-10	India	Uttar Pradesh Brahmins	modern	Shotgun	ds	haploid	590935	13.84	MondalNatureGenetics2016	PASS (literature)	PRJEB11455
-mondal_BR1-12.SG	M	UBR.SG	BR1-12	India	Uttar Pradesh Brahmins	modern	Shotgun	ds	haploid	590129	12.27	MondalNatureGenetics2016	PASS (literature)	PRJEB11455
-mondal_BR1-13.SG	M	UBR.SG	BR1-13	India	Uttar Pradesh Brahmins	modern	Shotgun	ds	haploid	590061	12.63	MondalNatureGenetics2016	PASS (literature)	PRJEB11455
-mondal_BR1-16.SG	M	UBR.SG	BR1-16	India	Uttar Pradesh Brahmins	modern	Shotgun	ds	haploid	589094	12.55	MondalNatureGenetics2016	PASS (literature)	PRJEB11455
-mondal_BR1-18.SG	M	UBR.SG	BR1-18	India	Uttar Pradesh Brahmins	modern	Shotgun	ds	haploid	590164	13.83	MondalNatureGenetics2016	PASS (literature)	PRJEB11455
-mondal_BR1-1.SG	M	UBR.SG	BR1-1	India	Uttar Pradesh Brahmins	modern	Shotgun	ds	haploid	590365	12.86	MondalNatureGenetics2016	PASS (literature)	PRJEB11455
-mondal_BR1-3.SG	M	UBR.SG	BR1-3	India	Uttar Pradesh Brahmins	modern	Shotgun	ds	haploid	589402	12.56	MondalNatureGenetics2016	PASS (literature)	PRJEB11455
-mondal_BR1-4.SG	M	UBR.SG	BR1-4	India	Uttar Pradesh Brahmins	modern	Shotgun	ds	haploid	590411	14.14	MondalNatureGenetics2016	PASS (literature)	PRJEB11455
-mondal_BR1-5.SG	M	UBR.SG	BR1-5	India	Uttar Pradesh Brahmins	modern	Shotgun	ds	haploid	591129	14.68	MondalNatureGenetics2016	PASS (literature)	PRJEB11455
-mondal_BR1-6.SG	M	UBR.SG	BR1-6	India	Uttar Pradesh Brahmins	modern	Shotgun	ds	haploid	587204	13.89	MondalNatureGenetics2016	PASS (literature)	PRJEB11455
-mondal_IL-01.SG	M	ILA.SG	IL-01	India	Irula	modern	Shotgun	ds	haploid	590303	14.31	MondalNatureGenetics2016	PASS (literature)	PRJEB11455
-mondal_IL-04.SG	M	ILA.SG	IL-04	India	Irula	modern	Shotgun	ds	haploid	590376	14.37	MondalNatureGenetics2016	PASS (literature)	PRJEB11455
-mondal_IL-07.SG	M	ILA.SG	IL-07	India	Irula	modern	Shotgun	ds	haploid	589613	13.87	MondalNatureGenetics2016	PASS (literature)	PRJEB11455
-mondal_IL-08.SG	M	ILA.SG	IL-08	India	Irula	modern	Shotgun	ds	haploid	589712	13.41	MondalNatureGenetics2016	PASS (literature)	PRJEB11455
-mondal_IL-09.SG	M	ILA.SG	IL-09	India	Irula	modern	Shotgun	ds	haploid	589636	13.96	MondalNatureGenetics2016	PASS (literature)	PRJEB11455
-mondal_IL-10.SG	M	ILA.SG	IL-10	India	Irula	modern	Shotgun	ds	haploid	589693	13.65	MondalNatureGenetics2016	PASS (literature)	PRJEB11455
-mondal_IL-11.SG	M	ILA.SG	IL-11	India	Irula	modern	Shotgun	ds	haploid	589713	14.18	MondalNatureGenetics2016	PASS (literature)	PRJEB11455
-mondal_IL-12.SG	M	ILA.SG	IL-12	India	Irula	modern	Shotgun	ds	haploid	589684	14.22	MondalNatureGenetics2016	PASS (literature)	PRJEB11455
-mondal_IL-15.SG	M	ILA.SG	IL-15	India	Irula	modern	Shotgun	ds	haploid	590075	13.47	MondalNatureGenetics2016	PASS (literature)	PRJEB11455
-mondal_IL-16.SG	M	ILA.SG	IL-16	India	Irula	modern	Shotgun	ds	haploid	590753	15.29	MondalNatureGenetics2016	PASS (literature)	PRJEB11455
-mondal_PRBB-1.SG	M	BEN.SG	PRBB-1	India	Bengali	modern	Shotgun	ds	haploid	590180	13.75	MondalNatureGenetics2016	PASS (literature)	PRJEB11455
-mondal_PRBB-2.SG	M	PUN.SG	PRBB-2	India	Punjabi	modern	Shotgun	ds	haploid	590687	15.58	MondalNatureGenetics2016	PASS (literature)	PRJEB11455
-mondal_RAI-11.SG	M	RAJ.SG	RAI-11	India	Rajput	modern	Shotgun	ds	haploid	579406	14.66	MondalNatureGenetics2016	PASS (literature)	PRJEB11455
-mondal_RAI-12.SG	M	RAJ.SG	RAI-12	India	Rajput	modern	Shotgun	ds	haploid	588969	17.18	MondalNatureGenetics2016	PASS (literature)	PRJEB11455
-mondal_RAI-13.SG	M	RAJ.SG	RAI-13	India	Rajput	modern	Shotgun	ds	haploid	588641	17.47	MondalNatureGenetics2016	PASS (literature)	PRJEB11455
-mondal_RAI-15.SG	M	RAJ.SG	RAI-15	India	Rajput	modern	Shotgun	ds	haploid	586008	16.82	MondalNatureGenetics2016	PASS (literature)	PRJEB11455
-mondal_RAI-2.SG	M	RAJ.SG	RAI-2	India	Rajput	modern	Shotgun	ds	haploid	584810	16.36	MondalNatureGenetics2016	PASS (literature)	PRJEB11455
-mondal_RAI-3.SG	M	RAJ.SG	RAI-3	India	Rajput	modern	Shotgun	ds	haploid	586754	17.35	MondalNatureGenetics2016	PASS (literature)	PRJEB11455
-mondal_RAI-4.SG	M	RAJ.SG	RAI-4	India	Rajput	modern	Shotgun	ds	haploid	583251	15.75	MondalNatureGenetics2016	PASS (literature)	PRJEB11455
-mondal_RAI-5.SG	M	RAJ.SG	RAI-5	India	Rajput	modern	Shotgun	ds	haploid	590926	13.67	MondalNatureGenetics2016	PASS (literature)	PRJEB11455
-mondal_RAI-8.SG	M	RAJ.SG	RAI-8	India	Rajput	modern	Shotgun	ds	haploid	590067	14.92	MondalNatureGenetics2016	PASS (literature)	PRJEB11455
-mondal_RAI-9.SG	M	RAJ.SG	RAI-9	India	Rajput	modern	Shotgun	ds	haploid	589760	12.96	MondalNatureGenetics2016	PASS (literature)	PRJEB11455
-mondal_RIA-12.SG	M	RIA.SG	RIA-12	India	Riang	modern	Shotgun	ds	haploid	589617	20.85	MondalNatureGenetics2016	PASS (literature)	PRJEB11455
-mondal_RIA-14.SG	M	RIA.SG	RIA-14	India	Riang	modern	Shotgun	ds	haploid	590026	22.99	MondalNatureGenetics2016	PASS (literature)	PRJEB11455
-mondal_RIA-19.SG	M	RIA.SG	RIA-19	India	Riang	modern	Shotgun	ds	haploid	588606	19.79	MondalNatureGenetics2016	PASS (literature)	PRJEB11455
-mondal_RIA-20.SG	M	RIA.SG	RIA-20	India	Riang	modern	Shotgun	ds	haploid	589397	22.94	MondalNatureGenetics2016	PASS (literature)	PRJEB11455
-mondal_RIA-23.SG	M	RIA.SG	RIA-23	India	Riang	modern	Shotgun	ds	haploid	586233	19.35	MondalNatureGenetics2016	PASS (literature)	PRJEB11455
-mondal_RIA-24.SG	M	RIA.SG	RIA-24	India	Riang	modern	Shotgun	ds	haploid	583442	16.6	MondalNatureGenetics2016	PASS (literature)	PRJEB11455
-mondal_RIA-41.SG	M	RIA.SG	RIA-41	India	Riang	modern	Shotgun	ds	haploid	587074	17.34	MondalNatureGenetics2016	PASS (literature)	PRJEB11455
-mondal_RIA-42.SG	M	RIA.SG	RIA-42	India	Riang	modern	Shotgun	ds	haploid	584578	14.99	MondalNatureGenetics2016	PASS (literature)	PRJEB11455
-mondal_RIA-45.SG	M	RIA.SG	RIA-45	India	Riang	modern	Shotgun	ds	haploid	586268	16.18	MondalNatureGenetics2016	PASS (literature)	PRJEB11455
-mondal_RIA-63.SG	M	RIA.SG	RIA-63	India	Riang	modern	Shotgun	ds	haploid	585278	15.39	MondalNatureGenetics2016	PASS (literature)	PRJEB11455
-mondal_VV1-01.SG	M	VLR.SG	VV1-01	India	Vellalar	modern	Shotgun	ds	haploid	590883	14.11	MondalNatureGenetics2016	PASS (literature)	PRJEB11455
-mondal_VV1-03.SG	M	VLR.SG	VV1-03	India	Vellalar	modern	Shotgun	ds	haploid	590250	14.09	MondalNatureGenetics2016	PASS (literature)	PRJEB11455
-mondal_VV1-04.SG	M	VLR.SG	VV1-04	India	Vellalar	modern	Shotgun	ds	haploid	590493	13.16	MondalNatureGenetics2016	PASS (literature)	PRJEB11455
-mondal_VV1-05.SG	M	VLR.SG	VV1-05	India	Vellalar	modern	Shotgun	ds	haploid	590031	12.69	MondalNatureGenetics2016	PASS (literature)	PRJEB11455
-mondal_VV1-06.SG	M	VLR.SG	VV1-06	India	Vellalar	modern	Shotgun	ds	haploid	590566	14.6	MondalNatureGenetics2016	PASS (literature)	PRJEB11455
-mondal_VV1-07.SG	M	VLR.SG	VV1-07	India	Vellalar	modern	Shotgun	ds	haploid	590420	14.25	MondalNatureGenetics2016	PASS (literature)	PRJEB11455
-mondal_VV1-14.SG	M	VLR.SG	VV1-14	India	Vellalar	modern	Shotgun	ds	haploid	590045	13.38	MondalNatureGenetics2016	PASS (literature)	PRJEB11455
-mondal_VV1-16.SG	M	VLR.SG	VV1-16	India	Vellalar	modern	Shotgun	ds	haploid	589511	12.64	MondalNatureGenetics2016	PASS (literature)	PRJEB11455
-mondal_VV1-20.SG	M	VLR.SG	VV1-20	India	Vellalar	modern	Shotgun	ds	haploid	591023	14.58	MondalNatureGenetics2016	PASS (literature)	PRJEB11455
-mondal_JAR-27.SG	M	JAR.SG	JAR-27	India	Jarawa	modern	Shotgun	ds	haploid	589537	12.64	MondalNatureGenetics2016	PASS (literature)	PRJEB11455
-mondal_JAR-32.SG	M	JAR.SG	JAR-32	India	Jarawa	modern	Shotgun	ds	haploid	589920	14.13	MondalNatureGenetics2016	PASS (literature)	PRJEB11455
-mondal_JAR-54.SG	M	JAR.SG	JAR-54	India	Jarawa	modern	Shotgun	ds	haploid	590411	14.12	MondalNatureGenetics2016	PASS (literature)	PRJEB11455
-mondal_JAR-61.SG	M	JAR.SG	JAR-61	India	Jarawa	modern	Shotgun	ds	haploid	580007	17.47	MondalNatureGenetics2016	PASS (literature)	PRJEB11455
-mondal_ONG-1.SG	M	ONG.SG	ONG-1	India	Onge	modern	Shotgun	ds	haploid	589942	13.41	MondalNatureGenetics2016	PASS (literature)	PRJEB11455
-mondal_ONG-12.SG	M	ONG.SG	ONG-12	India	Onge	modern	Shotgun	ds	haploid	588770	12.63	MondalNatureGenetics2016	PASS (literature)	PRJEB11455
-mondal_ONG-14.SG	M	ONG.SG	ONG-14	India	Onge	modern	Shotgun	ds	haploid	589436	13.3	MondalNatureGenetics2016	PASS (literature)	PRJEB11455
-mondal_ONG-4.SG	M	ONG.SG	ONG-4	India	Onge	modern	Shotgun	ds	haploid	590285	14.61	MondalNatureGenetics2016	PASS (literature)	PRJEB11455
-mondal_ONG-8.SG	M	ONG.SG	ONG-8	India	Onge	modern	Shotgun	ds	haploid	588722	14.21	MondalNatureGenetics2016	PASS (literature)	PRJEB11455
-mondal_ONG-9.SG	M	ONG.SG	ONG-9	India	Onge	modern	Shotgun	ds	haploid	588238	20.12	MondalNatureGenetics2016	PASS (literature)	PRJEB11455
+mondal_BIR-08.SG	M	BIR.SG	BIR-08	India	Birhor	modern	Shotgun	ds	haploid	590013	14.19	MondalNatureGenetics2016;AADR;AADRv424	PASS (literature)	PRJEB11455
+mondal_BIR-11.SG	M	BIR.SG	BIR-11	India	Birhor	modern	Shotgun	ds	haploid	590634	12.71	MondalNatureGenetics2016;AADR;AADRv424	PASS (literature)	PRJEB11455
+mondal_BIR-12.SG	M	BIR.SG	BIR-12	India	Birhor	modern	Shotgun	ds	haploid	590061	15.11	MondalNatureGenetics2016;AADR;AADRv424	PASS (literature)	PRJEB11455
+mondal_BIR-13.SG	M	BIR.SG	BIR-13	India	Birhor	modern	Shotgun	ds	haploid	590071	13.67	MondalNatureGenetics2016;AADR;AADRv424	PASS (literature)	PRJEB11455
+mondal_BIR-14.SG	M	BIR.SG	BIR-14	India	Birhor	modern	Shotgun	ds	haploid	584515	13.83	MondalNatureGenetics2016;AADR;AADRv424	PASS (literature)	PRJEB11455
+mondal_BIR-15.SG	M	BIR.SG	BIR-15	India	Birhor	modern	Shotgun	ds	haploid	589804	14.27	MondalNatureGenetics2016;AADR;AADRv424	PASS (literature)	PRJEB11455
+mondal_BIR-16.SG	M	BIR.SG	BIR-16	India	Birhor	modern	Shotgun	ds	haploid	590557	13.85	MondalNatureGenetics2016;AADR;AADRv424	PASS (literature)	PRJEB11455
+mondal_BIR-18.SG	M	BIR.SG	BIR-18	India	Birhor	modern	Shotgun	ds	haploid	588109	14.29	MondalNatureGenetics2016;AADR;AADRv424	PASS (literature)	PRJEB11455
+mondal_BIR-22.SG	M	BIR.SG	BIR-22	India	Birhor	modern	Shotgun	ds	haploid	586746	18.91	MondalNatureGenetics2016;AADR;AADRv424	PASS (literature)	PRJEB11455
+mondal_BR1-10.SG	M	UBR.SG	BR1-10	India	Uttar Pradesh Brahmins	modern	Shotgun	ds	haploid	590935	13.84	MondalNatureGenetics2016;AADR;AADRv424	PASS (literature)	PRJEB11455
+mondal_BR1-12.SG	M	UBR.SG	BR1-12	India	Uttar Pradesh Brahmins	modern	Shotgun	ds	haploid	590129	12.27	MondalNatureGenetics2016;AADR;AADRv424	PASS (literature)	PRJEB11455
+mondal_BR1-13.SG	M	UBR.SG	BR1-13	India	Uttar Pradesh Brahmins	modern	Shotgun	ds	haploid	590061	12.63	MondalNatureGenetics2016;AADR;AADRv424	PASS (literature)	PRJEB11455
+mondal_BR1-16.SG	M	UBR.SG	BR1-16	India	Uttar Pradesh Brahmins	modern	Shotgun	ds	haploid	589094	12.55	MondalNatureGenetics2016;AADR;AADRv424	PASS (literature)	PRJEB11455
+mondal_BR1-18.SG	M	UBR.SG	BR1-18	India	Uttar Pradesh Brahmins	modern	Shotgun	ds	haploid	590164	13.83	MondalNatureGenetics2016;AADR;AADRv424	PASS (literature)	PRJEB11455
+mondal_BR1-1.SG	M	UBR.SG	BR1-1	India	Uttar Pradesh Brahmins	modern	Shotgun	ds	haploid	590365	12.86	MondalNatureGenetics2016;AADR;AADRv424	PASS (literature)	PRJEB11455
+mondal_BR1-3.SG	M	UBR.SG	BR1-3	India	Uttar Pradesh Brahmins	modern	Shotgun	ds	haploid	589402	12.56	MondalNatureGenetics2016;AADR;AADRv424	PASS (literature)	PRJEB11455
+mondal_BR1-4.SG	M	UBR.SG	BR1-4	India	Uttar Pradesh Brahmins	modern	Shotgun	ds	haploid	590411	14.14	MondalNatureGenetics2016;AADR;AADRv424	PASS (literature)	PRJEB11455
+mondal_BR1-5.SG	M	UBR.SG	BR1-5	India	Uttar Pradesh Brahmins	modern	Shotgun	ds	haploid	591129	14.68	MondalNatureGenetics2016;AADR;AADRv424	PASS (literature)	PRJEB11455
+mondal_BR1-6.SG	M	UBR.SG	BR1-6	India	Uttar Pradesh Brahmins	modern	Shotgun	ds	haploid	587204	13.89	MondalNatureGenetics2016;AADR;AADRv424	PASS (literature)	PRJEB11455
+mondal_IL-01.SG	M	ILA.SG	IL-01	India	Irula	modern	Shotgun	ds	haploid	590303	14.31	MondalNatureGenetics2016;AADR;AADRv424	PASS (literature)	PRJEB11455
+mondal_IL-04.SG	M	ILA.SG	IL-04	India	Irula	modern	Shotgun	ds	haploid	590376	14.37	MondalNatureGenetics2016;AADR;AADRv424	PASS (literature)	PRJEB11455
+mondal_IL-07.SG	M	ILA.SG	IL-07	India	Irula	modern	Shotgun	ds	haploid	589613	13.87	MondalNatureGenetics2016;AADR;AADRv424	PASS (literature)	PRJEB11455
+mondal_IL-08.SG	M	ILA.SG	IL-08	India	Irula	modern	Shotgun	ds	haploid	589712	13.41	MondalNatureGenetics2016;AADR;AADRv424	PASS (literature)	PRJEB11455
+mondal_IL-09.SG	M	ILA.SG	IL-09	India	Irula	modern	Shotgun	ds	haploid	589636	13.96	MondalNatureGenetics2016;AADR;AADRv424	PASS (literature)	PRJEB11455
+mondal_IL-10.SG	M	ILA.SG	IL-10	India	Irula	modern	Shotgun	ds	haploid	589693	13.65	MondalNatureGenetics2016;AADR;AADRv424	PASS (literature)	PRJEB11455
+mondal_IL-11.SG	M	ILA.SG	IL-11	India	Irula	modern	Shotgun	ds	haploid	589713	14.18	MondalNatureGenetics2016;AADR;AADRv424	PASS (literature)	PRJEB11455
+mondal_IL-12.SG	M	ILA.SG	IL-12	India	Irula	modern	Shotgun	ds	haploid	589684	14.22	MondalNatureGenetics2016;AADR;AADRv424	PASS (literature)	PRJEB11455
+mondal_IL-15.SG	M	ILA.SG	IL-15	India	Irula	modern	Shotgun	ds	haploid	590075	13.47	MondalNatureGenetics2016;AADR;AADRv424	PASS (literature)	PRJEB11455
+mondal_IL-16.SG	M	ILA.SG	IL-16	India	Irula	modern	Shotgun	ds	haploid	590753	15.29	MondalNatureGenetics2016;AADR;AADRv424	PASS (literature)	PRJEB11455
+mondal_PRBB-1.SG	M	BEN.SG	PRBB-1	India	Bengali	modern	Shotgun	ds	haploid	590180	13.75	MondalNatureGenetics2016;AADR;AADRv424	PASS (literature)	PRJEB11455
+mondal_PRBB-2.SG	M	PUN.SG	PRBB-2	India	Punjabi	modern	Shotgun	ds	haploid	590687	15.58	MondalNatureGenetics2016;AADR;AADRv424	PASS (literature)	PRJEB11455
+mondal_RAI-11.SG	M	RAJ.SG	RAI-11	India	Rajput	modern	Shotgun	ds	haploid	579406	14.66	MondalNatureGenetics2016;AADR;AADRv424	PASS (literature)	PRJEB11455
+mondal_RAI-12.SG	M	RAJ.SG	RAI-12	India	Rajput	modern	Shotgun	ds	haploid	588969	17.18	MondalNatureGenetics2016;AADR;AADRv424	PASS (literature)	PRJEB11455
+mondal_RAI-13.SG	M	RAJ.SG	RAI-13	India	Rajput	modern	Shotgun	ds	haploid	588641	17.47	MondalNatureGenetics2016;AADR;AADRv424	PASS (literature)	PRJEB11455
+mondal_RAI-15.SG	M	RAJ.SG	RAI-15	India	Rajput	modern	Shotgun	ds	haploid	586008	16.82	MondalNatureGenetics2016;AADR;AADRv424	PASS (literature)	PRJEB11455
+mondal_RAI-2.SG	M	RAJ.SG	RAI-2	India	Rajput	modern	Shotgun	ds	haploid	584810	16.36	MondalNatureGenetics2016;AADR;AADRv424	PASS (literature)	PRJEB11455
+mondal_RAI-3.SG	M	RAJ.SG	RAI-3	India	Rajput	modern	Shotgun	ds	haploid	586754	17.35	MondalNatureGenetics2016;AADR;AADRv424	PASS (literature)	PRJEB11455
+mondal_RAI-4.SG	M	RAJ.SG	RAI-4	India	Rajput	modern	Shotgun	ds	haploid	583251	15.75	MondalNatureGenetics2016;AADR;AADRv424	PASS (literature)	PRJEB11455
+mondal_RAI-5.SG	M	RAJ.SG	RAI-5	India	Rajput	modern	Shotgun	ds	haploid	590926	13.67	MondalNatureGenetics2016;AADR;AADRv424	PASS (literature)	PRJEB11455
+mondal_RAI-8.SG	M	RAJ.SG	RAI-8	India	Rajput	modern	Shotgun	ds	haploid	590067	14.92	MondalNatureGenetics2016;AADR;AADRv424	PASS (literature)	PRJEB11455
+mondal_RAI-9.SG	M	RAJ.SG	RAI-9	India	Rajput	modern	Shotgun	ds	haploid	589760	12.96	MondalNatureGenetics2016;AADR;AADRv424	PASS (literature)	PRJEB11455
+mondal_RIA-12.SG	M	RIA.SG	RIA-12	India	Riang	modern	Shotgun	ds	haploid	589617	20.85	MondalNatureGenetics2016;AADR;AADRv424	PASS (literature)	PRJEB11455
+mondal_RIA-14.SG	M	RIA.SG	RIA-14	India	Riang	modern	Shotgun	ds	haploid	590026	22.99	MondalNatureGenetics2016;AADR;AADRv424	PASS (literature)	PRJEB11455
+mondal_RIA-19.SG	M	RIA.SG	RIA-19	India	Riang	modern	Shotgun	ds	haploid	588606	19.79	MondalNatureGenetics2016;AADR;AADRv424	PASS (literature)	PRJEB11455
+mondal_RIA-20.SG	M	RIA.SG	RIA-20	India	Riang	modern	Shotgun	ds	haploid	589397	22.94	MondalNatureGenetics2016;AADR;AADRv424	PASS (literature)	PRJEB11455
+mondal_RIA-23.SG	M	RIA.SG	RIA-23	India	Riang	modern	Shotgun	ds	haploid	586233	19.35	MondalNatureGenetics2016;AADR;AADRv424	PASS (literature)	PRJEB11455
+mondal_RIA-24.SG	M	RIA.SG	RIA-24	India	Riang	modern	Shotgun	ds	haploid	583442	16.6	MondalNatureGenetics2016;AADR;AADRv424	PASS (literature)	PRJEB11455
+mondal_RIA-41.SG	M	RIA.SG	RIA-41	India	Riang	modern	Shotgun	ds	haploid	587074	17.34	MondalNatureGenetics2016;AADR;AADRv424	PASS (literature)	PRJEB11455
+mondal_RIA-42.SG	M	RIA.SG	RIA-42	India	Riang	modern	Shotgun	ds	haploid	584578	14.99	MondalNatureGenetics2016;AADR;AADRv424	PASS (literature)	PRJEB11455
+mondal_RIA-45.SG	M	RIA.SG	RIA-45	India	Riang	modern	Shotgun	ds	haploid	586268	16.18	MondalNatureGenetics2016;AADR;AADRv424	PASS (literature)	PRJEB11455
+mondal_RIA-63.SG	M	RIA.SG	RIA-63	India	Riang	modern	Shotgun	ds	haploid	585278	15.39	MondalNatureGenetics2016;AADR;AADRv424	PASS (literature)	PRJEB11455
+mondal_VV1-01.SG	M	VLR.SG	VV1-01	India	Vellalar	modern	Shotgun	ds	haploid	590883	14.11	MondalNatureGenetics2016;AADR;AADRv424	PASS (literature)	PRJEB11455
+mondal_VV1-03.SG	M	VLR.SG	VV1-03	India	Vellalar	modern	Shotgun	ds	haploid	590250	14.09	MondalNatureGenetics2016;AADR;AADRv424	PASS (literature)	PRJEB11455
+mondal_VV1-04.SG	M	VLR.SG	VV1-04	India	Vellalar	modern	Shotgun	ds	haploid	590493	13.16	MondalNatureGenetics2016;AADR;AADRv424	PASS (literature)	PRJEB11455
+mondal_VV1-05.SG	M	VLR.SG	VV1-05	India	Vellalar	modern	Shotgun	ds	haploid	590031	12.69	MondalNatureGenetics2016;AADR;AADRv424	PASS (literature)	PRJEB11455
+mondal_VV1-06.SG	M	VLR.SG	VV1-06	India	Vellalar	modern	Shotgun	ds	haploid	590566	14.6	MondalNatureGenetics2016;AADR;AADRv424	PASS (literature)	PRJEB11455
+mondal_VV1-07.SG	M	VLR.SG	VV1-07	India	Vellalar	modern	Shotgun	ds	haploid	590420	14.25	MondalNatureGenetics2016;AADR;AADRv424	PASS (literature)	PRJEB11455
+mondal_VV1-14.SG	M	VLR.SG	VV1-14	India	Vellalar	modern	Shotgun	ds	haploid	590045	13.38	MondalNatureGenetics2016;AADR;AADRv424	PASS (literature)	PRJEB11455
+mondal_VV1-16.SG	M	VLR.SG	VV1-16	India	Vellalar	modern	Shotgun	ds	haploid	589511	12.64	MondalNatureGenetics2016;AADR;AADRv424	PASS (literature)	PRJEB11455
+mondal_VV1-20.SG	M	VLR.SG	VV1-20	India	Vellalar	modern	Shotgun	ds	haploid	591023	14.58	MondalNatureGenetics2016;AADR;AADRv424	PASS (literature)	PRJEB11455
+mondal_JAR-27.SG	M	JAR.SG	JAR-27	India	Jarawa	modern	Shotgun	ds	haploid	589537	12.64	MondalNatureGenetics2016;AADR;AADRv424	PASS (literature)	PRJEB11455
+mondal_JAR-32.SG	M	JAR.SG	JAR-32	India	Jarawa	modern	Shotgun	ds	haploid	589920	14.13	MondalNatureGenetics2016;AADR;AADRv424	PASS (literature)	PRJEB11455
+mondal_JAR-54.SG	M	JAR.SG	JAR-54	India	Jarawa	modern	Shotgun	ds	haploid	590411	14.12	MondalNatureGenetics2016;AADR;AADRv424	PASS (literature)	PRJEB11455
+mondal_JAR-61.SG	M	JAR.SG	JAR-61	India	Jarawa	modern	Shotgun	ds	haploid	580007	17.47	MondalNatureGenetics2016;AADR;AADRv424	PASS (literature)	PRJEB11455
+mondal_ONG-1.SG	M	ONG.SG	ONG-1	India	Onge	modern	Shotgun	ds	haploid	589942	13.41	MondalNatureGenetics2016;AADR;AADRv424	PASS (literature)	PRJEB11455
+mondal_ONG-12.SG	M	ONG.SG	ONG-12	India	Onge	modern	Shotgun	ds	haploid	588770	12.63	MondalNatureGenetics2016;AADR;AADRv424	PASS (literature)	PRJEB11455
+mondal_ONG-14.SG	M	ONG.SG	ONG-14	India	Onge	modern	Shotgun	ds	haploid	589436	13.3	MondalNatureGenetics2016;AADR;AADRv424	PASS (literature)	PRJEB11455
+mondal_ONG-4.SG	M	ONG.SG	ONG-4	India	Onge	modern	Shotgun	ds	haploid	590285	14.61	MondalNatureGenetics2016;AADR;AADRv424	PASS (literature)	PRJEB11455
+mondal_ONG-8.SG	M	ONG.SG	ONG-8	India	Onge	modern	Shotgun	ds	haploid	588722	14.21	MondalNatureGenetics2016;AADR;AADRv424	PASS (literature)	PRJEB11455
+mondal_ONG-9.SG	M	ONG.SG	ONG-9	India	Onge	modern	Shotgun	ds	haploid	588238	20.12	MondalNatureGenetics2016;AADR;AADRv424	PASS (literature)	PRJEB11455

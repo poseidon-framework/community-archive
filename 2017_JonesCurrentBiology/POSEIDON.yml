@@ -1,13 +1,12 @@
 poseidonVersion: 2.5.0
 title: 2017_JonesCurrentBiology
-description: This package was initially constructed based on the Allen Ancient DNA
-  Resource (https://reich.hms.harvard.edu/allen-ancient-dna-resource-aadr-downloadable-genotypes-present-day-and-ancient-dna-data,
-  version 37.2)
+description: Mesolithic and Neolithic samples from Latvia and Ukraine. Originally
+  AADR v42.4.
 contributor:
 - name: Ayshin Ghalichi
   email: ghalichi@shh.mpg.de
-packageVersion: 2.0.1
-lastModified: 2022-02-22
+packageVersion: 2.1.1
+lastModified: 2023-07-11
 genotypeData:
   format: PLINK
   genoFile: 2017_JonesCurrentBiology.bed
@@ -18,7 +17,7 @@ genotypeData:
   indFileChkSum: 8bdd78a3f1b83132773397543c56b408
   snpSet: 1240K
 jannoFile: 2017_JonesCurrentBiology.janno
-jannoFileChkSum: 319d3556f13bc0bd692af4f18d885b1a
+jannoFileChkSum: 2b6dc1e3f2e5396c4d719417f7a3260d
 bibFile: 2017_JonesCurrentBiology.bib
-bibFileChkSum: b16ef384ba801a987a57f55989771e30
+bibFileChkSum: 7c2c1b3d33e7a5f6ba0780fb78c868ba
 changelogFile: CHANGELOG.md
