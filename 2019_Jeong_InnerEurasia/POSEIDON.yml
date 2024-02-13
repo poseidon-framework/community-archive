@@ -5,7 +5,7 @@ description: The genetic history of admixture across inner Eurasia. Originally A
 contributor:
 - name: Ayshin Ghalichi
   email: ghalichi@shh.mpg.de
-packageVersion: 3.1.0
+packageVersion: 3.1.1
 lastModified: 2024-02-13
 genotypeData:
   format: PLINK
@@ -17,7 +17,9 @@ genotypeData:
   indFileChkSum: 5d7ffa6f67daa37e706c6d1f6cfd2211
   snpSet: 1240K
 jannoFile: 2019_Jeong_InnerEurasia.janno
-jannoFileChkSum: 2410814686b0020540b70ee65e2e78ae
+jannoFileChkSum: 95fe7028ea2813305e9d5179a68ac214
+sequencingSourceFile: ENAtable.ssf
+sequencingSourceFileChkSum: 1da7f755022bd52b45210215867b9df7
 bibFile: 2019_Jeong_InnerEurasia.bib
 bibFileChkSum: f4e6fb7d7bcef3c79d200c88c4e2a250
 changelogFile: CHANGELOG.txt

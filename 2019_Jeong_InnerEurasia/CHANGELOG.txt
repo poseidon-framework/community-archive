@@ -1,3 +1,4 @@
+- V 3.1.1: Update udg of BOT2016 in janno based on ssf info
 - V 3.1.0: Added SSF file for ancient samples
 - V 3.0.1: fixed Genotype_Ploidy information
 - V 3.0.0: Changed two group names that are incompatible with trident ('<' -> 'lt')
