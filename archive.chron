@@ -1,6 +1,6 @@
 title: Poseidon community-archive chronicle
-chronicleVersion: 1.12.0
-lastModified: 2024-02-09
+chronicleVersion: 1.13.0
+lastModified: 2024-02-13
 packages:
 - title: 2010_RasmussenNature
   version: 2.1.1
@@ -469,6 +469,10 @@ packages:
 - title: 2019_Jeong_InnerEurasia
   version: 3.0.1
   commit: 6c49c1c37b8e6e2bb9555863a66fc2bce3622177
+  path: 2019_Jeong_InnerEurasia
+- title: 2019_Jeong_InnerEurasia
+  version: 3.1.1
+  commit: 2728055cece685eccc14babbd1a72923e5b963b0
   path: 2019_Jeong_InnerEurasia
 - title: 2019_Malmstrom_Scandinavia
   version: 2.2.0
