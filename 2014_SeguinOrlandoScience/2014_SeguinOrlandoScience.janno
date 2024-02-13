@@ -1,2 +1,2 @@
 Poseidon_ID	Genetic_Sex	Group_Name	Collection_ID	Country	Location	Latitude	Longitude	Date_Type	Date_C14_Labnr	Date_C14_Uncal_BP	Date_C14_Uncal_BP_Err	Date_BC_AD_Start	Date_BC_AD_Median	Date_BC_AD_Stop	Y_Haplogroup	Capture_Type	UDG	Library_Built	Genotype_Ploidy	Nr_SNPs	Coverage_on_Target_SNPs	Publication	Note	Genetic_Source_Accession_IDs
-Kostenki14.SG	M	Russia_Kostenki14.SG	Kostenki14	Russia	Kostenki	51.23	39.3	C14	OxA-	33250	500	-36730	-35520	-34310	C1b	Shotgun	minus	ds	haploid	1070534	2.806	SeguinOrlandoScience2014	PASS (literature)	PRJEB7618 
+Kostenki14.SG	M	Russia_Kostenki14.SG	Kostenki14	Russia	Kostenki	51.23	39.3	C14	OxA-	33250	500	-36730	-35520	-34310	C1b	Shotgun	minus	ds	haploid	1070534	2.806	SeguinOrlandoScience2014;AADR;AADRv424	PASS (literature)	PRJEB7618 

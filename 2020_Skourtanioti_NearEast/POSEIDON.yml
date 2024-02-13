@@ -4,8 +4,8 @@ description: Late Neolithic to Late Bronze Age samples from the Near East.
 contributor:
 - name: Eirini Skourtanioti
   email: skourtanioti@shh.mpg.de
-packageVersion: 2.0.0
-lastModified: 2022-01-28
+packageVersion: 2.1.0
+lastModified: 2023-07-04
 genotypeData:
   format: PLINK
   genoFile: Skourtanioti_NearEast.bed
@@ -18,5 +18,5 @@ genotypeData:
 jannoFile: Skourtanioti_NearEast.janno
 jannoFileChkSum: 263cafa3b2e5ebc5e38a7d42cca24c9d
 bibFile: LITERATURE.bib
-bibFileChkSum: 29a75d259df8d540c018c58defada497
+bibFileChkSum: dcb5c28422fe0aaf5757fcc2ce4a3258
 changelogFile: CHANGELOG.md

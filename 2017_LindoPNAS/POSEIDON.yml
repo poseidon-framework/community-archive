@@ -1,11 +1,12 @@
 poseidonVersion: 2.5.0
 title: 2017_LindoPNAS
-description: Empty package template. Please add a description
+description: Ancient individuals from the North American Northwest Coast. Originally
+  AADR v42.4.
 contributor:
 - name: Ayshin Ghalichi
   email: ghalichi@shh.mpg.de
-packageVersion: 2.0.1
-lastModified: 2022-02-22
+packageVersion: 2.1.1
+lastModified: 2023-07-11
 genotypeData:
   format: PLINK
   genoFile: 2017_LindoPNAS.bed
@@ -16,7 +17,7 @@ genotypeData:
   indFileChkSum: 2499d568ef81d3a222ebfec4bb986c25
   snpSet: 1240K
 jannoFile: 2017_LindoPNAS.janno
-jannoFileChkSum: 1171bf472b3ddb96b83e1a2c263167c9
+jannoFileChkSum: 32595e07273d20a3be8fb9671f4e70bf
 bibFile: 2017_LindoPNAS.bib
-bibFileChkSum: 213b472e19aefb244dc579c3b78ec33b
+bibFileChkSum: 0c2928d4ccdd46bc2d48fc7d6330fa42
 changelogFile: CHANGELOG.md

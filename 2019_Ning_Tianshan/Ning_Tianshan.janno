@@ -1,12 +1,12 @@
 Poseidon_ID	Genetic_Sex	Group_Name	Collection_ID	Country	Location	Latitude	Longitude	Date_Type	Date_C14_Uncal_BP	Date_C14_Uncal_BP_Err	Date_BC_AD_Start	Date_BC_AD_Median	Date_BC_AD_Stop	Y_Haplogroup	Capture_Type	UDG	Library_Built	Genotype_Ploidy	Nr_SNPs	Coverage_on_Target_SNPs	Publication	Note	Genetic_Source_Accession_IDs
-F004.SG	F	China_IA.SG	F004	China	Shirenzigou	43.6097	93.1667	contextual	n/a	n/a	-370	-280	-190	n/a	Shotgun	minus	ds	haploid	159968	0.146153	NingCurrentBiology2019	PASS (literature)	ERP115006
-M010.SG	F	China_IA.SG	M010	China	Shirenzigou	43.6097	93.1667	C14	2290	25	-404	-320	-235	n/a	Shotgun	minus	ds	haploid	253730	0.243289	NingCurrentBiology2019	PASS (literature)	ERP115006
-M012.SG	M	China_IA.SG	M012	China	Shirenzigou	43.6097	93.1667	C14	2195	20	-360	-278	-197	R1b1a1a2	Shotgun	minus	ds	haploid	86515	0.07463	NingCurrentBiology2019	PASS (literature)	ERP115006
-M15-1.SG	M	China_IA.SG	M15-1	China	Shirenzigou	43.6097	93.1667	contextual	n/a	n/a	-400	-300	-200	R1b1a1a2	Shotgun	minus	ds	haploid	118018	0.103917	NingCurrentBiology2019	PASS (literature)	ERP115006
-M15-2.SG	M	China_IA.SG	M15-2	China	Shirenzigou	43.6097	93.1667	contextual	n/a	n/a	-400	-300	-200	Q1a1a1	Shotgun	minus	ds	haploid	50611	0.042845	NingCurrentBiology2019	PASS (literature)	ERP115006
-M4.SG	M	China_IA.SG	M4	China	Shirenzigou	43.6097	93.1667	C14	2215	25	-366	-284	-203	n/a	Shotgun	minus	ds	haploid	38443	0.032347	NingCurrentBiology2019	PASS (literature)	ERP115006
-M8R1.SG	M	China_IA.SG	M8R1	China	Shirenzigou	43.6097	93.1667	C14	2230	25	-382	-294	-205	n/a	Shotgun	minus	ds	haploid	30789	0.025886	NingCurrentBiology2019	PASS (literature)	ERP115006
-X3.SG	M	China_IA.SG	X3	China	Shirenzigou	43.6097	93.1667	contextual	n/a	n/a	-400	-300	-200	Q1a1b	Shotgun	minus	ds	haploid	114339	0.099771	NingCurrentBiology2019	PASS (literature)	ERP115006
-M819.SG	F	China_IA.SG	M819	China	Shirenzigou	43.6097	93.1667	contextual	n/a	n/a	-400	-300	-200	n/a	Shotgun	minus	ds	haploid	530476	0.614255	NingCurrentBiology2019	PASS (literature)	ERP115006
-M820.SG	F	China_IA.SG	M820	China	Shirenzigou	43.6097	93.1667	C14	2185	30	-361	-266	-172	n/a	Shotgun	minus	ds	haploid	187574	0.173748	NingCurrentBiology2019	PASS (literature)	ERP115006
-M827.SG	U	China_IA.SG	M827	China	Shirenzigou	43.6097	93.1667	contextual	n/a	n/a	-550	-350	-150	n/a	Shotgun	minus	ds	haploid	118022	0.105406	NingCurrentBiology2019	PASS (literature)	ERP115006
+F004.SG	F	China_IA.SG	F004	China	Shirenzigou	43.6097	93.1667	contextual	n/a	n/a	-370	-280	-190	n/a	Shotgun	minus	ds	haploid	159968	0.146153	NingCurrentBiology2019;AADR;AADRv424	PASS (literature)	ERP115006
+M010.SG	F	China_IA.SG	M010	China	Shirenzigou	43.6097	93.1667	C14	2290	25	-404	-320	-235	n/a	Shotgun	minus	ds	haploid	253730	0.243289	NingCurrentBiology2019;AADR;AADRv424	PASS (literature)	ERP115006
+M012.SG	M	China_IA.SG	M012	China	Shirenzigou	43.6097	93.1667	C14	2195	20	-360	-278	-197	R1b1a1a2	Shotgun	minus	ds	haploid	86515	0.07463	NingCurrentBiology2019;AADR;AADRv424	PASS (literature)	ERP115006
+M15-1.SG	M	China_IA.SG	M15-1	China	Shirenzigou	43.6097	93.1667	contextual	n/a	n/a	-400	-300	-200	R1b1a1a2	Shotgun	minus	ds	haploid	118018	0.103917	NingCurrentBiology2019;AADR;AADRv424	PASS (literature)	ERP115006
+M15-2.SG	M	China_IA.SG	M15-2	China	Shirenzigou	43.6097	93.1667	contextual	n/a	n/a	-400	-300	-200	Q1a1a1	Shotgun	minus	ds	haploid	50611	0.042845	NingCurrentBiology2019;AADR;AADRv424	PASS (literature)	ERP115006
+M4.SG	M	China_IA.SG	M4	China	Shirenzigou	43.6097	93.1667	C14	2215	25	-366	-284	-203	n/a	Shotgun	minus	ds	haploid	38443	0.032347	NingCurrentBiology2019;AADR;AADRv424	PASS (literature)	ERP115006
+M8R1.SG	M	China_IA.SG	M8R1	China	Shirenzigou	43.6097	93.1667	C14	2230	25	-382	-294	-205	n/a	Shotgun	minus	ds	haploid	30789	0.025886	NingCurrentBiology2019;AADR;AADRv424	PASS (literature)	ERP115006
+X3.SG	M	China_IA.SG	X3	China	Shirenzigou	43.6097	93.1667	contextual	n/a	n/a	-400	-300	-200	Q1a1b	Shotgun	minus	ds	haploid	114339	0.099771	NingCurrentBiology2019;AADR;AADRv424	PASS (literature)	ERP115006
+M819.SG	F	China_IA.SG	M819	China	Shirenzigou	43.6097	93.1667	contextual	n/a	n/a	-400	-300	-200	n/a	Shotgun	minus	ds	haploid	530476	0.614255	NingCurrentBiology2019;AADR;AADRv424	PASS (literature)	ERP115006
+M820.SG	F	China_IA.SG	M820	China	Shirenzigou	43.6097	93.1667	C14	2185	30	-361	-266	-172	n/a	Shotgun	minus	ds	haploid	187574	0.173748	NingCurrentBiology2019;AADR;AADRv424	PASS (literature)	ERP115006
+M827.SG	U	China_IA.SG	M827	China	Shirenzigou	43.6097	93.1667	contextual	n/a	n/a	-550	-350	-150	n/a	Shotgun	minus	ds	haploid	118022	0.105406	NingCurrentBiology2019;AADR;AADRv424	PASS (literature)	ERP115006

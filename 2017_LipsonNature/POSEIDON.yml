@@ -1,13 +1,12 @@
 poseidonVersion: 2.5.0
 title: 2017_LipsonNature
-description: This package was initially constructed based on the Allen Ancient DNA
-  Resource (https://reich.hms.harvard.edu/allen-ancient-dna-resource-aadr-downloadable-genotypes-present-day-and-ancient-dna-data,
-  version 37.2)
+description: Mesolithic and Neolithic samples from different European countries. Originally
+  AADR v42.4.
 contributor:
 - name: Ayshin Ghalichi
   email: ghalichi@shh.mpg.de
-packageVersion: 2.0.1
-lastModified: 2022-02-25
+packageVersion: 2.1.1
+lastModified: 2023-07-11
 genotypeData:
   format: PLINK
   genoFile: 2017_LipsonNature.bed
@@ -18,7 +17,7 @@ genotypeData:
   indFileChkSum: f4f32889b2396065799979d8cb455875
   snpSet: 1240K
 jannoFile: 2017_LipsonNature.janno
-jannoFileChkSum: 5488044c02445d8c5c8a7625f59e1fd7
+jannoFileChkSum: f8949074ae4ae6e44625ea7e71d62da1
 bibFile: 2017_LipsonNature.bib
-bibFileChkSum: 07db7e1ed8cdb557047a062fd76c73f5
+bibFileChkSum: 64776b1950bd025ff047bb3b193a587f
 changelogFile: CHANGELOG.md

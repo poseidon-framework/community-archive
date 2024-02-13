@@ -1,11 +1,11 @@
 poseidonVersion: 2.5.0
 title: 2015_FuNature
-description: A Palaeolithic sample from Romania (Oase1).
+description: A Palaeolithic sample from Romania (Oase1). Originally AADR v42.4.
 contributor:
 - name: Ayshin Ghalichi
   email: ghalichi@shh.mpg.de
-packageVersion: 2.0.1
-lastModified: 2022-02-21
+packageVersion: 2.1.1
+lastModified: 2023-07-11
 genotypeData:
   format: PLINK
   genoFile: 2015_FuNature.bed
@@ -16,7 +16,7 @@ genotypeData:
   indFileChkSum: b06728d15f9561d85755c86134f83de6
   snpSet: 1240K
 jannoFile: 2015_FuNature.janno
-jannoFileChkSum: 9ea193e29cff99d64e8b55b37a28199d
+jannoFileChkSum: cc334f07fa9c95a5c0dcb0ff6a4fbf02
 bibFile: 2015_FuNature.bib
-bibFileChkSum: 3520ec803fa2581800711163fdd508a1
+bibFileChkSum: 27e4bdaf865d00f4495a292ec638f8c4
 changelogFile: CHANGELOG.md

@@ -1,11 +1,11 @@
-poseidonVersion: 2.5.0
+poseidonVersion: 2.7.1
 title: 2020_Margaryan_Viking
-description: Viking age samples from Europe and Greenland.
+description: Viking age samples from Europe and Greenland. Originally AADR v44.3.
 contributor:
 - name: Ayshin Ghalichi
   email: ghalichi@shh.mpg.de
-packageVersion: 2.0.1
-lastModified: 2022-03-13
+packageVersion: 2.2.0
+lastModified: 2023-07-04
 genotypeData:
   format: PLINK
   genoFile: Margaryan_Viking.bed
@@ -16,7 +16,9 @@ genotypeData:
   indFileChkSum: b15954e49137a7ef0c33ce65b2f7cb90
   snpSet: 1240K
 jannoFile: Margaryan_Viking.janno
-jannoFileChkSum: 85ea06d72c4dd989f6a845a386b41b05
+jannoFileChkSum: 7d14f637c5ec80efc46c298ee19f3c34
+sequencingSourceFile: ENAtable.ssf
+sequencingSourceFileChkSum: dee184ac3815a4f841819556266e9282
 bibFile: LITERATURE.bib
-bibFileChkSum: 2257ab6c2cc25fdc59abbc8bb05ce4a5
+bibFileChkSum: c237b0df1ac0b9f629979c96f780e1ba
 changelogFile: CHANGELOG.md

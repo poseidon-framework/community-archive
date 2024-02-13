@@ -1,13 +1,11 @@
 poseidonVersion: 2.5.0
 title: 2015_CassidyPNAS
-description: Neolithic and Bronze Age samples from Ireland. This package was initially
-  constructed based on the Allen Ancient DNA Resource (https://reich.hms.harvard.edu/allen-ancient-dna-resource-aadr-downloadable-genotypes-present-day-and-ancient-dna-data,
-  version 37.2)
+description: Neolithic and Bronze Age samples from Ireland. Originally AADR v42.4.
 contributor:
 - name: Ayshin Ghalichi
   email: ghalichi@shh.mpg.de
-packageVersion: 2.0.1
-lastModified: 2022-02-21
+packageVersion: 2.1.1
+lastModified: 2023-07-11
 genotypeData:
   format: PLINK
   genoFile: 2015_CassidyPNAS.bed
@@ -18,7 +16,7 @@ genotypeData:
   indFileChkSum: d05efd4fa34cc41602e4217471a8ffe8
   snpSet: 1240K
 jannoFile: 2015_CassidyPNAS.janno
-jannoFileChkSum: c061049d71093b78f23b4106ea762ee4
+jannoFileChkSum: fa02839431ec61481d022ae0eca1e35d
 bibFile: 2015_CassidyPNAS.bib
-bibFileChkSum: 15ed4fbf16737fc9e47be1f4518ab864
+bibFileChkSum: 68c55ec3164a4d485887d55c55f8efdf
 changelogFile: CHANGELOG.md

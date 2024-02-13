@@ -1,13 +1,11 @@
 poseidonVersion: 2.5.0
 title: 2016_JeongPNAS
-description: Diachronic samples from the Himalayan arc. This package was initially
-  constructed based on the Allen Ancient DNA Resource (https://reich.hms.harvard.edu/allen-ancient-dna-resource-aadr-downloadable-genotypes-present-day-and-ancient-dna-data,
-  version 37.2)
+description: Diachronic samples from the Himalayan arc. Originally AADR v42.4.
 contributor:
 - name: Ayshin Ghalichi
   email: ghalichi@shh.mpg.de
-packageVersion: 2.0.1
-lastModified: 2022-02-21
+packageVersion: 2.1.1
+lastModified: 2023-07-11
 genotypeData:
   format: PLINK
   genoFile: 2016_JeongPNAS.bed
@@ -18,7 +16,7 @@ genotypeData:
   indFileChkSum: 79629543b604878b574cd00e183b7499
   snpSet: 1240K
 jannoFile: 2016_JeongPNAS.janno
-jannoFileChkSum: 601135969db54895a1f44fe7da856089
+jannoFileChkSum: 9b8492aee30a49c756b503012351fa30
 bibFile: 2016_JeongPNAS.bib
-bibFileChkSum: 53c559b3c482acfa7a47b63cb86f4af4
+bibFileChkSum: b925a9e869548788d826a860ecf6187d
 changelogFile: CHANGELOG.txt

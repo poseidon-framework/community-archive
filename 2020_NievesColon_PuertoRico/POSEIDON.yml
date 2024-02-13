@@ -1,11 +1,11 @@
-poseidonVersion: 2.5.0
+poseidonVersion: 2.7.1
 title: 2020_NievesColon_PuertoRico
-description: Pre-contact samples from Puerto Rico.
+description: Pre-contact samples from Puerto Rico. Originally AADR v44.3.
 contributor:
 - name: Ayshin Ghalichi
   email: ghalichi@shh.mpg.de
-packageVersion: 2.0.1
-lastModified: 2022-03-13
+packageVersion: 2.2.0
+lastModified: 2023-07-04
 genotypeData:
   format: PLINK
   genoFile: NievesColon_PuertoRico.bed
@@ -16,7 +16,9 @@ genotypeData:
   indFileChkSum: 22956fb6ac2b380d2bbe8ceace6b5b65
   snpSet: 1240K
 jannoFile: NievesColon_PuertoRico.janno
-jannoFileChkSum: ecc837c98c0f629b7f82c5783bc4ac38
+jannoFileChkSum: a453eca275b21899dd1c5e257295edda
+sequencingSourceFile: ENAtable.ssf
+sequencingSourceFileChkSum: 97995cbc31d81a6305ccd12e9ddf2700
 bibFile: LITERATURE.bib
-bibFileChkSum: f83c5e63e09da16951cd3193c4e10d58
+bibFileChkSum: 9182b57cfeb517f14f94f5303cf723da
 changelogFile: CHANGELOG.md

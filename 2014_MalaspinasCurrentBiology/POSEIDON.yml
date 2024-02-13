@@ -1,11 +1,11 @@
 poseidonVersion: 2.5.0
 title: 2014_MalaspinasCurrentBiology
-description: Modern era individuals from Brazil.
+description: Modern era individuals from Brazil. Originally AADR v42.4.
 contributor:
 - name: Ayshin Ghalichi
   email: ghalichi@shh.mpg.de
-packageVersion: 2.0.0
-lastModified: 2022-01-28
+packageVersion: 2.1.1
+lastModified: 2023-07-11
 genotypeData:
   format: PLINK
   genoFile: 2014_MalaspinasCurrentBiology.bed
@@ -16,7 +16,7 @@ genotypeData:
   indFileChkSum: 4f46d9856ef37799d2685fcf1d783456
   snpSet: 1240K
 jannoFile: 2014_MalaspinasCurrentBiology.janno
-jannoFileChkSum: 73bd1642b4236e9b58dedca379846fb9
+jannoFileChkSum: 6e3d2b7f647d8c1508865e8fb2c395f2
 bibFile: 2014_MalaspinasCurrentBiology.bib
-bibFileChkSum: 01035692b27796463b74aec7c9a81441
+bibFileChkSum: f27dbaa57472c6bc72a0a1de6d4247de
 changelogFile: CHANGELOG.md
