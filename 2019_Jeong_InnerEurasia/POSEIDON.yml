@@ -17,7 +17,7 @@ genotypeData:
   indFileChkSum: 5d7ffa6f67daa37e706c6d1f6cfd2211
   snpSet: 1240K
 jannoFile: 2019_Jeong_InnerEurasia.janno
-jannoFileChkSum: 95fe7028ea2813305e9d5179a68ac214
+jannoFileChkSum: 5f82e8f18ee1608d5071c1d0b7066758
 sequencingSourceFile: ENAtable.ssf
 sequencingSourceFileChkSum: 1da7f755022bd52b45210215867b9df7
 bibFile: 2019_Jeong_InnerEurasia.bib
