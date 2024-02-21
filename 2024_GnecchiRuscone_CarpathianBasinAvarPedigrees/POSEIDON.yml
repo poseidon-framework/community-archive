@@ -9,9 +9,9 @@ packageVersion: 1.0.0
 lastModified: 2024-02-21
 genotypeData:
   format: PLINK
-  genoFile: 2024_GnecchiRuscone_AvarPedigrees.bed
-  snpFile: 2024_GnecchiRuscone_AvarPedigrees.bim
-  indFile: 2024_GnecchiRuscone_AvarPedigrees.fam
+  genoFile: 2024_GnecchiRuscone_CarpathianBasinAvarPedigrees.bed
+  snpFile: 2024_GnecchiRuscone_CarpathianBasinAvarPedigrees.bim
+  indFile: 2024_GnecchiRuscone_CarpathianBasinAvarPedigrees.fam
   snpSet: 1240K
-jannoFile: 2024_GnecchiRuscone_AvarPedigrees.janno
-bibFile: 2024_GnecchiRuscone_AvarPedigrees.bib
+jannoFile: 2024_GnecchiRuscone_CarpathianBasinAvarPedigrees.janno
+bibFile: 2024_GnecchiRuscone_CarpathianBasinAvarPedigrees.bib
