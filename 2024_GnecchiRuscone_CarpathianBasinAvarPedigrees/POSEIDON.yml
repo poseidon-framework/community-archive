@@ -1,0 +1,17 @@
+poseidonVersion: 2.7.1
+title: 2024_GnecchiRuscone_CarpathianBasinAvarPedigrees
+description: Data from large pedigrees from several Avar-period sites in the Carpathian basin
+contributor:
+- name: Luca Traverso
+  email: luca_traverso@eva.mpg.de
+  orcid: 0000-0001-5749-5751
+packageVersion: 1.0.0
+lastModified: 2024-02-21
+genotypeData:
+  format: PLINK
+  genoFile: 2024_GnecchiRuscone_AvarPedigrees.bed
+  snpFile: 2024_GnecchiRuscone_AvarPedigrees.bim
+  indFile: 2024_GnecchiRuscone_AvarPedigrees.fam
+  snpSet: 1240K
+jannoFile: 2024_GnecchiRuscone_AvarPedigrees.janno
+bibFile: 2024_GnecchiRuscone_AvarPedigrees.bib
