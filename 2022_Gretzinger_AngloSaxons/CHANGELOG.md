@@ -1,1 +1,2 @@
+- V 1.2.0: Relationship_update
 - 1.0.0: Initial submission
