@@ -1,2 +1,8 @@
-V 2.0.1: Genetic_Source_Accession_IDs updated
-V 2.0.0: updated the package to Poseidon v2.5 and adjusted the .janno file accordingly
+- V 4.0.2: removed Capture info for modern samples
+- V 4.0.1: fixed Genotype_Ploidy information
+- V 4.0.0: Changed a group name that is incompatible with trident ('<' -> 'lt')
+- V 3.1.1: Fixed attribution to a wrong AADR version
+- V 3.1.0: Update of references in the .bib file
+- V 3.0.0: Removed genotype data of 10 Amis and 10 Atayal individuals from Taiwan (further information in the newly added README), updated the package to Poseidon v2.7 and adjusted the POSEIDON.yml and .janno files to represent all changes  
+- V 2.0.1: Genetic_Source_Accession_IDs updated
+- V 2.0.0: updated the package to Poseidon v2.5 and adjusted the .janno file accordingly

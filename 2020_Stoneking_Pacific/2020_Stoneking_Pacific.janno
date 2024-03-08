@@ -1,3 +1,3 @@
 Poseidon_ID	Genetic_Sex	Group_Name	Collection_ID	Country	Location	Latitude	Longitude	Date_Type	Date_C14_Labnr	Date_C14_Uncal_BP	Date_C14_Uncal_BP_Err	Date_BC_AD_Start	Date_BC_AD_Median	Date_BC_AD_Stop	Source_Tissue	Nr_Libraries	Capture_Type	UDG	Library_Built	Genotype_Ploidy	Nr_SNPs	Coverage_on_Target_SNPs	Genetic_Source_Accession_IDs	Publication
-RBC1_d	M	Guam_LateUnai_Ritidian	RBC1	Guam	Guam, Ritidian Site	13.65	144.86	C14	Beta-444229	2180	30	-383	-220	-56	bone	13	1240K	minus	ss	diploid	26984	0.023219	PRJEB40707	StonekingPNAS2020
-RBC2_d	F	Guam_LateUnai_Ritidian	RBC2	Guam	Guam, Ritidian Site	13.65	144.86	contextual	n/a	n/a	n/a	-400	-200	-1	bone	11	1240K	minus	ss	diploid	101835	0.093231	PRJEB40707	StonekingPNAS2020
+RBC1_d	M	Guam_LateUnai_Ritidian	RBC1	Guam	Guam, Ritidian Site	13.65	144.86	C14	Beta-444229	2180	30	-383	-220	-56	bone	13	1240K	minus	ss	diploid	26984	0.023219	PRJEB40707	StonekingPNAS2020;AADR;AADRv443
+RBC2_d	F	Guam_LateUnai_Ritidian	RBC2	Guam	Guam, Ritidian Site	13.65	144.86	contextual	n/a	n/a	n/a	-400	-200	-1	bone	11	1240K	minus	ss	diploid	101835	0.093231	PRJEB40707	StonekingPNAS2020;AADR;AADRv443

@@ -1,13 +1,11 @@
 poseidonVersion: 2.5.0
 title: 2017_SaagCurrentBiology
-description: This package was initially constructed based on the Allen Ancient DNA
-  Resource (https://reich.hms.harvard.edu/allen-ancient-dna-resource-aadr-downloadable-genotypes-present-day-and-ancient-dna-data,
-  version 37.2)
+description: Neolithic samples from Estonia. Originally AADR v42.4.
 contributor:
 - name: Ayshin Ghalichi
   email: ghalichi@shh.mpg.de
-packageVersion: 2.0.1
-lastModified: 2022-02-25
+packageVersion: 2.1.1
+lastModified: 2023-07-11
 genotypeData:
   format: PLINK
   genoFile: 2017_SaagCurrentBiology.bed
@@ -18,7 +16,7 @@ genotypeData:
   indFileChkSum: 3698ed5b278e3607dd06d0d462221f27
   snpSet: 1240K
 jannoFile: 2017_SaagCurrentBiology.janno
-jannoFileChkSum: 53cac2fd9d317e81f27093e8527e67f3
+jannoFileChkSum: 0d1c85e70e4396d248699ef824506f8c
 bibFile: 2017_SaagCurrentBiology.bib
-bibFileChkSum: 657bfbb1a28d1a4a6f5896a6f2b55fb4
+bibFileChkSum: 3dabd9cfbc053f0ea2ef5b541fc8306a
 changelogFile: CHANGELOG.md

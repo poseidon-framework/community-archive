@@ -1,13 +1,12 @@
 poseidonVersion: 2.5.0
 title: 2014_RaghavanScience
 description: Ancient individuals from Arctic Siberia, Alaska, Canada, and Greenland.
-  This package was initially constructed based on the Allen Ancient DNA Resource (https://reich.hms.harvard.edu/allen-ancient-dna-resource-aadr-downloadable-genotypes-present-day-and-ancient-dna-data,
-  version 37.2)
+  Originally AADR v42.4.
 contributor:
 - name: Ayshin Ghalichi
   email: ghalichi@shh.mpg.de
-packageVersion: 2.0.1
-lastModified: 2022-02-07
+packageVersion: 2.1.1
+lastModified: 2023-07-11
 genotypeData:
   format: PLINK
   genoFile: 2014_RaghavanScience.bed
@@ -18,7 +17,7 @@ genotypeData:
   indFileChkSum: d05aab20397bbbdc994bd6adc96bf222
   snpSet: 1240K
 jannoFile: 2014_RaghavanScience.janno
-jannoFileChkSum: 06c1ee1ce0e6928dc2050d5dcda56506
+jannoFileChkSum: 980ee76359088dc0c0be265986957ee9
 bibFile: 2014_RaghavanScience.bib
-bibFileChkSum: fe26d4e06ee1d507f3ef86f602e7c2c4
+bibFileChkSum: 9d8add9fb3c72a46aab1e39888fba9f4
 changelogFile: CHANGELOG.md

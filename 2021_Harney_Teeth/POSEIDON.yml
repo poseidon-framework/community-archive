@@ -1,0 +1,23 @@
+poseidonVersion: 2.5.0
+title: 2021_Harney_Teeth
+description: A minimally destructive protocol for DNA extraction from ancient teeth.
+  Originally AADR v50.
+contributor:
+- name: Dhananjaya Aththnayaka
+  email: dhananjaya_aththanayaka@eva.mpg.de
+packageVersion: 0.2.0
+lastModified: 2023-07-04
+genotypeData:
+  format: PLINK
+  genoFile: 2021_Harney_Teeth.bed
+  genoFileChkSum: 279c1d4ae557fd7d16c16fc589b62e28
+  snpFile: 2021_Harney_Teeth.bim
+  snpFileChkSum: 433fa85a23f3123bade02348e4628b75
+  indFile: 2021_Harney_Teeth.fam
+  indFileChkSum: 681af81ad8f122b9e0c351b18ecc3898
+  snpSet: 1240K
+jannoFile: 2021_Harney_Teeth.janno
+jannoFileChkSum: 91d9c40d8c8f1059464b4365fb61e098
+bibFile: 2021_Harney_Teeth.bib
+bibFileChkSum: b1a1b3bbc1ab81811d340f4d22ff6767
+changelogFile: CHANGELOG.md

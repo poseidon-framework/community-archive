@@ -1,11 +1,12 @@
-poseidonVersion: 2.5.0
+poseidonVersion: 2.7.1
 title: 2019_GonzalesFortes_Iberia
-description: Genetic data published in GonzalesFortes et al. 2019
+description: A western route of prehistoric human migration from Africa into the Iberian
+  Peninsula. Originally AADR v42.4.
 contributor:
 - name: Ayshin Ghalichi
   email: ghalichi@shh.mpg.de
-packageVersion: 2.0.1
-lastModified: 2022-03-02
+packageVersion: 2.2.0
+lastModified: 2023-07-04
 genotypeData:
   format: PLINK
   genoFile: GonzalesFortes_Iberia.bed
@@ -16,7 +17,9 @@ genotypeData:
   indFileChkSum: d8f7e19d3430ba0ddeaee3b948f11eb6
   snpSet: 1240K
 jannoFile: GonzalesFortes_Iberia.janno
-jannoFileChkSum: 00dc09f1e3705fc6035b8cf585ca3f9b
+jannoFileChkSum: 9e7b4fcaff5f283745fbb89b1d33f045
+sequencingSourceFile: ENAtable.ssf
+sequencingSourceFileChkSum: e37e3f37bc87476183a42dc53ce58217
 bibFile: LITERATURE.bib
-bibFileChkSum: 90acdb95c2dd377a991b54bca7c39b32
+bibFileChkSum: da44dcbcf7bfeb96ed17e434f8681db7
 changelogFile: CHANGELOG.md

@@ -1,11 +1,11 @@
 poseidonVersion: 2.5.0
 title: 2016_KanzawaJHG
-description: Jomon period samples from Japan.
+description: Jomon period samples from Japan. Originally AADR v42.4.
 contributor:
 - name: Ayshin Ghalichi
   email: ghalichi@shh.mpg.de
-packageVersion: 2.0.1
-lastModified: 2022-02-21
+packageVersion: 2.1.1
+lastModified: 2023-07-11
 genotypeData:
   format: PLINK
   genoFile: 2016_KanzawaJHG.bed
@@ -16,7 +16,7 @@ genotypeData:
   indFileChkSum: 97e32c92dfc3165c9d0785fcbce0c097
   snpSet: 1240K
 jannoFile: 2016_KanzawaJHG.janno
-jannoFileChkSum: c96e9d4d8e82c729b113fd3711e1d072
+jannoFileChkSum: 9768ec386ecb7a5210767622be9655c7
 bibFile: 2016_KanzawaJHG.bib
-bibFileChkSum: 1f720fdc3784d46f80cb40cc79e2748e
+bibFileChkSum: ee245ec46bd4b6311284c0d511b07539
 changelogFile: CHANGELOG.md

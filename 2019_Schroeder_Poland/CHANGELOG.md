@@ -1,3 +1,4 @@
-V 2.0.1: Genetic_Source_Accession_IDs
-V 2.0.0: updated the package to Poseidon v2.5 and adjusted the .janno file accordingly
-V 1.0.2: fixed site coordinates wrongly reported in the publication
+- V 2.1.0: Update of references in the .bib file
+- V 2.0.1: Genetic_Source_Accession_IDs
+- V 2.0.0: updated the package to Poseidon v2.5 and adjusted the .janno file accordingly
+- V 1.0.2: fixed site coordinates wrongly reported in the publication

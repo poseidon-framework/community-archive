@@ -1,2 +1,2 @@
 Poseidon_ID	Genetic_Sex	Group_Name	Collection_ID	Country	Location	Latitude	Longitude	Date_Type	Date_C14_Labnr	Date_C14_Uncal_BP	Date_C14_Uncal_BP_Err	Date_BC_AD_Start	Date_BC_AD_Median	Date_BC_AD_Stop	Source_Tissue	Capture_Type	UDG	Library_Built	Genotype_Ploidy	Nr_SNPs	Coverage_on_Target_SNPs	Publication	Note	Genetic_Source_Accession_IDs
-PC537.SG	F	Bahamas_Taino.SG	PC537	Bahamas	Eleuthera, Preacher's Cave	25.55711	-76.69517	C14	OxA-	1082	29	894	956	1017	tooth	Shotgun	minus	ds	haploid	1149637	9.180101	SchroederPNAS2018	PASS (literature)	PRJEB22578
+PC537.SG	F	Bahamas_Taino.SG	PC537	Bahamas	Eleuthera, Preacher's Cave	25.55711	-76.69517	C14	OxA-	1082	29	894	956	1017	tooth	Shotgun	minus	ds	haploid	1149637	9.180101	SchroederPNAS2018;AADR;AADRv424	PASS (literature)	PRJEB22578
