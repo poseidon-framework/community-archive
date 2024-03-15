@@ -7,7 +7,7 @@ contributor:
 - name: Clemens Schmid
   email: schmid@shh.mpg.de
 packageVersion: 3.3.0
-lastModified: 2023-07-04
+lastModified: 2024-03-15
 genotypeData:
   format: PLINK
   genoFile: 2021_Wang_EastAsia.bed
