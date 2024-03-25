@@ -7,7 +7,7 @@ contributor:
   email: dhananjaya.aththanayaka@eva.mpg.de
 - name: Stephan Schiffels
   email: stephan_schiffels@eva.mpg.de
-packageVersion: 1.2.0
+packageVersion: 1.1.0
 lastModified: 2024-03-07
 genotypeData:
   format: PLINK
