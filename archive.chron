@@ -1,6 +1,6 @@
 title: Poseidon community-archive chronicle
-chronicleVersion: 1.14.0
-lastModified: 2024-02-23
+chronicleVersion: 1.15.0
+lastModified: 2024-03-12
 packages:
 - title: 2010_RasmussenNature
   version: 2.1.1
@@ -773,6 +773,10 @@ packages:
 - title: 2023_Peltola_VolgaOka
   version: 1.0.0
   commit: 5d652f0f04a071f31183004fbbe396612c9bcef1
+  path: 2023_Peltola_VolgaOka
+- title: 2023_Peltola_VolgaOka
+  version: 1.1.0
+  commit: cce494576b20a84c758c59415b7b47b99405c6a4
   path: 2023_Peltola_VolgaOka
 - title: 2023_Penske_EarlyContact
   version: 1.0.0
