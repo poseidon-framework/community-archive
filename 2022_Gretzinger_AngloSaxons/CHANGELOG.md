@@ -1,2 +1,2 @@
-- V 1.1.0: Relationship_update
+- V 1.1.0: Added all 1st-3rd degree relationships found in the publication, affecting dozens of individuals and partial pedigrees.
 - 1.0.0: Initial submission
