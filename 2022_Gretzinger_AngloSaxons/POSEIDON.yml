@@ -19,7 +19,7 @@ genotypeData:
   indFileChkSum: 521a002cfe1b248d1ea4b2ee9b155cb5
   snpSet: 1240K
 jannoFile: 2022_Gretzinger_AngloSaxons.janno
-jannoFileChkSum: 559bff81dc49d969a4e9ded457e05779
+jannoFileChkSum: 392f22ced0101527d346fd6aa114fa15
 sequencingSourceFile: 2022_Gretzinger_AngloSaxons.ssf
 sequencingSourceFileChkSum: 2f0d3a972d104e7fe299bceff877bd4d
 bibFile: 2022_Gretzinger_AngloSaxons.bib
