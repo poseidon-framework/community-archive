@@ -1,0 +1,17 @@
+poseidonVersion: 2.7.1
+title: 2022_Altinisik_UpperMesopotamia
+description: This publication contains a genomic snapshot of demographic and cultural dynamism in Upper Mesopotamia during the Neolithic Transition
+contributor:
+- name: Josiah Carberry
+  email: carberry@brown.edu
+  orcid: 0000-0002-1825-0097
+packageVersion: 0.1.0
+lastModified: 2024-03-15
+genotypeData:
+  format: PLINK
+  genoFile: 2022_Altinisik_UpperMesopotamia.bed
+  snpFile: 2022_Altinisik_UpperMesopotamia.bim
+  indFile: 2022_Altinisik_UpperMesopotamia.fam
+  snpSet: Other
+jannoFile: 2022_Altinisik_UpperMesopotamia.janno
+bibFile: 2022_Altinisik_UpperMesopotamia.bib
