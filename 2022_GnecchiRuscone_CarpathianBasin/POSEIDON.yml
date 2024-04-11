@@ -5,8 +5,10 @@ description: Ancient genomes reveal origin and rapid trans-Eurasian migration of
 contributor:
 - name: Guido_Alberto_Gnecchi_Ruscone
   email: guido_gnecchi@eva.mpg.de
-packageVersion: 1.0.0
-lastModified: 2023-10-23
+- name: Clemens Schmid
+  email: clemens_schmid@eva.mpg.de
+packageVersion: 1.0.1
+lastModified: 2024-04-11
 genotypeData:
   format: PLINK
   genoFile: 2022_GnecchiRuscone_CarpathianBasin.bed
@@ -17,6 +19,7 @@ genotypeData:
   indFileChkSum: cd69dae82d6c7fcb317ad258aea4cfd8
   snpSet: 1240K
 jannoFile: 2022_GnecchiRuscone_CarpathianBasin.janno
-jannoFileChkSum: 87655fb26693b7f217115ac77c43cbd3
+jannoFileChkSum: 73a03ac29940b4418a1d4444643e35f7
 bibFile: 2022_GnecchiRuscone_CarpathianBasin.bib
 bibFileChkSum: e1addcccfe575e9fc58a5abcab62188f
+changelogFile: CHANGELOG.md
