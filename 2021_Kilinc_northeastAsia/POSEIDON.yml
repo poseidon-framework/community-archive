@@ -16,7 +16,7 @@ genotypeData:
   indFileChkSum: c908d20d62e4bf02e2d258e46ec6bf37
   snpSet: 1240K
 jannoFile: Kilinc_northeastAsia.janno
-jannoFileChkSum: 085d7d977ee8a1976255bebd986f51e7
+jannoFileChkSum: 5a5ef51b29e50cbe6a2596565fc6882e
 sequencingSourceFile: ENAtable.ssf
 sequencingSourceFileChkSum: e760bdb8ac0c02d8aadc134556b7fa3f
 bibFile: LITERATURE.bib
