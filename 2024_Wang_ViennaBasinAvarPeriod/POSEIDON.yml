@@ -1,0 +1,22 @@
+poseidonVersion: 2.7.1
+title: 2024_Wang_ViennaBasinAvarPeriod
+description: Data from Avar and pre-Avar period samples from the Viennese basin
+contributor:
+- name: Luca Traverso
+  email: luca_traverso@eva.mpg.de
+  orcid: 0000-0001-5749-5751
+packageVersion: 1.0.0
+lastModified: 2024-04-22
+genotypeData:
+  format: PLINK
+  genoFile: 2024_Wang_ViennaBasinAvarPeriod.bed
+  genoFileChkSum: 829ed838a2d3a9473b739de5f3fabfee
+  snpFile: 2024_Wang_ViennaBasinAvarPeriod.bim
+  snpFileChkSum: 0eb5bcfa375a4e2c21b6b9d0eade86f3
+  indFile: 2024_Wang_ViennaBasinAvarPeriod.fam
+  indFileChkSum: e1049a5c42bbf7a8fd415719c871ec98
+  snpSet: 1240K
+jannoFile: 2024_Wang_ViennaBasinAvarPeriod.janno
+jannoFileChkSum: 279ff6367ca6d9a932705f18d2e855cb
+bibFile: 2024_Wang_ViennaBasinAvarPeriod.bib
+bibFileChkSum: 39522fbfdc30a9c3b3fff3f0e4dc2ec3
