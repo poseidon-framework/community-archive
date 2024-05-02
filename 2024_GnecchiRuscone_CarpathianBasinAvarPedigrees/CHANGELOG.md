@@ -1,1 +1,0 @@
-- V 1.0.1: added info to .janno file after publication
