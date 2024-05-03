@@ -1,6 +1,6 @@
 title: Poseidon community-archive chronicle
-chronicleVersion: 1.17.0
-lastModified: 2024-04-12
+chronicleVersion: 1.18.0
+lastModified: 2024-05-03
 packages:
 - title: 2010_RasmussenNature
   version: 2.1.1
@@ -794,6 +794,10 @@ packages:
   version: 1.0.0
   commit: 853c310592f87d77c4afe248d66cbd5147b4c5c4
   path: 2024_GnecchiRuscone_CarpathianBasinAvarPedigrees
+- title: 2024_Wang_ViennaBasinAvarPeriod
+  version: 1.0.0
+  commit: e17d86a26577f8949a3771258b9718a67c226a3a
+  path: 2024_Wang_ViennaBasinAvarPeriod
 - title: Archaic_Humans
   version: 2.2.0
   commit: 7f52e722d29286ccf04320b5dfb6efee4b19e9f5
