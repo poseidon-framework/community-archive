@@ -5,8 +5,8 @@ description: The Neolithic Pitted Ware culture foragers were culturally but not 
 contributor:
 - name: Dhananjaya Aththanayaka
   email: dhananjaya_aththanayaka@eva.mpg.de
-packageVersion: 0.3.0
-lastModified: 2023-07-04
+packageVersion: 0.4.0
+lastModified: 2024-05-06
 genotypeData:
   format: PLINK
   genoFile: 2020_Coutinho_Neolithic.bed
@@ -17,7 +17,7 @@ genotypeData:
   indFileChkSum: f951d21fa7b8850be53c52b187bb2acc
   snpSet: 1240K
 jannoFile: 2020_Coutinho_Neolithic.janno
-jannoFileChkSum: e29f91c5d40799daa9beb5bcf53b9bcb
+jannoFileChkSum: ee286fd4945db153a4e47d0f74410812
 sequencingSourceFile: ENAtable.ssf
 sequencingSourceFileChkSum: feb7fca1592610caab7be27a837b0e97
 bibFile: 2020_Coutinho_Neolithic.bib
