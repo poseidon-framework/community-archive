@@ -61,6 +61,7 @@ You can now open this Pull Request and then work through the relevant checklists
 ***
 
 - [ ] The `packageVersion` numbers of the affected packages were increased in their `POSEIDON.yml` files.
+- [ ] The changes in the `packageVersion` followed the Poseidon [Package versioning policy](https://github.com/poseidon-framework/poseidon-schema?tab=readme-ov-file#package-versioning).
 - [ ] The changes were documented in the respective `CHANGELOG` files. If no `CHANGELOG` files existed previously it was added here.
 - [ ] The `lastModified` fields of the affected `POSEIDON.yml` files were updated.
 - [ ] The `contributor` fields were updated with `name`, `email` and `orcid` of the relevant, new contributors.
