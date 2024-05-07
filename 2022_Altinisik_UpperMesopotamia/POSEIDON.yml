@@ -1,13 +1,15 @@
 poseidonVersion: 2.7.1
 title: 2022_Altinisik_UpperMesopotamia
-description: This publication contains a genomic snapshot of demographic and cultural
-  dynamism in Upper Mesopotamia during the Neolithic Transition
+description: 13 ancient genomes from Neolithic Mesopotamia
 contributor:
-- name: Josiah Carberry
-  email: carberry@brown.edu
-  orcid: 0000-0002-1825-0097
-packageVersion: 0.1.0
-lastModified: 2024-03-15
+- name: N. Ezgi Altınışık
+  email: ezgialtinisik@hacettepe.edu.tr
+- name: Ayshin Ghalichi
+  email: ayshin_ghalichi@eva.mpg.de
+- name: Dhananjaya Aththanayaka
+  email: dhananjaya_aththanayaka.eva.mpg.de
+packageVersion: 1.0.0
+lastModified: 2024-05-17
 genotypeData:
   format: PLINK
   genoFile: 2022_Altinisik_UpperMesopotamia.bed
@@ -18,8 +20,8 @@ genotypeData:
   indFileChkSum: 649438c6c9a4cd5e3524ff6fb499e704
   snpSet: Other
 jannoFile: 2022_Altinisik_UpperMesopotamia.janno
-jannoFileChkSum: 21b5497abe91a7a0761ad1244e1a0306
+jannoFileChkSum: 64e3dc04fe897db995126b378304b0ca
+sequencingSourceFile: 2022_Altinisik_UpperMesopotamia.ssf
+sequencingSourceFileChkSum: 2c02d8b7863ea9d4c595cfc29be414c8
 bibFile: 2022_Altinisik_UpperMesopotamia.bib
 bibFileChkSum: 72585f52b7fc63eae34e8e7149573a67
-sequencingSourceFile: 2022_Altinisik_UpperMesopotamia.ssf 
-sequencingSourceFileChkSum: 2c02d8b7863ea9d4c595cfc29be414c8
