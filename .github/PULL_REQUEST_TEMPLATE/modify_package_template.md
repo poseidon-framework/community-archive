@@ -1,4 +1,4 @@
-## PR Checklist for modifying one or multiple existing packages
+### PR Checklist for modifying one or multiple existing packages
 
 - [ ] The changes maintain the structural integrity of the affected packages.
 - [ ] The checksums of the modified files in the respective `POSEIDON.yml` files were adjusted properly.
