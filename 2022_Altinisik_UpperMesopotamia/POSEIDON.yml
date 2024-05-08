@@ -18,7 +18,7 @@ genotypeData:
   snpFileChkSum: 433fa85a23f3123bade02348e4628b75
   indFile: 2022_Altinisik_UpperMesopotamia.fam
   indFileChkSum: 649438c6c9a4cd5e3524ff6fb499e704
-  snpSet: Other
+  snpSet: 1240K
 jannoFile: 2022_Altinisik_UpperMesopotamia.janno
 jannoFileChkSum: 64e3dc04fe897db995126b378304b0ca
 sequencingSourceFile: 2022_Altinisik_UpperMesopotamia.ssf
