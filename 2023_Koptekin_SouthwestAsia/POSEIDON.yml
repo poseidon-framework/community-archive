@@ -1,0 +1,17 @@
+poseidonVersion: 2.7.1
+title: 2023_Koptekin_SouthwestAsia
+description: Empty package template. Please add a description
+contributor:
+- name: Josiah Carberry
+  email: carberry@brown.edu
+  orcid: 0000-0002-1825-0097
+packageVersion: 0.1.0
+lastModified: 2024-03-15
+genotypeData:
+  format: PLINK
+  genoFile: 2023_Koptekin_SouthwestAsia.bed
+  snpFile: 2023_Koptekin_SouthwestAsia.bim
+  indFile: 2023_Koptekin_SouthwestAsia.fam
+  snpSet: Other
+jannoFile: 2023_Koptekin_SouthwestAsia.janno
+bibFile: 2023_Koptekin_SouthwestAsia.bib
