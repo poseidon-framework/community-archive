@@ -1,0 +1,18 @@
+poseidonVersion: 2.5.0
+title: 2024_Gretzinger_EarlyCelts
+description: 31 Hallstatt samples from Germany, published in Gretzinger et al. 2024 Nature Human Behavior
+contributor:
+  - name: Thiseas C. Lamnidis
+    email: thiseas_christos_lamnidis@eva.mpg.de
+  - name: Stephan Schiffels
+    email: stephan_schiffels@eva.mpg.de
+packageVersion: 1.0.0
+lastModified: 2024-05-27
+genotypeData:
+  format: PLINK
+  genoFile: 2024_Gretzinger_EarlyCelts.bed
+  snpFile: 2024_Gretzinger_EarlyCelts.bim
+  indFile: 2024_Gretzinger_EarlyCelts.fam
+  snpSet: 1240K
+jannoFile: 2024_Gretzinger_EarlyCelts.janno
+changelogFile: CHANGELOG.md
