@@ -1,4 +1,4 @@
->>> DO NOT YET CLICK "Create pull request" - FIRST FOLLOW THESE INSTRUCTIONS <<<
+DO NOT YET CLICK "Create pull request" - FIRST FOLLOW THESE INSTRUCTIONS
 
 Please switch to the **Preview** tab and then click the link to activate the right checklist:
 
