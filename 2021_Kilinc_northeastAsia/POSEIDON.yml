@@ -13,10 +13,10 @@ genotypeData:
   snpFile: Kilinc_northeastAsia.bim
   snpFileChkSum: e79741f669b66f1e882a55d25b3219c8
   indFile: Kilinc_northeastAsia.fam
-  indFileChkSum: c908d20d62e4bf02e2d258e46ec6bf37
+  indFileChkSum: 009e6a0de2086f23b24a5a71fabc63ee
   snpSet: 1240K
 jannoFile: Kilinc_northeastAsia.janno
-jannoFileChkSum: 5a5ef51b29e50cbe6a2596565fc6882e
+jannoFileChkSum: 9c8032fa623ce01e185f9f0f84e052d1
 sequencingSourceFile: ENAtable.ssf
 sequencingSourceFileChkSum: e760bdb8ac0c02d8aadc134556b7fa3f
 bibFile: LITERATURE.bib
