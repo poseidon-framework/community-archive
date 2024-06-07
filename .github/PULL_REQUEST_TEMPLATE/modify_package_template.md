@@ -11,6 +11,7 @@
 - [ ] The changes were documented in the respective `CHANGELOG` files. If no `CHANGELOG` files existed previously it was added here.
 - [ ] The `lastModified` fields of the affected `POSEIDON.yml` files were updated.
 - [ ] The `contributor` fields were updated with `name`, `email` and `orcid` of the relevant, new contributors.
+- [ ] The `.janno` and the `.ssf` files are not fully quoted, so they only use double quotes (`"..."`) to enclose text fields where it is strictly necessary.
 
 ***
 
