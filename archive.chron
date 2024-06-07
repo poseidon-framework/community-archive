@@ -1,6 +1,6 @@
 title: Poseidon community-archive chronicle
-chronicleVersion: 1.20.0
-lastModified: 2024-05-08
+chronicleVersion: 1.21.0
+lastModified: 2024-06-07
 packages:
 - title: 2010_RasmussenNature
   version: 2.1.1
@@ -566,6 +566,10 @@ packages:
   version: 0.3.0
   commit: 7f52e722d29286ccf04320b5dfb6efee4b19e9f5
   path: 2020_Coutinho_Neolithic
+- title: 2020_Coutinho_Neolithic
+  version: 0.3.1
+  commit: 691980481e7155a589f88d353bf69d70f281dcf0
+  path: 2020_Coutinho_Neolithic
 - title: 2020_Fernandes_Caribbean
   version: 2.2.0
   commit: 7f52e722d29286ccf04320b5dfb6efee4b19e9f5
@@ -593,6 +597,10 @@ packages:
 - title: 2020_Jeong_EurasiaEasternSteppe
   version: 1.2.0
   commit: 7f52e722d29286ccf04320b5dfb6efee4b19e9f5
+  path: 2020_Jeong_EurasiaEasternSteppe
+- title: 2020_Jeong_EurasiaEasternSteppe
+  version: 1.2.1
+  commit: 691980481e7155a589f88d353bf69d70f281dcf0
   path: 2020_Jeong_EurasiaEasternSteppe
 - title: 2020_Linderholm_Poland
   version: 2.2.0
@@ -674,6 +682,10 @@ packages:
   version: 0.3.0
   commit: 7f52e722d29286ccf04320b5dfb6efee4b19e9f5
   path: 2021_Capodiferro_Colombia
+- title: 2021_Capodiferro_Colombia
+  version: 0.3.1
+  commit: 691980481e7155a589f88d353bf69d70f281dcf0
+  path: 2021_Capodiferro_Colombia
 - title: 2021_CarlhoffNature
   version: 2.2.0
   commit: 7f52e722d29286ccf04320b5dfb6efee4b19e9f5
@@ -685,6 +697,10 @@ packages:
 - title: 2021_Egfjord_Denmark
   version: 0.3.0
   commit: 7f52e722d29286ccf04320b5dfb6efee4b19e9f5
+  path: 2021_Egfjord_Denmark
+- title: 2021_Egfjord_Denmark
+  version: 0.3.1
+  commit: 691980481e7155a589f88d353bf69d70f281dcf0
   path: 2021_Egfjord_Denmark
 - title: 2021_Freilich_Croatia
   version: 1.2.0
