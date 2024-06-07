@@ -1,3 +1,4 @@
+- V 1.2.1: fixed some list delimiters in Source_Tissue
 - V 1.2.0: Update of references in the .bib file
 - V 1.1.0: added a .ssf file
 - V 1.0.1: not specified
