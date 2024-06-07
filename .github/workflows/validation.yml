@@ -36,3 +36,7 @@ jobs:
     - name: Check if all files have UTF-8 encoding and Unix line endings
       run: ./checkFileEncoding.sh
       working-directory: ./data
+
+    - name: Check if any .janno and .ssf files start with a double-quote character
+      run: ./checkDoubleQuote.sh
+      working-directory: ./data
