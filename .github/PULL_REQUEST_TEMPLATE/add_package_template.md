@@ -23,7 +23,7 @@
 - [ ] The `Publication` column in the `.janno` file is filled and the respective `.bib` file has complete entries for the listed mentioned keys.
 - [ ] The `.janno` file does not include any empty columns or columns only filled with `n/a`.
 - [ ] The order of columns in the `.janno` file adheres to the standard order as defined in the Poseidon schema [here](https://github.com/poseidon-framework/poseidon-schema/blob/master/janno_columns.tsv).
-- [ ] The `.janno` and the `.ssf` files are not fully quoted, so they only use double quotes (`"..."`) to enclose text fields where it is strictly necessary.
+- [ ] The `.janno` and the `.ssf` files are not fully quoted, so they only use single- or double quotes (`"..."`, `'...'`) to enclose text fields where it is strictly necessary (i.e. their entry includes a TAB).
 
 ***
 

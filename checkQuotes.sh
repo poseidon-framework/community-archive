@@ -2,7 +2,7 @@
 
 # function to check if a file starts with a double-quote
 starts_with_quote() {
-  if grep -q '^"' "${1}"; then
+  if grep -q ^[\"\'] "${1}"; then
     return 0
   else
     return 1

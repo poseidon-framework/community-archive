@@ -37,6 +37,6 @@ jobs:
       run: ./checkFileEncoding.sh
       working-directory: ./data
 
-    - name: Check if any .janno and .ssf files start with a double-quote character
-      run: ./checkDoubleQuote.sh
+    - name: Check if any .janno and .ssf files start with a single or double-quote character
+      run: ./checkQuotes.sh
       working-directory: ./data
