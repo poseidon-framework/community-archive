@@ -20,7 +20,7 @@ genotypeData:
   indFileChkSum: 8267acb7ea076200a53d0cd067f20ec3
   snpSet: 1240K
 jannoFile: 2024_Gretzinger_EarlyCelts.janno
-jannoFileChkSum: 8abef2bb1e615a9c1152a55110701075
+jannoFileChkSum: 4af40733ef3c1057c480af4fd3c3989d
 bibFile: 2024_Gretzinger_EarlyCelts.bib
 bibFileChkSum: c62243639756a4dd4704c3b40f9dffcb
 changelogFile: CHANGELOG.md
