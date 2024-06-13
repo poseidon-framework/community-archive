@@ -17,7 +17,7 @@ genotypeData:
   indFileChkSum: f951d21fa7b8850be53c52b187bb2acc
   snpSet: 1240K
 jannoFile: 2020_Coutinho_Neolithic.janno
-jannoFileChkSum: ee286fd4945db153a4e47d0f74410812
+jannoFileChkSum: 69a6556bc91234840f41300cfddad09a
 sequencingSourceFile: ENAtable.ssf
 sequencingSourceFileChkSum: feb7fca1592610caab7be27a837b0e97
 bibFile: 2020_Coutinho_Neolithic.bib
