@@ -4,7 +4,10 @@ description: Ancient samples from Northeast Asia.
 contributor:
 - name: Ayshin Ghalichi
   email: ghalichi@shh.mpg.de
-packageVersion: 2.3.0
+- name: Dhananjaya Aththayanaka
+  email: dhananjaya_aththanayaka@eva.mpg.de
+  orcid: 0000-0002-1825-0097
+packageVersion: 3.0.0
 lastModified: 2024-02-21
 genotypeData:
   format: PLINK
