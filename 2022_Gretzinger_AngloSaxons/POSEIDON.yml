@@ -7,8 +7,8 @@ contributor:
   email: dhananjaya.aththanayaka@eva.mpg.de
 - name: Stephan Schiffels
   email: stephan_schiffels@eva.mpg.de
-packageVersion: 1.0.0
-lastModified: 2023-10-04
+packageVersion: 1.1.0
+lastModified: 2024-03-07
 genotypeData:
   format: PLINK
   genoFile: 2022_Gretzinger_AngloSaxons.bed
@@ -19,7 +19,7 @@ genotypeData:
   indFileChkSum: 521a002cfe1b248d1ea4b2ee9b155cb5
   snpSet: 1240K
 jannoFile: 2022_Gretzinger_AngloSaxons.janno
-jannoFileChkSum: 07dffe02d527730605d53facd9c39a7b
+jannoFileChkSum: 5034c08a1896e731d2cd440fd25d2a4f
 sequencingSourceFile: 2022_Gretzinger_AngloSaxons.ssf
 sequencingSourceFileChkSum: 2f0d3a972d104e7fe299bceff877bd4d
 bibFile: 2022_Gretzinger_AngloSaxons.bib

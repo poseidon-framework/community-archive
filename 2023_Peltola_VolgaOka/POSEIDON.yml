@@ -1,0 +1,24 @@
+poseidonVersion: 2.7.1
+title: 2023_Peltola_VolgaOka
+description: Genetic admixture and language shift in the medieval Volga-Oka interfluve
+contributor:
+- name: Sanni Peltola
+  email: sanni.peltola@helsinki.fi
+packageVersion: 1.1.0
+lastModified: 2024-03-12
+genotypeData:
+  format: PLINK
+  genoFile: 2023_Peltola_VolgaOka.bed
+  genoFileChkSum: 2ab24d1c0f5cf7946d5a2f9dc115d2a2
+  snpFile: 2023_Peltola_VolgaOka.bim
+  snpFileChkSum: 50f8b2a49d819a3ee13e79f06bd70ff1
+  indFile: 2023_Peltola_VolgaOka.fam
+  indFileChkSum: 69c3ce7fb648c10adcae4f8d10cbafb4
+  snpSet: 1240K
+jannoFile: 2023_Peltola_VolgaOka.janno
+jannoFileChkSum: 9b2c20479d92bebca6e627479f475dda
+sequencingSourceFile: 2023_Peltola_VolgaOka.ssf
+sequencingSourceFileChkSum: 1993da287c843ddb5bac73b1f2e7e169
+bibFile: 2023_Peltola_VolgaOka.bib
+bibFileChkSum: 2262b38bb4e5d8bfff2353fdbcb5bd20
+changelogFile: CHANGELOG.md

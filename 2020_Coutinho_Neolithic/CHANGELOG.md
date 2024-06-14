@@ -1,3 +1,4 @@
+- V 0.3.1: fixed some list delimiters in Source_Tissue
 - V 0.3.0: Update of references in the .bib file
 - V 0.2.0: added a .ssf file
 - V 0.1.2: genetic relationships added

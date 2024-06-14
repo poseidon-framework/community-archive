@@ -1,0 +1,26 @@
+poseidonVersion: 2.7.1
+title: 2024_Gretzinger_EarlyCelts
+description: Early Celtic individuals from Southwestern Germany, around 500 BC.
+contributor:
+- name: Thiseas C. Lamnidis
+  email: thiseas_christos_lamnidis@eva.mpg.de
+  orcid: 0000-0003-4485-8570
+- name: Stephan Schiffels
+  email: stephan_schiffels@eva.mpg.de
+  orcid: 0000-0002-1017-9150
+packageVersion: 1.0.0
+lastModified: 2024-06-03
+genotypeData:
+  format: PLINK
+  genoFile: 2024_Gretzinger_EarlyCelts.bed
+  genoFileChkSum: 62d16453378f0d0c34e380ef681dcdf6
+  snpFile: 2024_Gretzinger_EarlyCelts.bim
+  snpFileChkSum: 433fa85a23f3123bade02348e4628b75
+  indFile: 2024_Gretzinger_EarlyCelts.fam
+  indFileChkSum: 8267acb7ea076200a53d0cd067f20ec3
+  snpSet: 1240K
+jannoFile: 2024_Gretzinger_EarlyCelts.janno
+jannoFileChkSum: 4e30637afcdc7ca552c0e0ed215eba9b
+bibFile: 2024_Gretzinger_EarlyCelts.bib
+bibFileChkSum: c62243639756a4dd4704c3b40f9dffcb
+changelogFile: CHANGELOG.md

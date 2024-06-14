@@ -1,0 +1,27 @@
+poseidonVersion: 2.7.1
+title: 2022_Altinisik_UpperMesopotamia
+description: 13 ancient genomes from Neolithic Mesopotamia
+contributor:
+- name: N. Ezgi Altınışık
+  email: ezgialtinisik@hacettepe.edu.tr
+- name: Ayshin Ghalichi
+  email: ayshin_ghalichi@eva.mpg.de
+- name: Dhananjaya Aththanayaka
+  email: dhananjaya_aththanayaka.eva.mpg.de
+packageVersion: 1.0.0
+lastModified: 2024-05-17
+genotypeData:
+  format: PLINK
+  genoFile: 2022_Altinisik_UpperMesopotamia.bed
+  genoFileChkSum: 7bfc466168dc1f45ad2ff8eba3b13801
+  snpFile: 2022_Altinisik_UpperMesopotamia.bim
+  snpFileChkSum: 433fa85a23f3123bade02348e4628b75
+  indFile: 2022_Altinisik_UpperMesopotamia.fam
+  indFileChkSum: 649438c6c9a4cd5e3524ff6fb499e704
+  snpSet: 1240K
+jannoFile: 2022_Altinisik_UpperMesopotamia.janno
+jannoFileChkSum: 64e3dc04fe897db995126b378304b0ca
+sequencingSourceFile: 2022_Altinisik_UpperMesopotamia.ssf
+sequencingSourceFileChkSum: 2c02d8b7863ea9d4c595cfc29be414c8
+bibFile: 2022_Altinisik_UpperMesopotamia.bib
+bibFileChkSum: 72585f52b7fc63eae34e8e7149573a67

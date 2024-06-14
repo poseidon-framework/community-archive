@@ -1,0 +1,1 @@
+- V 1.0.1: fixed column name Nr_SNPCoverage_on_Target_SNPs -> Coverage_on_Target_SNPs
