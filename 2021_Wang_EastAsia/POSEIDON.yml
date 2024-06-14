@@ -23,7 +23,7 @@ genotypeData:
 jannoFile: 2021_Wang_EastAsia.janno
 jannoFileChkSum: 34411d6e1d9f07cfc5484ad116490804
 sequencingSourceFile: ENAtable.ssf
-sequencingSourceFileChkSum: 3c15f62fe652bb95731eaa1ad77fc086
+sequencingSourceFileChkSum: ad356b26ca241a2c99164ad45bc02f36
 bibFile: 2021_Wang_EastAsia.bib
 bibFileChkSum: 33da63ecbcf3afd7118579e936dae8b3
 changelogFile: CHANGELOG.txt
