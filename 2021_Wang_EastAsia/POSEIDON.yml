@@ -6,7 +6,10 @@ contributor:
   email: ghalichi@shh.mpg.de
 - name: Clemens Schmid
   email: schmid@shh.mpg.de
-packageVersion: 3.3.0
+- name: Dhananjaya Aththayanaka
+  email: dhananjaya_aththanayaka@eva.mpg.de
+  orcid: 0000-0002-1825-0097
+packageVersion: 4.0.0
 lastModified: 2024-03-15
 genotypeData:
   format: PLINK
