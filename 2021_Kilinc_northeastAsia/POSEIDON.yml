@@ -4,8 +4,11 @@ description: Ancient samples from Northeast Asia.
 contributor:
 - name: Ayshin Ghalichi
   email: ghalichi@shh.mpg.de
-packageVersion: 2.2.0
-lastModified: 2023-07-04
+- name: Dhananjaya Aththayanaka
+  email: dhananjaya_aththanayaka@eva.mpg.de
+  orcid: 0000-0002-1825-0097
+packageVersion: 3.0.0
+lastModified: 2024-02-21
 genotypeData:
   format: PLINK
   genoFile: Kilinc_northeastAsia.bed
@@ -13,10 +16,10 @@ genotypeData:
   snpFile: Kilinc_northeastAsia.bim
   snpFileChkSum: e79741f669b66f1e882a55d25b3219c8
   indFile: Kilinc_northeastAsia.fam
-  indFileChkSum: c908d20d62e4bf02e2d258e46ec6bf37
+  indFileChkSum: 009e6a0de2086f23b24a5a71fabc63ee
   snpSet: 1240K
 jannoFile: Kilinc_northeastAsia.janno
-jannoFileChkSum: 5de83b9b4e37de0816c7c9d05866aa41
+jannoFileChkSum: f9e2b5caa762ba01b3e10832ddecccca
 sequencingSourceFile: ENAtable.ssf
 sequencingSourceFileChkSum: e760bdb8ac0c02d8aadc134556b7fa3f
 bibFile: LITERATURE.bib

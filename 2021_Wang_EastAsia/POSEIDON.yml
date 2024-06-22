@@ -6,8 +6,11 @@ contributor:
   email: ghalichi@shh.mpg.de
 - name: Clemens Schmid
   email: schmid@shh.mpg.de
-packageVersion: 3.2.0
-lastModified: 2023-07-04
+- name: Dhananjaya Aththayanaka
+  email: dhananjaya_aththanayaka@eva.mpg.de
+  orcid: 0000-0002-1825-0097
+packageVersion: 4.0.0
+lastModified: 2024-03-15
 genotypeData:
   format: PLINK
   genoFile: 2021_Wang_EastAsia.bed
@@ -15,12 +18,12 @@ genotypeData:
   snpFile: 2021_Wang_EastAsia.bim
   snpFileChkSum: 9a4bc58c2a6842bcb68d875143ee3b85
   indFile: 2021_Wang_EastAsia.fam
-  indFileChkSum: 07112a5954755d7ee910de00a6b15f91
+  indFileChkSum: d45123381684ad8004b29f3405351a93
   snpSet: 1240K
 jannoFile: 2021_Wang_EastAsia.janno
-jannoFileChkSum: ebbdfc247ca8809dbe8259731bcf41f0
+jannoFileChkSum: 34411d6e1d9f07cfc5484ad116490804
 sequencingSourceFile: ENAtable.ssf
-sequencingSourceFileChkSum: 3c15f62fe652bb95731eaa1ad77fc086
+sequencingSourceFileChkSum: ad356b26ca241a2c99164ad45bc02f36
 bibFile: 2021_Wang_EastAsia.bib
 bibFileChkSum: 33da63ecbcf3afd7118579e936dae8b3
 changelogFile: CHANGELOG.txt
