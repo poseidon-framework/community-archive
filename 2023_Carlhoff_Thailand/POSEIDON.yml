@@ -1,0 +1,23 @@
+poseidonVersion: 2.7.1
+title: 2023_Carlhoff_Thailand
+description: Genomic portrait and relatedness patterns of the Iron Age Log Coffin
+  culture in northwestern Thailand
+contributor:
+- name: Selina Carlhoff
+  email: selina_carlhoff@eva.mpg.de
+  orcid: 0000-0001-9118-2839
+packageVersion: 1.0.0
+lastModified: 2024-06-19
+genotypeData:
+  format: PLINK
+  genoFile: Carlhoff_Thailand.bed
+  genoFileChkSum: 89c78b92ec71d80c18ef972d24591a5d
+  snpFile: Carlhoff_Thailand.bim
+  snpFileChkSum: 433fa85a23f3123bade02348e4628b75
+  indFile: Carlhoff_Thailand.fam
+  indFileChkSum: 957dd2b51dd4214f3f305ec1033bbdfe
+  snpSet: 1240K
+jannoFile: 2023_Carlhoff_Thailand.janno
+jannoFileChkSum: 6db278956144b175cced4b4ec1491336
+bibFile: 2023_Carlhoff_Thailand.bib
+bibFileChkSum: f21742c6e0f6b815ef03750e8c859581
