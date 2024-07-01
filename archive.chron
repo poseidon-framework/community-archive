@@ -1,6 +1,6 @@
 title: Poseidon community-archive chronicle
-chronicleVersion: 1.23.0
-lastModified: 2024-06-22
+chronicleVersion: 1.24.0
+lastModified: 2024-07-01
 packages:
 - title: 2010_RasmussenNature
   version: 2.1.1
@@ -806,6 +806,10 @@ packages:
   version: 1.0.0
   commit: 655ced28348aaf1bcfb36d3852a9474eaf8ad13d
   path: 2022_Yu_VanDeLoosdrecht_Sicily
+- title: 2023_Carlhoff_Thailand
+  version: 1.0.0
+  commit: 05e02801428a790f260023bdf8125c1dadfa9584
+  path: 2023_Carlhoff_Thailand
 - title: 2023_Peltola_VolgaOka
   version: 1.0.0
   commit: 5d652f0f04a071f31183004fbbe396612c9bcef1
