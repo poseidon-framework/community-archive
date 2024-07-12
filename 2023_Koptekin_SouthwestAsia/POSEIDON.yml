@@ -1,7 +1,6 @@
 poseidonVersion: 2.7.1
 title: 2023_Koptekin_SouthwestAsia
-description: Spatial and temporal heterogeneity in human mobility patterns in Holocene
-  Southwest Asia and the East Mediterranean
+description: Spatial and temporal heterogeneity in human mobility patterns in Holocene Southwest Asia and the East Mediterranean
 contributor:
 - name: Dhananjaya Aththayanaka
   email: dhananjaya_aththanayaka@eva.mpg.de
@@ -18,6 +17,6 @@ genotypeData:
   indFileChkSum: 8b4f2c66944d0c0e9796370578622eb0
   snpSet: Other
 jannoFile: 2023_Koptekin_SouthwestAsia.janno
-jannoFileChkSum: 03f643700ca55cd600b1ab9c0ba78341
+jannoFileChkSum: 7825af241f39d3969feef4d4fb46ca64
 bibFile: 2023_Koptekin_SouthwestAsia.bib
 bibFileChkSum: 6ba6cb04a5a5d4144b470b5df203e859
