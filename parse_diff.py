@@ -5,6 +5,7 @@ import sys
 \+: matches + sign. \s*: matches whitespace between + and other text. - matches hypen. title: matches title. 
 (.*?): Matches package name. "\n:" matches newline. \+ matches plus sign. again (.*?) to capture version """
 
+
 def parse_diff(diff):
     new_packages = []
     package_pattern = re.compile(r'^\+\s*-\s*title:\s*(.*?)\n\+\s*version:\s*(.*?)$', re.MULTILINE)
@@ -27,3 +28,4 @@ if __name__ == "__main__":
         print(toot_content)
     else:
         print("No new package information has been found in this PR")
+

@@ -1,10 +1,10 @@
 name: Archive Tooting
 
 on:
-  push: # tempory trigger on push
+  push: # Trigger on push 
   pull_request:
     types: [closed]
-  workflow_dispatch: #manual triggering 
+  workflow_dispatch: # manual triggering 
 
 jobs:
   if_merged:
@@ -34,8 +34,8 @@ jobs:
 
     - name: Run parse_diff.py
       run: |
-        python3 parse_diff.py < diff.txt
+        python3 parse_diff.py < diff.txt > parse_output.txt
 
-    - name: Print output
-      run: cat diff.txt
+    - name: Print parse_diff.py output
+      run: cat parse_output.txt
 
