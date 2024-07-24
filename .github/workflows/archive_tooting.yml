@@ -1,6 +1,7 @@
 name: Archive Tooting
 
 on:
+  push: # tempory trigger on push
   pull_request:
     types: [closed]
   workflow_dispatch: #manual triggering 
@@ -8,6 +9,7 @@ on:
 jobs:
   if_merged:
     runs-on: ubuntu-latest
+
     steps:
     - name: Checkout repository
       uses: actions/checkout@v2
@@ -36,3 +38,4 @@ jobs:
 
     - name: Print output
       run: cat diff.txt
+
