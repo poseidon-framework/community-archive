@@ -3,12 +3,11 @@ name: Archive Tooting
 on:
   pull_request:
     types: [closed]
+  workflow_dispatch: #manual triggering 
 
 jobs:
   if_merged:
-    if: github.event.pull_request.merged == true
     runs-on: ubuntu-latest
-
     steps:
     - name: Checkout repository
       uses: actions/checkout@v2
@@ -25,7 +24,7 @@ jobs:
     - name: Construct diff URL
       id: construct_diff_url
       run: |
-        echo "https://github.com/${{ github.repository }}/pull/${{ github.event.pull_request.number }}.diff" > diff_url.txt
+        echo "https://patch-diff.githubusercontent.com/raw/poseidon-framework/community-archive/pull/184.diff" > diff_url.txt
 
     - name: Fetch PR diff
       run: |
