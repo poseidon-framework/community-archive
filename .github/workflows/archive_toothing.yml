@@ -1,0 +1,38 @@
+name: Archive Tooting
+
+on:
+  pull_request:
+    types: [closed]
+  workflow_dispatch: #manual triggering 
+
+jobs:
+  if_merged:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+
+    - name: Set up Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: '3.x'
+
+    - name: Install dependencies
+      run: |
+        pip install requests
+
+    - name: Construct diff URL
+      id: construct_diff_url
+      run: |
+        echo "https://patch-diff.githubusercontent.com/raw/poseidon-framework/community-archive/pull/184.diff" > diff_url.txt
+
+    - name: Fetch PR diff
+      run: |
+        curl -L $(cat diff_url.txt) -o diff.txt
+
+    - name: Run parse_diff.py
+      run: |
+        python3 parse_diff.py < diff.txt
+
+    - name: Print output
+      run: cat diff.txt
