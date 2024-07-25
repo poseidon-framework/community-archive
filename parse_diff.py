@@ -8,7 +8,7 @@ import sys
 
 def parse_diff(diff):
     new_packages = []
-    # Regex 
+    # using raw string (r'...') instead of \+
     package_pattern = re.compile(r'^\+\s*-\s*title:\s*(.*?)\n\+\s*version:\s*(.*?)$', re.MULTILINE)
 
     matches = package_pattern.findall(diff)
@@ -17,6 +17,7 @@ def parse_diff(diff):
         new_packages.append(f"{title} (v{version})")
 
     return new_packages
+
 
 def create_toot_content(new_packages, max_length=480):
     base_content = "New packages in the community-archive:\n"
