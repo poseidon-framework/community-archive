@@ -19,7 +19,7 @@ def parse_diff(diff):
     return new_packages
 
 
-def create_toot_content(new_packages, max_length=480):
+def create_toot_content(new_packages, max_length=50):
     base_content = "New packages in the community-archive:\n"
     url_and_tags = "\ngithub.com/poseidon-framework/community-archive #aDNA #OpenData"
     available_length = max_length - len(base_content) - len(url_and_tags) #tracking the remaining character limit.
