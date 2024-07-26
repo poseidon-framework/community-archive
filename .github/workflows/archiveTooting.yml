@@ -1,0 +1,56 @@
+name: Archive Tooting
+
+on:
+  pull_request:
+    types: [closed]
+  workflow_dispatch: # manual triggering 
+
+jobs:
+  toot_update:
+    if: |
+      github.event.pull_request.merged == true &&
+      github.event.pull_request.title == '[Automatic PR] Update chronicle file'
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+
+    - name: Set up Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: '3.x'
+
+    - name: Install dependencies
+      run: |
+        pip install requests
+
+    - name: Construct diff URL
+      id: construct_diff_url
+      run: |
+        echo ${{ github.event.pull_request.url }}.diff > diff_url.txt
+
+    - name: Fetch PR diff
+      run: |
+        curl -L $(cat diff_url.txt) -o diff.txt
+
+    - name: Run parseDiffForMastodon.py
+      run: |
+        python3 parseDiffForMastodon.py < diff.txt > message.txt
+
+    - name: Print message
+      run: cat message.txt
+
+    - name: Append message to a variable
+      run: |
+        echo 'MESSAGE_ENV<<EOF' >> $GITHUB_ENV
+        cat message.txt >> $GITHUB_ENV
+        echo 'EOF' >> $GITHUB_ENV
+
+    - name: Toot!
+      uses: rzr/fediverse-action@master
+      with:
+        access-token: ${{ secrets.MASTODON_ACCESS_TOKEN }}
+        host: "ecoevo.social" # custom host if not "mastodon.social" (default)
+        message: ${{ env.MESSAGE_ENV }}
+
