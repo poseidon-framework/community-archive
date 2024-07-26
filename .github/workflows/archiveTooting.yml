@@ -7,7 +7,10 @@ on:
   workflow_dispatch: # manual triggering 
 
 jobs:
-  if_merged:
+  toot_update:
+    if: |
+      github.event.pull_request.merged == true &&
+      github.event.pull_request.title == "[Automatic PR] Update chronicle file"
     runs-on: ubuntu-latest
 
     steps:
@@ -32,10 +35,17 @@ jobs:
       run: |
         curl -L $(cat diff_url.txt) -o diff.txt
 
-    - name: Run parse_diff.py
+    - name: Run parseDiffForMastodon.py
       run: |
-        python3 parse_diff.py < diff.txt > parse_output.txt
+        python3 parseDiffForMastodon.py < diff.txt > parse_output.txt
 
-    - name: Print parse_diff.py output
+    - name: Print parseDiffForMastodon.py output
       run: cat parse_output.txt
+      
+    - name: Toot!
+      uses: rzr/fediverse-action@master
+      with:
+	access-token: ${{ secrets.MASTODON_ACCESS_TOKEN }}
+	host: "ecoevo.social" # custom host if not "mastodon.social" (default)
+	message: cat parse_output.txt
 
