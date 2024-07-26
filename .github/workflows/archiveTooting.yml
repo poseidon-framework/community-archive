@@ -1,16 +1,15 @@
 name: Archive Tooting
 
 on:
-  push: # Trigger on push 
   pull_request:
     types: [closed]
   workflow_dispatch: # manual triggering 
 
 jobs:
   toot_update:
-#    if: |
-#      github.event.pull_request.merged == true &&
-#      github.event.pull_request.title == '[Automatic PR] Update chronicle file'
+    if: |
+      github.event.pull_request.merged == true &&
+      github.event.pull_request.title == '[Automatic PR] Update chronicle file'
     runs-on: ubuntu-latest
 
     steps:
@@ -29,7 +28,7 @@ jobs:
     - name: Construct diff URL
       id: construct_diff_url
       run: |
-        echo "https://patch-diff.githubusercontent.com/raw/poseidon-framework/community-archive/pull/184.diff" > diff_url.txt
+        echo ${{ github.event.pull_request.url }}.diff > diff_url.txt
 
     - name: Fetch PR diff
       run: |
