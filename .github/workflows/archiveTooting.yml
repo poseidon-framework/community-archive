@@ -53,5 +53,5 @@ jobs:
       with:
         access-token: ${{ secrets.MASTODON_ACCESS_TOKEN }}
         host: "ecoevo.social" # custom host if not "mastodon.social" (default)
-        message: echo "$MESSAGE_ENV"
+        message: echo ${{ env.MESSAGE_ENV }}
 
