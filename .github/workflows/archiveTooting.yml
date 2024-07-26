@@ -41,7 +41,7 @@ jobs:
 
     - name: Print message
       run: cat message.txt
-      
+
     - name: Append message to a variable
       id: vars
       run: |
