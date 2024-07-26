@@ -8,9 +8,9 @@ on:
 
 jobs:
   toot_update:
-    if: |
-      github.event.pull_request.merged == true &&
-      github.event.pull_request.title == '[Automatic PR] Update chronicle file'
+#    if: |
+#      github.event.pull_request.merged == true &&
+#      github.event.pull_request.title == '[Automatic PR] Update chronicle file'
     runs-on: ubuntu-latest
 
     steps:
