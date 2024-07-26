@@ -43,9 +43,7 @@ jobs:
       run: cat message.txt
 
     - name: Append message to a variable
-      id: vars
       run: |
-# echo "message=$(cat message.txt)" >> $GITHUB_OUTPUT
         echo 'MESSAGE_ENV<<EOF' >> $GITHUB_ENV
         cat message.txt >> $GITHUB_ENV
         echo 'EOF' >> $GITHUB_ENV
