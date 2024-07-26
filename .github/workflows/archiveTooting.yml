@@ -44,12 +44,16 @@ jobs:
       
     - name: Append message to a variable
       id: vars
-      run: echo "message=$(cat message.txt)" >> $GITHUB_OUTPUT
-      
+      run: |
+# echo "message=$(cat message.txt)" >> $GITHUB_OUTPUT
+        echo 'MESSAGE_ENV<<EOF' >> $GITHUB_ENV
+        cat message.txt >> $GITHUB_ENV
+        echo 'EOF' >> $GITHUB_ENV
+
     - name: Toot!
       uses: rzr/fediverse-action@master
       with:
         access-token: ${{ secrets.MASTODON_ACCESS_TOKEN }}
         host: "ecoevo.social" # custom host if not "mastodon.social" (default)
-        message: echo ${{ steps.vars.outputs.message }}
+        message: echo "$MESSAGE_ENV"
 
