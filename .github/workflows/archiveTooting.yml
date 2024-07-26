@@ -37,15 +37,19 @@ jobs:
 
     - name: Run parseDiffForMastodon.py
       run: |
-        python3 parseDiffForMastodon.py < diff.txt > parse_output.txt
+        python3 parseDiffForMastodon.py < diff.txt > message.txt
 
-    - name: Print parseDiffForMastodon.py output
-      run: cat parse_output.txt
+    - name: Print message
+      run: cat message.txt
+      
+    - name: Append message to a variable
+      id: vars
+      run: echo "message=$(cat message.txt)" >> $GITHUB_OUTPUT
       
     - name: Toot!
       uses: rzr/fediverse-action@master
       with:
         access-token: ${{ secrets.MASTODON_ACCESS_TOKEN }}
         host: "ecoevo.social" # custom host if not "mastodon.social" (default)
-        message: cat parse_output.txt
+        message: echo ${{ steps.vars.outputs.message }}
 
