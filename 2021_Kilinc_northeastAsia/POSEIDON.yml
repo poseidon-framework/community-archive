@@ -7,8 +7,10 @@ contributor:
 - name: Dhananjaya Aththayanaka
   email: dhananjaya_aththanayaka@eva.mpg.de
   orcid: 0000-0002-1825-0097
-packageVersion: 3.0.0
-lastModified: 2024-02-21
+- name: Clemens Schmid
+  email: clemens_schmid@eva.mpg.de
+packageVersion: 3.1.0
+lastModified: 2024-07-15
 genotypeData:
   format: PLINK
   genoFile: Kilinc_northeastAsia.bed
@@ -19,7 +21,7 @@ genotypeData:
   indFileChkSum: 009e6a0de2086f23b24a5a71fabc63ee
   snpSet: 1240K
 jannoFile: Kilinc_northeastAsia.janno
-jannoFileChkSum: f9e2b5caa762ba01b3e10832ddecccca
+jannoFileChkSum: 9762f3619677e2b04add7df77911d977
 sequencingSourceFile: ENAtable.ssf
 sequencingSourceFileChkSum: e760bdb8ac0c02d8aadc134556b7fa3f
 bibFile: LITERATURE.bib
