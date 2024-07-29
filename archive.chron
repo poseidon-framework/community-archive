@@ -1,6 +1,6 @@
 title: Poseidon community-archive chronicle
-chronicleVersion: 1.25.0
-lastModified: 2024-07-12
+chronicleVersion: 1.26.0
+lastModified: 2024-07-29
 packages:
 - title: 2010_RasmussenNature
   version: 2.1.1
@@ -722,6 +722,10 @@ packages:
   version: 3.0.0
   commit: a97d5ff257fbcb8eac668771118c79d6df7410c1
   path: 2021_Kilinc_northeastAsia
+- title: 2021_Kilinc_northeastAsia
+  version: 3.1.0
+  commit: dade85241358c7ef0570f4467553a50324a204f5
+  path: 2021_Kilinc_northeastAsia
 - title: 2021_Larena_Philippines
   version: 0.3.0
   commit: 7f52e722d29286ccf04320b5dfb6efee4b19e9f5
@@ -802,6 +806,10 @@ packages:
   version: 1.1.0
   commit: 04a7dee3fcbecbf60d8bdc1cde11bf8d2fd95139
   path: 2022_Gretzinger_AngloSaxons
+- title: 2022_Gretzinger_AngloSaxons
+  version: 1.2.0
+  commit: dade85241358c7ef0570f4467553a50324a204f5
+  path: 2022_Gretzinger_AngloSaxons
 - title: 2022_Yu_VanDeLoosdrecht_Sicily
   version: 1.0.0
   commit: 655ced28348aaf1bcfb36d3852a9474eaf8ad13d
@@ -810,9 +818,17 @@ packages:
   version: 1.0.0
   commit: 05e02801428a790f260023bdf8125c1dadfa9584
   path: 2023_Carlhoff_Thailand
+- title: 2023_Carlhoff_Thailand
+  version: 1.1.0
+  commit: dade85241358c7ef0570f4467553a50324a204f5
+  path: 2023_Carlhoff_Thailand
 - title: 2023_Koptekin_SouthwestAsia
   version: 1.0.0
   commit: 057d6b9d669007d80ca4229cb81eb10e319532f0
+  path: 2023_Koptekin_SouthwestAsia
+- title: 2023_Koptekin_SouthwestAsia
+  version: 1.1.0
+  commit: dade85241358c7ef0570f4467553a50324a204f5
   path: 2023_Koptekin_SouthwestAsia
 - title: 2023_Peltola_VolgaOka
   version: 1.0.0
@@ -837,6 +853,10 @@ packages:
 - title: 2024_Gretzinger_EarlyCelts
   version: 1.0.0
   commit: acc425231758295b36a7edcb1a3e00ec8394bb0a
+  path: 2024_Gretzinger_EarlyCelts
+- title: 2024_Gretzinger_EarlyCelts
+  version: 1.1.0
+  commit: dade85241358c7ef0570f4467553a50324a204f5
   path: 2024_Gretzinger_EarlyCelts
 - title: 2024_Wang_ViennaBasinAvarPeriod
   version: 1.0.0
