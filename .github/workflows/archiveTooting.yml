@@ -28,7 +28,7 @@ jobs:
     - name: Construct diff URL
       id: construct_diff_url
       run: |
-        echo ${{ github.event.pull_request.url }}.diff > diff_url.txt
+        echo ${{ github.event.pull_request.diff_url }} > diff_url.txt
 
     - name: Fetch PR diff
       run: |
