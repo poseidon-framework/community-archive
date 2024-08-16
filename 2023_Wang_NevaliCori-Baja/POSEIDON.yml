@@ -1,0 +1,22 @@
+poseidonVersion: 2.7.1
+title: 2023_Wang_NevaliCori-Baja
+description: Isotopic and DNA analyses reveal multiscale PPNB mobility and migration
+  across Southeastern Anatolia and the Southern Levant
+contributor:
+- name: Eirini Skourtanioti
+  email: eirini_skourtanioti@@eva.mpg.de
+packageVersion: 0.1.0
+lastModified: 2024-08-16
+genotypeData:
+  format: PLINK
+  genoFile: 2023_Wang_NevaliCori-Baja.bed
+  genoFileChkSum: a4ac49fcad86925113b4714e94c2f3ac
+  snpFile: 2023_Wang_NevaliCori-Baja.bim
+  snpFileChkSum: 433fa85a23f3123bade02348e4628b75
+  indFile: 2023_Wang_NevaliCori-Baja.fam
+  indFileChkSum: 11cb3e8ed44053eeb998ed19925d4293
+  snpSet: 1240K
+jannoFile: 2023_Wang_NevaliCori-Baja.janno
+jannoFileChkSum: d75ef4667cb36ac8bfb1eaba456109d0
+bibFile: 2023_Wang_NevaliCori-Baja.bib
+bibFileChkSum: dd06d640e4a2f69c574db2b073abc338
