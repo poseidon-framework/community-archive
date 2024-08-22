@@ -1,0 +1,28 @@
+SOUTHERN ARC GENOTYPE DATA RELEASE V1.0 (July 25, 2022)
+-------------------------------------------------------
+
+This data release contains genotype data analyzed in three papers:
+
+  (1) Lazaridis, Alpaslan-Roodenberg et al., Ancient DNA from Mesopotamia suggests distinct Pre-Pottery and Pottery Neolithic migrations into Anatolia, Science (2022)
+  (2) Lazaridis, Alpaslan-Roodenberg et al., The genetic history of the Southern Arc: a bridge between West Asia and Europe, Science (2022)
+  (3) Lazaridis, Alpaslan-Roodenberg et al., A genetic probe into the ancient and medieval history of Southern Europe and West Asia, Science (2022)
+
+The dataset of new individuals and new data on previously published individuals is discussed in reference (2). Annotation is provided in the supplementary data of (2):
+
+  Data S1: Individuals with newly reported data
+  Data S2: Libraries from individuals with newly reported data
+  Data S3: Newly reported C14 dates
+  Data S4: Full list of analyzed individuals (this includes literature data co-analyzed with the newly reported data)
+  Data S5: Ancestry and Phenotype information for individuals
+
+The data release contains three files in packedancestrymap format that can be processed using EIGENSOFT (https://www.hsph.harvard.edu/alkes-price/software/) and ADMIXTOOLS (https://github.com/DReichLab/AdmixTools)
+
+  SouthernArc.ind
+  SouthernArc.snp
+  SouthernArc.geno
+
+54 present-day individuals (listed in NonPublic.txt) from the literature do not have permissions consistent with fully public release; please consult the original publications.
+
+BAM files with sequencing reads for the newly reported data can be accessed from the European Nucleotide Archive using accession number: PRJEB54831
+
+For questions about or issues with this data release, please contact Iosif Lazaridis (E-mail: lazaridis@genetics.med.harvard.edu, Twitter: @iosif_lazaridis)
