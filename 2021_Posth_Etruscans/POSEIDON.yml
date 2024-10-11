@@ -1,0 +1,19 @@
+poseidonVersion: 2.7.1
+title: 2021_Posth_Etruscans
+description: Package describing data in Posth et al. 2021 on Iron Age Italian samples from Etruscan and other contexts. Genotype data provided by authors.
+contributor:
+- name: Eleni Seferidou
+  email: eleni_seferidou@eva.mpg.de
+- name: Stephan Schiffels
+  email: stephan_schiffels@eva.mpg.de
+packageVersion: 1.0.0
+lastModified: 2024-10-11
+genotypeData:
+  format: PLINK
+  genoFile: 2021_Posth_Etruscans.bed
+  snpFile: 2021_Posth_Etruscans.bim
+  indFile: 2021_Posth_Etruscans.fam
+  snpSet: 1240K
+jannoFile: 2021_Posth_Etruscans.janno
+bibFile: 2021_Posth_Etruscans.bib
+changelogFile: CHANGELOG.md
