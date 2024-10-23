@@ -19,7 +19,7 @@ genotypeData:
   indFileChkSum: 0cab3e5e0aa2bbf8be1c7af3159028e1
   snpSet: 1240K
 jannoFile: 2021_Posth_Etruscans.janno
-jannoFileChkSum: d1691e2c5577551b60f41667ff7e4103
+jannoFileChkSum: 64903fc4201e9deed1e18710569c0fca
 bibFile: 2021_Posth_Etruscans.bib
 bibFileChkSum: 94836aaa9a42e7c3a1a79648cfec0ccf
 changelogFile: CHANGELOG.md
