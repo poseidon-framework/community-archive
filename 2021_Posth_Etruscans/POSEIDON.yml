@@ -16,10 +16,10 @@ genotypeData:
   snpFile: 2021_Posth_Etruscans.bim
   snpFileChkSum: f1e5fc379562fc5e889d7d354ffec3b2
   indFile: 2021_Posth_Etruscans.fam
-  indFileChkSum: 0cab3e5e0aa2bbf8be1c7af3159028e1
+  indFileChkSum: 85d6b942802a0c1e70f0fdddf2d87e8e
   snpSet: 1240K
 jannoFile: 2021_Posth_Etruscans.janno
-jannoFileChkSum: 64903fc4201e9deed1e18710569c0fca
+jannoFileChkSum: 67886c3e02ea2f9542dd30d2260b8c60
 bibFile: 2021_Posth_Etruscans.bib
 bibFileChkSum: 94836aaa9a42e7c3a1a79648cfec0ccf
 changelogFile: CHANGELOG.md
