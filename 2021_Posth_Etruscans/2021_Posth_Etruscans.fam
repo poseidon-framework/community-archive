@@ -23,10 +23,10 @@ C.Italy_Early.Medieval_undated	ETR012	0	0	1	0
 C.Italy_Early.Medieval	ETR013	0	0	2	0
 C.Italy_Early.Medieval_ETR014	ETR014	0	0	1	0
 C.Italy_Etruscan	MAG001	0	0	1	0
-C.Italy_Etruscan_MAS001	MAS001	0	0	1	0
-C.Italy_Imperial	MAS002	0	0	1	0
-C.Italy_Imperial	MAS003	0	0	1	0
-C.Italy_Etruscan	MAS004	0	0	1	0
+C.Italy_Etruscan_MAS001	Marisiliana001	0	0	1	0
+C.Italy_Imperial	Marisiliana002	0	0	1	0
+C.Italy_Imperial	Marisiliana003	0	0	1	0
+C.Italy_Etruscan	Marisiliana004	0	0	1	0
 C.Italy_Early.Medieval	POP001	0	0	1	0
 C.Italy_Etruscan	PRZ001	0	0	2	0
 C.Italy_Etruscan	PRZ002	0	0	1	0
