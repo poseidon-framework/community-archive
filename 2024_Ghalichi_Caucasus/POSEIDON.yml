@@ -1,0 +1,21 @@
+poseidonVersion: 2.7.1
+title: 2024_Ghalichi_Caucasus
+description: The rise and transformation of Bronze Age pastoralists in the Caucasus
+contributor:
+- name: Ayshin Ghalichi
+  email: ayshin_ghalichi@eva.mpg.de
+packageVersion: 1.0.0
+lastModified: 2024-10-11
+genotypeData:
+  format: PLINK
+  genoFile: 2024_Ghalichi_Caucasus.bed
+  genoFileChkSum: 89a5b8f03798ace58ad28072f43f79a7
+  snpFile: 2024_Ghalichi_Caucasus.bim
+  snpFileChkSum: b9d601fd87134366f3468d4621e8c897
+  indFile: 2024_Ghalichi_Caucasus.fam
+  indFileChkSum: b18b2071f227266321f417d0ddb4168f
+  snpSet: 1240K
+jannoFile: 2024_Ghalichi_Caucasus.janno
+jannoFileChkSum: b99b752c0fad19125d0bca90b081711e
+bibFile: 2024_Ghalichi_Caucasus.bib
+bibFileChkSum: d278f6d47299b683ef26eeb6fbc1f0db
