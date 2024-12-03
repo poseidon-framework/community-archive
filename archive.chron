@@ -1,6 +1,6 @@
 title: Poseidon community-archive chronicle
-chronicleVersion: 1.29.0
-lastModified: 2024-10-30
+chronicleVersion: 1.30.0
+lastModified: 2024-12-03
 packages:
 - title: 2010_RasmussenNature
   version: 2.1.1
@@ -861,6 +861,10 @@ packages:
 - title: 2024_GnecchiRuscone_CarpathianBasinAvarPedigrees
   version: 1.0.1
   commit: ad87ed01ba822624148e4ccbb277163f5f422ab8
+  path: 2024_GnecchiRuscone_CarpathianBasinAvarPedigrees
+- title: 2024_GnecchiRuscone_CarpathianBasinAvarPedigrees
+  version: 1.0.2
+  commit: 58682b4aca60bdc68f2f15a04903d26574e9add0
   path: 2024_GnecchiRuscone_CarpathianBasinAvarPedigrees
 - title: 2024_Gretzinger_EarlyCelts
   version: 1.0.0
