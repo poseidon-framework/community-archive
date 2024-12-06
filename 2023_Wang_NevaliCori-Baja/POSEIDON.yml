@@ -5,7 +5,7 @@ description: Isotopic and DNA analyses reveal multiscale PPNB mobility and migra
 contributor:
 - name: Eirini Skourtanioti
   email: eirini_skourtanioti@@eva.mpg.de
-packageVersion: 0.1.0
+packageVersion: 1.0.0
 lastModified: 2024-08-16
 genotypeData:
   format: PLINK
@@ -17,6 +17,6 @@ genotypeData:
   indFileChkSum: 11cb3e8ed44053eeb998ed19925d4293
   snpSet: 1240K
 jannoFile: 2023_Wang_NevaliCori-Baja.janno
-jannoFileChkSum: d75ef4667cb36ac8bfb1eaba456109d0
+jannoFileChkSum: dbc58f7533b7f05550d832a0a22ae531
 bibFile: 2023_Wang_NevaliCori-Baja.bib
 bibFileChkSum: dd06d640e4a2f69c574db2b073abc338
