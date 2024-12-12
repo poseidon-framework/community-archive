@@ -1,7 +1,7 @@
 Poseidon_ID	Genetic_Sex	Group_Name	Collection_ID	Country	Location	Date_Type	Date_BC_AD_Start	Date_BC_AD_Median	Date_BC_AD_Stop	Source_Tissue	Capture_Type	Library_Built	Genotype_Ploidy	Nr_SNPs	Primary_Contact	Publication	Note	Genetic_Source_Accession_IDs
-UC8-8168	U	Peru_Chincha_LH	UC8-8168	Peru	SouthCoast	contextual	1400	1450	1500	uc8-8168	OtherCapture	ds	haploid	676429	Fehren-Schmitz, Lars	BongersPNAS2020;AADR;AADRv443	PASS	PRJEB37726
-UC8-8173	U	Peru_Chincha_LH	UC8-8173	Peru	SouthCoast	contextual	1400	1450	1500	uc8-8173	OtherCapture	ds	haploid	1000073	Fehren-Schmitz, Lars	BongersPNAS2020;AADR;AADRv443	PASS	PRJEB37726
-UC12-12	U	Peru_Chincha_LH	UC12-12	Peru	SouthCoast	contextual	1400	1450	1500	uc12-12	OtherCapture	ds	haploid	841374	Fehren-Schmitz, Lars	BongersPNAS2020;AADR;AADRv443	PASS	PRJEB37726
-UC12-20	U	Peru_Chincha_LH	UC12-20	Peru	SouthCoast	contextual	1400	1450	1500	uc12-20	OtherCapture	ds	haploid	1005991	Fehren-Schmitz, Lars	BongersPNAS2020;AADR;AADRv443	PASS	PRJEB37726
-UC12-24	U	Peru_Chincha_LH	UC12-24	Peru	SouthCoast	contextual	1400	1450	1500	uc12-24	OtherCapture	ds	haploid	857158	Fehren-Schmitz, Lars	BongersPNAS2020;AADR;AADRv443	PASS	PRJEB37726
-UC12-25	U	Peru_Chincha_LH	UC12-25	Peru	SouthCoast	contextual	1400	1450	1500	uc12-25	OtherCapture	ds	haploid	995652	Fehren-Schmitz, Lars	BongersPNAS2020;AADR;AADRv443	PASS	PRJEB37726
+UC8-8168	U	Peru_Chincha_LH	UC8-8168	Peru	SouthCoast	contextual	1400	1450	1500	tooth_molar	OtherCapture	ds	haploid	676429	Fehren-Schmitz, Lars	BongersPNAS2020;AADR;AADRv443	PASS	PRJEB37726
+UC8-8173	U	Peru_Chincha_LH	UC8-8173	Peru	SouthCoast	contextual	1400	1450	1500	tooth_molar	OtherCapture	ds	haploid	1000073	Fehren-Schmitz, Lars	BongersPNAS2020;AADR;AADRv443	PASS	PRJEB37726
+UC12-12	U	Peru_Chincha_LH	UC12-12	Peru	SouthCoast	contextual	1400	1450	1500	tooth_molar	OtherCapture	ds	haploid	841374	Fehren-Schmitz, Lars	BongersPNAS2020;AADR;AADRv443	PASS	PRJEB37726
+UC12-20	U	Peru_Chincha_LH	UC12-20	Peru	SouthCoast	contextual	1400	1450	1500	tooth_molar	OtherCapture	ds	haploid	1005991	Fehren-Schmitz, Lars	BongersPNAS2020;AADR;AADRv443	PASS	PRJEB37726
+UC12-24	U	Peru_Chincha_LH	UC12-24	Peru	SouthCoast	contextual	1400	1450	1500	tooth_molar	OtherCapture	ds	haploid	857158	Fehren-Schmitz, Lars	BongersPNAS2020;AADR;AADRv443	PASS	PRJEB37726
+UC12-25	U	Peru_Chincha_LH	UC12-25	Peru	SouthCoast	contextual	1400	1450	1500	tooth_molar	OtherCapture	ds	haploid	995652	Fehren-Schmitz, Lars	BongersPNAS2020;AADR;AADRv443	PASS	PRJEB37726
