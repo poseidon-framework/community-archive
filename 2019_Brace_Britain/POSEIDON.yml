@@ -16,7 +16,7 @@ genotypeData:
   indFileChkSum: 679602595d758a8a8de61808d1eb0337
   snpSet: 1240K
 jannoFile: 2019_Brace.janno
-jannoFileChkSum: b9908091490b47ebfff9b8d589bec9dc
+jannoFileChkSum: ddf32ba5d977d93f0e712b2c96aa7180
 sequencingSourceFile: ENAtable.ssf
 sequencingSourceFileChkSum: 2a4424e80a40d9124326ddbf4c86d122
 bibFile: 2019_Brace.bib
