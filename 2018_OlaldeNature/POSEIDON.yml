@@ -17,7 +17,7 @@ genotypeData:
   indFileChkSum: 95f51d4ef3797b556e6c0154bf8d443d
   snpSet: 1240K
 jannoFile: 2018_OlaldeNature.janno
-jannoFileChkSum: d12d2f2160460a47d6cfe5b513cb8215
+jannoFileChkSum: bf8d6f6a8f3cd420cae8b790c852ed22
 bibFile: 2018_OlaldeNature.bib
 bibFileChkSum: b2fd08028e0e1380767e28cc8b6c803e
 changelogFile: CHANGELOG.md
