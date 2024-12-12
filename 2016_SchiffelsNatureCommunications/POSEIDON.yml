@@ -17,7 +17,7 @@ genotypeData:
   indFileChkSum: c04aba898cfd2f02981f4c2464d06e97
   snpSet: 1240K
 jannoFile: 2016_SchiffelsNatureCommunications.janno
-jannoFileChkSum: 782ecc86fc9a7f50b4fca355247d9a18
+jannoFileChkSum: e9379cda146d04a1b551c86ab783a7a7
 bibFile: 2016_SchiffelsNatureCommunications.bib
 bibFileChkSum: bfeaffce0d3db5958d566d7fcbeb9404
 changelogFile: CHANGELOG.md
