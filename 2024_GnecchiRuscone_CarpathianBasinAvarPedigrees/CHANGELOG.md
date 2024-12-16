@@ -1,1 +1,2 @@
+- V 1.0.2: Added missing information to the .bib file
 - V 1.0.1: added info to .janno file after publication

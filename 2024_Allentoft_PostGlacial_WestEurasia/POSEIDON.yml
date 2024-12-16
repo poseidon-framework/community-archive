@@ -1,0 +1,22 @@
+poseidonVersion: 2.7.1
+title: 2024_Allentoft_PostGlacial_WestEurasia
+description: 1240k pull-doen of imputed and pseudohaploid genotypes from Population
+  genomics of post-glacial western Eurasia.
+contributor:
+- name: Sanni Peltola
+  email: sanni_peltola@eva.mpg.de
+packageVersion: 1.0.0
+lastModified: 2024-08-15
+genotypeData:
+  format: PLINK
+  genoFile: 2024_Allentoft_PostGlacial_WestEurasia.bed
+  genoFileChkSum: 0eaaabde5234e60b174b3fade05963c5
+  snpFile: 2024_Allentoft_PostGlacial_WestEurasia.bim
+  snpFileChkSum: ee7c8a7f8a4c0698dc62daad4fbbf081
+  indFile: 2024_Allentoft_PostGlacial_WestEurasia.fam
+  indFileChkSum: eba2dc5152f401cd731ef349ef74a2da
+  snpSet: 1240K
+jannoFile: 2024_Allentoft_PostGlacial_WestEurasia.janno
+jannoFileChkSum: 2d56e27bc7a17e851e3fa39a951addee
+bibFile: 2024_Allentoft_PostGlacial_WestEurasia.bib
+bibFileChkSum: 0069bd3eb738787ace1d8eec0ea5c706

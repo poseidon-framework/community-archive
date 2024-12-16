@@ -1,6 +1,6 @@
 title: Poseidon community-archive chronicle
-chronicleVersion: 1.26.0
-lastModified: 2024-07-29
+chronicleVersion: 1.30.0
+lastModified: 2024-12-03
 packages:
 - title: 2010_RasmussenNature
   version: 2.1.1
@@ -750,6 +750,10 @@ packages:
   version: 0.4.1
   commit: 18d4d6ef21bf35b80daa93f3da94b925d04b6ffe
   path: 2021_PattersonNature
+- title: 2021_Posth_Etruscans
+  version: 1.0.0
+  commit: 8af3a88acdcf7972405e5c03bf08831bdccfd7c4
+  path: 2021_Posth_Etruscans
 - title: 2021_Saag_EastEuropean
   version: 3.2.0
   commit: 7f52e722d29286ccf04320b5dfb6efee4b19e9f5
@@ -842,6 +846,14 @@ packages:
   version: 1.0.0
   commit: 45f919833071030a2d6ce09cb041d5fdad5f8edd
   path: 2023_Penske_EarlyContact
+- title: 2024_Allentoft_PostGlacial_WestEurasia
+  version: 1.0.0
+  commit: 6aa530cf2d02c5eb3b1c765c2661185b9b39606b
+  path: 2024_Allentoft_PostGlacial_WestEurasia
+- title: 2024_Ghalichi_Caucasus
+  version: 1.0.0
+  commit: b227a3d7534e50ac10fbc3459c8b9f54945d2684
+  path: 2024_Ghalichi_Caucasus
 - title: 2024_GnecchiRuscone_CarpathianBasinAvarPedigrees
   version: 1.0.0
   commit: 853c310592f87d77c4afe248d66cbd5147b4c5c4
@@ -849,6 +861,10 @@ packages:
 - title: 2024_GnecchiRuscone_CarpathianBasinAvarPedigrees
   version: 1.0.1
   commit: ad87ed01ba822624148e4ccbb277163f5f422ab8
+  path: 2024_GnecchiRuscone_CarpathianBasinAvarPedigrees
+- title: 2024_GnecchiRuscone_CarpathianBasinAvarPedigrees
+  version: 1.0.2
+  commit: 58682b4aca60bdc68f2f15a04903d26574e9add0
   path: 2024_GnecchiRuscone_CarpathianBasinAvarPedigrees
 - title: 2024_Gretzinger_EarlyCelts
   version: 1.0.0
