@@ -4,8 +4,8 @@ description: Viking age samples from Europe and Greenland. Originally AADR v44.3
 contributor:
 - name: Ayshin Ghalichi
   email: ghalichi@shh.mpg.de
-packageVersion: 2.2.0
-lastModified: 2023-07-04
+packageVersion: 2.2.1
+lastModified: 2024-12-17
 genotypeData:
   format: PLINK
   genoFile: Margaryan_Viking.bed

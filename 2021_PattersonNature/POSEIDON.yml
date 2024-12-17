@@ -6,8 +6,8 @@ contributor:
   email: stephen_clayton@eva.mpg.de
 - name: Clemens Schmid
   email: clemens_schmid@eva.mpg.de
-packageVersion: 0.4.1
-lastModified: 2023-11-07
+packageVersion: 0.4.2
+lastModified: 2024-12-17
 genotypeData:
   format: PLINK
   genoFile: 2021_PattersonNature.bed

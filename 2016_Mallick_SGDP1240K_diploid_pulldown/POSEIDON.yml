@@ -7,8 +7,8 @@ contributor:
   email: ghalichi@shh.mpg.de
 - name: Clemens Schmid
   email: clemens_schmid@eva.mpg.de
-packageVersion: 2.1.2
-lastModified: 2023-11-07
+packageVersion: 2.1.3
+lastModified: 2024-12-17
 genotypeData:
   format: PLINK
   genoFile: SGDP.bed
