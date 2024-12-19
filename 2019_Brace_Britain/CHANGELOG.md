@@ -1,3 +1,4 @@
+- V 3.1.1: changed country naming to ISO-standard name
 - V 3.1.0: Linked ENA data with poseidon_IDs
 - V 3.0.0: Merged 2019_Brace_Britain with 2019_BraceNatureEcologyEvolution - they are from the same publication
 - V 2.1.0: Update of references in the .bib file

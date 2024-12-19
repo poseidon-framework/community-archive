@@ -36,7 +36,7 @@ S_Daur-2.DG	F	Daur.DG	HGDP01215	China	n/a	48.49753	124	modern	n/a	1	Shotgun	ds	d
 S_Hazara-1.DG	M	Hazara.DG	HGDP00124	Pakistan	n/a	33.49856	70	modern	O2a1c1a	1	Shotgun	ds	diploid	1119063	63.62	n/a	MallickNature2016;AADR;AADRv424	PASS (SGDP, Fully Public)	PRJEB9586
 S_BedouinB-2.DG	F	BedouinB.DG	HGDP00650	Israel	Negev	31	35	modern	n/a	1	Shotgun	ds	diploid	1118886	42.04	n/a	MallickNature2016;AADR;AADRv424	PASS (SGDP, Fully Public)	PRJEB9586
 S_Burusho-2.DG	F	Burusho.DG	HGDP00338	Pakistan	n/a	36.49839	74	modern	n/a	1	Shotgun	ds	diploid	1118372	41.23	n/a	MallickNature2016;AADR;AADRv424	PASS (SGDP, Fully Public)	PRJEB9586
-S_BantuHerero-2.DG	M	BantuHerero.DG	HGDP01035	BotswanaOrNamibia	n/a	-22	19	modern	E1b1a1a1a	1	Shotgun	ds	diploid	1117815	41.23	n/a	MallickNature2016;AADR;AADRv424	PASS (SGDP, Fully Public)	PRJEB9586
+S_BantuHerero-2.DG	M	BantuHerero.DG	HGDP01035	Namibia	n/a	-22	19	modern	E1b1a1a1a	1	Shotgun	ds	diploid	1117815	41.23	n/a	MallickNature2016;AADR;AADRv424	PASS (SGDP, Fully Public)	PRJEB9586
 S_Mongola-2.DG	F	Mongola.DG	HGDP01223	China	n/a	45	111	modern	n/a	1	Shotgun	ds	diploid	1118990	44.9	n/a	MallickNature2016;AADR;AADRv424	PASS (SGDP, Fully Public)	PRJEB9586
 S_Oroqen-2.DG	F	Oroqen.DG	HGDP01211	China	n/a	50.43389	126.5	modern	n/a	1	Shotgun	ds	diploid	1118850	40.47	n/a	MallickNature2016;AADR;AADRv424	PASS (SGDP, Fully Public)	PRJEB9586
 S_Papuan-5.DG	M	Papuan.DG	HGDP00545	Papua New Guinea	New Guinea, Iatmul and Kwoma societies of the Middle Sepik River region	-4	143	modern	C1b2a1d1	1	Shotgun	ds	diploid	1119621	51.02	n/a	MallickNature2016;SkoglundNature2015;AADR;AADRv424	PASS (SGDP, Fully Public)	PRJEB9586
@@ -97,7 +97,7 @@ S_Mansi-2.DG	F	Mansi.DG	S_Mansi-2	Russia	Shugur, Western Siberia	63.65	62.1	mode
 S_Papuan-12.DG	M	Papuan.DG	HGDP00556	Papua New Guinea	New Guinea, Iatmul and Kwoma societies of the Middle Sepik River region	-4	143	modern	S	1	Shotgun	ds	diploid	1116429	44.16	n/a	MallickNature2016;SkoglundNature2015;AADR;AADRv424	PASS (SGDP, Fully Public)	PRJEB9586
 S_She-1.DG	F	She.DG	HGDP01335	China	n/a	27	119	modern	n/a	1	Shotgun	ds	diploid	1067165	48.79	n/a	MallickNature2016;AADR;AADRv424	PASS (SGDP, Fully Public)	PRJEB9586
 S_Eskimo_Naukan-2.DG	F	Eskimo_Naukan.DG	Nesk_25	Russia	Big Diomide Island, Chukchi Peninsula	66.02	169.71	modern	n/a	1	Shotgun	ds	diploid	1119885	46.31	n/a	MallickNature2016;AADR;AADRv424	PASS (SGDP, Fully Public)	PRJEB9586
-S_BantuTswana-1.DG	M	BantuTswana.DG	HGDP01030	BotswanaOrNamibia	n/a	-28	24	modern	E1b1a1a1c	1	Shotgun	ds	diploid	1118627	43.54	n/a	MallickNature2016;AADR;AADRv424	PASS (SGDP, Fully Public)	PRJEB9586
+S_BantuTswana-1.DG	M	BantuTswana.DG	HGDP01030	South Africa	n/a	-28	24	modern	E1b1a1a1c	1	Shotgun	ds	diploid	1118627	43.54	n/a	MallickNature2016;AADR;AADRv424	PASS (SGDP, Fully Public)	PRJEB9586
 S_Even-1.DG	F	Even.DG	Nlk1	Russia	Djigda, Eastern Siberia	57.53	135.88	modern	n/a	1	Shotgun	ds	diploid	1119918	49.77	n/a	MallickNature2016;AADR;AADRv424	PASS (SGDP, Fully Public)	PRJEB9586
 S_Iraqi_Jew-1.DG	F	Jew_Iraqi.DG	IraqiJew1771	Iraq	n/a	33.33333	44.43333	modern	n/a	1	Shotgun	ds	diploid	1119265	41.9	n/a	MallickNature2016;AADR;AADRv424	PASS (SGDP, Fully Public)	PRJEB9586
 S_Czech-2.DG	M	Czech.DG	NA15728	Czech Republic	n/a	50.1	14.4	modern	J1a2b3a1	1	Shotgun	ds	diploid	1119313	49.74	n/a	MallickNature2016;AADR;AADRv424	PASS (SGDP, Fully Public)	PRJEB9586
@@ -156,7 +156,7 @@ S_Mansi-1.DG	M	Mansi.DG	Mansi79	Russia	Sos'va river, Western Siberia	63.8	61.45	
 S_Masai-1.DG	M	Masai.DG	NA21490	Kenya	Kinyawa	-1.5	35.2	modern	E1b1b1b2b	1	Shotgun	ds	diploid	1119575	47.62	n/a	MallickNature2016;AADR;AADRv424	PASS (SGDP, Fully Public)	PRJEB9586
 S_Papuan-7.DG	M	Papuan.DG	HGDP00548	Papua New Guinea	New Guinea, Iatmul and Kwoma societies of the Middle Sepik River region	-4	143	modern	M1	1	Shotgun	ds	diploid	1119624	48.76	n/a	MallickNature2016;SkoglundNature2015;AADR;AADRv424	PASS (SGDP, Fully Public)	PRJEB9586
 S_She-2.DG	M	She.DG	HGDP01333	China	n/a	27	119	modern	O2a2a1a2a1a2	1	Shotgun	ds	diploid	1118762	47.79	n/a	MallickNature2016;AADR;AADRv424	PASS (SGDP, Fully Public)	PRJEB9586
-S_BantuTswana-2.DG	M	BantuTswana.DG	HGDP01034	BotswanaOrNamibia	n/a	-28	24	modern	E1b1a1a1c1a1	1	Shotgun	ds	diploid	1119374	38.73	n/a	MallickNature2016;AADR;AADRv424	PASS (SGDP, Fully Public)	PRJEB9586
+S_BantuTswana-2.DG	M	BantuTswana.DG	HGDP01034	South Africa	n/a	-28	24	modern	E1b1a1a1c1a1	1	Shotgun	ds	diploid	1119374	38.73	n/a	MallickNature2016;AADR;AADRv424	PASS (SGDP, Fully Public)	PRJEB9586
 S_Eskimo_Naukan-1.DG	F	Eskimo_Naukan.DG	Nesk_22	Russia	Big Diomide Island, Chukchi Peninsula	66.02	169.71	modern	n/a	1	Shotgun	ds	diploid	1120006	49.09	n/a	MallickNature2016;AADR;AADRv424	PASS (SGDP, Fully Public)	PRJEB9586
 S_Yemenite_Jew-1.DG	F	Jew_Yemenite.DG	YemeniteJew4695	Yemen	n/a	15.35	44.2	modern	n/a	1	Shotgun	ds	diploid	1118245	51.6	n/a	MallickNature2016;AADR;AADRv424	PASS (SGDP, Fully Public)	PRJEB9586
 S_Hawaiian-1.DG	M	Hawaiian.DG	S_Hawaiian-1	USA	n/a	21.3	-157.81667	modern	O1a2a	1	Shotgun	ds	diploid	1117673	45.55	n/a	MallickNature2016;AADR;AADRv424	PASS (SGDP, Fully Public)	PRJEB9586
@@ -192,7 +192,7 @@ S_Norwegian-1.DG	U	Norwegian.DG	S_Norwegian-1	Norway	n/a	n/a	n/a	modern	n/a	1	Sh
 S_Ulchi-2.DG	F	Ulchi.DG	Ul5	Russia	Bogorodskoe, Lower Amur	52.37	140.45	modern	n/a	1	Shotgun	ds	diploid	1119165	41.02	n/a	MallickNature2016;AADR;AADRv424	PASS (SGDP, Fully Public)	PRJEB9586
 S_Mende-1.DG	M	Mende.DG	HG03078	Sierra Leone	n/a	8.5	-13.2	modern	E1b1a1a1c2c3	1	Shotgun	ds	diploid	1119078	40.37	n/a	MallickNature2016;AADR;AADRv424	PASS (SGDP, Fully Public)	PRJEB9586
 S_Gambian-1.DG	M	Gambian.DG	HG02464	Gambia	Western District	13.45306	-16.5775	modern	E1b1a1a1c2c	1	Shotgun	ds	diploid	1118602	40.34	n/a	MallickNature2016;AADR;AADRv424	PASS (SGDP, Fully Public)	PRJEB9586
-S_Saharawi-1.DG	M	Saharawi.DG	S_Saharawi-1	Western Sahara (Morocco)	Close to the Algerian border	27.3	-8.9	modern	E1b1b1b1a1	1	Shotgun	ds	diploid	1120109	47.08	n/a	MallickNature2016;AADR;AADRv424	PASS (SGDP, Fully Public)	PRJEB9586
+S_Saharawi-1.DG	M	Saharawi.DG	S_Saharawi-1	Morocco	Close to the Algerian border	27.3	-8.9	modern	E1b1b1b1a1	1	Shotgun	ds	diploid	1120109	47.08	n/a	MallickNature2016;AADR;AADRv424	PASS (SGDP, Fully Public)	PRJEB9586
 S_Kyrgyz-2.DG	F	Kyrgyz_Kyrgyzstan.DG	S_Kyrgyz-2	Kyrgyzstan	Bishkek	42.86667	74.61667	modern	n/a	1	Shotgun	ds	diploid	1119617	38.86	n/a	MallickNature2016;AADR;AADRv424	PASS (SGDP, Fully Public)	PRJEB9586
 S_Georgian-2.DG	M	Georgian.DG	mg31	Georgia	Zugdidi in Megrelia	42.5	41.85	modern	J2a	1	Shotgun	ds	diploid	1120449	33.95	n/a	MallickNature2016;AADR;AADRv424	PASS (SGDP, Fully Public)	PRJEB9586
 S_Surui-1.DG	F	Surui.DG	HGDP00846	Brazil	n/a	-11	-62	modern	n/a	1	Shotgun	ds	diploid	1119337	41.5	n/a	MallickNature2016;SkoglundNature2015;AADR;AADRv424	PASS (SGDP, Fully Public)	PRJEB9586
@@ -231,7 +231,7 @@ S_Kapu-2.DG	M	Kapu.DG	S_Kapu-2	India	Visakhapatnam	17.72	83.32	modern	L1a1	1	Sho
 S_Bulgarian-1.DG	M	Bulgarian.DG	BulgarianB4	Bulgaria	Plovdiv	42.1634	24.74121	modern	J2b2a1a	1	Shotgun	ds	diploid	1114859	42.71	n/a	MallickNature2016;AADR;AADRv424	PASS (SGDP, Fully Public)	PRJEB9586
 S_Burmese-1.DG	M	Burmese.DG	Burm16	Myanmar	Mandalay (sampled in Singapore)	21.975	96.08333	modern	O2a1c1b1a	1	Shotgun	ds	diploid	1119425	57.19	n/a	MallickNature2016;AADR;AADRv424	PASS (SGDP, Fully Public)	PRJEB9586
 S_Tlingit-1.DG	M	Tlingit.DG	Ale32	Russia	Petropavlovsk-Kamchatski, Commander Islands	53	158.65	modern	N1c2b2	1	Shotgun	ds	diploid	1120417	44.97	n/a	MallickNature2016;AADR;AADRv424	PASS (SGDP, Fully Public)	PRJEB9586
-S_BantuHerero-1.DG	M	BantuHerero.DG	HGDP01028	BotswanaOrNamibia	n/a	-22	19	modern	E1b1a1a1a	1	Shotgun	ds	diploid	1118111	44.71	n/a	MallickNature2016;AADR;AADRv424	PASS (SGDP, Fully Public)	PRJEB9586
+S_BantuHerero-1.DG	M	BantuHerero.DG	HGDP01028	Namibia	n/a	-22	19	modern	E1b1a1a1a	1	Shotgun	ds	diploid	1118111	44.71	n/a	MallickNature2016;AADR;AADRv424	PASS (SGDP, Fully Public)	PRJEB9586
 S_Lahu-2.DG	M	China_Lahu.DG	HGDP01320	China	n/a	22	100	modern	F2	1	Shotgun	ds	diploid	1119028	58.14	n/a	MallickNature2016;AADR;AADRv424	PASS (SGDP, Fully Public)	PRJEB9586
 S_Pima-1.DG	M	Pima.DG	HGDP01047	Mexico	n/a	29	-108	modern	Q1a2a1a1	1	Shotgun	ds	diploid	1119245	43.03	n/a	MallickNature2016;AADR;AADRv424	PASS (SGDP, Fully Public)	PRJEB9586
 S_Mixe-3.DG	F	Mixe.DG	S_Mixe-3	Mexico	Tamazulapan, Mixe	16.95	-96.58333	modern	n/a	1	Shotgun	ds	diploid	1117679	46.66	n/a	MallickNature2016;SkoglundNature2015;AADR;AADRv424	PASS (SGDP, Fully Public)	PRJEB9586
@@ -270,7 +270,7 @@ S_Mixtec-1.DG	M	Mixtec.DG	S_Mixtec-1	Mexico	San Andres Nuxino	17	-97	modern	Q1a2
 S_Brahmin-2.DG	M	Brahmin.DG	S_Brahmin-2	India	Visakhapatnam	17.72	83.32	modern	J2a2a	1	Shotgun	ds	diploid	1119811	36.11	MallickNature2016;AADR;AADRv424	MallickNature2016;AADR;AADRv424	PASS (SGDP, Fully Public)	PRJEB9586
 S_Xibo-2.DG	M	Xibo.DG	HGDP01246	China	n/a	43.49793	81.5	modern	O2a2b1a2a1a3b2b2	1	Shotgun	ds	diploid	1118798	51.54	n/a	MallickNature2016;AADR;AADRv424	PASS (SGDP, Fully Public)	PRJEB9586
 S_Even-2.DG	M	Even.DG	Nlk18	Russia	Djigda, Eastern Siberia	57.53	135.88	modern	C2b1a2a1a	1	Shotgun	ds	diploid	1119963	40.22	n/a	MallickNature2016;AADR;AADRv424	PASS (SGDP, Fully Public)	PRJEB9586
-S_Saharawi-2.DG	M	Saharawi.DG	S_Saharawi-2	Western Sahara (Morocco)	Close to the Algerian border	27.3	-8.9	modern	E1b1a1a1	1	Shotgun	ds	diploid	1119977	50.59	n/a	MallickNature2016;AADR;AADRv424	PASS (SGDP, Fully Public)	PRJEB9586
+S_Saharawi-2.DG	M	Saharawi.DG	S_Saharawi-2	Morocco	Close to the Algerian border	27.3	-8.9	modern	E1b1a1a1	1	Shotgun	ds	diploid	1119977	50.59	n/a	MallickNature2016;AADR;AADRv424	PASS (SGDP, Fully Public)	PRJEB9586
 S_Kyrgyz-1.DG	M	Kyrgyz_Kyrgyzstan.DG	S_Kyrgyz-1	Kyrgyzstan	Bishkek	42.86667	74.61667	modern	R1a1a1b2a	1	Shotgun	ds	diploid	1118066	48.53	n/a	MallickNature2016;AADR;AADRv424	PASS (SGDP, Fully Public)	PRJEB9586
 S_Albanian-1.DG	F	Albanian.DG	ALB212	Albania	Tirana	41.33	19.83	modern	n/a	1	Shotgun	ds	diploid	1120101	36.15	n/a	MallickNature2016;AADR;AADRv424	PASS (SGDP, Fully Public)	PRJEB9586
 S_Korean-2.DG	F	Korean.DG	NA00726	South Korea	n/a	37.6	127	modern	n/a	1	Shotgun	ds	diploid	1119590	53.33	n/a	MallickNature2016;AADR;AADRv424	PASS (SGDP, Fully Public)	PRJEB9586
