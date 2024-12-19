@@ -5,8 +5,8 @@ description: 1240k pull-doen of imputed and pseudohaploid genotypes from Populat
 contributor:
 - name: Sanni Peltola
   email: sanni_peltola@eva.mpg.de
-packageVersion: 1.0.1
-lastModified: 2024-12-17
+packageVersion: 1.0.0
+lastModified: 2024-08-15
 genotypeData:
   format: PLINK
   genoFile: 2024_Allentoft_PostGlacial_WestEurasia.bed
@@ -20,4 +20,3 @@ jannoFile: 2024_Allentoft_PostGlacial_WestEurasia.janno
 jannoFileChkSum: 2d56e27bc7a17e851e3fa39a951addee
 bibFile: 2024_Allentoft_PostGlacial_WestEurasia.bib
 bibFileChkSum: 0069bd3eb738787ace1d8eec0ea5c706
-changelogFile: CHANGELOG.md
