@@ -1,6 +1,6 @@
 title: Poseidon community-archive chronicle
-chronicleVersion: 1.30.0
-lastModified: 2024-12-03
+chronicleVersion: 1.31.0
+lastModified: 2025-01-02
 packages:
 - title: 2010_RasmussenNature
   version: 2.1.1
@@ -166,9 +166,17 @@ packages:
   version: 2.1.2
   commit: 18d4d6ef21bf35b80daa93f3da94b925d04b6ffe
   path: 2016_Mallick_SGDP1240K_diploid_pulldown
+- title: 2016_Mallick_SGDP1240K_diploid_pulldown
+  version: 2.1.3
+  commit: d27e414908cb0884614e58ff48ead5e9efe18c16
+  path: 2016_Mallick_SGDP1240K_diploid_pulldown
 - title: 2016_MartinianoNatureCommunications
   version: 2.1.1
   commit: 7f52e722d29286ccf04320b5dfb6efee4b19e9f5
+  path: 2016_MartinianoNatureCommunications
+- title: 2016_MartinianoNatureCommunications
+  version: 2.1.2
+  commit: d27e414908cb0884614e58ff48ead5e9efe18c16
   path: 2016_MartinianoNatureCommunications
 - title: 2016_MondalNatureGenetics
   version: 2.1.1
@@ -181,6 +189,10 @@ packages:
 - title: 2016_SchiffelsNatureCommunications
   version: 2.1.1
   commit: 7f52e722d29286ccf04320b5dfb6efee4b19e9f5
+  path: 2016_SchiffelsNatureCommunications
+- title: 2016_SchiffelsNatureCommunications
+  version: 2.1.2
+  commit: d27e414908cb0884614e58ff48ead5e9efe18c16
   path: 2016_SchiffelsNatureCommunications
 - title: 2016_SkoglundNature
   version: 2.1.1
@@ -358,6 +370,10 @@ packages:
   version: 2.1.1
   commit: 7f52e722d29286ccf04320b5dfb6efee4b19e9f5
   path: 2018_OlaldeNature
+- title: 2018_OlaldeNature
+  version: 2.1.2
+  commit: d27e414908cb0884614e58ff48ead5e9efe18c16
+  path: 2018_OlaldeNature
 - title: 2018_PosthNatureEcologyEvolution
   version: 2.1.1
   commit: 7f52e722d29286ccf04320b5dfb6efee4b19e9f5
@@ -421,6 +437,10 @@ packages:
 - title: 2019_Brace_Britain
   version: 3.1.0
   commit: 5d046ac33bdc84940f2aa5d05146aa69e7f415b0
+  path: 2019_Brace_Britain
+- title: 2019_Brace_Britain
+  version: 3.1.1
+  commit: d27e414908cb0884614e58ff48ead5e9efe18c16
   path: 2019_Brace_Britain
 - title: 2019_Feldman_Anatolia
   version: 2.2.0
@@ -622,6 +642,10 @@ packages:
   version: 2.2.0
   commit: 7f52e722d29286ccf04320b5dfb6efee4b19e9f5
   path: 2020_Margaryan_Viking
+- title: 2020_Margaryan_Viking
+  version: 2.2.1
+  commit: d27e414908cb0884614e58ff48ead5e9efe18c16
+  path: 2020_Margaryan_Viking
 - title: 2020_Massilani_EastAsia
   version: 0.3.0
   commit: 7f52e722d29286ccf04320b5dfb6efee4b19e9f5
@@ -710,6 +734,10 @@ packages:
   version: 2.2.0
   commit: 7f52e722d29286ccf04320b5dfb6efee4b19e9f5
   path: 2021_GnecchiRuscone_KazakhSteppe
+- title: 2021_GnecchiRuscone_KazakhSteppe
+  version: 2.2.1
+  commit: d27e414908cb0884614e58ff48ead5e9efe18c16
+  path: 2021_GnecchiRuscone_KazakhSteppe
 - title: 2021_Harney_Teeth
   version: 0.2.0
   commit: 7f52e722d29286ccf04320b5dfb6efee4b19e9f5
@@ -749,6 +777,10 @@ packages:
 - title: 2021_PattersonNature
   version: 0.4.1
   commit: 18d4d6ef21bf35b80daa93f3da94b925d04b6ffe
+  path: 2021_PattersonNature
+- title: 2021_PattersonNature
+  version: 0.4.2
+  commit: d27e414908cb0884614e58ff48ead5e9efe18c16
   path: 2021_PattersonNature
 - title: 2021_Posth_Etruscans
   version: 1.0.0
@@ -814,6 +846,10 @@ packages:
   version: 1.2.0
   commit: dade85241358c7ef0570f4467553a50324a204f5
   path: 2022_Gretzinger_AngloSaxons
+- title: 2022_Gretzinger_AngloSaxons
+  version: 1.2.1
+  commit: d27e414908cb0884614e58ff48ead5e9efe18c16
+  path: 2022_Gretzinger_AngloSaxons
 - title: 2022_Yu_VanDeLoosdrecht_Sicily
   version: 1.0.0
   commit: 655ced28348aaf1bcfb36d3852a9474eaf8ad13d
@@ -865,6 +901,10 @@ packages:
 - title: 2024_GnecchiRuscone_CarpathianBasinAvarPedigrees
   version: 1.0.2
   commit: 58682b4aca60bdc68f2f15a04903d26574e9add0
+  path: 2024_GnecchiRuscone_CarpathianBasinAvarPedigrees
+- title: 2024_GnecchiRuscone_CarpathianBasinAvarPedigrees
+  version: 1.0.3
+  commit: d27e414908cb0884614e58ff48ead5e9efe18c16
   path: 2024_GnecchiRuscone_CarpathianBasinAvarPedigrees
 - title: 2024_Gretzinger_EarlyCelts
   version: 1.0.0
