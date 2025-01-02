@@ -4,8 +4,8 @@ description: Viking age samples from Europe and Greenland. Originally AADR v44.3
 contributor:
 - name: Ayshin Ghalichi
   email: ghalichi@shh.mpg.de
-packageVersion: 2.2.0
-lastModified: 2023-07-04
+packageVersion: 2.2.1
+lastModified: 2024-12-17
 genotypeData:
   format: PLINK
   genoFile: Margaryan_Viking.bed
@@ -16,7 +16,7 @@ genotypeData:
   indFileChkSum: b15954e49137a7ef0c33ce65b2f7cb90
   snpSet: 1240K
 jannoFile: Margaryan_Viking.janno
-jannoFileChkSum: 7d14f637c5ec80efc46c298ee19f3c34
+jannoFileChkSum: 3917a24a6931649b6ddbba18ad86fccc
 sequencingSourceFile: ENAtable.ssf
 sequencingSourceFileChkSum: dee184ac3815a4f841819556266e9282
 bibFile: LITERATURE.bib

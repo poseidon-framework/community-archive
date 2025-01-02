@@ -1,3 +1,4 @@
+- V 2.1.3: fixed entries where multiple country options were provided
 - V 2.1.2: added the main publication MallikNature2016 to the Publication variable in the .janno file for some samples
 - V 2.1.1: Fixed attribution to a wrong AADR version
 - V 2.1.0: Update of references in the .bib file
