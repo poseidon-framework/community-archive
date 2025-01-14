@@ -1,6 +1,6 @@
 title: Poseidon community-archive chronicle
-chronicleVersion: 1.31.0
-lastModified: 2025-01-02
+chronicleVersion: 1.32.0
+lastModified: 2025-01-14
 packages:
 - title: 2010_RasmussenNature
   version: 2.1.1
@@ -569,6 +569,10 @@ packages:
 - title: 2020_Bongers_SouthPeru
   version: 2.2.0
   commit: 7f52e722d29286ccf04320b5dfb6efee4b19e9f5
+  path: 2020_Bongers_SouthPeru
+- title: 2020_Bongers_SouthPeru
+  version: 2.2.1
+  commit: 7b8394493af5e27b1f3de2d444d99cc4f7e08031
   path: 2020_Bongers_SouthPeru
 - title: 2020_Brunel_France
   version: 2.2.1
