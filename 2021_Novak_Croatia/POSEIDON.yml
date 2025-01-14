@@ -5,8 +5,8 @@ description: Genome-wide analysis of nearly all the victims of a 6200 year old m
 contributor:
 - name: Dhananjaya Aththanayaka
   email: dhananjaya_aththanayaka@eva.mpg.de
-packageVersion: 0.3.0
-lastModified: 2023-07-04
+packageVersion: 1.0.0
+lastModified: 2024-12-11
 genotypeData:
   format: PLINK
   genoFile: 2021_Novak_Croatia.bed
@@ -17,7 +17,7 @@ genotypeData:
   indFileChkSum: 9942f88cf792a20ea86e8f5294c94ac7
   snpSet: 1240K
 jannoFile: 2021_Novak_Croatia.janno
-jannoFileChkSum: cb53db2a6c5823b910f958bc74f01f8d
+jannoFileChkSum: 46ea522fa799abbbf8a99886aa23d95b
 sequencingSourceFile: ENAtable.ssf
 sequencingSourceFileChkSum: 7fbded6ce7ca2337ea2ea57db0900385
 bibFile: 2021_Novak_Croatia.bib
