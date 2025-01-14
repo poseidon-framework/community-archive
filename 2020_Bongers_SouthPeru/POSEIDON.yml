@@ -5,8 +5,8 @@ description: Six Late Horizon individuals from two cemeteries in the Chincha Val
 contributor:
 - name: Clemens Schmid
   email: schmid@shh.mpg.de
-packageVersion: 2.2.0
-lastModified: 2023-07-04
+packageVersion: 2.2.1
+lastModified: 2024-12-12
 genotypeData:
   format: PLINK
   genoFile: Bongers_SouthPeru.bed
@@ -17,7 +17,7 @@ genotypeData:
   indFileChkSum: b2dd0a3251ecf17679ec7a743e4748df
   snpSet: 1240K
 jannoFile: Bongers_SouthPeru.janno
-jannoFileChkSum: e0b4d750e749e51804c8193c51d65c16
+jannoFileChkSum: 00cb8f9df4df445e44e0b6bed44501df
 sequencingSourceFile: ENAtable.ssf
 sequencingSourceFileChkSum: 1874eafc95e683aa270818578ee216b8
 bibFile: Bongers_SouthPeru.bib
