@@ -10,8 +10,8 @@ contributor:
   orcid: 0000-0002-1017-9150
 - name: Clemens Schmid
   email: clemens_schmid@eva.mpg.de
-packageVersion: 1.1.0
-lastModified: 2024-07-15
+packageVersion: 1.1.1
+lastModified: 2024-11-29
 genotypeData:
   format: PLINK
   genoFile: 2024_Gretzinger_EarlyCelts.bed
@@ -22,7 +22,7 @@ genotypeData:
   indFileChkSum: 8267acb7ea076200a53d0cd067f20ec3
   snpSet: 1240K
 jannoFile: 2024_Gretzinger_EarlyCelts.janno
-jannoFileChkSum: eafeca7e08bab3e8f4fac3c7b2bf63cd
+jannoFileChkSum: 420bece6b81f01b21e39cbad4fe35e89
 bibFile: 2024_Gretzinger_EarlyCelts.bib
 bibFileChkSum: c62243639756a4dd4704c3b40f9dffcb
 changelogFile: CHANGELOG.md

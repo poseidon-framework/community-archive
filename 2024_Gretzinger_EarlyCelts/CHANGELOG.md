@@ -1,2 +1,3 @@
+- V 1.1.1: Fixed wrong IDs in Relation_To column (appendix _ss was missing in some cases)
 - V 1.1.0: Fixed wrongly named .janno column: Primary Contact -> Primary_Contact
 - V 1.0.0: Initial submission.
