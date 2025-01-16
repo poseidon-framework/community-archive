@@ -1,0 +1,19 @@
+poseidonVersion: 2.7.1
+title: 2024_Ravasini_Picene
+description: Package describing individuals published in Ravasini et al. 2024 (Genome Biology), from the Iron Age Picene Culture in Italy.
+contributor:
+- name: Stephan Schiffels
+  email: stephan_schiffels@eva.mpg.de
+  orcid: 0000-0002-1017-9150
+- name: Angela Mötsch
+  email: angela_moetsch@eva.mpg.de
+packageVersion: 1.0.0
+lastModified: 2025-01-16
+genotypeData:
+  format: PLINK
+  genoFile: 2024_Ravasini_Picene.bed
+  snpFile: 2024_Ravasini_Picene.bim
+  indFile: 2024_Ravasini_Picene.fam
+  snpSet: 1240K
+jannoFile: 2024_Ravasini_Picene.janno
+bibFile: 2024_Ravasini_Picene.bib
