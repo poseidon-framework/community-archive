@@ -1,0 +1,22 @@
+poseidonVersion: 2.7.1
+title: 2023_Skourtanioti_Aegean
+description: Ancient DNA reveals admixture history and endogamy in the prehistoric
+  Aegean
+contributor:
+- name: Eirini Skourtanioti
+  email: eirini_skourtanioti@@eva.mpg.de
+packageVersion: 1.0.0
+lastModified: 2024-08-15
+genotypeData:
+  format: PLINK
+  genoFile: 2023_Skourtanioti_Aegean.bed
+  genoFileChkSum: 5c8a69033a3767f80757516d5352c07a
+  snpFile: 2023_Skourtanioti_Aegean.bim
+  snpFileChkSum: 433fa85a23f3123bade02348e4628b75
+  indFile: 2023_Skourtanioti_Aegean.fam
+  indFileChkSum: d634637f3d3e2635c24235717dfc9611
+  snpSet: 1240K
+jannoFile: 2023_Skourtanioti_Aegean.janno
+jannoFileChkSum: fdd4f31bf975a7f7a208869f8a9dfbe7
+bibFile: 2023_Skourtanioti_Aegean.bib
+bibFileChkSum: 689377f09002a6245acd7af8d8a02f91
