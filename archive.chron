@@ -1,6 +1,6 @@
 title: Poseidon community-archive chronicle
-chronicleVersion: 1.34.0
-lastModified: 2025-01-14
+chronicleVersion: 1.35.0
+lastModified: 2025-01-17
 packages:
 - title: 2010_RasmussenNature
   version: 2.1.1
@@ -894,6 +894,14 @@ packages:
   version: 1.0.0
   commit: 45f919833071030a2d6ce09cb041d5fdad5f8edd
   path: 2023_Penske_EarlyContact
+- title: 2023_Skourtanioti_Aegean
+  version: 1.0.0
+  commit: 87107b1dff185abe653f15b7e4b602d7a0ff1d0f
+  path: 2023_Skourtanioti_Aegean
+- title: 2023_Wang_AnatoliaLevantPPNB
+  version: 1.0.0
+  commit: 87107b1dff185abe653f15b7e4b602d7a0ff1d0f
+  path: 2023_Wang_AnatoliaLevantPPNB
 - title: 2024_Allentoft_PostGlacial_WestEurasia
   version: 1.0.0
   commit: 6aa530cf2d02c5eb3b1c765c2661185b9b39606b
