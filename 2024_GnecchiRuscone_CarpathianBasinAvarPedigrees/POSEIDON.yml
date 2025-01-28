@@ -6,7 +6,7 @@ contributor:
 - name: Luca Traverso
   email: luca_traverso@eva.mpg.de
   orcid: 0000-0001-5749-5751
-packageVersion: 1.0.3
+packageVersion: 1.0.0
 lastModified: 2024-12-17
 genotypeData:
   format: PLINK
