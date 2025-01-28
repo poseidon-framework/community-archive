@@ -1,0 +1,17 @@
+poseidonVersion: 2.7.1
+title: 2025_GnecchiRuscone_CarpathianBasinHunPeriod
+description: 35 5th-6th centuries CE Carpathian Basin individuals
+contributor:
+- name: Luca Traverso
+  email: luca_traverso@eva.mpg.de
+  orcid: 0000-0001-5749-5751
+packageVersion: 1.0.0
+lastModified: 2025-01-28
+genotypeData:
+  format: PLINK
+  genoFile: 2025_GnecchiRuscone_CarpathianBasinHunPeriod.bed
+  snpFile: 2025_GnecchiRuscone_CarpathianBasinHunPeriod.bim
+  indFile: 2025_GnecchiRuscone_CarpathianBasinHunPeriod.fam
+  snpSet: Other
+jannoFile: 2025_GnecchiRuscone_CarpathianBasinHunPeriod.janno
+bibFile: 2025_GnecchiRuscone_CarpathianBasinHunPeriod.bib
