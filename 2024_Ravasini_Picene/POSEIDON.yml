@@ -1,6 +1,7 @@
 poseidonVersion: 2.7.1
 title: 2024_Ravasini_Picene
-description: Package describing individuals published in Ravasini et al. 2024 (Genome Biology), from the Iron Age Picene Culture in Italy.
+description: Package describing individuals published in Ravasini et al. 2024 (Genome
+  Biology), from the Iron Age Picene Culture in Italy.
 contributor:
 - name: Stephan Schiffels
   email: stephan_schiffels@eva.mpg.de
