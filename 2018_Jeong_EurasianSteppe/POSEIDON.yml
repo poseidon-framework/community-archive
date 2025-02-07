@@ -4,8 +4,8 @@ description: Individuals from the eastern Eurasian Steppe. Originally AADR v42.4
 contributor:
 - name: Ayshin Ghalichi
   email: ghalichi@shh.mpg.de
-packageVersion: 2.1.1
-lastModified: 2023-07-11
+packageVersion: 2.1.2
+lastModified: 2025-02-07
 genotypeData:
   format: PLINK
   genoFile: Jeong_EurasianSteppe.bed
@@ -18,5 +18,5 @@ genotypeData:
 jannoFile: Jeong_EurasianSteppe.janno
 jannoFileChkSum: 53bd8cd014c98ef7afdac905cf3de65f
 bibFile: LITERATURE.bib
-bibFileChkSum: 2f10b1c5833b507b26c5ecf7eed8c6ee
+bibFileChkSum: a6840352a6a836d5655b4984d01b809d
 changelogFile: CHANGELOG.md

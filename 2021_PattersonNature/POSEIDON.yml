@@ -6,8 +6,8 @@ contributor:
   email: stephen_clayton@eva.mpg.de
 - name: Clemens Schmid
   email: clemens_schmid@eva.mpg.de
-packageVersion: 0.4.2
-lastModified: 2024-12-17
+packageVersion: 0.4.3
+lastModified: 2025-02-07
 genotypeData:
   format: PLINK
   genoFile: 2021_PattersonNature.bed
@@ -22,6 +22,6 @@ jannoFileChkSum: af2499c11f2c086c97668823eeebb0d9
 sequencingSourceFile: ENAtable.ssf
 sequencingSourceFileChkSum: d77bc01fd44d9ccb721b7344cd9d5332
 bibFile: sources.bib
-bibFileChkSum: 01bf7742f788e425a50aa2e1312fe06b
+bibFileChkSum: 85ca001daa87e819eec4fcbf0cda9271
 readmeFile: README.txt
 changelogFile: CHANGELOG.md

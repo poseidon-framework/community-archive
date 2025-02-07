@@ -1,1 +1,2 @@
+- V 1.0.2: added DOI
 - V 1.0.1: fixed some Related_To IDs

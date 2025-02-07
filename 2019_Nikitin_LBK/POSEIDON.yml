@@ -5,8 +5,8 @@ description: Interactions between earliest Linearbandkeramik farmers and central
 contributor:
 - name: Ayshin Ghalichi
   email: ghalichi@shh.mpg.de
-packageVersion: 2.2.0
-lastModified: 2023-07-04
+packageVersion: 2.2.1
+lastModified: 2025-02-07
 genotypeData:
   format: PLINK
   genoFile: Nikitin_LBK.bed
@@ -21,5 +21,5 @@ jannoFileChkSum: 97ec8554b33684c11d062cf6fa1a509a
 sequencingSourceFile: ENAtable.ssf
 sequencingSourceFileChkSum: 76095d0dbe17661807fc30ef307a4713
 bibFile: LITERATURE.bib
-bibFileChkSum: adf109db3c969e3dd53ad4c251ecb8fe
+bibFileChkSum: bc590e4e246b67b21477c65485334c31
 changelogFile: CHANGELOG.md

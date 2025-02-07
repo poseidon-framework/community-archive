@@ -5,8 +5,8 @@ description: Ancient DNA sheds light on the genetic origins of early Iron Age Ph
 contributor:
 - name: Michal Feldman
   email: feldman@shh.mpg.de
-packageVersion: 2.2.0
-lastModified: 2023-07-04
+packageVersion: 2.2.1
+lastModified: 2025-02-07
 genotypeData:
   format: PLINK
   genoFile: Feldman_Philistines.bed
@@ -21,5 +21,5 @@ jannoFileChkSum: 2912591fd69f96d2a8b20dde68036d25
 sequencingSourceFile: ENAtable.ssf
 sequencingSourceFileChkSum: 8298e119c8388ef73f82106035b551a8
 bibFile: LITERATURE.bib
-bibFileChkSum: 675e1e4706d747a21808bbe2ef93fcbe
+bibFileChkSum: 71e3015d76ebf3d4797c30c4a511d0b2
 changelogFile: CHANGELOG.md

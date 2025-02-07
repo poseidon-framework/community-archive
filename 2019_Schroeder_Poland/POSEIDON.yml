@@ -7,8 +7,8 @@ contributor:
   email: ghalichi@shh.mpg.de
 - name: Clemens Schmid
   email: schmid@shh.mpg.de
-packageVersion: 2.1.0
-lastModified: 2023-07-04
+packageVersion: 2.1.1
+lastModified: 2025-02-07
 genotypeData:
   format: PLINK
   genoFile: Schroeder_Poland.bed
@@ -21,5 +21,5 @@ genotypeData:
 jannoFile: Schroeder_Poland.janno
 jannoFileChkSum: 26300d0752d42f3973804f7d168f8ad9
 bibFile: LITERATURE.bib
-bibFileChkSum: d28a94f32644ce26c3fae5a6fe2d301e
+bibFileChkSum: dd2cb0b01131f589ba4781c7d0c9502b
 changelogFile: CHANGELOG.md
