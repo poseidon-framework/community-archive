@@ -16,7 +16,7 @@ genotypeData:
   indFileChkSum: a55aa3e7471481b9899829940d0db2d6
   snpSet: 1240K
 jannoFile: EgyptianMummies.janno
-jannoFileChkSum: 9e83249cccce06e0918329a625591b7d
+jannoFileChkSum: 8d4ceddd821313dd64948b3eb70073a7
 bibFile: LITERATURE.bib
 bibFileChkSum: bd6f7cc61155c4915ce4cc0bb76ae554
 changelogFile: CHANGELOG.md
