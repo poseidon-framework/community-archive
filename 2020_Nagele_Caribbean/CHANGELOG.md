@@ -1,3 +1,4 @@
+- V 2.2.1: added missing C14 dates to sample PCV003
 - V 2.2.0: Update of references in the .bib file
 - V 2.1.0: added a .ssf file
 - V 2.0.1: Genetic_Source_Accession_IDs added
