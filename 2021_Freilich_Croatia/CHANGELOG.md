@@ -1,3 +1,4 @@
+- V 1.2.1: updated bib-file
 - V 1.2.0: Update of references in the .bib file
 - V 1.1.0: added a .ssf file
 - V 1.0.0: updated the package to Poseidon v2.5 and adjusted the .janno file accordingly
