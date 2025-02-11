@@ -5,8 +5,8 @@ description: Differential DNA methylation of vocal and facial anatomy genes in m
 contributor:
 - name: Dhananjaya Aththanayaka
   email: dhananjaya.at@gmail.com
-packageVersion: 0.2.0
-lastModified: 2023-07-04
+packageVersion: 0.2.1
+lastModified: 2025-02-07
 genotypeData:
   format: PLINK
   genoFile: 2020_Gokhman_MethylationMap.bed
@@ -19,5 +19,5 @@ genotypeData:
 jannoFile: 2020_Gokhman_MethylationMap.janno
 jannoFileChkSum: cb443690a0a7486c45cbc939d4fee5f5
 bibFile: 2020_Gokhman_MethylationMap.bib
-bibFileChkSum: 0f22aa740f3627878c4b7d0e5027def8
+bibFileChkSum: 85fcd6e7dbc8b90bfff3c3bab2f92952
 changelogFile: CHANGELOG.md

@@ -5,8 +5,8 @@ description: The Arrival of Siberian Ancestry Connecting the Eastern Baltic to U
 contributor:
 - name: Ayshin Ghalichi
   email: ghalichi@shh.mpg.de
-packageVersion: 2.2.0
-lastModified: 2023-07-04
+packageVersion: 2.2.1
+lastModified: 2025-02-07
 genotypeData:
   format: PLINK
   genoFile: Saag_EasternBaltic.bed
@@ -21,5 +21,5 @@ jannoFileChkSum: ae27452a6ab5ab1913926a10ffd91d0d
 sequencingSourceFile: ENAtable.ssf
 sequencingSourceFileChkSum: e395f2dfcb0ead71cc7ef89bca94c4b4
 bibFile: LITERATURE.bib
-bibFileChkSum: 862f7e931b302496abc28f0bfb288591
+bibFileChkSum: b4e13a7517dfecc215d3af1843a110ff
 changelogFile: CHANGELOG.md

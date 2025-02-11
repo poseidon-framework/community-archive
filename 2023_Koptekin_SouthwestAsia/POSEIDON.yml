@@ -8,8 +8,8 @@ contributor:
   orcid: 0000-0002-1825-0097
 - name: Clemens Schmid
   email: clemens_schmid@eva.mpg.de
-packageVersion: 1.1.0
-lastModified: 2024-07-15
+packageVersion: 1.1.1
+lastModified: 2025-02-07
 genotypeData:
   format: PLINK
   genoFile: 2023_Koptekin_SouthwestAsia.bed
@@ -22,5 +22,5 @@ genotypeData:
 jannoFile: 2023_Koptekin_SouthwestAsia.janno
 jannoFileChkSum: d7862af6fee6ca2cb8a3ed3bd6437118
 bibFile: 2023_Koptekin_SouthwestAsia.bib
-bibFileChkSum: de913980fac6df5e57c61ebcefd37af6
+bibFileChkSum: cb307dcbe904f9c4750dab1224f13e0b
 changelogFile: CHANGELOG.md

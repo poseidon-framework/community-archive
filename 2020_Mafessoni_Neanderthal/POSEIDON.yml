@@ -5,8 +5,8 @@ description: A high-coverage Neandertal genome from Chagyrskaya Cave. Originally
 contributor:
 - name: Dhananjaya Aththanayaka
   email: dhananjaya_aththanayaka@eva.mpg.de
-packageVersion: 0.2.0
-lastModified: 2023-07-04
+packageVersion: 0.2.1
+lastModified: 2025-02-11
 genotypeData:
   format: PLINK
   genoFile: 2020_Mafessoni_Neanderthal.bed
@@ -19,5 +19,5 @@ genotypeData:
 jannoFile: 2020_Mafessoni_Neanderthal.janno
 jannoFileChkSum: 0d0972a393b6f8c3b564a0a3ea0ffbff
 bibFile: 2020_Mafessoni_Neanderthal.bib
-bibFileChkSum: ecdde9f6aaf22f4ea71305d3dcbb9423
+bibFileChkSum: 07763bb10a503d7da97ce1f94edf8b28
 changelogFile: CHANGELOG.md

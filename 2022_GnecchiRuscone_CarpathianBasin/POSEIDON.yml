@@ -8,8 +8,8 @@ contributor:
 - name: Clemens Schmid
   email: clemens_schmid@eva.mpg.de
   orcid: 0000-0003-3448-5715
-packageVersion: 1.0.1
-lastModified: 2024-04-11
+packageVersion: 1.0.2
+lastModified: 2025-02-11
 genotypeData:
   format: PLINK
   genoFile: 2022_GnecchiRuscone_CarpathianBasin.bed
@@ -22,5 +22,5 @@ genotypeData:
 jannoFile: 2022_GnecchiRuscone_CarpathianBasin.janno
 jannoFileChkSum: 73a03ac29940b4418a1d4444643e35f7
 bibFile: 2022_GnecchiRuscone_CarpathianBasin.bib
-bibFileChkSum: e1addcccfe575e9fc58a5abcab62188f
+bibFileChkSum: 5418b08255089f53ce030a17a5158f97
 changelogFile: CHANGELOG.md

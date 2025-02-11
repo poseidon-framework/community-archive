@@ -5,8 +5,8 @@ description: The genomic ancestry of the Scandinavian Battle Axe Culture people 
 contributor:
 - name: Ayshin Ghalichi
   email: ghalichi@shh.mpg.de
-packageVersion: 2.2.0
-lastModified: 2023-07-04
+packageVersion: 2.2.1
+lastModified: 2025-02-07
 genotypeData:
   format: PLINK
   genoFile: Malmstrom_Scandinavia.bed
@@ -21,5 +21,5 @@ jannoFileChkSum: 5fedcbb8faf3e0299393e42c4b99293a
 sequencingSourceFile: ENAtable.ssf
 sequencingSourceFileChkSum: af5f2519005e3ad26b4984c7f7e9bd4d
 bibFile: LITERATURE.bib
-bibFileChkSum: 72c588e34a984830e2c1444399b5e4c9
+bibFileChkSum: fcb88ef84a2d2f6de5da3ab5918065a9
 changelogFile: CHANGELOG.md

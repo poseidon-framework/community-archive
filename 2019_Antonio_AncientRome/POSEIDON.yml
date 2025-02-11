@@ -5,8 +5,8 @@ description: Ancient genomes from in and around Rome covering the last 12000 yea
 contributor:
 - name: Ayshin Ghalichi
   email: ghalichi@shh.mpg.de
-packageVersion: 2.2.0
-lastModified: 2023-07-04
+packageVersion: 2.2.1
+lastModified: 2025-02-07
 genotypeData:
   format: PLINK
   genoFile: Antonio_AncRome.bed
@@ -21,5 +21,5 @@ jannoFileChkSum: 13dc6fda5cbc3ba8383314dc6a6e0165
 sequencingSourceFile: ENAtable.ssf
 sequencingSourceFileChkSum: 3d2d460456388a76dfac4c65748bc781
 bibFile: LITERATURE.bib
-bibFileChkSum: 162b2fb02762b19cf6ec49a33d3ec207
+bibFileChkSum: da9d4f7c39611b2c673bd8c9a85eb201
 changelogFile: CHANGELOG.md

@@ -9,8 +9,8 @@ contributor:
   orcid: 0000-0002-1825-0097
 - name: Clemens Schmid
   email: clemens_schmid@eva.mpg.de
-packageVersion: 3.1.0
-lastModified: 2024-07-15
+packageVersion: 3.1.1
+lastModified: 2025-02-11
 genotypeData:
   format: PLINK
   genoFile: Kilinc_northeastAsia.bed
@@ -25,5 +25,5 @@ jannoFileChkSum: 9762f3619677e2b04add7df77911d977
 sequencingSourceFile: ENAtable.ssf
 sequencingSourceFileChkSum: e760bdb8ac0c02d8aadc134556b7fa3f
 bibFile: LITERATURE.bib
-bibFileChkSum: 531a361c245b39a5139628a7676aa309
+bibFileChkSum: eae4d2ea4f9247cf91db0371f8982e58
 changelogFile: CHANGELOG.md

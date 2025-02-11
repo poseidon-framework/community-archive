@@ -1,3 +1,4 @@
+- V 2.2.1: added DOI
 - V 2.2.0: Linked Sequencing Source Dile to the .Janno file
 - V 2.1.0: Update of references in the .bib file
 - V 2.0.1: Genetic_Source_Accession_IDs added

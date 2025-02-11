@@ -8,8 +8,8 @@ contributor:
   email: ayshin_ghalichi@eva.mpg.de
 - name: Dhananjaya Aththanayaka
   email: dhananjaya_aththanayaka.eva.mpg.de
-packageVersion: 1.0.0
-lastModified: 2024-05-17
+packageVersion: 1.0.1
+lastModified: 2025-02-07
 genotypeData:
   format: PLINK
   genoFile: 2022_Altinisik_UpperMesopotamia.bed
@@ -24,4 +24,5 @@ jannoFileChkSum: 64e3dc04fe897db995126b378304b0ca
 sequencingSourceFile: 2022_Altinisik_UpperMesopotamia.ssf
 sequencingSourceFileChkSum: 2c02d8b7863ea9d4c595cfc29be414c8
 bibFile: 2022_Altinisik_UpperMesopotamia.bib
-bibFileChkSum: 72585f52b7fc63eae34e8e7149573a67
+bibFileChkSum: 6fe19d0362a8a46b99e6bd8e9c853e4e
+changelogFile: CHANGELOG.md

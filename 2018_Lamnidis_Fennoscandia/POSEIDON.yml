@@ -4,8 +4,8 @@ description: Ancient genomes from Finland and Russia.
 contributor:
 - name: Thiseas Lamnidis
   email: lamnidisi@shh.mpg.de
-packageVersion: 2.1.0
-lastModified: 2023-07-04
+packageVersion: 2.1.1
+lastModified: 2025-02-07
 genotypeData:
   format: PLINK
   genoFile: 2018_Lamnidis_Fennoscandia.bed
@@ -18,5 +18,5 @@ genotypeData:
 jannoFile: 2018_Lamnidis_Fennoscandia.janno
 jannoFileChkSum: 26aefa65ac7ce4c070503cde7f7a1297
 bibFile: 2018_Lamnidis_Fennoscandia.bib
-bibFileChkSum: af630ae94b6230155a95919a73efa6e8
+bibFileChkSum: 4c5ee1f871c1096a6c75101a08448377
 changelogFile: CHANGELOG.txt

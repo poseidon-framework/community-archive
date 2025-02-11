@@ -5,8 +5,8 @@ description: Ancient DNA from the skeletons of Roopkund Lake reveals Mediterrane
 contributor:
 - name: Ayshin Ghalichi
   email: ghalichi@shh.mpg.de
-packageVersion: 2.2.0
-lastModified: 2023-07-04
+packageVersion: 2.2.1
+lastModified: 2025-02-07
 genotypeData:
   format: PLINK
   genoFile: Harney_LakeRoopkund.bed
@@ -21,5 +21,5 @@ jannoFileChkSum: 34123153f18eef9962a92d9e96123a1e
 sequencingSourceFile: ENAtable.ssf
 sequencingSourceFileChkSum: 3fe99024f0dded676be40a69d2d0a94a
 bibFile: LITERATURE.bib
-bibFileChkSum: b53b02ea0f5766e837561eb08a5ee651
+bibFileChkSum: 69b31b8e75dff6cf1886676b9cb5c086
 changelogFile: CHANGELOG.md

@@ -5,8 +5,8 @@ description: Ancient DNA from Guam and the peopling of the Pacific. Originally A
 contributor:
 - name: Dhananjaya Aththnayaka
   email: dhananjaya_aththanayaka@mpg.eva.de
-packageVersion: 0.3.0
-lastModified: 2023-07-04
+packageVersion: 0.3.1
+lastModified: 2025-02-11
 genotypeData:
   format: PLINK
   genoFile: 2020_Stoneking_Pacific.bed
@@ -21,5 +21,5 @@ jannoFileChkSum: 46b585c6026f4ae03d3a5c0503c2d6cc
 sequencingSourceFile: ENAtable.ssf
 sequencingSourceFileChkSum: 8373d10c19b68a32ad908e1805df17c9
 bibFile: 2020_Stoneking_Pacific.bib
-bibFileChkSum: 452051a05c33aa53776d2d9ee43f078a
+bibFileChkSum: 81115e0c924df8d3c4a7821be6c48470
 changelogFile: CHANGELOG.md

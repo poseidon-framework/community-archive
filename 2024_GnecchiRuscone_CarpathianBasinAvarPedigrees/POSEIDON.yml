@@ -6,8 +6,8 @@ contributor:
 - name: Luca Traverso
   email: luca_traverso@eva.mpg.de
   orcid: 0000-0001-5749-5751
-packageVersion: 1.0.3
-lastModified: 2024-12-17
+packageVersion: 1.0.4
+lastModified: 2025-02-11
 genotypeData:
   format: PLINK
   genoFile: 2024_GnecchiRuscone_CarpathianBasinAvarPedigrees.bed
@@ -20,5 +20,5 @@ genotypeData:
 jannoFile: 2024_GnecchiRuscone_CarpathianBasinAvarPedigrees.janno
 jannoFileChkSum: ed6fc050ac2375c7a376a247dc2df140
 bibFile: 2024_GnecchiRuscone_CarpathianBasinAvarPedigrees.bib
-bibFileChkSum: ce19b7e726bf75ede8ab85d6b4945e7d
+bibFileChkSum: 06647b1ccc8ef4fca4b862fe1a026987
 changelogFile: CHANGELOG.md

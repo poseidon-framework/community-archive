@@ -7,8 +7,8 @@ contributor:
   email: ghalichi@shh.mpg.de
 - name: Clemens Schmid
   email: schmid@shh.mpg.de
-packageVersion: 2.2.0
-lastModified: 2023-07-04
+packageVersion: 2.2.1
+lastModified: 2025-02-07
 genotypeData:
   format: PLINK
   genoFile: Sikora_NorthEastSiberia.bed
@@ -23,5 +23,5 @@ jannoFileChkSum: 4373b1b19e39889d9da6ae87bd2a0591
 sequencingSourceFile: ENAtable.ssf
 sequencingSourceFileChkSum: f6b17be665e322ef2fe7d1dcaf7dd50c
 bibFile: LITERATURE.bib
-bibFileChkSum: eb9dc9ab7fc332b9d57486858dda6f6b
+bibFileChkSum: a7321e9890b1e163120e3b8294048c37
 changelogFile: CHANGELOG.md

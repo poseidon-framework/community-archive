@@ -7,8 +7,8 @@ contributor:
   email: ghalichi@shh.mpg.de
 - name: Clemens Schmid
   email: schmid@shh.mpg.de
-packageVersion: 2.2.0
-lastModified: 2023-07-04
+packageVersion: 2.2.1
+lastModified: 2025-02-07
 genotypeData:
   format: PLINK
   genoFile: Jarve_Scythian.bed
@@ -23,5 +23,5 @@ jannoFileChkSum: 5604ebe10af2d5937dec841aac951d5d
 sequencingSourceFile: ENAtable.ssf
 sequencingSourceFileChkSum: aaef1e37ea34e7f05ca2ddaaf5d8e6e5
 bibFile: LITERATURE.bib
-bibFileChkSum: 446204fbcc2afb7de2cd9ec45c5b3455
+bibFileChkSum: d5ed4c1819288da9b03ed967f5cbf3a9
 changelogFile: CHANGELOG.md
