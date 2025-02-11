@@ -5,8 +5,8 @@ description: Modern genomes from all around the world (Human Genome Diversity Pr
 contributor:
 - name: Ayshin Ghalichi
   email: ghalichi@shh.mpg.de
-packageVersion: 2.1.1
-lastModified: 2024-01-25
+packageVersion: 2.1.2
+lastModified: 2025-02-11
 genotypeData:
   format: PLINK
   genoFile: Bergstrom_HGDP.bed
@@ -21,5 +21,5 @@ jannoFileChkSum: 03325459055ab5150cd52fe4fd5f1718
 sequencingSourceFile: ENAtable.ssf
 sequencingSourceFileChkSum: c72dadbec3f2d6e9b300253607ddb89d
 bibFile: LITERATURE.bib
-bibFileChkSum: aeb1ee68a4dd737fe8f4ed2a8c5bd220
+bibFileChkSum: e804c8a2893294656a69802ae9dcb9a3
 changelogFile: CHANGELOG.md

@@ -8,8 +8,8 @@ contributor:
   orcid: 0000-0001-9118-2839
 - name: Clemens Schmid
   email: clemens_schmid@eva.mpg.de
-packageVersion: 1.1.0
-lastModified: 2024-07-15
+packageVersion: 1.1.1
+lastModified: 2025-02-11
 genotypeData:
   format: PLINK
   genoFile: Carlhoff_Thailand.bed
@@ -22,5 +22,5 @@ genotypeData:
 jannoFile: 2023_Carlhoff_Thailand.janno
 jannoFileChkSum: 477c0ad9c0fc4ec9c4a2d2dc06bd7324
 bibFile: 2023_Carlhoff_Thailand.bib
-bibFileChkSum: f21742c6e0f6b815ef03750e8c859581
+bibFileChkSum: bf27ec85d41293ffd33ec2467dbf9694
 changelogFile: CHANGELOG.md

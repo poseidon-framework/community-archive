@@ -5,8 +5,8 @@ description: Multiple migrations to the Philippines during the last 50,000 years
 contributor:
 - name: Dhananjaya Aththanayaka
   email: dhananjaya_aththanayaka.net
-packageVersion: 0.3.0
-lastModified: 2023-07-04
+packageVersion: 0.3.1
+lastModified: 2025-02-11
 genotypeData:
   format: PLINK
   genoFile: 2021_Larena_Philippines.bed
@@ -21,5 +21,5 @@ jannoFileChkSum: d59e9e5eaeeba386764fb4f914c4a166
 sequencingSourceFile: ENAtable.ssf
 sequencingSourceFileChkSum: e9640ef01806742f5cd4154d49823000
 bibFile: 2021_Larena_Philippines.bib
-bibFileChkSum: 6714167675c6808dcccc12ac3879e222
+bibFileChkSum: 8e0251ebc5ece99da33495a51d17c0f1
 changelogFile: CHANGELOG.md

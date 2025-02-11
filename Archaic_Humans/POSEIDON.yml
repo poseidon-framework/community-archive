@@ -4,8 +4,8 @@ description: Genetic data of various archaic humans. Originally AADR v42.4.
 contributor:
 - name: Ayshin Ghalichi
   email: ghalichi@shh.mpg.de
-packageVersion: 2.2.0
-lastModified: 2023-07-11
+packageVersion: 2.2.1
+lastModified: 2025-02-11
 genotypeData:
   format: PLINK
   genoFile: Archaic_Humans.bed
@@ -18,5 +18,5 @@ genotypeData:
 jannoFile: Archaic_Humans.janno
 jannoFileChkSum: f1bf164f0998d2a8cde2c13a320d930b
 bibFile: Archaic_Humans.bib
-bibFileChkSum: c18de30880fa92db7f7d9fc4d5ca6641
+bibFileChkSum: bab6febfae71541dabb9fb8961147561
 changelogFile: CHANGELOG.md
