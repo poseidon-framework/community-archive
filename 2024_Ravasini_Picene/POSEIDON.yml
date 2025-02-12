@@ -9,12 +9,18 @@ contributor:
 - name: Angela Mötsch
   email: angela_moetsch@eva.mpg.de
 packageVersion: 1.0.0
-lastModified: 2025-01-16
+lastModified: 2025-02-12
 genotypeData:
   format: PLINK
   genoFile: 2024_Ravasini_Picene.bed
+  genoFileChkSum: 0433b2ae6d1cbe14343364ec4a82f973
   snpFile: 2024_Ravasini_Picene.bim
+  snpFileChkSum: 72a4fcdaab91ba56b989bda73356d11e
   indFile: 2024_Ravasini_Picene.fam
+  indFileChkSum: d458aa6da6ddf99839138ecee291c6d7
   snpSet: 1240K
 jannoFile: 2024_Ravasini_Picene.janno
+jannoFileChkSum: b3901a56f7ceee21608a122828d10638
 bibFile: 2024_Ravasini_Picene.bib
+bibFileChkSum: a9d4df81c03e5ddf1d60346ba3335665
+changelogFile: CHANGELOG.md
