@@ -17,10 +17,10 @@ genotypeData:
   snpFile: 2024_Ravasini_Picene.bim
   snpFileChkSum: 72a4fcdaab91ba56b989bda73356d11e
   indFile: 2024_Ravasini_Picene.fam
-  indFileChkSum: d458aa6da6ddf99839138ecee291c6d7
+  indFileChkSum: cfd09d8020b43f39f275826c3b8b8dd5
   snpSet: 1240K
 jannoFile: 2024_Ravasini_Picene.janno
-jannoFileChkSum: b3901a56f7ceee21608a122828d10638
+jannoFileChkSum: 5a76dec08fc17fa078c72883ed8bf8d6
 bibFile: 2024_Ravasini_Picene.bib
 bibFileChkSum: a9d4df81c03e5ddf1d60346ba3335665
 changelogFile: CHANGELOG.md
