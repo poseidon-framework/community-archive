@@ -1,5 +1,5 @@
 poseidonVersion: 2.7.1
-title: 2022_KumarScience_Xinjiang
+title: 2022_Kumar_Xinjiang
 description: Archaeogenomic Data of Bronze and Iron Age populations from Xinjiang,
   China, published by Kumar et al. 2022, Science.
 contributor:
@@ -13,9 +13,9 @@ packageVersion: 1.0.0
 lastModified: 2025-02-13
 genotypeData:
   format: PLINK
-  genoFile: 2022_KumarScience_Xinjiang.bed
-  snpFile: 2022_KumarScience_Xinjiang.bim
-  indFile: 2022_KumarScience_Xinjiang.fam
+  genoFile: 2022_Kumar_Xinjiang.bed
+  snpFile: 2022_Kumar_Xinjiang.bim
+  indFile: 2022_Kumar_Xinjiang.fam
   snpSet: Other
-jannoFile: 2022_KumarScience_Xinjiang.janno
-bibFile: 2022_KumarScience_Xinjiang.bib
+jannoFile: 2022_Kumar_Xinjiang.janno
+bibFile: 2022_Kumar_Xinjiang.bib
