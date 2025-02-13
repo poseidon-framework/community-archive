@@ -11,8 +11,13 @@ lastModified: 2025-01-24
 genotypeData:
   format: PLINK
   genoFile: 2021_Popovic_Tiwanaku.bed
+  genoFileChkSum: 93041b24e8b62133b0b2bbccbcf3501e
   snpFile: 2021_Popovic_Tiwanaku.bim
+  snpFileChkSum: ee73fb5b3df6ac2c540e3897409e1de0
   indFile: 2021_Popovic_Tiwanaku.fam
+  indFileChkSum: 9a9b3db41921103faf2ee90b82592240
   snpSet: 1240K
 jannoFile: 2021_Popovic_Tiwanaku.janno
+jannoFileChkSum: c70cc4b4cc0610dc2622acb3165d7be6
 bibFile: 2021_Popovic_Tiwanaku.bib
+bibFileChkSum: 120e7862aef7aea597ef8cee07738e76
