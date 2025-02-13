@@ -14,8 +14,14 @@ lastModified: 2025-02-13
 genotypeData:
   format: PLINK
   genoFile: 2022_Kumar_Xinjiang.bed
+  genoFileChkSum: 9e192ab94bc0d3ea209fa92229ad422c
   snpFile: 2022_Kumar_Xinjiang.bim
+  snpFileChkSum: 433fa85a23f3123bade02348e4628b75
   indFile: 2022_Kumar_Xinjiang.fam
+  indFileChkSum: a9810e60b5db25ab62ba662eb865ad0d
   snpSet: Other
 jannoFile: 2022_Kumar_Xinjiang.janno
+jannoFileChkSum: dd4f47df2abc6665cc31dd8bf831622a
 bibFile: 2022_Kumar_Xinjiang.bib
+bibFileChkSum: 404b2085e6412c377fbfaf8cb3058484
+changelogFile: CHANGELOG.md
