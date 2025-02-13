@@ -1,0 +1,18 @@
+poseidonVersion: 2.7.1
+title: 2021_Popovic_Tiwanaku
+description: Set of ancient samples associated with Tiwanaku culture (Lake Titicaca,
+  Bolivia) and from Andean region of Coropuna.
+contributor:
+- name: Martyna Molak
+  email: martyna.molak@gmail.com
+  orcid: 0000-0001-5068-8649
+packageVersion: 1.0.0
+lastModified: 2025-01-24
+genotypeData:
+  format: PLINK
+  genoFile: 2021_Popovic_Tiwanaku.bed
+  snpFile: 2021_Popovic_Tiwanaku.bim
+  indFile: 2021_Popovic_Tiwanaku.fam
+  snpSet: 1240K
+jannoFile: 2021_Popovic_Tiwanaku.janno
+bibFile: 2021_Popovic_Tiwanaku.bib
