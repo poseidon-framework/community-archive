@@ -1,22 +1,22 @@
 poseidonVersion: 2.7.1
-title: 2023_Villa-IslasScience
+title: 2023_VillaIslas_preHispanicMexico
 description: Demographic history and genetic structure in pre-Hispanic Central Mexico
 contributor:
 - name: Judith Ballesteros Villascán
   email: judith_ballesteros@eva.mpg.de
-packageVersion: 1.0.0
-lastModified: 2025-02-13
+packageVersion: 2.0.0
+lastModified: 2025-02-17
 genotypeData:
   format: PLINK
-  genoFile: 2023_Villa-IslasScience.bed
+  genoFile: 2023_VillaIslas_preHispanicMexico.bed
   genoFileChkSum: de0868caa97ad6d47e4eff02fdbfe6ae
-  snpFile: 2023_Villa-IslasScience.bim
+  snpFile: 2023_VillaIslas_preHispanicMexico.bim
   snpFileChkSum: 26a1a45e7b5940b5aebb2086e8d9f90b
-  indFile: 2023_Villa-IslasScience.fam
+  indFile: 2023_VillaIslas_preHispanicMexico.fam
   indFileChkSum: 32719b33470fee84562fbbe3ae11c11a
   snpSet: 1240K
-jannoFile: 2023_Villa-IslasScience.janno
+jannoFile: 2023_VillaIslas_preHispanicMexico.janno
 jannoFileChkSum: 73f9432adaedbe2369a9b80d05b4d909
-bibFile: 2023_Villa-IslasScience.bib
+bibFile: 2023_VillaIslas_preHispanicMexico.bib
 bibFileChkSum: a0c6a68567fdd3745cb146d025669199
 changelogFile: CHANGELOG.md
