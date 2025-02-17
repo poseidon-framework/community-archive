@@ -1,3 +1,0 @@
-- V 2.0.0: Rename package
-- V 1.0.0: Addying genotypes from Villa-Islas
-- V 0.2.0: Removing individuals with no 1240k data
