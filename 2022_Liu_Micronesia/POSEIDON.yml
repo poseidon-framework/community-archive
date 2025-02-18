@@ -1,0 +1,16 @@
+poseidonVersion: 2.7.1
+title: 2022_Liu_Micronesia
+description: Pulled from the AADR v62 (/mnt/sequencedb/gendivdata/2_genotypes/aadr_poseidon_combined/v62_v241014/PLINK/v62_v241014).
+packageVersion: 0.1.0
+lastModified: 2025-02-17
+genotypeData:
+  format: PLINK
+  genoFile: 2022_Liu_Micronesia.bed
+  snpFile: 2022_Liu_Micronesia.bim
+  indFile: 2022_Liu_Micronesia.fam
+  snpSet: 1240K
+jannoFile: 2022_Liu_Micronesia.janno
+bibFile: 2022_Liu_Micronesia.bib
+contributor:
+- name: Beatriz Amorim
+  email: beatriz_amorim@eva.mpg.de
