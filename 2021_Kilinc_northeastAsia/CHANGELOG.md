@@ -1,3 +1,4 @@
+- V 3.1.1: updated bib-file
 - V 3.1.0: Fixed wrongly named .janno columns: Nr_autosomal_SNPs -> Nr_SNPs, Coverage_1240K -> Coverage_on_Target_SNPs
 - V 3.0.0: Added informative group names and many previously missing fields to the .janno file
 - V 2.2.0: Update of references in the .bib file

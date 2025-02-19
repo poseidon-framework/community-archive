@@ -5,8 +5,8 @@ description: The deep population history of northern East Asia from the Late Ple
 contributor:
 - name: Dhananjaya Aththnayaka
   email: dhananjaya_aththtnayaka@mpg.eva.de
-packageVersion: 0.2.0
-lastModified: 2023-07-04
+packageVersion: 0.2.1
+lastModified: 2025-02-11
 genotypeData:
   format: PLINK
   genoFile: 2021_Mao_EastAsia.bed
@@ -19,5 +19,5 @@ genotypeData:
 jannoFile: 2021_Mao_EastAsia.janno
 jannoFileChkSum: d8d5da437e3d236645480c175cc9171e
 bibFile: 2021_Mao_EastAsia.bib
-bibFileChkSum: 8a79d35f2994f45c4ac8c7054aa2df32
+bibFileChkSum: 96144aa5e321672b8de8fe5c01cc8cb5
 changelogFile: CHANGELOG.md

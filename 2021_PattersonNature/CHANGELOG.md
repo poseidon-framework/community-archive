@@ -1,3 +1,4 @@
+- V 0.4.3: added DOI
 - V 0.4.2: changed country naming to ISO-standard name
 - V 0.4.1: added the main publication PattersonNature2021 to the Publication variable in the .janno file for some samples
 - V 0.4.0: Update of references in the .bib file

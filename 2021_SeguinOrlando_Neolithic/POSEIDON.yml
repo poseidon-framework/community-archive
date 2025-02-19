@@ -5,8 +5,8 @@ description: Heterogeneous Hunter-Gatherer and Steppe-Related Ancestries in Late
 contributor:
 - name: Dhananjaya Aththanayaka
   email: dhananjaya_aththnayaka@mpg.eva.de
-packageVersion: 0.3.0
-lastModified: 2023-07-04
+packageVersion: 0.3.1
+lastModified: 2025-02-11
 genotypeData:
   format: PLINK
   genoFile: 2021_SeguinOrlando_Neolithic.bed
@@ -21,5 +21,5 @@ jannoFileChkSum: ddbfa2cc09ddcf6cd95c47efeb61147f
 sequencingSourceFile: ENAtable.ssf
 sequencingSourceFileChkSum: e3436c4edbfab177b35b0dbeb0344d6d
 bibFile: 2021_SeguinOrlando_Neolithic.bib
-bibFileChkSum: cc44c6b1461851754595e88904b9d08f
+bibFileChkSum: 9948f3409340a5afbe65e365a6e74a85
 changelogFile: CHANGELOG.md

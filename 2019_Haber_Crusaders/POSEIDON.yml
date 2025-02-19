@@ -5,8 +5,8 @@ description: A Transient Pulse of Genetic Admixture from the Crusaders in the Ne
 contributor:
 - name: Ayshin Ghalichi
   email: ghalichi@shh.mpg.de
-packageVersion: 2.2.0
-lastModified: 2024-01-26
+packageVersion: 2.2.1
+lastModified: 2025-02-07
 genotypeData:
   format: PLINK
   genoFile: Haber_Crusaders.bed
@@ -21,5 +21,5 @@ jannoFileChkSum: 2f2a931bf0c08aa3bbf2c58724846520
 sequencingSourceFile: ENAtable.ssf
 sequencingSourceFileChkSum: 080d51799cef1d3f8238a9728d08b6c0
 bibFile: LITERATURE.bib
-bibFileChkSum: 2dfc1a5c25efa383814f5d9961ac028b
+bibFileChkSum: cb9dda95f5bc287b4ab0fdb30abd5168
 changelogFile: CHANGELOG.md

@@ -4,8 +4,8 @@ description: Iron Age to Medieval samples from the Near East. Originally AADR v4
 contributor:
 - name: Ayshin Ghalichi
   email: ghalichi@shh.mpg.de
-packageVersion: 2.1.0
-lastModified: 2023-07-04
+packageVersion: 2.1.1
+lastModified: 2025-02-11
 genotypeData:
   format: PLINK
   genoFile: Haber_NearEast.bed
@@ -18,5 +18,5 @@ genotypeData:
 jannoFile: Haber_NearEast.janno
 jannoFileChkSum: 6b0939d30244fbbd8e68171812f95abb
 bibFile: LITERATURE.bib
-bibFileChkSum: 1569c72756905ebc11fc4bba10113552
+bibFileChkSum: 4fc21654ab6f17033a20584c740f2fc2
 changelogFile: CHANGELOG.md

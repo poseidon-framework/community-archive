@@ -1,3 +1,4 @@
+- V 2.2.2: updated bib-file
 - V 2.2.1: changed country naming to ISO-standard name
 - V 2.2.0: Update of references in the .bib file
 - V 2.1.0: added a .ssf file

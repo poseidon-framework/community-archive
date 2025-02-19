@@ -4,8 +4,8 @@ description: Ancient genomes from Morocco. Originally AADR v42.4.
 contributor:
 - name: Marieke van de Loosdrecht
   email: loosdrecht@shh.mpg.de
-packageVersion: 2.1.1
-lastModified: 2023-07-11
+packageVersion: 2.1.2
+lastModified: 2025-02-07
 genotypeData:
   format: PLINK
   genoFile: Loosdrecht_Morrocco.bed
@@ -18,5 +18,5 @@ genotypeData:
 jannoFile: Loosdrecht_Morrocco.janno
 jannoFileChkSum: 51a1227592e2dfc322a308a562047b86
 bibFile: LITERATURE.bib
-bibFileChkSum: f74e9ae615ece65ce1e882d9ff7000a8
+bibFileChkSum: 17d1a28e228ef24f224bdc406c515e9a
 changelogFile: CHANGELOG.md

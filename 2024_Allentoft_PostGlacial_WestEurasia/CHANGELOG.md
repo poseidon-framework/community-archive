@@ -1,1 +1,2 @@
+- V 1.0.2: updated bib-file
 - V 1.0.1: fixed some Related_To IDs

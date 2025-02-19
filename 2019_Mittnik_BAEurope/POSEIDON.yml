@@ -5,8 +5,8 @@ description: Kinship-based social inequality in Bronze Age Europe. Originally AA
 contributor:
 - name: Ayshin Ghalichi
   email: ghalichi@shh.mpg.de
-packageVersion: 2.2.0
-lastModified: 2023-07-04
+packageVersion: 2.2.1
+lastModified: 2025-02-07
 genotypeData:
   format: PLINK
   genoFile: Mittnik_BAEurope.bed
@@ -21,5 +21,5 @@ jannoFileChkSum: d0ab5415637e8f576d079bed41bdad9b
 sequencingSourceFile: ENAtable.ssf
 sequencingSourceFileChkSum: ef28336103a3dab39a4df4da12faed33
 bibFile: LITERATURE.bib
-bibFileChkSum: 8e35b6e1fd652e1ad7f9e02ee90663d3
+bibFileChkSum: 06d89966bfe0821b35c0bbc863f049a6
 changelogFile: CHANGELOG.md

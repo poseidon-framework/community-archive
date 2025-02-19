@@ -5,8 +5,8 @@ description: An Ancient Harappan Genome Lacks Ancestry from Steppe Pastoralists 
 contributor:
 - name: Ayshin Ghalichi
   email: ghalichi@shh.mpg.de
-packageVersion: 2.2.0
-lastModified: 2023-07-04
+packageVersion: 2.2.1
+lastModified: 2025-02-07
 genotypeData:
   format: PLINK
   genoFile: Shinde_Harappan.bed
@@ -21,5 +21,5 @@ jannoFileChkSum: 31356e7d295e86bf7f09fc85be03a22f
 sequencingSourceFile: ENAtable.ssf
 sequencingSourceFileChkSum: aaa748926b19422eb7b6c6134873cdc6
 bibFile: LITERATURE.bib
-bibFileChkSum: 92adaa65d5a53e0c78be630ebaf10a8f
+bibFileChkSum: c3488d6333be2ffc1198d95fb662b3de
 changelogFile: CHANGELOG.md
