@@ -11,12 +11,16 @@ jobs:
     name: validate packages
     runs-on: ubuntu-latest
     steps:
-        
+
+    - name: Check if all files have UTF-8 encoding and Unix line endings
+      run: ./checkFileEncoding.sh
+      working-directory: ./data
+
     - name: Install trident
       run: |
         wget https://github.com/poseidon-framework/poseidon-hs/releases/latest/download/trident-Linux
         chmod +x trident-Linux
-        
+
     - name: Clone data repo
       uses: actions/checkout@v3
       with:
@@ -31,10 +35,6 @@ jobs:
 
     - name: Check if all registered files are actually LFS pointers
       run: git lfs fsck --pointers
-      working-directory: ./data
-
-    - name: Check if all files have UTF-8 encoding and Unix line endings
-      run: ./checkFileEncoding.sh
       working-directory: ./data
 
     - name: Check if any .janno and .ssf files start with a single or double-quote character
