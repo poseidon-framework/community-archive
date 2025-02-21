@@ -6,8 +6,8 @@ contributor:
 - name: Martyna Molak
   email: martyna.molak@gmail.com
   orcid: 0000-0001-5068-8649
-packageVersion: 1.0.0
-lastModified: 2025-01-24
+packageVersion: 1.0.1
+lastModified: 2025-02-21
 genotypeData:
   format: PLINK
   genoFile: 2021_Popovic_Tiwanaku.bed
@@ -18,6 +18,7 @@ genotypeData:
   indFileChkSum: 9a9b3db41921103faf2ee90b82592240
   snpSet: 1240K
 jannoFile: 2021_Popovic_Tiwanaku.janno
-jannoFileChkSum: 1680ddd6e001d2d1958b02893697c23e
+jannoFileChkSum: a7cc70612f93964abadb6f5fad9c3ca0
 bibFile: 2021_Popovic_Tiwanaku.bib
 bibFileChkSum: 5d4682e55701d2b2826e362096bf9dcf
+changelogFile: CHANGELOG.md
