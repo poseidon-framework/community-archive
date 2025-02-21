@@ -1,5 +1,5 @@
 title: Poseidon community-archive chronicle
-chronicleVersion: 1.37.0
+chronicleVersion: 1.38.0
 lastModified: 2025-02-21
 packages:
 - title: 2010_RasmussenNature
@@ -993,6 +993,10 @@ packages:
 - title: 2021_Popovic_Tiwanaku
   version: 1.0.0
   commit: 285e4d5ce842f1200c0b071410ade3ad2dbffb72
+  path: 2021_Popovic_Tiwanaku
+- title: 2021_Popovic_Tiwanaku
+  version: 1.0.1
+  commit: ca6556037833fb61e23091693ce99bcec1d8ec7c
   path: 2021_Popovic_Tiwanaku
 - title: 2021_Posth_Etruscans
   version: 1.0.0
