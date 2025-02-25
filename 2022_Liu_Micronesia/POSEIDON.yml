@@ -1,0 +1,22 @@
+poseidonVersion: 2.7.1
+title: 2022_Liu_Micronesia
+description: This study explores the migratory origins and societal structures of
+  the population in Micronesia. Pulled from the AADR v62.
+contributor:
+- name: Beatriz Amorim
+  email: beatriz_amorim@eva.mpg.de
+packageVersion: 1.0.0
+lastModified: 2025-02-24
+genotypeData:
+  format: PLINK
+  genoFile: 2022_Liu_Micronesia.bed
+  genoFileChkSum: e205fe358496f7b33e49189d29f6df70
+  snpFile: 2022_Liu_Micronesia.bim
+  snpFileChkSum: 433fa85a23f3123bade02348e4628b75
+  indFile: 2022_Liu_Micronesia.fam
+  indFileChkSum: cf4f108c0c280a7fd2bc005241a3c83b
+  snpSet: 1240K
+jannoFile: 2022_Liu_Micronesia.janno
+jannoFileChkSum: d40817610f8559973c54813d4ecadd6b
+bibFile: 2022_Liu_Micronesia.bib
+bibFileChkSum: af9f674d94f6d1016c97b5785a2490fb
