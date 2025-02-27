@@ -1,14 +1,26 @@
 poseidonVersion: 2.7.1
 title: 2021_Silva_AlAndalus
-description: Biomolecular insights into North African-related ancestry,
-               mobility and diet in eleventh-century Al-Andalus
-packageVersion: 0.1.0
+description: Biomolecular insights into North African-related ancestry, mobility and
+  diet in eleventh-century Al-Andalus
+contributor:
+- name: Marina Silva
+  email: marina.silva@crick.ac.uk
+- name: Eleni Seferidou
+  email: eleni_seferidou@eva.mpg.de
+- name: Thiseas C. Lamnidis
+  email: thiseas_christos_lamnidis@eva.mpg.de
+packageVersion: 1.0.0
 lastModified: 2025-02-27
 genotypeData:
   format: PLINK
   genoFile: 2021_Silva_AlAndalus.bed
+  genoFileChkSum: b26827ad6b64e7a6974c1145cab670fa
   snpFile: 2021_Silva_AlAndalus.bim
+  snpFileChkSum: 433fa85a23f3123bade02348e4628b75
   indFile: 2021_Silva_AlAndalus.fam
+  indFileChkSum: 604be0a638579aa51d84e5a323de48a8
   snpSet: 1240K
 jannoFile: 2021_Silva_AlAndalus.janno
+jannoFileChkSum: 299a5e74588d96a0638008c8fb81cf05
 bibFile: 2021_Silva_AlAndalus.bib
+bibFileChkSum: 733b0efd1ba223a98fa841385f067e71
