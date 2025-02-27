@@ -1,0 +1,14 @@
+poseidonVersion: 2.7.1
+title: 2021_Silva_AlAndalus
+description: Biomolecular insights into North African-related ancestry,
+               mobility and diet in eleventh-century Al-Andalus
+packageVersion: 0.1.0
+lastModified: 2025-02-27
+genotypeData:
+  format: PLINK
+  genoFile: 2021_Silva_AlAndalus.bed
+  snpFile: 2021_Silva_AlAndalus.bim
+  indFile: 2021_Silva_AlAndalus.fam
+  snpSet: 1240K
+jannoFile: 2021_Silva_AlAndalus.janno
+bibFile: 2021_Silva_AlAndalus.bib
