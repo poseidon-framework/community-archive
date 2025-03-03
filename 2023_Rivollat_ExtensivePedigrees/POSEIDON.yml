@@ -5,7 +5,7 @@ contributor:
 - name: Josiah Carberry
   email: carberry@brown.edu
   orcid: 0000-0002-1825-0097
-packageVersion: 0.1.0
+packageVersion: 1.0.0
 lastModified: 2025-01-04
 genotypeData:
   format: PLINK
