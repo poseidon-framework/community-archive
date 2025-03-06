@@ -10,7 +10,7 @@ contributor:
 - name: Thiseas C. Lamnidis
   email: thiseas_christos_lamnidis@eva.mpg.de
 packageVersion: 1.0.0
-lastModified: 2025-02-27
+lastModified: 2025-03-06
 genotypeData:
   format: PLINK
   genoFile: 2021_Silva_AlAndalus.bed
@@ -21,6 +21,6 @@ genotypeData:
   indFileChkSum: 604be0a638579aa51d84e5a323de48a8
   snpSet: 1240K
 jannoFile: 2021_Silva_AlAndalus.janno
-jannoFileChkSum: 299a5e74588d96a0638008c8fb81cf05
+jannoFileChkSum: 425e47e00e1795c98652beb668899cc5
 bibFile: 2021_Silva_AlAndalus.bib
 bibFileChkSum: 733b0efd1ba223a98fa841385f067e71
