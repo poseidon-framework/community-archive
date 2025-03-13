@@ -1,6 +1,6 @@
 title: Poseidon community-archive chronicle
-chronicleVersion: 1.40.0
-lastModified: 2025-03-08
+chronicleVersion: 1.41.0
+lastModified: 2025-03-13
 packages:
 - title: 2010_RasmussenNature
   version: 2.1.1
@@ -809,6 +809,10 @@ packages:
 - title: 2020_Nagele_Caribbean
   version: 2.2.1
   commit: 9d1d1c23c91a6b2c260b659c77f32d093422d7db
+  path: 2020_Nagele_Caribbean
+- title: 2020_Nagele_Caribbean
+  version: 2.2.2
+  commit: 6175ebfff358ef066f8ee16ccf35764443b18925
   path: 2020_Nagele_Caribbean
 - title: 2020_Nakatsuka_Andes
   version: 2.3.0
