@@ -20,7 +20,7 @@ genotypeData:
   indFileChkSum: cfd09d8020b43f39f275826c3b8b8dd5
   snpSet: 1240K
 jannoFile: 2024_Ravasini_Picene.janno
-jannoFileChkSum: 5a76dec08fc17fa078c72883ed8bf8d6
+jannoFileChkSum: 86feb660dc34df67d0676e7e77a85983
 bibFile: 2024_Ravasini_Picene.bib
 bibFileChkSum: a9d4df81c03e5ddf1d60346ba3335665
 changelogFile: CHANGELOG.md
