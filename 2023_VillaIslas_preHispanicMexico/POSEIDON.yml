@@ -4,7 +4,7 @@ description: Demographic history and genetic structure in pre-Hispanic Central M
 contributor:
 - name: Judith Ballesteros Villascán
   email: judith_ballesteros@eva.mpg.de
-packageVersion: 1.1.0
+packageVersion: 1.0.0
 lastModified: 2025-03-14
 genotypeData:
   format: PLINK
@@ -19,4 +19,3 @@ jannoFile: 2023_VillaIslas_preHispanicMexico.janno
 jannoFileChkSum: b5d206097af1aa1480423059da5c8722
 bibFile: 2023_VillaIslas_preHispanicMexico.bib
 bibFileChkSum: a0c6a68567fdd3745cb146d025669199
-changelogFile: CHANGELOG.md
