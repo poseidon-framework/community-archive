@@ -21,7 +21,7 @@ genotypeData:
   indFileChkSum: a9810e60b5db25ab62ba662eb865ad0d
   snpSet: Other
 jannoFile: 2022_Kumar_Xinjiang.janno
-jannoFileChkSum: dd4f47df2abc6665cc31dd8bf831622a
+jannoFileChkSum: 284acdbe05302cb8910a1e0cf59c1789
 bibFile: 2022_Kumar_Xinjiang.bib
 bibFileChkSum: 404b2085e6412c377fbfaf8cb3058484
 changelogFile: CHANGELOG.md
