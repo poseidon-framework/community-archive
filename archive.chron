@@ -1,6 +1,6 @@
 title: Poseidon community-archive chronicle
-chronicleVersion: 1.44.0
-lastModified: 2025-04-04
+chronicleVersion: 1.45.0
+lastModified: 2025-04-15
 packages:
 - title: 2010_RasmussenNature
   version: 2.1.1
@@ -1102,6 +1102,10 @@ packages:
   version: 1.2.1
   commit: d27e414908cb0884614e58ff48ead5e9efe18c16
   path: 2022_Gretzinger_AngloSaxons
+- title: 2022_Kumar_Xinjiang
+  version: 1.0.0
+  commit: 0e5c338a5cffe014ca740ded0b2f4db433a5b990
+  path: 2022_KumarScience_Xinjiang
 - title: 2022_Liu_Micronesia
   version: 1.0.0
   commit: b379f951d8c210e27153876e329d7800ca4b892f
