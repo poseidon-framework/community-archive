@@ -1,0 +1,1 @@
+- V 1.1.0: Added new contributor: Dhananjaya Aththnayaka. Fixed Relation_Note, removed empty columns and columns with only 'n/a', rounded Latitude/Longitude to 5 decimals, formatted radiocarbon dates, and added new columns (max_roh, sum_roh>4, sum_roh>20).
