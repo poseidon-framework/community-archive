@@ -6,10 +6,8 @@ contributor:
   email: carberry@brown.edu
   orcid: 0000-0002-1825-0097
 - name: Dhananjaya Aththnayaka
-  email: mailto:dhananjaya_aththanayaka@eva.mpg.de
+  email: dhananjaya_aththanayaka@eva.mpg.de
   orcid: 0000-0003-0454-2109
-- name: Dhananjaya Aththnayaka
-  email: mailto:dhananjaya_aththanayaka@eva.mpg.de
 packageVersion: 1.1.0
 lastModified: 2025-04-17
 genotypeData:
