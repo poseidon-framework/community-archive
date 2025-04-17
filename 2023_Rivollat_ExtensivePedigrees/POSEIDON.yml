@@ -5,8 +5,11 @@ contributor:
 - name: Josiah Carberry
   email: carberry@brown.edu
   orcid: 0000-0002-1825-0097
+- name: Dhananjaya Aththnayaka
+  email: dhananjaya_aththanayaka@eva.mpg.de
+  orcid: 0000-0003-0454-2109
 packageVersion: 1.0.0
-lastModified: 2025-01-04
+lastModified: 2025-04-17
 genotypeData:
   format: PLINK
   genoFile: 2023_Rivollat_ExtensivePedigrees.bed
