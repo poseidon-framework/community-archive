@@ -1,6 +1,6 @@
 title: Poseidon community-archive chronicle
-chronicleVersion: 1.45.0
-lastModified: 2025-04-15
+chronicleVersion: 1.46.0
+lastModified: 2025-05-12
 packages:
 - title: 2010_RasmussenNature
   version: 2.1.1
@@ -1158,6 +1158,10 @@ packages:
   version: 1.0.0
   commit: 45f919833071030a2d6ce09cb041d5fdad5f8edd
   path: 2023_Penske_EarlyContact
+- title: 2023_Rivollat_ExtensivePedigrees
+  version: 1.0.0
+  commit: c877ca2c56f55535b8f6ec66687534efefc4e23f
+  path: 2023_Rivollat_ExtensivePedigrees
 - title: 2023_Skourtanioti_Aegean
   version: 1.0.0
   commit: 87107b1dff185abe653f15b7e4b602d7a0ff1d0f
