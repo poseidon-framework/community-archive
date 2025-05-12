@@ -2,16 +2,21 @@ poseidonVersion: 2.7.1
 title: 2023_Rivollat_ExtensivePedigrees
 description: Extensive pedigrees reveal the social organization of a Neolithic community
 contributor:
-- name: Josiah Carberry
-  email: carberry@brown.edu
-  orcid: 0000-0002-1825-0097
+- name: Dhananjaya Aththnayaka
+  email: dhananjaya_aththanayaka@eva.mpg.de
+  orcid: 0000-0003-0454-2109
 packageVersion: 1.0.0
-lastModified: 2025-01-04
+lastModified: 2025-04-17
 genotypeData:
   format: PLINK
   genoFile: 2023_Rivollat_ExtensivePedigrees.bed
+  genoFileChkSum: 4cefa5a474c478c4b530fc3b62df6a86
   snpFile: 2023_Rivollat_ExtensivePedigrees.bim
+  snpFileChkSum: 71a438803a60664d992ff60505abee91
   indFile: 2023_Rivollat_ExtensivePedigrees.fam
-  snpSet: Other
+  indFileChkSum: dc1f5c32f84092b6d1bece49cbc62d47
+  snpSet: 1240K
 jannoFile: 2023_Rivollat_ExtensivePedigrees.janno
+jannoFileChkSum: 4819cba9da3e59d43edaab7c5c5cbedb
 bibFile: 2023_Rivollat_ExtensivePedigrees.bib
+bibFileChkSum: 9dd47dbbc73e6b16a8d09d6533079f3c
