@@ -5,7 +5,7 @@ description: Genetic continuity and change among the Indigenous peoples of Calif
 contributor:
 - name: Judith Ballesteros Villascán
   email: judith_ballesteros@eva.mpg.de
-packageVersion: 0.1.0
+packageVersion: 1.0.0
 lastModified: 2025-05-13
 genotypeData:
   format: PLINK
