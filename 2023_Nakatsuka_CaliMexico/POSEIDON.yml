@@ -8,13 +8,13 @@ contributor:
 packageVersion: 0.1.0
 lastModified: 2025-05-13
 genotypeData:
-  format: EIGENSTRAT
-  genoFile: CaliMexico_NakatsukaNature2023.geno
-  genoFileChkSum: 770c1bf60d41d4f58fb8565cc6bca0d5
-  snpFile: CaliMexico_NakatsukaNature2023.snp
-  snpFileChkSum: 50f66178fc81b8aa087cc4b135317e59
-  indFile: CaliMexico_NakatsukaNature2023.ind
-  indFileChkSum: eeb501d4c71e5e168f47993ed5d30d33
+  format: PLINK
+  genoFile: CaliMexico_NakatsukaNature2023.bed
+  genoFileChkSum: 5da4224ea2cb2e6b78fd50188b2df7d7
+  snpFile: CaliMexico_NakatsukaNature2023.bim
+  snpFileChkSum: 433fa85a23f3123bade02348e4628b75
+  indFile: CaliMexico_NakatsukaNature2023.fam
+  indFileChkSum: 4c1a8d6c16757b7a607b9b8b1df764a1
   snpSet: 1240K
 jannoFile: 2023_Nakatsuka_CaliMexico.janno
 jannoFileChkSum: f6c9a55123ce3a052b8586f470a0723c
