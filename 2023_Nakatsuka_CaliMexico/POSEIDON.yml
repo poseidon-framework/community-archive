@@ -9,11 +9,11 @@ packageVersion: 0.1.0
 lastModified: 2025-05-13
 genotypeData:
   format: PLINK
-  genoFile: CaliMexico_NakatsukaNature2023.bed
+  genoFile: 2023_Nakatsuka_CaliMexico.bed
   genoFileChkSum: 5da4224ea2cb2e6b78fd50188b2df7d7
-  snpFile: CaliMexico_NakatsukaNature2023.bim
+  snpFile: 2023_Nakatsuka_CaliMexico.bim
   snpFileChkSum: 433fa85a23f3123bade02348e4628b75
-  indFile: CaliMexico_NakatsukaNature2023.fam
+  indFile: 2023_Nakatsuka_CaliMexico.fam
   indFileChkSum: 4c1a8d6c16757b7a607b9b8b1df764a1
   snpSet: 1240K
 jannoFile: 2023_Nakatsuka_CaliMexico.janno
