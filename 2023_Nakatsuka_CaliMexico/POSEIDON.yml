@@ -5,8 +5,10 @@ description: Genetic continuity and change among the Indigenous peoples of Calif
 contributor:
 - name: Judith Ballesteros Villascán
   email: judith_ballesteros@eva.mpg.de
+- name: Eleni Seferidou
+  email: eleni_seferidou@eva.mpg.de
 packageVersion: 1.0.0
-lastModified: 2025-05-13
+lastModified: 2025-05-15
 genotypeData:
   format: PLINK
   genoFile: 2023_Nakatsuka_CaliMexico.bed
@@ -17,6 +19,6 @@ genotypeData:
   indFileChkSum: 4c1a8d6c16757b7a607b9b8b1df764a1
   snpSet: 1240K
 jannoFile: 2023_Nakatsuka_CaliMexico.janno
-jannoFileChkSum: f6c9a55123ce3a052b8586f470a0723c
+jannoFileChkSum: af15fa0a79bddacf84bb9d73f49a6d72
 bibFile: 2023_Nakatsuka_CaliMexico.bib
 bibFileChkSum: 95a74b7e7b13c54ce2ef36bb718e245e
