@@ -32,7 +32,7 @@ I17108	F	Mexico_Tayopa_possible.1d.rel.I17109_lc	Mexico	Tayopa Site 60 (Sonora, 
 I19505	M	Mexico_Trincheras_LaPlaya_600BP	Mexico	La Playa (Sonora, Cerro Trincheras, Terraza B9)	30.392	-111.53	C14	580	20	1311	1410	n/a	tooth_molar	1	1240K	plus	ss	18636	nakatsuka2023genetic	PASS
 I23704	F	Mexico_Trincheras_LaPlaya_2400BP	Mexico	La Playa (Sonora, Trincheras)	30.494	-111.52	C14	1950	20	15	126	n/a	petrous	1	1240K	half	ds	455665	nakatsuka2023genetic	PASS
 I23705	M	Mexico_Trincheras_LaPlaya_2400BP	Mexico	La Playa (Sonora, Trincheras)	30.505	-111.51	C14	2715	25	-906	-811	n/a	petrous	1	1240K	half	ds	367481	nakatsuka2023genetic	PASS
-I23706	M	Mexico_Trincheras_LaPlaya_2400BP	Mexico	La Playa (Sonora, Trincheras)	30.503	-111.51	contextual	n/a	n/a	-823	-511	14C dating(WARNING: UNKNOWN CALIBRATION CURVE; MISSING UNCALIBRATED DATE, LAB CODE)	petrous	1	1240K	half	ds	535416	nakatsuka2023genetic	PASS
+I23706	M	Mexico_Trincheras_LaPlaya_2400BP	Mexico	La Playa (Sonora, Trincheras)	30.503	-111.51	contextual	n/a	n/a	-823	-511	A radiocarbon date does exist, but it is not listed in the supplementary material	petrous	1	1240K	half	ds	535416	nakatsuka2023genetic	PASS
 I23707	M	Mexico_Trincheras_LaPlaya_600BP	Mexico	La Playa (Sonora, Cerro Trincheras, Terraza B2)	30.392	-111.53	C14	605	15	1305	1400	n/a	petrous	1	1240K	half	ds	665193	nakatsuka2023genetic	PASS
 I23708	F	Mexico_Trincheras_LaPlaya_600BP	Mexico	La Playa (Sonora, Cerro Trincheras, Terraza B6)	30.392	-111.53	contextual	n/a	n/a	1300	1450	n/a	petrous	1	1240K	half	ds	569873	nakatsuka2023genetic	PASS
 I23709	F	Mexico_Trincheras_LaPlaya_600BP	Mexico	La Playa (Sonora, Cerro Trincheras, Terraza B7)	30.392	-111.53	C14	655	20	1285	1390	n/a	petrous	1	1240K	half	ds	717231	nakatsuka2023genetic	PASS
@@ -62,7 +62,7 @@ I2712	M	USA_CA_SantaRosa_7400BP	USA	CA-SRI-3 (California, Santa Rosa Island, Tec
 I2713	M	USA_CA_SantaRosa_4900BP_lc	USA	CA-SRI-3 (California, Santa Rosa Island, Tecolote Point)	34.002	-120.19	C14	4450	40	-3339	-2932	n/a	tooth	1	1240K	half	ds	12229	nakatsuka2023genetic	PASS
 I2703	M	USA_CA_SantaRosa_300BP	USA	CA-SRI-2B (California, Santa Rosa Island, Skull Gulch)	34.002	-120.19	contextual	n/a	n/a	1250	1400	n/a	petrous	1	1240K	half	ds	773525	nakatsuka2023genetic	PASS
 I2707	M	USA_CA_SantaRosa_300BP	USA	CA-SRI-2B (California, Santa Rosa Island, Skull Gulch)	34.002	-120.19	contextual	n/a	n/a	1250	1400	n/a	petrous	1	1240K	half	ds	807778	nakatsuka2023genetic	PASS
-I8578	F	USA_CA_PacificGrove_5200BP	USA	Pacific Grove (California)	36.617	-36.617	C14	n/a	n/a	-3476	-3017	Direct (WARNING NEED TO APPLY INTCAL20 MARINE CORRECTION, MISSING UNCALIBRATED DATE): IntCal13 with marine correction	tooth	1	1240K	half	ds	673707	nakatsuka2023genetic	PASS
+I8578	F	USA_CA_PacificGrove_5200BP	USA	Pacific Grove (California)	36.617	-36.617	contextual	n/a	n/a	-3476	-3017	A radiocarbon date does exist (Beta-215938), but its age is not listed in the supplementary material	tooth	1	1240K	half	ds	673707	nakatsuka2023genetic	PASS
 I11259	F	USA_CA_Carmel_600BP	USA	Carmel (California)	36.55	-121.92	contextual	n/a	n/a	1300	1800	n/a	petrous	1	1240K	half	ds	702802	nakatsuka2023genetic	PASS
 I11260	M	USA_CA_Carmel_600BP	USA	Carmel (California)	36.55	-121.92	contextual	n/a	n/a	1300	1800	n/a	petrous	1	1240K	half	ds	735153	nakatsuka2023genetic	PASS
 I11262	F	USA_CA_SantaBarbara_600BP	USA	CA-SBA-17 (California, Carpinteria, Shalwaj)	34.418	-119.62	C14	1080	15	896	1020	n/a	petrous	1	1240K	half	ds	734032	nakatsuka2023genetic	PASS
@@ -75,7 +75,7 @@ I11286	M	USA_CA_LakeCachuma_400BP	USA	CA-SBA-477 (California, Lake Cachuma, Tequ
 I11284	M	USA_CA_GoletaM_1100BP	USA	CA-SBA-46A (California, Goleta, Mescalitan Island, Goleta)	34.419	-119.83	C14	1265	20	672	820	n/a	petrous	1	1240K	half	n/a	712796	nakatsuka2023genetic	PASS
 I11285	M	USA_CA_LakeCachuma_400BP	USA	CA-SBA-477 (California, Lake Cachuma, Tequepis Creek)	34.571	-119.95	contextual	n/a	n/a	1300	1800	n/a	petrous	1	1240K	half	n/a	385171	nakatsuka2023genetic	PASS
 I11257	M	USA_CA_Carmel_600BP	USA	Carmel (California)	36.55	-121.92	contextual	n/a	n/a	1300	1800	n/a	tooth	1	1240K	half	ds	723177	nakatsuka2023genetic	PASS
-I11244	F	USA_CA_CastroVille_900BP	USA	Castroville (California)	36.75	-121.75	C14	1065	n/a	988	1163	Direct (WARNING NEED TO APPLY INTCAL20 MARINE CORRECTION, INCOMPLETE UNCALIBRATED DATE): IntCal13 with marine correction	tooth	1	1240K	half	ds	566270	nakatsuka2023genetic	PASS
+I11244	F	USA_CA_CastroVille_900BP	USA	Castroville (California)	36.75	-121.75	contextual	n/a	n/a	988	1163	A radiocarbon date does exist (1065±, EZV-00225), but the standard deviation is not listed in the supplementary material	tooth	1	1240K	half	ds	566270	nakatsuka2023genetic	PASS
 I11245	M	USA_CA_Monterey_1000BP	USA	Monterey (California)	36.6	-121.88	C14	1075	15	897	1021	n/a	tooth	1	1240K	half	ds	200249	nakatsuka2023genetic	PASS
 I11256	M	USA_CA_Carmel_600BP	USA	Carmel (California)	36.55	-121.92	contextual	n/a	n/a	1300	1800	n/a	tooth	1	1240K	half	ds	513204	nakatsuka2023genetic	PASS
 I11296	M	USA_CA_Goleta_2600BP	USA	CA-SBA-81 (California, Santa Barbara County, Las Llagas No. 1)	34.456	-120	C14	2590	20	-805	-773	n/a	petrous	1	1240K	half	ds	775900	nakatsuka2023genetic	PASS
