@@ -1,0 +1,22 @@
+poseidonVersion: 2.7.1
+title: 2023_Maier_IndusPeriphery
+description: On the limits of fitting complex models of population history to f-statistics
+contributor:
+- name: Tlkhi
+  email: jodyegrim@gmail.com
+packageVersion: 1.0.0
+lastModified: 2025-06-03
+genotypeData:
+  format: PLINK
+  genoFile: 2023_Maier_IndusPeriphery.bed
+  genoFileChkSum: e1c79fec17fc816cd2274a3c5a1f7971
+  snpFile: 2023_Maier_IndusPeriphery.bim
+  snpFileChkSum: a2d415e2b937164c0cc890f8be599a36
+  indFile: 2023_Maier_IndusPeriphery.fam
+  indFileChkSum: e0cbdbd5e7ab5496102e90991ca02deb
+  snpSet: 1240K
+jannoFile: 2023_Maier_IndusPeriphery.janno
+jannoFileChkSum: 91a9f3b5f259958faed6097f34a49080
+bibFile: 2023_Maier_IndusPeriphery.bib
+bibFileChkSum: 5b209b243bc37743cb81dbe2d43d5d6a
+changelogFile: CHANGELOG.md
