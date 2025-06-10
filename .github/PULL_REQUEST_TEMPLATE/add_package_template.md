@@ -8,6 +8,7 @@
 
 - [ ] The package is complete and features the following elements:
   - [ ] Genotype data in binary PLINK format (not EIGENSTRAT format).
+  - [ ] Genotype has been provided by the original authors of the publication describing the data.
   - [ ] A `POSEIDON.yml` file with not just the file-referencing fields, but also the following meta-information fields present and filled: `poseidonVersion`, `title`, `description`, `contributor`, `packageVersion`, `lastModified` (see [here](https://github.com/poseidon-framework/poseidon-schema/blob/master/POSEIDON_yml_fields.tsv) for their definition)
   - [ ] A reasonably filled `.janno` file (for a list of available fields look [here](https://github.com/poseidon-framework/poseidon-schema/blob/master/janno_columns.tsv) and [here](https://www.poseidon-adna.org/#/janno_details) for more detailed documentation about them).
   - [ ] A `.bib` file with the necessary literature references for each sample in the `.janno` file.
