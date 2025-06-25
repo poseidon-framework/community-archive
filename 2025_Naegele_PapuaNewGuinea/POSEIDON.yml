@@ -1,0 +1,23 @@
+poseidonVersion: 2.7.1
+title: 2025_Naegele_PapuaNewGuinea
+description: The impact of human dispersals and local interactions on the genetic
+  diversity of coastal Papua New Guinea over the past 2,500 years
+contributor:
+- name: Selina Carlhoff
+  email: selina_carlhoff@eva.mpg.de
+  orcid: 0000-0001-9118-2839
+packageVersion: 1.0.0
+lastModified: 2025-06-25
+genotypeData:
+  format: PLINK
+  genoFile: 2025_Naegele_PapuaNewGuinea.bed
+  genoFileChkSum: ef809e8997a5d0390447a15687ab4b3b
+  snpFile: 2025_Naegele_PapuaNewGuinea.bim
+  snpFileChkSum: 3a8fd56c031123985025558105cd78d6
+  indFile: 2025_Naegele_PapuaNewGuinea.fam
+  indFileChkSum: e6a67949db73c43e8586124cbe2f4abd
+  snpSet: 1240K
+jannoFile: 2025_Naegele_PapuaNewGuinea.janno
+jannoFileChkSum: fdc8ddc85b5b5dd0daa1c72e78356db6
+bibFile: 2025_Naegele_PapuaNewGuinea.bib
+bibFileChkSum: ef6ed411b667e7f99c40f27eea50908b
