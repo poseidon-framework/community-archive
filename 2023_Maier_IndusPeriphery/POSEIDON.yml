@@ -13,10 +13,9 @@ genotypeData:
   snpFile: 2023_Maier_IndusPeriphery.bim
   snpFileChkSum: a2d415e2b937164c0cc890f8be599a36
   indFile: 2023_Maier_IndusPeriphery.fam
-  indFileChkSum: e0cbdbd5e7ab5496102e90991ca02deb
+  indFileChkSum: c7a79607bc3b235bebaf2c36ce80bcb5
   snpSet: 1240K
 jannoFile: 2023_Maier_IndusPeriphery.janno
-jannoFileChkSum: 91a9f3b5f259958faed6097f34a49080
+jannoFileChkSum: acb8eb91c24947f20810f58de5cf2075
 bibFile: 2023_Maier_IndusPeriphery.bib
 bibFileChkSum: 5b209b243bc37743cb81dbe2d43d5d6a
-changelogFile: CHANGELOG.md
