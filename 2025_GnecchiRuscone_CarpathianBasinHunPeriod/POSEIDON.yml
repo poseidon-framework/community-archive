@@ -6,8 +6,8 @@ contributor:
 - name: Luca Traverso
   email: luca_traverso@eva.mpg.de
   orcid: 0000-0001-5749-5751
-packageVersion: 1.0.0
-lastModified: 2025-01-28
+packageVersion: 1.0.1
+lastModified: 2025-07-04
 genotypeData:
   format: PLINK
   genoFile: 2025_GnecchiRuscone_CarpathianBasinHunPeriod.bed
@@ -20,4 +20,5 @@ genotypeData:
 jannoFile: 2025_GnecchiRuscone_CarpathianBasinHunPeriod.janno
 jannoFileChkSum: af379347bd8f3c2a32c2e951f01a3e02
 bibFile: 2025_GnecchiRuscone_CarpathianBasinHunPeriod.bib
-bibFileChkSum: c09d37992301d0d5729f917f19cb0560
+bibFileChkSum: 43226c3c5c617e477aca4bd05efe9866
+changelogFile: CHANGELOG.md
