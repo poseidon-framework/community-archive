@@ -6,6 +6,10 @@
 
 ***
 
+- [ ] Samples that already have been published previously, and got re-analysed (e.g. re-sequenced) for the now packaged publication, have a modified `Poseidon_ID` of the form `<Original Poseidon_ID>_<Initials of the main author>_<Year>`. Re-analysed versions of `I1685` (Lazaridis et al. 2016) should, for example, be assigned the IDs `I1685_IL22` (Lazaridis et al. 2022) and `I1685_IL25` (Lazaridis et al. 2025).
+
+***
+
 - [ ] The package is complete and features the following elements:
   - [ ] Genotype data in binary PLINK format (not EIGENSTRAT format).
   - [ ] Genotype has been provided by the original authors of the publication describing the data.
