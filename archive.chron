@@ -1,6 +1,6 @@
 title: Poseidon community-archive chronicle
-chronicleVersion: 1.50.0
-lastModified: 2025-06-30
+chronicleVersion: 1.51.0
+lastModified: 2025-07-04
 packages:
 - title: 2010_RasmussenNature
   version: 2.1.1
@@ -1002,6 +1002,10 @@ packages:
   version: 1.0.1
   commit: ca6556037833fb61e23091693ce99bcec1d8ec7c
   path: 2021_Popovic_Tiwanaku
+- title: 2021_Popovic_Tiwanaku
+  version: 1.0.2
+  commit: 07656cf46b065c8d798581803359a00e23267c8a
+  path: 2021_Popovic_Tiwanaku
 - title: 2021_Posth_Etruscans
   version: 1.0.0
   commit: 8af3a88acdcf7972405e5c03bf08831bdccfd7c4
@@ -1146,6 +1150,10 @@ packages:
   version: 1.0.0
   commit: 5aea204b6f613995567607005c2a8f643fafe0eb
   path: 2023_Maier_IndusPeriphery
+- title: 2023_Maier_IndusPeriphery
+  version: 1.0.1
+  commit: 07656cf46b065c8d798581803359a00e23267c8a
+  path: 2023_Maier_IndusPeriphery
 - title: 2023_Nakatsuka_CaliMexico
   version: 1.0.0
   commit: e448c980c2c9f60fff90683860158a4adc4d9889
@@ -1257,6 +1265,10 @@ packages:
 - title: 2025_GnecchiRuscone_CarpathianBasinHunPeriod
   version: 1.0.0
   commit: 8c3f426c3c9588f34950731ba6a1492063a0020b
+  path: 2025_GnecchiRuscone_CarpathianBasinHunPeriod
+- title: 2025_GnecchiRuscone_CarpathianBasinHunPeriod
+  version: 1.0.1
+  commit: 07656cf46b065c8d798581803359a00e23267c8a
   path: 2025_GnecchiRuscone_CarpathianBasinHunPeriod
 - title: 2025_Naegele_PapuaNewGuinea
   version: 1.0.0
