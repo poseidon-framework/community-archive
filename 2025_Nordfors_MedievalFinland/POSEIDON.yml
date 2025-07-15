@@ -1,9 +1,11 @@
 poseidonVersion: 2.7.1
 title: 2025_Nordfors_MedievalFinland
-description: Genetic data from early medieval (12th century CE) to early modern (19th century CE) individuals from a agricultural community in Pirkanmaa, Southwestern Finland.
+description: Genetic data from early medieval (12th century CE) to early modern (19th
+  century CE) individuals from a agricultural community in Pirkanmaa, Southwestern
+  Finland.
 contributor:
-  - name: Sanni Peltola
-    email: sanni.peltola@eva.mpg.de
+- name: Sanni Peltola
+  email: sanni.peltola@eva.mpg.de
 packageVersion: 1.0.0
 lastModified: 2025-07-03
 genotypeData:
@@ -16,6 +18,6 @@ genotypeData:
   indFileChkSum: ff1a8b3034b96d083b5384a5062e362a
   snpSet: 1240K
 jannoFile: 2025_Nordfors_MedievalFinland.janno
-jannoFileChkSum: 6153eb78e5d3b5979c35b054a23d40b5
+jannoFileChkSum: 6198e50af307e36494fac6e119eb9408
 bibFile: 2025_Nordfors_MedievalFinland.bib
-bibFileChkSum: 93d6d6ae22a70ad159388bd39fe99275
+bibFileChkSum: 6509eb1130895b4691836ffe8ff0bfcf
