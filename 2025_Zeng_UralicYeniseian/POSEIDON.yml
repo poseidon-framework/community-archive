@@ -1,0 +1,21 @@
+poseidonVersion: 2.7.1
+title: 2025_Zeng_UralicYeniseian
+description: Genotype data from Zeng et al. 2025, Ancient DNA reveals the prehistory of the Uralic and Yeniseian peoples
+contributor:
+  - name: Sanni Peltola
+    email: sanni_peltola@eva.mpg.de
+packageVersion: 1.0.0
+lastModified: 2025-07-15
+genotypeData:
+  format: PLINK
+  genoFile: 2025_Zeng_UralicYeniseian.bed
+  genoFileChkSum: b41d0a1d81afab2e366e27d1fc2e1d87
+  snpFile: 2025_Zeng_UralicYeniseian.bim
+  snpFileChkSum: e98d3647ab2d2cba8d88d3620e94fd3d
+  indFile: 2025_Zeng_UralicYeniseian.fam
+  indFileChkSum: 225f4b92f3f1959410c09f7ffc30371c
+  snpSet: Other
+jannoFile: 2025_Zeng_UralicYeniseian.janno
+jannoFileChkSum: b32f6dd03c1b00ce466c39e2d13caa29
+bibFile: 2025_Zeng_UralicYeniseian.bib
+bibFileChkSum: e4647eb8a7686a9a14665283b86210c1
