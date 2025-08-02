@@ -1,0 +1,21 @@
+poseidonVersion: 2.7.1
+title: 2025_Yuncu_Catalhoyuk
+description: Female lineages and changing kinship patterns in Neolithic Çatalhöyük
+contributor:
+- name: Tlkhi
+  email: jodyegrim@gmail.com
+packageVersion: 1.0.0
+lastModified: 2025-08-02
+genotypeData:
+  format: PLINK
+  genoFile: 2025_Yuncu_Catalhoyuk.bed
+  genoFileChkSum: dbda50c3366cde2c980b6d4f0fdac1cc
+  snpFile: 2025_Yuncu_Catalhoyuk.bim
+  snpFileChkSum: a2d415e2b937164c0cc890f8be599a36
+  indFile: 2025_Yuncu_Catalhoyuk.fam
+  indFileChkSum: 11c883bddbcc22420ca0f2bcbc08901b
+  snpSet: 1240K
+jannoFile: 2025_Yuncu_Catalhoyuk.janno
+jannoFileChkSum: a56eb6b48418d523f92a6f6f6b204bfd
+bibFile: 2025_Yuncu_Catalhoyuk.bib
+bibFileChkSum: e0c89dee4d092155cccc9794951f730e
