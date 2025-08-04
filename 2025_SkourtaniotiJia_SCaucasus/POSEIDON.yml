@@ -1,0 +1,22 @@
+poseidonVersion: 2.7.1
+title: 2025_SkourtaniotiJia_SCaucasus
+description: The genetic history of Southern Caucasus from the Bronze Age to the Early
+  Middle Ages
+contributor:
+- name: Eirini Skourtanioti
+  email: eirini_skourtanioti@eva.mpg.de
+packageVersion: 1.0.0
+lastModified: 2025-08-04
+genotypeData:
+  format: EIGENSTRAT
+  genoFile: 2025_SkourtaniotiJia_SCaucasus.geno
+  genoFileChkSum: 3d9174bc3b34d11eb3f70fbfccefa978
+  snpFile: 2025_SkourtaniotiJia_SCaucasus.snp
+  snpFileChkSum: 289a5e3e645694bcde7a44e360b80fbf
+  indFile: 2025_SkourtaniotiJia_SCaucasus.ind
+  indFileChkSum: ee27d7f57b49133e09d071df9f54eb65
+  snpSet: 1240K
+jannoFile: 2025_SkourtaniotiJia_SCaucasus.janno
+jannoFileChkSum: d88ef59a089cbe3776ee9d978e7ebed5
+bibFile: 2025_SkourtaniotiJia_SCaucasus.bib
+bibFileChkSum: 155fe36f7297b419b51837900b1a9ddd
