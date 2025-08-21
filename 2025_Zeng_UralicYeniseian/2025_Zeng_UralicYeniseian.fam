@@ -1,11 +1,11 @@
-Russia_SeimaTurbino_I32545	I32545	0	0	1	0
-Russia_SeimaTurbino_I32552	I32552	0	0	1	0
-Russia_SeimaTurbino_I32551	I32551_d	0	0	0	0
-Russia_SeimaTurbino_I32369	I32369	0	0	1	0
-Russia_SeimaTurbino_I32816	I32816	0	0	1	0
-Russia_SeimaTurbino_I33398	I33398	0	0	1	0
-Russia_SeimaTurbino_I32898	I32898	0	0	2	0
-Russia_SeimaTurbino_I32899	I32899	0	0	2	0
+Russia_SeimaTurbino	I32545	0	0	1	0
+Russia_SeimaTurbino	I32552	0	0	1	0
+Russia_SeimaTurbino	I32551_d	0	0	0	0
+Russia_SeimaTurbino	I32369	0	0	1	0
+Russia_SeimaTurbino	I32816	0	0	1	0
+Russia_SeimaTurbino	I33398	0	0	1	0
+Russia_SeimaTurbino	I32898	0	0	2	0
+Russia_SeimaTurbino	I32899	0	0	2	0
 Russia_EBA_Okunevsky	I6950	0	0	1	0
 Russia_Eneolithic_Chernoozersky	I6951	0	0	1	0
 Russia_Eneolithic_Chernoozersky	I6787	0	0	1	0
@@ -191,5 +191,5 @@ Russia_BA_Irkutsk	I2143	0	0	1	0
 Russia_WestSiberia_N	I1962	0	0	1	0
 Russia_N_Angara_possible	I10900_d	0	0	1	0
 Russia_Firsovo_N	I11741_d	0	0	1	0
-Russia_SeimaTurbino_I25555	I25555	0	0	1	0
-Russia_SeimaTurbino_I25558	I25558	0	0	2	0
+Russia_SeimaTurbino	I25555	0	0	1	0
+Russia_SeimaTurbino	I25558	0	0	2	0
