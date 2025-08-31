@@ -12,9 +12,9 @@ lastModified: 2025-08-05
 genotypeData:
   format: PLINK
   genoFile: 2025_SkourtaniotiJia_SCaucasus.bed
-  genoFileChkSum: 8df565494e82939ed18e209d3f0ea011
+  genoFileChkSum: 8dde01b4740c1f063e20ee6625ea47e4
   snpFile: 2025_SkourtaniotiJia_SCaucasus.bim
-  snpFileChkSum: faed6cdc384af8ba7de00a93edce5be9
+  snpFileChkSum: 433fa85a23f3123bade02348e4628b75
   indFile: 2025_SkourtaniotiJia_SCaucasus.fam
   indFileChkSum: 814e4083c875c72bdec5501c565fe2cd
   snpSet: 1240K
