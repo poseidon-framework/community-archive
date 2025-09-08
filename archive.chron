@@ -1,6 +1,6 @@
 title: Poseidon community-archive chronicle
-chronicleVersion: 1.55.0
-lastModified: 2025-08-27
+chronicleVersion: 1.56.0
+lastModified: 2025-09-08
 packages:
 - title: 2010_RasmussenNature
   version: 2.1.1
@@ -1282,6 +1282,10 @@ packages:
   version: 1.0.0
   commit: 571c883df37f42ec659db3a5d68392bab6c3f81b
   path: 2025_Nordfors_MedievalFinland
+- title: 2025_SkourtaniotiJia_SCaucasus
+  version: 1.0.0
+  commit: 0a50618bd88ec51d92e19af9187894ac7effb923
+  path: 2025_SkourtaniotiJia_SCaucasus
 - title: 2025_Yuncu_Catalhoyuk
   version: 1.0.0
   commit: bdf8e81b2d4f681e12e314ab3a6cb70294d26f79
