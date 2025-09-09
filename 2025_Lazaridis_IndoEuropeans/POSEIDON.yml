@@ -5,7 +5,7 @@ contributor:
 - name: Tlkhi
   email: jodyegrim@gmail.com
 packageVersion: 1.0.0
-lastModified: 2025-08-20
+lastModified: 2025-09-09
 genotypeData:
   format: PLINK
   genoFile: 2025_Lazaridis_IndoEuropeans.bed
