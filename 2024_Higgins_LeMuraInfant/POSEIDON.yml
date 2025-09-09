@@ -1,22 +1,22 @@
 poseidonVersion: 2.7.1
-title: 2024_Higgins_MuraUP
+title: 2024_Higgins_LeMuraInfant
 description: Life history and ancestry of the late Upper Palaeolithic infant from Grotta delle Mura, Italy
 contributor:
 - name: Tlkhi
   email: jodyegrim@gmail.com
 packageVersion: 1.0.0
-lastModified: 2025-09-03
+lastModified: 2025-09-09
 genotypeData:
   format: PLINK
-  genoFile: 2024_Higgins_MuraUP.bed
+  genoFile: 2024_Higgins_LeMuraInfant.bed
   genoFileChkSum: 3dde9ab27a25c31fb11feda87fef7573
-  snpFile: 2024_Higgins_MuraUP.bim
+  snpFile: 2024_Higgins_LeMuraInfant.bim
   snpFileChkSum: 2613312a842646f38567686da0c2fe0d
-  indFile: 2024_Higgins_MuraUP.fam
+  indFile: 2024_Higgins_LeMuraInfant.fam
   indFileChkSum: bfc6a6513f0a0471cdc87f1a47bc9734
   snpSet: 1240K
-jannoFile: 2024_Higgins_MuraUP.janno
-jannoFileChkSum: 898374aa7d48a9f0eaa1141caa3eacb7
-bibFile: 2024_Higgins_MuraUP.bib
+jannoFile: 2024_Higgins_LeMuraInfant.janno
+jannoFileChkSum: 8cb44e5efb1af7d55dfb74862c809caf
+bibFile: 2024_Higgins_LeMuraInfant.bib
 bibFileChkSum: 18bd620b25445928adeaec0163578329
 readmeFile: README.md
