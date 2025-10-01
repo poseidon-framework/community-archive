@@ -5,7 +5,7 @@ contributor:
 - name: Denisa Zlámalová
   email: denisa_zlamalova@eva.mpg.de
   orcid: 0000-0003-2324-2195
-packageVersion: 0.1.0
+packageVersion: 1.0.0
 lastModified: 2025-09-26
 genotypeData:
   format: PLINK
