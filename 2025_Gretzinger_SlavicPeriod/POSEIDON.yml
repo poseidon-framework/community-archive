@@ -14,11 +14,11 @@ genotypeData:
   snpFile: Gretzinger_et_al.250924_ALL.bim
   snpFileChkSum: a2d415e2b937164c0cc890f8be599a36
   indFile: Gretzinger_et_al.250924_ALL.fam
-  indFileChkSum: 92632bee0a2cf8606e94893dbb69c60d
+  indFileChkSum: 71f2df918bf469f2964067ff89a07f68
   snpSet: 1240K
 jannoFile: 2025_Gretzinger_SlavicPeriod.janno
-jannoFileChkSum: fd45ea80cd6a2fa24c21faf44fcc0e8e
+jannoFileChkSum: 35beefaaeac27e9ca881215e25725bef
 bibFile: 2025_Gretzinger_SlavicPeriod.bib
 bibFileChkSum: d3668ffb65ccbd42f8beb20cfccfa7e5
 sequencingSourceFile: 2025_Gretzinger_SlavicPeriod.ssf
-sequencingSourceFileChkSum: b6fb7b691ce1dd18ea333b025a632206
+sequencingSourceFileChkSum: c07bf52a11c8fb29b3ed0c98ac7f9c5a
