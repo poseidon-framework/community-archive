@@ -9,11 +9,11 @@ packageVersion: 1.0.0
 lastModified: 2025-10-01
 genotypeData:
   format: PLINK
-  genoFile: Gretzinger_et_al.250924_ALL.bed
+  genoFile: 2025_Gretzinger_SlavicPeriod.bed
   genoFileChkSum: cbbdfbd3e286828d4f9d847035ef10c3
-  snpFile: Gretzinger_et_al.250924_ALL.bim
+  snpFile: 2025_Gretzinger_SlavicPeriod.bim
   snpFileChkSum: a2d415e2b937164c0cc890f8be599a36
-  indFile: Gretzinger_et_al.250924_ALL.fam
+  indFile: 2025_Gretzinger_SlavicPeriod.fam
   indFileChkSum: 71f2df918bf469f2964067ff89a07f68
   snpSet: 1240K
 jannoFile: 2025_Gretzinger_SlavicPeriod.janno
