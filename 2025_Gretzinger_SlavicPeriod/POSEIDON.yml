@@ -17,7 +17,7 @@ genotypeData:
   indFileChkSum: 71f2df918bf469f2964067ff89a07f68
   snpSet: 1240K
 jannoFile: 2025_Gretzinger_SlavicPeriod.janno
-jannoFileChkSum: 35beefaaeac27e9ca881215e25725bef
+jannoFileChkSum: 170a155f1f574609a7a13cecf7f2c1a3
 bibFile: 2025_Gretzinger_SlavicPeriod.bib
 bibFileChkSum: d3668ffb65ccbd42f8beb20cfccfa7e5
 sequencingSourceFile: 2025_Gretzinger_SlavicPeriod.ssf
