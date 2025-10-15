@@ -1,6 +1,6 @@
 title: Poseidon community-archive chronicle
-chronicleVersion: 1.57.0
-lastModified: 2025-09-14
+chronicleVersion: 1.58.0
+lastModified: 2025-10-15
 packages:
 - title: 2010_RasmussenNature
   version: 2.1.1
@@ -1278,6 +1278,10 @@ packages:
   version: 1.0.1
   commit: 07656cf46b065c8d798581803359a00e23267c8a
   path: 2025_GnecchiRuscone_CarpathianBasinHunPeriod
+- title: 2025_Gretzinger_SlavicPeriod
+  version: 1.0.0
+  commit: 4f0a0904e8263db567015d0161c9fb75b4c250b8
+  path: 2025_Gretzinger_SlavicPeriod
 - title: 2025_Lazaridis_IndoEuropeans
   version: 1.0.0
   commit: 7d0a4a29cfa0491741d591d695d75becfca334cc
