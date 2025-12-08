@@ -1,0 +1,24 @@
+poseidonVersion: 2.7.1
+title: 2025_Saag_NorthPontic
+description: North Pontic crossroads. Mobility in Ukraine from the Bronze Age to the
+  early modern period
+contributor:
+- name: Lehti Saag
+  email: lehti.​saag@​ut.​ee
+- name: Tlkhi
+  email: jodyegrim@gmail.com
+packageVersion: 1.0.0
+lastModified: 2025-09-02
+genotypeData:
+  format: PLINK
+  genoFile: 2025_Saag_NorthPontic.bed
+  genoFileChkSum: 2c21853d7a850ca7ed4ec4d5e5ba1f01
+  snpFile: 2025_Saag_NorthPontic.bim
+  snpFileChkSum: 2613312a842646f38567686da0c2fe0d
+  indFile: 2025_Saag_NorthPontic.fam
+  indFileChkSum: 73ddca919cbd6bb115e0cd429ceda46f
+  snpSet: 1240K
+jannoFile: 2025_Saag_NorthPontic.janno
+jannoFileChkSum: e2fe6c05df2fe1e94d83fb8c2bef4d5b
+bibFile: 2025_Saag_NorthPontic.bib
+bibFileChkSum: 85db30a74f786656b694edb431b5ea59
