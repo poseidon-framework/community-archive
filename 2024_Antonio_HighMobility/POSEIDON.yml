@@ -1,6 +1,7 @@
 poseidonVersion: 2.7.1
 title: 2024_Antonio_HighMobility
-description: Stable population structure in Europe since the Iron Age, despite high mobility
+description: Stable population structure in Europe since the Iron Age, despite high
+  mobility
 contributor:
 - name: Tlkhi
   email: jodyegrim@gmail.com
@@ -16,7 +17,7 @@ genotypeData:
   indFileChkSum: 6e1cc3b44de9079e8723751ca25b8994
   snpSet: 1240K
 jannoFile: 2024_Antonio_HighMobility.janno
-jannoFileChkSum: 1afb2c9e2be607b5f7c9bb6fb62b3dcd
+jannoFileChkSum: 40cc1ee8b85a4880fcb68c8cb4c826be
 bibFile: 2024_Antonio_HighMobility.bib
 bibFileChkSum: 59fc9ecce1278f75091bee51faa3ea68
 readmeFile: README.md
