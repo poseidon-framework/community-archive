@@ -1,0 +1,6 @@
+title: Retired packages in the Poseidon community-archive
+version: 1.0.0
+lastModified: 2026-01-06
+packages:
+  - name: 2019_BraceNatureEcologyEvolution
+    comment: Package was merged with 2019_Brace_Britain.
