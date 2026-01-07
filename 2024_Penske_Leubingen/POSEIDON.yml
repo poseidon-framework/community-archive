@@ -1,6 +1,6 @@
 poseidonVersion: 2.7.1
 title: 2024_Penske_Leubingen
-description: Data from Leubingen (Central Germany) early bronze age paper about kinship
+description: Data from Leubingen (Central Germany) Early Bronze Age paper about kinship
   practices, by Penske et al. Scientific Reports
 contributor:
 - name: Sandra Penske
@@ -10,7 +10,7 @@ contributor:
   email: stephan_schiffels@eva.mpg.de
   orcid: 0000-0002-1017-9150
 packageVersion: 1.0.0
-lastModified: 2025-02-11
+lastModified: 2026-01-07
 genotypeData:
   format: PLINK
   genoFile: 2024_Penske_Leubingen.bed
@@ -23,5 +23,5 @@ genotypeData:
 jannoFile: 2024_Penske_Leubingen.janno
 jannoFileChkSum: e5a6aacc18a15a8acd62a401bb225a2d
 bibFile: 2024_Penske_Leubingen.bib
-bibFileChkSum: 2013255602fa5fc8577a7e49c6e3c594
+bibFileChkSum: eae08be519aef5126b9146e18ef1e0a1
 changelogFile: CHANGELOG.md
