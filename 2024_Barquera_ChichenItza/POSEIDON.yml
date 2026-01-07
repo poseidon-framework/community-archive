@@ -1,0 +1,24 @@
+poseidonVersion: 2.7.1
+title: 2024_Barquera_ChichenItza
+description: Genotypes for the individuals analysed from the Chultún in Chichén Itzá,
+  terminal Classic/Early post Classic periods, Yucatan, Mexico.
+contributor:
+- name: Rodrigo Barquera
+  email: rodrigo_barquera@eva.mpg.de
+  orcid: 0000-0003-0518-4518
+packageVersion: 1.0.0
+lastModified: 2025-02-11
+genotypeData:
+  format: PLINK
+  genoFile: 2024_Barquera_ChichenItza.bed
+  genoFileChkSum: ee3a1300105c9c602f86f91c7bd0850d
+  snpFile: 2024_Barquera_ChichenItza.bim
+  snpFileChkSum: e0293a526f7c4de04101f54750120355
+  indFile: 2024_Barquera_ChichenItza.fam
+  indFileChkSum: 1b17044d3526a11a485293dc082624f2
+  snpSet: Other
+jannoFile: 2024_Barquera_ChichenItza.janno
+jannoFileChkSum: 135d94a5105104469a3b98b52401dcdb
+bibFile: 2024_Barquera_ChichenItza.bib
+bibFileChkSum: 303e87f56348a7153317f9e158135b95
+changelogFile: CHANGELOG.md

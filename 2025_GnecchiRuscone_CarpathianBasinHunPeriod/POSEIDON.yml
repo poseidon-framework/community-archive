@@ -1,0 +1,24 @@
+poseidonVersion: 2.7.1
+title: 2025_GnecchiRuscone_CarpathianBasinHunPeriod
+description: 23 5th-6th centuries CE Carpathian Basin individuals and 12 2-5th century
+  individuals from the Altai region
+contributor:
+- name: Luca Traverso
+  email: luca_traverso@eva.mpg.de
+  orcid: 0000-0001-5749-5751
+packageVersion: 1.0.1
+lastModified: 2025-07-04
+genotypeData:
+  format: PLINK
+  genoFile: 2025_GnecchiRuscone_CarpathianBasinHunPeriod.bed
+  genoFileChkSum: 859d30580eb03401fb885a3b8699932e
+  snpFile: 2025_GnecchiRuscone_CarpathianBasinHunPeriod.bim
+  snpFileChkSum: 433fa85a23f3123bade02348e4628b75
+  indFile: 2025_GnecchiRuscone_CarpathianBasinHunPeriod.fam
+  indFileChkSum: de3b16297fe94fea863ba8306137fee6
+  snpSet: Other
+jannoFile: 2025_GnecchiRuscone_CarpathianBasinHunPeriod.janno
+jannoFileChkSum: af379347bd8f3c2a32c2e951f01a3e02
+bibFile: 2025_GnecchiRuscone_CarpathianBasinHunPeriod.bib
+bibFileChkSum: 43226c3c5c617e477aca4bd05efe9866
+changelogFile: CHANGELOG.md

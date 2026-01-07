@@ -1,6 +1,6 @@
 title: Poseidon community-archive chronicle
-chronicleVersion: 1.36.0
-lastModified: 2025-02-11
+chronicleVersion: 1.61.0
+lastModified: 2026-01-07
 packages:
 - title: 2010_RasmussenNature
   version: 2.1.1
@@ -810,6 +810,10 @@ packages:
   version: 2.2.1
   commit: 9d1d1c23c91a6b2c260b659c77f32d093422d7db
   path: 2020_Nagele_Caribbean
+- title: 2020_Nagele_Caribbean
+  version: 2.2.2
+  commit: 6175ebfff358ef066f8ee16ccf35764443b18925
+  path: 2020_Nagele_Caribbean
 - title: 2020_Nakatsuka_Andes
   version: 2.3.0
   commit: 7f52e722d29286ccf04320b5dfb6efee4b19e9f5
@@ -990,6 +994,18 @@ packages:
   version: 0.4.3
   commit: 9d1d1c23c91a6b2c260b659c77f32d093422d7db
   path: 2021_PattersonNature
+- title: 2021_Popovic_Tiwanaku
+  version: 1.0.0
+  commit: 285e4d5ce842f1200c0b071410ade3ad2dbffb72
+  path: 2021_Popovic_Tiwanaku
+- title: 2021_Popovic_Tiwanaku
+  version: 1.0.1
+  commit: ca6556037833fb61e23091693ce99bcec1d8ec7c
+  path: 2021_Popovic_Tiwanaku
+- title: 2021_Popovic_Tiwanaku
+  version: 1.0.2
+  commit: 07656cf46b065c8d798581803359a00e23267c8a
+  path: 2021_Popovic_Tiwanaku
 - title: 2021_Posth_Etruscans
   version: 1.0.0
   commit: 8af3a88acdcf7972405e5c03bf08831bdccfd7c4
@@ -1018,6 +1034,10 @@ packages:
   version: 0.3.1
   commit: 9d1d1c23c91a6b2c260b659c77f32d093422d7db
   path: 2021_SeguinOrlando_Neolithic
+- title: 2021_Silva_AlAndalus
+  version: 1.0.0
+  commit: fbe6cba9d5b805e7050453cc630129053a43b53b
+  path: 2021_Silva_AlAndalus
 - title: 2021_Svensson_PreGlacial
   version: 0.3.0
   commit: 7f52e722d29286ccf04320b5dfb6efee4b19e9f5
@@ -1086,6 +1106,14 @@ packages:
   version: 1.2.1
   commit: d27e414908cb0884614e58ff48ead5e9efe18c16
   path: 2022_Gretzinger_AngloSaxons
+- title: 2022_Kumar_Xinjiang
+  version: 1.0.0
+  commit: 0e5c338a5cffe014ca740ded0b2f4db433a5b990
+  path: 2022_KumarScience_Xinjiang
+- title: 2022_Liu_Micronesia
+  version: 1.0.0
+  commit: b379f951d8c210e27153876e329d7800ca4b892f
+  path: 2022_Liu_Micronesia
 - title: 2022_Yu_VanDeLoosdrecht_Sicily
   version: 1.0.0
   commit: 655ced28348aaf1bcfb36d3852a9474eaf8ad13d
@@ -1118,6 +1146,18 @@ packages:
   version: 1.1.1
   commit: 9d1d1c23c91a6b2c260b659c77f32d093422d7db
   path: 2023_Koptekin_SouthwestAsia
+- title: 2023_Maier_IndusPeriphery
+  version: 1.0.0
+  commit: 5aea204b6f613995567607005c2a8f643fafe0eb
+  path: 2023_Maier_IndusPeriphery
+- title: 2023_Maier_IndusPeriphery
+  version: 1.0.1
+  commit: 07656cf46b065c8d798581803359a00e23267c8a
+  path: 2023_Maier_IndusPeriphery
+- title: 2023_Nakatsuka_CaliMexico
+  version: 1.0.0
+  commit: e448c980c2c9f60fff90683860158a4adc4d9889
+  path: 2023_Nakatsuka_CaliMexico
 - title: 2023_Peltola_VolgaOka
   version: 1.0.0
   commit: 5d652f0f04a071f31183004fbbe396612c9bcef1
@@ -1134,6 +1174,10 @@ packages:
   version: 1.0.0
   commit: 45f919833071030a2d6ce09cb041d5fdad5f8edd
   path: 2023_Penske_EarlyContact
+- title: 2023_Rivollat_ExtensivePedigrees
+  version: 1.0.0
+  commit: c877ca2c56f55535b8f6ec66687534efefc4e23f
+  path: 2023_Rivollat_ExtensivePedigrees
 - title: 2023_Skourtanioti_Aegean
   version: 1.0.0
   commit: 87107b1dff185abe653f15b7e4b602d7a0ff1d0f
@@ -1142,6 +1186,10 @@ packages:
   version: 1.0.1
   commit: 9d1d1c23c91a6b2c260b659c77f32d093422d7db
   path: 2023_Skourtanioti_Aegean
+- title: 2023_VillaIslas_preHispanicMexico
+  version: 1.0.0
+  commit: 54c6765d820047560e94b59479c2b723b09b7ec2
+  path: 2023_VillaIslas_preHispanicMexico
 - title: 2023_Wang_AnatoliaLevantPPNB
   version: 1.0.0
   commit: 87107b1dff185abe653f15b7e4b602d7a0ff1d0f
@@ -1162,6 +1210,14 @@ packages:
   version: 1.0.2
   commit: 9d1d1c23c91a6b2c260b659c77f32d093422d7db
   path: 2024_Allentoft_PostGlacial_WestEurasia
+- title: 2024_Antonio_HighMobility
+  version: 1.0.0
+  commit: 33dc90fdfd8d51abd845a11821abb779f148b6db
+  path: 2024_Antonio_HighMobility
+- title: 2024_Barquera_ChichenItza
+  version: 1.0.0
+  commit: 8dd75d90c2bffc428dc9f264323e4a99d27dc6ff
+  path: 2024_Barquera_ChichenItza
 - title: 2024_Ghalichi_Caucasus
   version: 1.0.0
   commit: b227a3d7534e50ac10fbc3459c8b9f54945d2684
@@ -1202,10 +1258,66 @@ packages:
   version: 1.1.1
   commit: 51dafcd9deb60915dab5e7f4cd3ea405b41f6696
   path: 2024_Gretzinger_EarlyCelts
+- title: 2024_Higgins_LeMuraInfant
+  version: 1.0.0
+  commit: 7d0a4a29cfa0491741d591d695d75becfca334cc
+  path: 2024_Higgins_LeMuraInfant
+- title: 2024_Penske_Leubingen
+  version: 1.0.0
+  commit: f3edd69f296fe2016d86a95444b835f314851995
+  path: 2024_Penske_Leubingen
+- title: 2024_Ravasini_Picene
+  version: 1.0.0
+  commit: 0be4005fc6d7017e8fa203c78cef86928cab2033
+  path: 2024_Ravasini_Picene
 - title: 2024_Wang_ViennaBasinAvarPeriod
   version: 1.0.0
   commit: e17d86a26577f8949a3771258b9718a67c226a3a
   path: 2024_Wang_ViennaBasinAvarPeriod
+- title: 2025_Amjadi_NorthernIran
+  version: 1.0.0
+  commit: 5b0dcbd544027e5f16d802e448d2b0c7306329a0
+  path: 2025_Amjadi_NorthernIran
+- title: 2025_GnecchiRuscone_CarpathianBasinHunPeriod
+  version: 1.0.0
+  commit: 8c3f426c3c9588f34950731ba6a1492063a0020b
+  path: 2025_GnecchiRuscone_CarpathianBasinHunPeriod
+- title: 2025_GnecchiRuscone_CarpathianBasinHunPeriod
+  version: 1.0.1
+  commit: 07656cf46b065c8d798581803359a00e23267c8a
+  path: 2025_GnecchiRuscone_CarpathianBasinHunPeriod
+- title: 2025_Gretzinger_SlavicPeriod
+  version: 1.0.0
+  commit: 4f0a0904e8263db567015d0161c9fb75b4c250b8
+  path: 2025_Gretzinger_SlavicPeriod
+- title: 2025_Lazaridis_IndoEuropeans
+  version: 1.0.0
+  commit: 7d0a4a29cfa0491741d591d695d75becfca334cc
+  path: 2025_Lazaridis_IndoEuropeans
+- title: 2025_Naegele_PapuaNewGuinea
+  version: 1.0.0
+  commit: 4d458859452c44532e09fae941993ef078032172
+  path: 2025_Naegele_PapuaNewGuinea
+- title: 2025_Nordfors_MedievalFinland
+  version: 1.0.0
+  commit: 571c883df37f42ec659db3a5d68392bab6c3f81b
+  path: 2025_Nordfors_MedievalFinland
+- title: 2025_Saag_NorthPontic
+  version: 1.0.0
+  commit: 69b071633b1af10fe651ecaf101e5b79b04455ec
+  path: 2025_Saag_NorthPontic
+- title: 2025_SkourtaniotiJia_SCaucasus
+  version: 1.0.0
+  commit: 0a50618bd88ec51d92e19af9187894ac7effb923
+  path: 2025_SkourtaniotiJia_SCaucasus
+- title: 2025_Yuncu_Catalhoyuk
+  version: 1.0.0
+  commit: bdf8e81b2d4f681e12e314ab3a6cb70294d26f79
+  path: 2025_Yuncu_Catalhoyuk
+- title: 2025_Zeng_UralicYeniseian
+  version: 1.0.0
+  commit: 711045ab5e586641442e7c63b4f631ddfbe4eeb2
+  path: 2025_Zeng_UralicYeniseian
 - title: Archaic_Humans
   version: 2.2.0
   commit: 7f52e722d29286ccf04320b5dfb6efee4b19e9f5

@@ -1,0 +1,25 @@
+poseidonVersion: 2.7.1
+title: 2025_Gretzinger_SlavicPeriod
+description: Data of 590 individuals from the Migration Period and Early Middle Ages
+  published in Gretzinger et al. 2025
+contributor:
+- name: Denisa Zlámalová
+  email: denisa_zlamalova@eva.mpg.de
+  orcid: 0000-0003-2324-2195
+packageVersion: 1.0.0
+lastModified: 2025-10-01
+genotypeData:
+  format: PLINK
+  genoFile: 2025_Gretzinger_SlavicPeriod.bed
+  genoFileChkSum: cbbdfbd3e286828d4f9d847035ef10c3
+  snpFile: 2025_Gretzinger_SlavicPeriod.bim
+  snpFileChkSum: a2d415e2b937164c0cc890f8be599a36
+  indFile: 2025_Gretzinger_SlavicPeriod.fam
+  indFileChkSum: 71f2df918bf469f2964067ff89a07f68
+  snpSet: 1240K
+jannoFile: 2025_Gretzinger_SlavicPeriod.janno
+jannoFileChkSum: d8733610cd71ac54e3539d87b60fb667
+sequencingSourceFile: 2025_Gretzinger_SlavicPeriod.ssf
+sequencingSourceFileChkSum: 51faac06f6a9a3478200fc2f941185f3
+bibFile: 2025_Gretzinger_SlavicPeriod.bib
+bibFileChkSum: 8f8cf0fffac404d2d8fcdd86a9c03d10

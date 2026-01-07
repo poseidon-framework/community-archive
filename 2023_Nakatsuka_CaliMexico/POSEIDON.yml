@@ -1,0 +1,24 @@
+poseidonVersion: 2.7.1
+title: 2023_Nakatsuka_CaliMexico
+description: Genetic continuity and change among the Indigenous peoples of California.
+  Genotypes obtained from their dataverse.
+contributor:
+- name: Judith Ballesteros Villascán
+  email: judith_ballesteros@eva.mpg.de
+- name: Eleni Seferidou
+  email: eleni_seferidou@eva.mpg.de
+packageVersion: 1.0.0
+lastModified: 2025-05-15
+genotypeData:
+  format: PLINK
+  genoFile: 2023_Nakatsuka_CaliMexico.bed
+  genoFileChkSum: 5da4224ea2cb2e6b78fd50188b2df7d7
+  snpFile: 2023_Nakatsuka_CaliMexico.bim
+  snpFileChkSum: 433fa85a23f3123bade02348e4628b75
+  indFile: 2023_Nakatsuka_CaliMexico.fam
+  indFileChkSum: 4c1a8d6c16757b7a607b9b8b1df764a1
+  snpSet: 1240K
+jannoFile: 2023_Nakatsuka_CaliMexico.janno
+jannoFileChkSum: 6ab1c5e40d2f902984b89582d0ca299f
+bibFile: 2023_Nakatsuka_CaliMexico.bib
+bibFileChkSum: f18f3108bb7f9342798fb75329df1cc9

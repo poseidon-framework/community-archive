@@ -1,0 +1,120 @@
+Poseidon_ID	Genetic_Sex	Group_Name	Country	Location	Latitude	Longitude	Date_Type	Date_C14_Uncal_BP	Date_C14_Uncal_BP_Err	Date_BC_AD_Start	Date_BC_AD_Stop	Date_Note	Source_Tissue	Nr_Libraries	Capture_Type	UDG	Library_Built	Nr_SNPs	Publication	Note
+I1863	M	Mexico_CoyoteCave_2750BP	Mexico	Coyote Cave (Coahuila, Torreón)	25.42	-100.96	contextual	n/a	n/a	-1000	-600	n/a	tooth_molar	1	1240K	half	ds	86806	nakatsuka2023genetic	QUESTIONABLE;assigned >5% membership in CEU ADMIXTURE cluster so may be European contaminated
+I1864	M	Mexico_CoyoteCave_950BP	Mexico	Coyote Cave (Coahuila, Torreón)	25.42	-100.96	C14	1035	25	904	1038	n/a	tooth_molar	1	1240K	half	ds	483063	nakatsuka2023genetic	PASS
+I1867	F	Mexico_SanLorenzo_700BP	Mexico	San Lorenzo Cave (Coahuila, Torreón)	25.42	-100.96	C14	750	20	1229	1287	n/a	tooth_molar	1	1240K	half	ds	97185	nakatsuka2023genetic	QUESTIONABLE;assigned >5% membership in CEU ADMIXTURE cluster so may be European contaminated
+I8242	F	Mexico_Trincheras_LaPlaya_600BP	Mexico	La Playa (Sonora, Trincheras)	30.442	-111.54	contextual	n/a	n/a	1200	1450	n/a	petrous	2	1240K	mixed	mixed	102709	nakatsuka2023genetic	QUESTIONABLE
+I8243	M	Mexico_Trincheras_LaPlaya_600BP	Mexico	La Playa (Sonora, Trincheras)	30.442	-111.54	contextual	n/a	n/a	1200	1450	n/a	petrous	2	1240K	mixed	mixed	211067	nakatsuka2023genetic	QUESTIONABLE
+I8363	M	Mexico_Trincheras_LaPlaya_600BP	Mexico	La Playa (Sonora, Trincheras)	30.442	-111.54	contextual	n/a	n/a	1200	1450	n/a	petrous	1	1240K	half	ds	902541	nakatsuka2023genetic	PASS
+I11983	M	Mexico_CuevaDeLosMuertosChiquitos_1100BP	Mexico	Cueva DeLos Muertos Chiquitos (Rio Zape)	25.813	-105.79	contextual	n/a	n/a	100	1400	n/a	petrous	2	1240K	half	ds	952411	nakatsuka2023genetic	PASS
+I11984	F	Mexico_CuevaDeLosMuertosChiquitos_1100BP	Mexico	Cueva DeLos Muertos Chiquitos (Rio Zape)	25.813	-105.79	contextual	n/a	n/a	100	1400	n/a	petrous	1	1240K	half	ds	582751	nakatsuka2023genetic	PASS
+I11985	F	Mexico_CuevaDeLosMuertosChiquitos_1100BP	Mexico	Cueva DeLos Muertos Chiquitos (Rio Zape)	25.813	-105.79	C14	1225	20	706	881	n/a	petrous	1	1240K	half	ds	848552	nakatsuka2023genetic	PASS
+I11986	F	Mexico_CuevaDeLosMuertosChiquitos_1100BP	Mexico	Cueva DeLos Muertos Chiquitos (Rio Zape)	25.813	-105.79	contextual	n/a	n/a	100	1400	n/a	petrous	1	1240K	half	ds	490098	nakatsuka2023genetic	PASS
+I11987	F	Mexico_CuevaDeLosMuertosChiquitos_1100BP	Mexico	Cueva DeLos Muertos Chiquitos (Rio Zape)	25.813	-105.79	contextual	n/a	n/a	100	1400	n/a	petrous	1	1240K	half	ds	737535	nakatsuka2023genetic	PASS
+I11988	F	Mexico_CuevaDeLosMuertosChiquitos_1100BP	Mexico	Cueva DeLos Muertos Chiquitos (Rio Zape)	25.813	-105.79	C14	1340	20	650	773	n/a	petrous	1	1240K	half	ds	830293	nakatsuka2023genetic	PASS
+I12570	M	Mexico_CuevaDeLosMuertosChiquitos_1100BP	Mexico	Cueva DeLos Muertos Chiquitos (Rio Zape)	25.813	-105.79	C14	1125	15	887	986	n/a	petrous	1	1240K	half	ds	836546	nakatsuka2023genetic	PASS
+I12571	M	Mexico_CuevaDeLosMuertosChiquitos_1100BP	Mexico	Cueva DeLos Muertos Chiquitos (Rio Zape)	25.813	-105.79	C14	1220	15	709	880	n/a	petrous	1	1240K	half	ds	191692	nakatsuka2023genetic	PASS
+I12572	M	Mexico_CuevaDeLosMuertosChiquitos_1100BP	Mexico	Cueva DeLos Muertos Chiquitos (Rio Zape)	25.813	-105.79	C14	1150	20	773	978	n/a	petrous	1	1240K	half	ds	861128	nakatsuka2023genetic	PASS
+I12574	M	Mexico_CuevaDeLosMuertosChiquitos_1100BP	Mexico	Cueva DeLos Muertos Chiquitos (Rio Zape)	25.813	-105.79	C14	1825	20	131	318	n/a	petrous	1	1240K	half	ds	38338	nakatsuka2023genetic	QUESTIONABLE
+I17096	M	Mexico_Tayopa_1000BP	Mexico	Tayopa Site 62 (Sonora, Sahuaripa)	29.045	-108.85	contextual	n/a	n/a	500	1400	n/a	petrous	1	1240K	plus	ss	54674	nakatsuka2023genetic	PASS
+I17113	F	Mexico_Tayopa_1000BP	Mexico	Tayopa Site 63 (Sonora, Sahuaripa)	29.045	-108.75	contextual	n/a	n/a	500	1400	n/a	petrous	1	1240K	plus	ss	132381	nakatsuka2023genetic	PASS
+I17114	M	Mexico_Tayopa_1000BP	Mexico	Tayopa Site 63 (Sonora, Sahuaripa)	29.045	-108.75	contextual	n/a	n/a	500	1400	n/a	petrous	1	1240K	plus	ss	113238	nakatsuka2023genetic	PASS
+I17125	M	Mexico_Tayopa_1000BP	Mexico	Tayopa Site 63 (Sonora, Sahuaripa)	29.045	-108.75	contextual	n/a	n/a	500	1400	n/a	petrous	1	1240K	plus	ss	154314	nakatsuka2023genetic	PASS
+I8235	M	Mexico_Tayopa_1000BP	Mexico	Tayopa (Sonora, Sahuaripa)	29.1	-108.93	contextual	n/a	n/a	500	1400	n/a	petrous	2	1240K	mixed	mixed	919202	nakatsuka2023genetic	PASS
+I8236	F	Mexico_Tayopa_1000BP	Mexico	Tayopa (Sonora, Sahuaripa)	29.1	-108.93	contextual	n/a	n/a	500	1400	n/a	petrous	2	1240K	mixed	mixed	976442	nakatsuka2023genetic	PASS
+I8237	M	Mexico_Tayopa_1000BP	Mexico	Tayopa (Sonora, Sahuaripa)	29.1	-108.93	contextual	n/a	n/a	500	1400	n/a	petrous	2	1240K	mixed	mixed	971825	nakatsuka2023genetic	PASS
+I8238	M	Mexico_Tayopa_1000BP	Mexico	Tayopa (Sonora, Sahuaripa)	29.1	-108.93	contextual	n/a	n/a	500	1400	n/a	petrous	2	1240K	mixed	mixed	906273	nakatsuka2023genetic	PASS
+I8239	M	Mexico_Tayopa_1000BP	Mexico	Tayopa (Sonora, Sahuaripa)	29.1	-108.93	contextual	n/a	n/a	500	1400	n/a	petrous	2	1240K	mixed	mixed	800606	nakatsuka2023genetic	PASS
+I8240	F	Mexico_Tayopa_1000BP	Mexico	Tayopa (Sonora, Sahuaripa)	29.1	-108.93	contextual	n/a	n/a	500	1400	n/a	petrous	2	1240K	mixed	mixed	884947	nakatsuka2023genetic	PASS
+I8241	M	Mexico_Tayopa_1000BP	Mexico	Tayopa (Sonora, Sahuaripa)	29.1	-108.93	contextual	n/a	n/a	500	1400	n/a	petrous	2	1240K	mixed	mixed	661869	nakatsuka2023genetic	QUESTIONABLE
+I17109	F	Mexico_Tayopa_1000BP_daughter.I8239	Mexico	Tayopa Site 60 (Sonora, Sahuaripa)	29.04	-108.8	contextual	n/a	n/a	500	1400	n/a	petrous	1	1240K	plus	ss	117447	nakatsuka2023genetic	PASS
+I17112_d	U	Mexico_Tayopa_lc	Mexico	Tayopa Site 63 (Sonora, Sahuaripa)	29.045	-108.75	contextual	n/a	n/a	500	1400	n/a	petrous	1	1240K	plus	ss	117447	nakatsuka2023genetic	PASS
+I17108	F	Mexico_Tayopa_possible.1d.rel.I17109_lc	Mexico	Tayopa Site 60 (Sonora, Sahuaripa)	29.04	-108.8	contextual	n/a	n/a	500	1400	n/a	petrous	1	1240K	plus	ss	6639	nakatsuka2023genetic	QUESTIONABLE
+I19505	M	Mexico_Trincheras_LaPlaya_600BP	Mexico	La Playa (Sonora, Cerro Trincheras, Terraza B9)	30.392	-111.53	C14	580	20	1311	1410	n/a	tooth_molar	1	1240K	plus	ss	18636	nakatsuka2023genetic	PASS
+I23704	F	Mexico_Trincheras_LaPlaya_2400BP	Mexico	La Playa (Sonora, Trincheras)	30.494	-111.52	C14	1950	20	15	126	n/a	petrous	1	1240K	half	ds	455665	nakatsuka2023genetic	PASS
+I23705	M	Mexico_Trincheras_LaPlaya_2400BP	Mexico	La Playa (Sonora, Trincheras)	30.505	-111.51	C14	2715	25	-906	-811	n/a	petrous	1	1240K	half	ds	367481	nakatsuka2023genetic	PASS
+I23706	M	Mexico_Trincheras_LaPlaya_2400BP	Mexico	La Playa (Sonora, Trincheras)	30.503	-111.51	contextual	n/a	n/a	-823	-511	A radiocarbon date does exist, but it is not listed in the supplementary material	petrous	1	1240K	half	ds	535416	nakatsuka2023genetic	PASS
+I23707	M	Mexico_Trincheras_LaPlaya_600BP	Mexico	La Playa (Sonora, Cerro Trincheras, Terraza B2)	30.392	-111.53	C14	605	15	1305	1400	n/a	petrous	1	1240K	half	ds	665193	nakatsuka2023genetic	PASS
+I23708	F	Mexico_Trincheras_LaPlaya_600BP	Mexico	La Playa (Sonora, Cerro Trincheras, Terraza B6)	30.392	-111.53	contextual	n/a	n/a	1300	1450	n/a	petrous	1	1240K	half	ds	569873	nakatsuka2023genetic	PASS
+I23709	F	Mexico_Trincheras_LaPlaya_600BP	Mexico	La Playa (Sonora, Cerro Trincheras, Terraza B7)	30.392	-111.53	C14	655	20	1285	1390	n/a	petrous	1	1240K	half	ds	717231	nakatsuka2023genetic	PASS
+I23710	M	Mexico_Trincheras_LaPlaya_600BP	Mexico	La Playa (Sonora, Cerro Trincheras, Terraza B8)	30.392	-111.53	C14	550	20	1325	1425	n/a	petrous	1	1240K	half	ds	1079341	nakatsuka2023genetic	PASS
+I23711	F	Mexico_Trincheras_LaPlaya_600BP	Mexico	La Playa (Sonora, Cerro Trincheras, Terraza B11)	30.392	-111.53	C14	990	25	994	1154	n/a	petrous	1	1240K	half	ds	537758	nakatsuka2023genetic	PASS
+I23712	M	Mexico_Trincheras_LaPlaya_600BP	Mexico	La Playa (Sonora, Cerro Trincheras, Terraza B4)	30.392	-111.53	contextual	n/a	n/a	1200	1450	n/a	petrous	1	1240K	half	ds	617035	nakatsuka2023genetic	PASS
+I0752	F	USA_CA_SanClemente_500BP	USA	San Clemente Island (California, Los Angeles County)	32.9	-118.5	contextual	n/a	n/a	1000	1250	n/a	tooth	1	1240K	half	ds	230724	nakatsuka2023genetic	PASS
+I0755	F	USA_CA_SanClemente_500BP	USA	San Clemente Island (California, Los Angeles County)	32.9	-118.5	contextual	n/a	n/a	1000	1250	n/a	tooth	1	1240K	half	ds	494149	nakatsuka2023genetic	PASS
+I0750	M	USA_CA_SanClemente_500BP	USA	San Clemente Island (California, Los Angeles County)	32.9	-118.5	contextual	n/a	n/a	1000	1250	n/a	tooth	1	1240K	half	ds	660730	nakatsuka2023genetic	PASS
+I0758	F	USA_CA_SanClemente_500BP	USA	San Clemente Island (California, Los Angeles County)	32.9	-118.5	contextual	n/a	n/a	1000	1250	n/a	tooth	1	1240K	half	ds	728576	nakatsuka2023genetic	PASS
+I0756	M	USA_CA_SanClemente_500BP	USA	San Clemente Island (California, Los Angeles County)	32.9	-118.5	contextual	n/a	n/a	1000	1250	n/a	tooth	1	1240K	half	ds	817785	nakatsuka2023genetic	PASS
+I0748	F	USA_CA_SanClemente_500BP	USA	San Clemente Island (California, Los Angeles County)	32.9	-118.5	contextual	n/a	n/a	1000	1250	n/a	tooth	1	1240K	half	ds	881980	nakatsuka2023genetic	PASS
+I0760	F	USA_CA_SanClemente_500BP	USA	San Clemente Island (California, Los Angeles County)	32.9	-118.5	C14	875	20	1053	1223	n/a	tooth	1	1240K	half	ds	902039	nakatsuka2023genetic	PASS
+I0751	F	USA_CA_SanClemente_500BP	USA	San Clemente Island (California, Los Angeles County)	32.9	-118.5	C14	865	20	1157	1225	n/a	tooth	1	1240K	half	ds	903657	nakatsuka2023genetic	PASS
+I3562	F	USA_CA_SantaRosa_3000BP_lc	USA	CA-SRI-41 (California, Santa Rosa Island, Cañada Verde Dunes)	34.023	-120.13	contextual	n/a	n/a	-1450	-1050	n/a	petrous	1	1240K	half	ds	13947	nakatsuka2023genetic	PASS
+I3563	F	USA_CA_SantaRosa_3000BP	USA	CA-SRI-41 (California, Santa Rosa Island, Cañada Verde Dunes)	34.023	-120.13	contextual	n/a	n/a	-1450	-1050	n/a	petrous	1	1240K	half	ds	25229	nakatsuka2023genetic	PASS
+I3564	F	USA_CA_SantaRosa_3000BP	USA	CA-SRI-41 (California, Santa Rosa Island, Cañada Verde Dunes)	34.023	-120.13	C14	3120	25	-1447	-1298	n/a	petrous	1	1240K	half	ds	797325	nakatsuka2023genetic	PASS
+I3565	F	USA_CA_SantaRosa_3000BP	USA	CA-SRI-41 (California, Santa Rosa Island, Cañada Verde Dunes)	34.023	-120.13	C14	2955	25	-1260	-1055	n/a	petrous	1	1240K	half	ds	792382	nakatsuka2023genetic	PASS
+I2704	F	USA_CA_SantaRosa_300BP	USA	CA-SRI-2B (California, Santa Rosa Island, Skull Gulch)	34.002	-120.19	C14	595	30	1301	1410	n/a	petrous	1	1240K	half	ds	744358	nakatsuka2023genetic	PASS
+I2705	F	USA_CA_SantaRosa_300BP	USA	CA-SRI-2B (California, Santa Rosa Island, Skull Gulch)	34.002	-120.19	C14	710	30	1262	1387	n/a	petrous	1	1240K	half	ds	704688	nakatsuka2023genetic	PASS
+I2706	M	USA_CA_SantaRosa_300BP	USA	CA-SRI-2B (California, Santa Rosa Island, Skull Gulch)	34.002	-120.19	C14	675	30	1277	1391	n/a	petrous	1	1240K	half	ds	308661	nakatsuka2023genetic	PASS
+I2708	F	USA_CA_SantaRosa_3000BP	USA	CA-SRI-41 (California, Santa Rosa Island, Cañada Verde Dunes)	34.023	-120.13	C14	3020	30	-1391	-1130	n/a	petrous	1	1240K	half	ds	186559	nakatsuka2023genetic	PASS
+I2709	F	USA_CA_SantaRosa_4900BP	USA	CA-SRI-3 (California, Santa Rosa Island, Tecolote Point)	34.002	-120.19	C14	4680	40	-3621	-3366	n/a	tooth	1	1240K	half	ds	333298	nakatsuka2023genetic	PASS
+I2710	M	USA_CA_SantaRosa_7400BP	USA	CA-SRI-3 (California, Santa Rosa Island, Tecolote Point)	34.002	-120.19	C14	6990	40	-5982	-5755	n/a	tooth	1	1240K	half	ds	293408	nakatsuka2023genetic	PASS
+I2711	F	USA_CA_SantaRosa_7400BP	USA	CA-SRI-3 (California, Santa Rosa Island, Tecolote Point)	34.002	-120.19	C14	6455	25	-5477	-5372	n/a	tooth	1	1240K	half	ds	540072	nakatsuka2023genetic	PASS
+I2712	M	USA_CA_SantaRosa_7400BP	USA	CA-SRI-3 (California, Santa Rosa Island, Tecolote Point)	34.002	-120.19	C14	6865	35	-5835	-5667	n/a	tooth	1	1240K	half	ds	46811	nakatsuka2023genetic	PASS
+I2713	M	USA_CA_SantaRosa_4900BP_lc	USA	CA-SRI-3 (California, Santa Rosa Island, Tecolote Point)	34.002	-120.19	C14	4450	40	-3339	-2932	n/a	tooth	1	1240K	half	ds	12229	nakatsuka2023genetic	PASS
+I2703	M	USA_CA_SantaRosa_300BP	USA	CA-SRI-2B (California, Santa Rosa Island, Skull Gulch)	34.002	-120.19	contextual	n/a	n/a	1250	1400	n/a	petrous	1	1240K	half	ds	773525	nakatsuka2023genetic	PASS
+I2707	M	USA_CA_SantaRosa_300BP	USA	CA-SRI-2B (California, Santa Rosa Island, Skull Gulch)	34.002	-120.19	contextual	n/a	n/a	1250	1400	n/a	petrous	1	1240K	half	ds	807778	nakatsuka2023genetic	PASS
+I8578	F	USA_CA_PacificGrove_5200BP	USA	Pacific Grove (California)	36.617	-36.617	contextual	n/a	n/a	-3476	-3017	A radiocarbon date does exist (Beta-215938), but its age is not listed in the supplementary material	tooth	1	1240K	half	ds	673707	nakatsuka2023genetic	PASS
+I11259	F	USA_CA_Carmel_600BP	USA	Carmel (California)	36.55	-121.92	contextual	n/a	n/a	1300	1800	n/a	petrous	1	1240K	half	ds	702802	nakatsuka2023genetic	PASS
+I11260	M	USA_CA_Carmel_600BP	USA	Carmel (California)	36.55	-121.92	contextual	n/a	n/a	1300	1800	n/a	petrous	1	1240K	half	ds	735153	nakatsuka2023genetic	PASS
+I11262	F	USA_CA_SantaBarbara_600BP	USA	CA-SBA-17 (California, Carpinteria, Shalwaj)	34.418	-119.62	C14	1080	15	896	1020	n/a	petrous	1	1240K	half	ds	734032	nakatsuka2023genetic	PASS
+I11261	M	USA_CA_Carpinteria_4000BP	USA	CA-SBA-1 (California, Carpinteria, Rincon)	34.379	-119.48	C14	3690	20	-2191	-1982	n/a	petrous	1	1240K	half	ds	113975	nakatsuka2023genetic	PASS
+I11289	F	USA_CA_GoletaC_4700BP	USA	CA-SBA-52 (California, Goleta, Campbell No. 2)	34.423	-119.86	C14	4240	20	-2907	-2774	n/a	petrous	1	1240K	half	ds	281281	nakatsuka2023genetic	PASS
+I11283	F	USA_CA_SantaBarbara_1300BP	USA	CA-SBA-28 (California, Santa Barbara, Burton Mound)	34.41	-119.69	C14	1570	15	432	551	n/a	petrous	1	1240K	half	ds	741112	nakatsuka2023genetic	PASS
+I11282	M	USA_CA_SantaBarbara_600BP	USA	CA-SBA-17 (California, Carpinteria, Shalwaj)	34.418	-119.62	C14	1010	15	992	1038	n/a	petrous	1	1240K	half	ds	96495	nakatsuka2023genetic	PASS
+I11290	F	USA_CA_Carpinteria_7000BP	USA	CA-SBA-7 (California, Carpinteria, Mishopshnow)	34.386	-119.51	contextual	n/a	n/a	-5250	-5000	n/a	petrous	1	1240K	half	ds	125034	nakatsuka2023genetic	PASS
+I11286	M	USA_CA_LakeCachuma_400BP	USA	CA-SBA-477 (California, Lake Cachuma, Tequepis Creek)	34.571	-119.95	contextual	n/a	n/a	1300	1800	n/a	petrous	1	1240K	half	ds	33611	nakatsuka2023genetic	PASS
+I11284	M	USA_CA_GoletaM_1100BP	USA	CA-SBA-46A (California, Goleta, Mescalitan Island, Goleta)	34.419	-119.83	C14	1265	20	672	820	n/a	petrous	1	1240K	half	n/a	712796	nakatsuka2023genetic	PASS
+I11285	M	USA_CA_LakeCachuma_400BP	USA	CA-SBA-477 (California, Lake Cachuma, Tequepis Creek)	34.571	-119.95	contextual	n/a	n/a	1300	1800	n/a	petrous	1	1240K	half	n/a	385171	nakatsuka2023genetic	PASS
+I11257	M	USA_CA_Carmel_600BP	USA	Carmel (California)	36.55	-121.92	contextual	n/a	n/a	1300	1800	n/a	tooth	1	1240K	half	ds	723177	nakatsuka2023genetic	PASS
+I11244	F	USA_CA_CastroVille_900BP	USA	Castroville (California)	36.75	-121.75	contextual	n/a	n/a	988	1163	A radiocarbon date does exist (1065±, EZV-00225), but the standard deviation is not listed in the supplementary material	tooth	1	1240K	half	ds	566270	nakatsuka2023genetic	PASS
+I11245	M	USA_CA_Monterey_1000BP	USA	Monterey (California)	36.6	-121.88	C14	1075	15	897	1021	n/a	tooth	1	1240K	half	ds	200249	nakatsuka2023genetic	PASS
+I11256	M	USA_CA_Carmel_600BP	USA	Carmel (California)	36.55	-121.92	contextual	n/a	n/a	1300	1800	n/a	tooth	1	1240K	half	ds	513204	nakatsuka2023genetic	PASS
+I11296	M	USA_CA_Goleta_2600BP	USA	CA-SBA-81 (California, Santa Barbara County, Las Llagas No. 1)	34.456	-120	C14	2590	20	-805	-773	n/a	petrous	1	1240K	half	ds	775900	nakatsuka2023genetic	PASS
+I11295	F	USA_CA_Goleta_400BP	USA	CA-SBA-78 (California, Santa Barbara County, Mikiw)	34.441	-119.96	contextual	n/a	n/a	1300	1800	n/a	petrous	1	1240K	half	ds	777998	nakatsuka2023genetic	PASS
+I11293	M	USA_CA_GoletaT_1200BP	USA	CA-SBA-72 (California, Goleta, Tecolote No. 1)	34.43	-119.92	contextual	n/a	n/a	700	1000	n/a	petrous	1	1240K	half	ds	783985	nakatsuka2023genetic	PASS
+I11292	M	USA_CA_Carpinteria_7000BP	USA	CA-SBA-7 (California, Carpinteria, Mishopshnow)	34.386	-119.51	contextual	n/a	n/a	-5250	-5000	n/a	petrous	1	1240K	half	ds	467417	nakatsuka2023genetic	PASS
+I11294	F	USA_CA_GoletaT_1200BP	USA	CA-SBA-73 (California, Goleta, Tecolote No. 2)	34.43	-119.92	C14	1590	15	428	540	n/a	petrous	1	1240K	half	ds	645537	nakatsuka2023genetic	PASS
+I11557	F	USA_CA_SantaRosa_7400BP	USA	CA-SRI-3 (California, Santa Rosa Island, Tecolote Point)	34.005	-120.18	C14	6785	30	-5726	-5631	n/a	petrous	1	1240K	half	ds	850415	nakatsuka2023genetic	PASS
+I11968	M	USA_CA_SantaRosa_3200BP	USA	CA-SRI-5A (California, Santa Rosa Island, Survey Point)	34.004	-120.18	C14	3270	25	-1614	-1461	n/a	petrous	1	1240K	half	ds	533958	nakatsuka2023genetic	PASS
+I11558	F	USA_CA_SantaRosa_7400BP	USA	CA-SRI-3 (California, Santa Rosa Island, Tecolote Point)	34.005	-120.18	C14	6780	30	-5724	-5631	n/a	petrous	1	1240K	half	ds	835299	nakatsuka2023genetic	PASS
+I11551	M	USA_CA_Carmel_600BP	USA	Carmel (California)	36.55	-121.92	C14	615	15	1302	1398	n/a	tooth	1	1240K	half	ds	260521	nakatsuka2023genetic	PASS
+I11967	F	USA_CA_SantaRosa_300BP	USA	CA-SRI-2A (California, Santa Rosa Island, Skull Gulch)	34.002	-120.19	C14	1030	15	993	1027	n/a	petrous	1	1240K	half	ds	826952	nakatsuka2023genetic	PASS
+I11552	M	USA_CA_PacificGrove_200BP	USA	Pacific Grove (California)	36.617	-36.617	C14	170	15	1666	1950	n/a	tooth	1	1240K	half	ds	99269	nakatsuka2023genetic	PASS
+I11970	M	USA_CA_Ojai_1400BP	USA	CA-VEN-61 (California, Ojai, Soule Park)	34.444	-119.23	contextual	n/a	n/a	400	600	n/a	petrous	1	1240K	half	ds	849346	nakatsuka2023genetic	PASS
+I11969	F	USA_CA_SantaRosa_3200BP	USA	CA-SRI-5A (California, Santa Rosa Island, Survey Point)	34.004	-120.18	C14	3255	20	-1607	-1450	n/a	petrous	1	1240K	half	ds	849792	nakatsuka2023genetic	PASS
+I11553	F	USA_CA_PebbleBeach_400BP_lc	USA	Pebble Beach (California)	36.567	-121.93	contextual	n/a	n/a	1200	1700	n/a	tooth	1	1240K	half	ds	12650	nakatsuka2023genetic	QUESTIONABLE
+I11559	F	USA_CA_Ojai_1400BP	USA	CA-VEN-61 (California, Ojai, Soule Park)	34.444	-119.23	C14	1555	20	433	571	n/a	petrous	1	1240K	half	ds	851252	nakatsuka2023genetic	PASS
+I14816	M	USA_CA_SantaBarbara_8000BP_lc	USA	Santa Barbara (California)	34.418	-119.66	contextual	n/a	n/a	-3000	-2800	n/a	petrous	1	1240K	plus	ss	7615	nakatsuka2023genetic	PASS
+I14817	F	USA_CA_Goleta_900BP	USA	Santa Barbara (California)	34.442	-119.83	contextual	n/a	n/a	950	1150	n/a	petrous	1	1240K	plus	ss	18654	nakatsuka2023genetic	PASS
+I15168	F	USA_CA_Carpinteria_7000BP	USA	CA-SBA-7 (California, Carpinteria, Mishopshnow)	34.386	-119.51	C14	6170	25	-5213	-5035	n/a	petrous	1	1240K	plus	ss	296384	nakatsuka2023genetic	PASS
+I15173	M	USA_CA_CalaverasCounty_600BP	USA	Calveras County (California, Central California)	38.196	-120.68	C14	635	15	1296	1394	n/a	petrous	1	1240K	plus	ss	655619	nakatsuka2023genetic	PASS
+I15174	M	USA_CA_CalaverasCounty_600BP	USA	Calveras County (California, Central California)	38.196	-120.68	contextual	n/a	n/a	1300	1400	n/a	petrous	1	1240K	plus	ss	629667	nakatsuka2023genetic	PASS
+I15170	M	USA_CA_CalaverasCounty_1500BP	USA	Calveras County (California, Central California)	38.196	-120.68	C14	1640	20	381	535	n/a	petrous	1	1240K	plus	ss	709321	nakatsuka2023genetic	PASS
+I15175	F	USA_CA_CalaverasCounty_600BP	USA	Calveras County (California, Central California)	38.196	-120.68	contextual	n/a	n/a	1300	1400	n/a	petrous	1	1240K	plus	ss	730664	nakatsuka2023genetic	PASS
+I15171	F	USA_CA_CalaverasCounty_600BP	USA	Calveras County (California, Central California)	38.196	-120.68	contextual	n/a	n/a	1300	1400	n/a	petrous	1	1240K	plus	ss	619920	nakatsuka2023genetic	PASS
+I15172	F	USA_CA_CalaverasCounty_600BP	USA	Calveras County (California, Central California)	38.196	-120.68	contextual	n/a	n/a	1300	1400	n/a	petrous	1	1240K	plus	ss	139045	nakatsuka2023genetic	PASS
+I15176	M	USA_CA_CalaverasCounty_600BP	USA	Calveras County (California, Central California)	38.196	-120.68	contextual	n/a	n/a	1300	1400	n/a	petrous	1	1240K	plus	ss	489294	nakatsuka2023genetic	PASS
+I15479	M	USA_CA_Goleta_3000BP	USA	Santa Barbara (California)	34.442	-119.83	contextual	n/a	n/a	-1400	-800	n/a	petrous	1	1240K	plus	ss	160639	nakatsuka2023genetic	PASS
+I15476	F	USA_CA_Carpinteria_7000BP	USA	CA-SBA-7 (California, Carpinteria, Mishopshnow)	34.386	-119.51	C14	6170	25	-5213	-5035	n/a	petrous	1	1240K	plus	ss	217232	nakatsuka2023genetic	PASS
+I15481	M	USA_CA_GoletaC_4700BP	USA	Santa Barbara (California)	34.423	-119.86	contextual	n/a	n/a	-3000	-2700	n/a	petrous	1	1240K	plus	ss	296733	nakatsuka2023genetic	PASS
+I14825	M	USA_CA_Malibu_3400BP	USA	Paradise Cove (California, Malibu)	34.02	-118.79	C14	3005	20	-1377	-1130	n/a	tooth	1	1240K	half	ds	360396	nakatsuka2023genetic	PASS
+I14826	F	USA_CA_Malibu_3400BP	USA	Paradise Cove (California, Malibu)	34.02	-118.79	C14	3505	20	-1890	-1749	n/a	bone	1	1240K	half	ds	205512	nakatsuka2023genetic	PASS
+I14828	M	USA_CA_Malibu_8000BP_lc	USA	Paradise Cove (California, Malibu)	34.02	-118.79	contextual	n/a	n/a	-2000	-1000	n/a	petrous	1	1240K	half	ds	9458	nakatsuka2023genetic	QUESTIONABLE
+I14827	F	USA_CA_Malibu_8000BP_lc	USA	Paradise Cove (California, Malibu)	34.02	-118.79	contextual	n/a	n/a	-2000	-1000	n/a	bone	1	1240K	half	ds	9053	nakatsuka2023genetic	QUESTIONABLE
+I11287	F	USA_CA_GoletaC_1700BP	USA	CA-SBA-52 (California, Goleta, Campbell No. 2)	34.423	-119.86	C14	1990	15	-41	106	n/a	petrous	2	1240K	mixed	mixed	760927	nakatsuka2023genetic	PASS
+I11288	M	USA_CA_GoletaC_4700BP	USA	CA-SBA-52 (California, Goleta, Campbell No. 2)	34.423	-119.86	C14	4290	20	-2918	-2885	n/a	petrous	2	1240K	mixed	mixed	750476	nakatsuka2023genetic	PASS
+I15477	M	USA_CA_Carpinteria_7000BP	USA	CA-SBA-7 (California, Carpinteria, Mishopshnow)	34.386	-119.51	contextual	n/a	n/a	-5250	-5000	n/a	petrous	1	1240K	plus	ss	389018	nakatsuka2023genetic	PASS
+I11291	F	USA_CA_Carpinteria_7000BP	USA	CA-SBA-7 (California, Carpinteria, Mishopshnow)	34.386	-119.51	C14	6190	25	-5216	-5045	n/a	petrous	2	1240K	mixed	mixed	542168	nakatsuka2023genetic	PASS
+I21250	M	USA_CA_Goleta_900BP	USA	SBA-46A (California, Santa Barbara)	34.414	-119.85	contextual	n/a	n/a	800	1200	n/a	tooth	1	1240K	half	ds	683743	nakatsuka2023genetic	PASS
+I21249	M	USA_CA_Goleta_900BP_lc	USA	SBA-46A (California, Santa Barbara)	34.414	-119.85	contextual	n/a	n/a	800	1200	n/a	tooth	1	1240K	half	ds	6087	nakatsuka2023genetic	PASS
+I21452	M	USA_CA_Goleta_900BP	USA	SBA-46A (California, Santa Barbara)	34.414	-119.85	contextual	n/a	n/a	800	1200	n/a	petrous	1	1240K	half	ds	519104	nakatsuka2023genetic	PASS
+I15478_d	M	USA_CA_SantaBarbara_4600BP	USA	Santa Barbara (California)	34.418	-119.66	C14	4390	25	-3092	-2917	n/a	petrous	1	1240K	plus	ss	118969	nakatsuka2023genetic	PASS
