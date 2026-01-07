@@ -5,8 +5,8 @@ description: The formation of human populations in South and Central Asia. Origi
 contributor:
 - name: Ayshin Ghalichi
   email: ghalichi@shh.mpg.de
-packageVersion: 2.2.0
-lastModified: 2023-07-04
+packageVersion: 2.2.1
+lastModified: 2025-02-11
 genotypeData:
   format: PLINK
   genoFile: Narasimhan_centralSouthAsia.bed
@@ -21,5 +21,5 @@ jannoFileChkSum: daacbeaa4630f520f4cd2da20d9ab497
 sequencingSourceFile: ENAtable.ssf
 sequencingSourceFileChkSum: 2f7e6095bafbb99991a1bf93dccb9d33
 bibFile: LITERATURE.bib
-bibFileChkSum: 1cd4a74e4d16f53e1257ecac379f53ec
+bibFileChkSum: 43f20a521b835b242200047893d11bae
 changelogFile: CHANGELOG.md

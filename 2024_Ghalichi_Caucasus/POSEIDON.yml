@@ -4,8 +4,8 @@ description: The rise and transformation of Bronze Age pastoralists in the Cauca
 contributor:
 - name: Ayshin Ghalichi
   email: ayshin_ghalichi@eva.mpg.de
-packageVersion: 1.0.0
-lastModified: 2024-10-11
+packageVersion: 1.0.1
+lastModified: 2025-02-11
 genotypeData:
   format: PLINK
   genoFile: 2024_Ghalichi_Caucasus.bed
@@ -18,4 +18,5 @@ genotypeData:
 jannoFile: 2024_Ghalichi_Caucasus.janno
 jannoFileChkSum: b99b752c0fad19125d0bca90b081711e
 bibFile: 2024_Ghalichi_Caucasus.bib
-bibFileChkSum: d278f6d47299b683ef26eeb6fbc1f0db
+bibFileChkSum: 65a473fa8c6f041ddda954a4ac275b01
+changelogFile: CHANGELOG.md

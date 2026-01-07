@@ -1,3 +1,4 @@
+- V 1.0.1: updated bib-file
 - V 1.0.0: Fixed kinship errors
 - V 0.3.1: fixed some list delimiters in Source_Tissue
 - V 0.3.0: Update of references in the .bib file

@@ -1,3 +1,4 @@
+- V 2.1.2: updated bib-file
 - V 2.1.1: Linked ENA data with poseidon_IDs
 - V 2.1.0: Update of references in the .bib file
 - V 2.0.1: Genetic_Source_Accession_IDs added

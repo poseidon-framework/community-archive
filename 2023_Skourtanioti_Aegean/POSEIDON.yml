@@ -5,8 +5,8 @@ description: Ancient DNA reveals admixture history and endogamy in the prehistor
 contributor:
 - name: Eirini Skourtanioti
   email: eirini_skourtanioti@@eva.mpg.de
-packageVersion: 1.0.0
-lastModified: 2024-08-15
+packageVersion: 1.0.1
+lastModified: 2025-02-11
 genotypeData:
   format: PLINK
   genoFile: 2023_Skourtanioti_Aegean.bed
@@ -19,4 +19,5 @@ genotypeData:
 jannoFile: 2023_Skourtanioti_Aegean.janno
 jannoFileChkSum: fdd4f31bf975a7f7a208869f8a9dfbe7
 bibFile: 2023_Skourtanioti_Aegean.bib
-bibFileChkSum: 689377f09002a6245acd7af8d8a02f91
+bibFileChkSum: 81b88e803c131f976fe84b614df85278
+changelogFile: CHANGELOG.md

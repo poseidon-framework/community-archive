@@ -5,8 +5,8 @@ description: A diachronic set of ancient samples from the Caribbean. Originally 
 contributor:
 - name: Ayshin Ghalichi
   email: ghalichi@shh.mpg.de
-packageVersion: 2.2.0
-lastModified: 2023-07-04
+packageVersion: 2.2.2
+lastModified: 2025-02-11
 genotypeData:
   format: PLINK
   genoFile: Nagele_Caribbean.bed
@@ -17,9 +17,9 @@ genotypeData:
   indFileChkSum: a31df03e943a5f7bee9f97e40f72da4a
   snpSet: 1240K
 jannoFile: Nagele_Caribbean.janno
-jannoFileChkSum: a3a7ab0149c51538d0aabd38c7e5e539
+jannoFileChkSum: 1c467a84b6c7a41b277d8baf249b3deb
 sequencingSourceFile: ENAtable.ssf
 sequencingSourceFileChkSum: 75c9d20951b1cb0499bc8000d58da05c
 bibFile: LITERATURE.bib
-bibFileChkSum: 187579671272a157a62c2f1b5345587c
+bibFileChkSum: 9573359e3370d033bcb368889c3aeeff
 changelogFile: CHANGELOG.md

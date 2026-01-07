@@ -1,12 +1,12 @@
 poseidonVersion: 2.7.1
 title: 2019_Villalba_Iberia
-description: Survival of Late Pleistocene Hunter-Gatherer Ancestry in the Iberian. Originally AADR v42.4.
-  Peninsula.
+description: Survival of Late Pleistocene Hunter-Gatherer Ancestry in the Iberian Peninsula.
+  Originally AADR v42.4. Peninsula.
 contributor:
 - name: Vanessa Villalba
   email: villalba@shh.mpg.de
-packageVersion: 2.3.0
-lastModified: 2023-07-11
+packageVersion: 2.3.1
+lastModified: 2025-02-07
 genotypeData:
   format: PLINK
   genoFile: Villalba_Iberia.bed
@@ -21,5 +21,5 @@ jannoFileChkSum: 372f285d02f2ff36ea9f65eeab658ef1
 sequencingSourceFile: ENAtable.ssf
 sequencingSourceFileChkSum: d9d4de6a96950364b5b94d4cd2d08fc7
 bibFile: LITERATURE.bib
-bibFileChkSum: 8ac08475509ab6395b7348620fd9e60e
+bibFileChkSum: cb0b48bb59eff331b4dfec5aff114eeb
 changelogFile: CHANGELOG.md

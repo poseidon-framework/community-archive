@@ -1,3 +1,4 @@
+- V 0.2.2: updated bib-file
 - V 0.2.1: Added the ssf file
 - V 0.2.0: Update of references in the .bib file
 - V 0.1.4: fixed wrong checksum

@@ -1,0 +1,23 @@
+poseidonVersion: 2.7.1
+title: 2025_Amjadi_NorthernIran
+description: Ancient DNA indicates 3,000 years of genetic continuity in the Northern
+  Iranian Plateau, from the Copper Age to the Sassanid Empire
+contributor:
+- name: Tlkhi
+  email: jodyegrim@gmail.com
+packageVersion: 1.0.0
+lastModified: 2025-07-01
+genotypeData:
+  format: PLINK
+  genoFile: 2025_Amjadi_NorthernIran.bed
+  genoFileChkSum: da1b95ecc873d62eafe01e355e70b433
+  snpFile: 2025_Amjadi_NorthernIran.bim
+  snpFileChkSum: a2d415e2b937164c0cc890f8be599a36
+  indFile: 2025_Amjadi_NorthernIran.fam
+  indFileChkSum: d5e8ebfbec64f361fdc7d746e4cc9695
+  snpSet: 1240K
+jannoFile: 2025_Amjadi_NorthernIran.janno
+jannoFileChkSum: 4676ca2d7bed15a44d9b0caa6dea0272
+bibFile: 2025_Amjadi_NorthernIran.bib
+bibFileChkSum: cd87d3deb10e2fac6d52be15071095ee
+readmeFile: README.md

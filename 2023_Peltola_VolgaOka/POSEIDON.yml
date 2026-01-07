@@ -4,8 +4,8 @@ description: Genetic admixture and language shift in the medieval Volga-Oka inte
 contributor:
 - name: Sanni Peltola
   email: sanni.peltola@helsinki.fi
-packageVersion: 1.1.0
-lastModified: 2024-03-12
+packageVersion: 1.1.1
+lastModified: 2025-02-11
 genotypeData:
   format: PLINK
   genoFile: 2023_Peltola_VolgaOka.bed
@@ -20,5 +20,5 @@ jannoFileChkSum: 9b2c20479d92bebca6e627479f475dda
 sequencingSourceFile: 2023_Peltola_VolgaOka.ssf
 sequencingSourceFileChkSum: 1993da287c843ddb5bac73b1f2e7e169
 bibFile: 2023_Peltola_VolgaOka.bib
-bibFileChkSum: 2262b38bb4e5d8bfff2353fdbcb5bd20
+bibFileChkSum: 083be660d173fd96d3eabd7fe5459723
 changelogFile: CHANGELOG.md

@@ -5,8 +5,8 @@ description: Ancient Genomes Reveal Yamnaya-Related Ancestry and a Potential Sou
 contributor:
 - name: Ayshin Ghalichi
   email: ghalichi@shh.mpg.de
-packageVersion: 2.2.0
-lastModified: 2023-07-04
+packageVersion: 2.2.1
+lastModified: 2025-02-07
 genotypeData:
   format: PLINK
   genoFile: Ning_Tianshan.bed
@@ -21,5 +21,5 @@ jannoFileChkSum: 88c3c21fd98944a16e693f7f4b63ed7a
 sequencingSourceFile: ENAtable.ssf
 sequencingSourceFileChkSum: 7522daa10851f565677801a5262de4d4
 bibFile: LITERATURE.bib
-bibFileChkSum: 5a2fc17c52156dcd82394540373be509
+bibFileChkSum: 919889699dda3edc4bc35e787eff2ef8
 changelogFile: CHANGELOG.md

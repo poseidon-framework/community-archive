@@ -5,8 +5,8 @@ description: Ancient DNA reveals a multistep spread of the first herders into su
 contributor:
 - name: Ayshin Ghalichi
   email: ghalichi@shh.mpg.de
-packageVersion: 2.2.0
-lastModified: 2023-07-04
+packageVersion: 2.2.1
+lastModified: 2025-02-11
 genotypeData:
   format: PLINK
   genoFile: Prendergast_EastAfrica.bed
@@ -21,5 +21,5 @@ jannoFileChkSum: 86fdbaf542fe560147a415147b5dc315
 sequencingSourceFile: ENAtable.ssf
 sequencingSourceFileChkSum: bcb578b99ece337a4ea9a3f71b5676f2
 bibFile: LITERATURE.bib
-bibFileChkSum: 2e47cec0c0d314c4f5d1f3a9d675defc
+bibFileChkSum: dcfbb083dc20c7d6e6084312f2252295
 changelogFile: CHANGELOG.md
