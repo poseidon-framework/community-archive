@@ -21,7 +21,7 @@ genotypeData:
   indFileChkSum: a945cf8044b0e85d8d7ebb6397fe0002
   snpSet: 1240K
 jannoFile: 2024_Penske_Leubingen.janno
-jannoFileChkSum: 69b65eca527997beafa605c05bbd7f18
+jannoFileChkSum: e5a6aacc18a15a8acd62a401bb225a2d
 bibFile: 2024_Penske_Leubingen.bib
 bibFileChkSum: 2013255602fa5fc8577a7e49c6e3c594
 changelogFile: CHANGELOG.md
