@@ -1,1 +1,1 @@
-- V 1.1.0: updated after publication
+- V 1.1.0: added a proper .bib file entry

@@ -18,7 +18,7 @@ genotypeData:
   indFileChkSum: e1049a5c42bbf7a8fd415719c871ec98
   snpSet: 1240K
 jannoFile: 2024_Wang_ViennaBasinAvarPeriod.janno
-jannoFileChkSum: 90b4cd6a3ab89f1b5fefa656a5bdb093
+jannoFileChkSum: 584f6dd7e67d481a4cb4b0d586c01f57
 bibFile: 2024_Wang_ViennaBasinAvarPeriod.bib
-bibFileChkSum: c6d4640e219f1ee2be730ac614805eba
+bibFileChkSum: c1423c490403bc30822c8428076a99a3
 changelogFile: CHANGELOG.md
