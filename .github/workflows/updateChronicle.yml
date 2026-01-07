@@ -28,6 +28,11 @@ jobs:
     - name: Update file
       run: ./trident-Linux chronicle -d data -u data/archive.chron --logMode VerboseLog
 
+    # The `pushurl` set in the .lfsconfig requires an ssh setup, which is not present here,
+    # so we hide the value for the GitHub Action
+    - name: Override LFS pushurl
+      run: git config lfs.pushurl ""
+
     - name: Create pull request with updates
       uses: peter-evans/create-pull-request@v5
       with:
@@ -38,4 +43,4 @@ jobs:
         title: '[Automatic PR] Update chronicle file'
         body: |
           Please check if the changes are as expected.
-        reviewers: AyGhal,nevrome
+        reviewers: nevrome
