@@ -1,0 +1,3 @@
+[lfs]
+	url = https://lfs.poseidon-adna.org/poseidon-framework/community-archive
+	pushurl = git@github.com:poseidon-framework/community-archive.git
