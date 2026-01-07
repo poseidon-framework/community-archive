@@ -30,8 +30,10 @@ jobs:
 
     # The `pushurl` set in the .lfsconfig requires an ssh setup, which is not present here,
     # so we hide the value for the GitHub Action
-    - name: Override LFS pushurl
-      run: git config lfs.pushurl ""
+    - name: Override LFS pushurl for Actions
+      run: |
+        cd data
+        git config lfs.pushurl ""
 
     - name: Create pull request with updates
       uses: peter-evans/create-pull-request@v5
