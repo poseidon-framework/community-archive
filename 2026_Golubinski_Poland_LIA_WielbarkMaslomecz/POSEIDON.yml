@@ -1,0 +1,24 @@
+poseidonVersion: 2.7.1
+title: 2026_Golubinski_Poland_LIA_WielbarkMaslomecz
+description: Genotype pseudohaploid data for 1240k panel for 37 individuals representing
+  Maslomecz Group - a Wielbark related archaeological complex. From a Golubinski et
+  al. 2026 Genome Biology manuscript (title tbc)
+contributor:
+- name: Martyna Molak
+  email: martyna_molak@gmail.com
+  orcid: 0000-0001-5068-8649
+packageVersion: 1.0.0
+lastModified: 2026-01-10
+genotypeData:
+  format: PLINK
+  genoFile: 2026_Golubinski_Poland_LIA_WielbarkMaslomecz.bed
+  genoFileChkSum: 408ed5d6022c5517accf1963eeec1321
+  snpFile: 2026_Golubinski_Poland_LIA_WielbarkMaslomecz.bim
+  snpFileChkSum: 03c7171b05ba45a96e3aab2d53ed1aa6
+  indFile: 2026_Golubinski_Poland_LIA_WielbarkMaslomecz.fam
+  indFileChkSum: c572bd6b1edb78d1632b130a18d91bba
+  snpSet: 1240K
+jannoFile: 2026_Golubinski_Poland_LIA_WielbarkMaslomecz.janno
+jannoFileChkSum: 2dace2f20162bdb80609add4b897b90f
+bibFile: 2026_Golubinski_Poland_LIA_WielbarkMaslomecz.bib
+bibFileChkSum: ece5613b204a35fb80cfe7c2597ca71c
