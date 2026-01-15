@@ -2,8 +2,9 @@ poseidonVersion: 2.7.1
 title: 2026_Golubinski_Maslomecz
 description: Genotype pseudohaploid data for 1240k panel for 37 individuals representing
   Maslomecz Group - a Wielbark related archaeological complex. From a Golubinski et
-  al. 2026 Genome Biology manuscript "Cosmopolitanism in the depths of Barbaricum evidenced
-  by archaeogenomic data from the Late Iron Age Goth community of the Masłomęcz group."
+  al. 2026 Genome Biology manuscript "Cosmopolitanism in the depths of Barbaricum
+  evidenced by archaeogenomic data from the Late Iron Age Goth community of the Masłomęcz
+  group."
 contributor:
 - name: Martyna Molak
   email: martyna_molak@gmail.com
@@ -22,4 +23,4 @@ genotypeData:
 jannoFile: 2026_Golubinski_Maslomecz.janno
 jannoFileChkSum: 0f4a15ca0abc9a1b4a904e0926ac79b0
 bibFile: 2026_Golubinski_Maslomecz.bib
-bibFileChkSum: ece5613b204a35fb80cfe7c2597ca71c
+bibFileChkSum: 8d67a029ebaf096bda3f580e1e66477a
