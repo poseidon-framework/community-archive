@@ -11,8 +11,6 @@ contributor:
 packageVersion: 1.1.0
 lastModified: 2025-02-11
 genotypeData:
-  referenceGenomeAssembly: GRCh37
-  referenceGenomeAssemblyURL: https://www.ncbi.nlm.nih.gov/datasets/genome/GCF_000001405.13
   format: PLINK
   genoFile: 2022_GnecchiRuscone_CarpathianBasin.bed
   genoFileChkSum: 84bf1b0aec6929b2da86ccd0237bf164
@@ -21,8 +19,10 @@ genotypeData:
   indFile: 2022_GnecchiRuscone_CarpathianBasin.fam
   indFileChkSum: cd69dae82d6c7fcb317ad258aea4cfd8
   snpSet: 1240K
+  referenceGenomeAssembly: GRCh37
+  referenceGenomeAssemblyURL: https://www.ncbi.nlm.nih.gov/datasets/genome/GCF_000001405.13
 jannoFile: 2022_GnecchiRuscone_CarpathianBasin.janno
-jannoFileChkSum: 73a03ac29940b4418a1d4444643e35f7
+jannoFileChkSum: 635e0de022f2152afa53b5fb1d682db8
 bibFile: 2022_GnecchiRuscone_CarpathianBasin.bib
 bibFileChkSum: 5418b08255089f53ce030a17a5158f97
 changelogFile: CHANGELOG.md
