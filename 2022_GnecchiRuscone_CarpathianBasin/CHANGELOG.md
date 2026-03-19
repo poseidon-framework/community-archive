@@ -1,2 +1,15 @@
+- V 1.1.0:
+    - Switch to Poseidon v3.0.0.
+    - Added/Modified .janno columns:
+        - `Individual_ID` (derived from `Poseidon_ID`) as in the AADRv62 `Master_ID`
+        - Renamed `Alternative_IDs` to `Collection_ID` after looking through the content of the column; removed some superfluous whitespaces
+        - Turned the `Note` field to `Cultural_Era` with some minor changes in the period names
+        - Added `Country_ISO`
+        - Unified site name spelling "Albertirsa Szentmártoni út" in `Site`
+        - Filled `Date_BC_AD_Median` with the rounded mean of `Date_BC_AD_Start` and `Date_BC_AD_Stop`
+        - Turned `Source_Tissue` to `Source_Material` + `Source_Material_Note`
+        - No change to the scaling of `Damage` and `Contamination` because the values already seem to be given as proportions, not percent
+        - Removed unnecessary `_` characters from `Primary_Contact`
+    - Added `referenceGenomeAssembly` and `referenceGenomeAssemblyURL` to the POSEIDON.yml file
 - V 1.0.2: updated bib-file
 - V 1.0.1: fixed column name Nr_SNPCoverage_on_Target_SNPs -> Coverage_on_Target_SNPs
