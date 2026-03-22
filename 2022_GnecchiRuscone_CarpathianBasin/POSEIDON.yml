@@ -20,7 +20,7 @@ genotypeData:
   indFileChkSum: cd69dae82d6c7fcb317ad258aea4cfd8
   snpSet: 1240K
   referenceGenomeAssembly: GRCh37
-  referenceGenomeAssemblyURL: https://www.ncbi.nlm.nih.gov/datasets/genome/GCF_000001405.13
+  referenceGenomeAssemblyURL: https://www.ncbi.nlm.nih.gov/datasets/genome/GCA_000001405.14
 jannoFile: 2022_GnecchiRuscone_CarpathianBasin.janno
 jannoFileChkSum: 635e0de022f2152afa53b5fb1d682db8
 bibFile: 2022_GnecchiRuscone_CarpathianBasin.bib
