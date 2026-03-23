@@ -1,4 +1,4 @@
-poseidonVersion: 2.7.1
+poseidonVersion: 3.0.0
 title: 2022_GnecchiRuscone_CarpathianBasin
 description: Ancient genomes reveal origin and rapid trans-Eurasian migration of 7th
   century Avar elites.
@@ -8,8 +8,8 @@ contributor:
 - name: Clemens Schmid
   email: clemens_schmid@eva.mpg.de
   orcid: 0000-0003-3448-5715
-packageVersion: 1.0.2
-lastModified: 2025-02-11
+packageVersion: 1.1.0
+lastModified: 2026-03-19
 genotypeData:
   format: PLINK
   genoFile: 2022_GnecchiRuscone_CarpathianBasin.bed
@@ -19,8 +19,10 @@ genotypeData:
   indFile: 2022_GnecchiRuscone_CarpathianBasin.fam
   indFileChkSum: cd69dae82d6c7fcb317ad258aea4cfd8
   snpSet: 1240K
+  referenceGenomeAssembly: GRCh37
+  referenceGenomeAssemblyURL: https://www.ncbi.nlm.nih.gov/datasets/genome/GCA_000001405.14
 jannoFile: 2022_GnecchiRuscone_CarpathianBasin.janno
-jannoFileChkSum: 73a03ac29940b4418a1d4444643e35f7
+jannoFileChkSum: 635e0de022f2152afa53b5fb1d682db8
 bibFile: 2022_GnecchiRuscone_CarpathianBasin.bib
 bibFileChkSum: 5418b08255089f53ce030a17a5158f97
 changelogFile: CHANGELOG.md
