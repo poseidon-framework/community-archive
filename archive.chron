@@ -1,6 +1,6 @@
 title: Poseidon community-archive chronicle
-chronicleVersion: 1.63.0
-lastModified: 2026-01-16
+chronicleVersion: 1.64.0
+lastModified: 2026-03-23
 packages:
 - title: 2010_RasmussenNature
   version: 2.1.1
@@ -1089,6 +1089,10 @@ packages:
 - title: 2022_GnecchiRuscone_CarpathianBasin
   version: 1.0.2
   commit: 9d1d1c23c91a6b2c260b659c77f32d093422d7db
+  path: 2022_GnecchiRuscone_CarpathianBasin
+- title: 2022_GnecchiRuscone_CarpathianBasin
+  version: 1.1.0
+  commit: 22d5a76caaee620f1d67d3320c810525ec3191cb
   path: 2022_GnecchiRuscone_CarpathianBasin
 - title: 2022_Gretzinger_AngloSaxons
   version: 1.0.0
