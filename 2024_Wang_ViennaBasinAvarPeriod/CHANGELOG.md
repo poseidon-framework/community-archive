@@ -1,1 +1,2 @@
+- V 1.1.1: Added dating and geographical information
 - V 1.1.0: added a proper .bib file entry
