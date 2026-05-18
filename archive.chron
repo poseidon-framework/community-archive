@@ -1,6 +1,6 @@
 title: Poseidon community-archive chronicle
-chronicleVersion: 1.65.0
-lastModified: 2026-05-04
+chronicleVersion: 1.66.0
+lastModified: 2026-05-18
 packages:
 - title: 2010_RasmussenNature
   version: 2.1.1
@@ -1333,6 +1333,10 @@ packages:
 - title: 2026_Golubinski_Maslomecz
   version: 1.0.0
   commit: aa1d972e04594b8106cece0f4c71fd040ebffef3
+  path: 2026_Golubinski_Maslomecz
+- title: 2026_Golubinski_Maslomecz
+  version: 1.0.1
+  commit: 05f849d22f75cdcc70154059a9d45840125f8d42
   path: 2026_Golubinski_Maslomecz
 - title: Archaic_Humans
   version: 2.2.0
