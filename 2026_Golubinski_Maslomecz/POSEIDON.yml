@@ -9,8 +9,8 @@ contributor:
 - name: Martyna Molak
   email: martyna_molak@gmail.com
   orcid: 0000-0001-5068-8649
-packageVersion: 1.0.0
-lastModified: 2026-01-10
+packageVersion: 1.0.1
+lastModified: 2026-05-18
 genotypeData:
   format: PLINK
   genoFile: 2026_Golubinski_Maslomecz.bed
@@ -23,4 +23,5 @@ genotypeData:
 jannoFile: 2026_Golubinski_Maslomecz.janno
 jannoFileChkSum: e153afef95a59ee55c3c910d71263d5a
 bibFile: 2026_Golubinski_Maslomecz.bib
-bibFileChkSum: 8d67a029ebaf096bda3f580e1e66477a
+bibFileChkSum: 057bfcc906a4b7ebf98c20927713e08a
+changelogFile: CHANGELOG.md
