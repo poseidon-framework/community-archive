@@ -1,0 +1,16 @@
+poseidonVersion: 3.0.0
+title: 2024_Gretzinger_Oakhurst
+description: 13 ancient Individuals from Oakhurst Rockshelter, South Africa, dating
+  back to 9000 years ago
+contributor:
+- name: Stephan Schiffels
+  email: stephan.schiffels@eva.mpg.de
+packageVersion: 1.0.0
+lastModified: 2026-06-22
+genotypeData:
+  format: PLINK
+  genoFile: 2024_Gretzinger_Oakhurst.bed.gz
+  snpFile: 2024_Gretzinger_Oakhurst.bim.gz
+  indFile: 2024_Gretzinger_Oakhurst.fam
+jannoFile: 2024_Gretzinger_Oakhurst.janno
+bibFile: 2024_Gretzinger_Oakhurst.bib
