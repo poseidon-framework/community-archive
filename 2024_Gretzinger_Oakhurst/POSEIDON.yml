@@ -10,7 +10,12 @@ lastModified: 2026-06-22
 genotypeData:
   format: PLINK
   genoFile: 2024_Gretzinger_Oakhurst.bed.gz
+  genoFileChkSum: 518412b132b6b814b7f1ef70a32b2170
   snpFile: 2024_Gretzinger_Oakhurst.bim.gz
+  snpFileChkSum: b3c529a7102544c20bb153267d05ef0d
   indFile: 2024_Gretzinger_Oakhurst.fam
+  indFileChkSum: 4f0065a4721fd2ba5f32df272e4f5849
 jannoFile: 2024_Gretzinger_Oakhurst.janno
+jannoFileChkSum: 1398c97cd5da4d235e3f3ea077de7215
 bibFile: 2024_Gretzinger_Oakhurst.bib
+bibFileChkSum: e529a485d23a59c5fadedf7c3f36eaa3
