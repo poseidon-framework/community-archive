@@ -1,0 +1,24 @@
+poseidonVersion: 3.0.0
+title: 2026_Ghalichi_IAEliteNomads
+description: Ancient DNA Reveals Elite Dynastic Rule Among Iron Age Eurasian Steppe
+  Nomads
+contributor:
+- name: Ayshin Ghalichi
+  email: ayshin_ghalichi@eva.mpg.de
+  orcid: 0000-0002-9104-0395
+packageVersion: 1.0.0
+lastModified: 2026-07-02
+genotypeData:
+  format: PLINK
+  genoFile: 2026_Ghalichi_IAEliteNomads.bed
+  genoFileChkSum: b0b2d8a69c101b36f4bb271c5b90dbb4
+  snpFile: 2026_Ghalichi_IAEliteNomads.bim
+  snpFileChkSum: b9d601fd87134366f3468d4621e8c897
+  indFile: 2026_Ghalichi_IAEliteNomads.fam
+  indFileChkSum: 57d5410f374ba361cccdbe33a064c521
+  snpSet: 1240K
+jannoFile: 2026_Ghalichi_IAEliteNomads.janno
+jannoFileChkSum: e8e97df979ae7c20ac36478dbe73ce4e
+bibFile: 2026_Ghalichi_IAEliteNomads.bib
+bibFileChkSum: 38ef21f918d582304fc68d3dc92c0b77
+changelogFile: CHANGELOG.md
