@@ -1,2 +1,1 @@
-- V 0.2.0: Updated janno file format
-- V 0.1.1: Added checksums
+- V 1.0.0: Initial package submission
