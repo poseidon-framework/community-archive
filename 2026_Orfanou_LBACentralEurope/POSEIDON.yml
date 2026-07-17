@@ -1,0 +1,25 @@
+poseidonVersion: 3.0.0
+title: 2026_Orfanou_LBACentralEurope
+description: Data from Late Bronze Age Central Germany and Central Europe published in Orfanou et al. 2026
+contributor:
+- name: Eleftheria Orfanou
+  email: eleftheria_orfanou@eva.mpg.de
+  orcid: 0009-0000-5523-5171
+- name: Ayshin Ghalichi
+  email: ayshin_ghalichi@eva.mpg.de
+  orcid: 0000-0002-9104-0395
+packageVersion: 1.0.0
+lastModified: 2026-07-07
+genotypeData:
+  format: PLINK
+  genoFile: 2026_Orfanou_LBACentralEurope.bed
+  genoFileChkSum: 49971e54ed75688ef2248c6b390be8b7
+  snpFile: 2026_Orfanou_LBACentralEurope.bim
+  snpFileChkSum: 488489d5728982130dea9a45eb43ea59
+  indFile: 2026_Orfanou_LBACentralEurope.fam
+  indFileChkSum: ad2b4fc88c06a0a819285f94709610d9
+  snpSet: 1240K
+jannoFile: 2026_Orfanou_LBACentralEurope.janno
+jannoFileChkSum: 8727b833f5cdacef7826ccb9df8e0d67
+bibFile: 2026_Orfanou_LBACentralEurope.bib
+bibFileChkSum: 47c26707f0550fd88dcf5c7500e1ee74
