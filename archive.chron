@@ -1,5 +1,5 @@
 title: Poseidon community-archive chronicle
-chronicleVersion: 1.68.0
+chronicleVersion: 1.69.0
 lastModified: 2026-07-17
 packages:
 - title: 2010_RasmussenNature
@@ -1262,6 +1262,10 @@ packages:
   version: 1.1.1
   commit: 51dafcd9deb60915dab5e7f4cd3ea405b41f6696
   path: 2024_Gretzinger_EarlyCelts
+- title: 2024_Gretzinger_Oakhurst
+  version: 1.0.0
+  commit: cbb1f838d1dfb40f1bdb05c3caf22c8c7a29f5f3
+  path: 2024_Gretzinger_Oakhurst
 - title: 2024_Higgins_LeMuraInfant
   version: 1.0.0
   commit: 7d0a4a29cfa0491741d591d695d75becfca334cc
