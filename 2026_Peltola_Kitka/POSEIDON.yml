@@ -1,0 +1,22 @@
+poseidonVersion: 3.0.0
+title: 2026_Peltola_Kitka
+description: Genotype data of the Kitka individual, a 16th-century Sámi individual
+  from Kuusamo, northeastern Finland
+contributor:
+- name: Sanni Peltola
+  email: sanni.peltola@eva.mpg.de
+packageVersion: 1.0.0
+lastModified: 2026-04-13
+genotypeData:
+  format: PLINK
+  genoFile: 2026_Peltola_Kitka.bed
+  genoFileChkSum: 49f30739e6fd6ffd1899560c34439949
+  snpFile: 2026_Peltola_Kitka.bim
+  snpFileChkSum: 2a56b4be54db254e79db56d85b68d68a
+  indFile: 2026_Peltola_Kitka.fam
+  indFileChkSum: f75bd40895e7a19aea79c83cec89d2b0
+  snpSet: 1240K
+jannoFile: 2026_Peltola_Kitka.janno
+jannoFileChkSum: 76716c6a678a6bd056f8eee327b29373
+bibFile: 2026_Peltola_Kitka.bib
+bibFileChkSum: a25fdc3aae6590466fb2e50e8944ba4a
