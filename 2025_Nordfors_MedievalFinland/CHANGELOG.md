@@ -1,0 +1,1 @@
+- V 1.0.1: small doi-related fix in .bib file

@@ -5,8 +5,8 @@ description: Genotype data from Zeng et al. 2025, Ancient DNA reveals the prehis
 contributor:
 - name: Sanni Peltola
   email: sanni_peltola@eva.mpg.de
-packageVersion: 1.0.0
-lastModified: 2025-07-15
+packageVersion: 1.0.1
+lastModified: 2026-08-14
 genotypeData:
   format: PLINK
   genoFile: 2025_Zeng_UralicYeniseian.bed
@@ -19,4 +19,5 @@ genotypeData:
 jannoFile: 2025_Zeng_UralicYeniseian.janno
 jannoFileChkSum: 717389444c2d7a0c96fe0ecc2edc1746
 bibFile: 2025_Zeng_UralicYeniseian.bib
-bibFileChkSum: 2988d02d42afc63e5d2e37da14e31fcf
+bibFileChkSum: 6301e341984d5e1210d9d453a65e948e
+changelogFile: CHANGELOG.md
