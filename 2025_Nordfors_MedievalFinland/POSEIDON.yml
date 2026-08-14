@@ -6,8 +6,8 @@ description: Genetic data from early medieval (12th century CE) to early modern 
 contributor:
 - name: Sanni Peltola
   email: sanni.peltola@eva.mpg.de
-packageVersion: 1.0.0
-lastModified: 2025-07-03
+packageVersion: 1.0.1
+lastModified: 2026-08-14
 genotypeData:
   format: PLINK
   genoFile: 2025_Nordfors_MedievalFinland.bed
@@ -20,4 +20,5 @@ genotypeData:
 jannoFile: 2025_Nordfors_MedievalFinland.janno
 jannoFileChkSum: 6198e50af307e36494fac6e119eb9408
 bibFile: 2025_Nordfors_MedievalFinland.bib
-bibFileChkSum: 4ae1fe4f5e1d88baa39b23e990ca4f0d
+bibFileChkSum: c823698a2e9b116178b7f55781e7abbc
+changelogFile: CHANGELOG.md

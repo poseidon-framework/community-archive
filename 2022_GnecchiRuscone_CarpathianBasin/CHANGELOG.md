@@ -1,3 +1,4 @@
+- V 1.1.1: small doi-related fix in .bib file
 - V 1.1.0:
     - Switch to Poseidon v3.0.0.
     - Added/Modified .janno columns:

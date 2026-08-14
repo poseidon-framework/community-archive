@@ -5,8 +5,8 @@ description: 1000 Genomes project data pulled down to the 1240K SNP array. Origi
 contributor:
 - name: Ayshin Ghalichi
   email: ghalichi@shh.mpg.de
-packageVersion: 2.1.2
-lastModified: 2023-09-25
+packageVersion: 2.1.3
+lastModified: 2026-08-14
 genotypeData:
   format: PLINK
   genoFile: KGP.bed
@@ -19,5 +19,5 @@ genotypeData:
 jannoFile: KGP.janno
 jannoFileChkSum: 526200987306bc3e967efc4aaa72ca3c
 bibFile: LITERATURE.bib
-bibFileChkSum: ed84214d93a97b39a044b8cd79a1dbd6
+bibFileChkSum: 11b96bd4082988d950ca9344c0780446
 changelogFile: CHANGELOG.md

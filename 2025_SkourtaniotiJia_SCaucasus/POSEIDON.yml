@@ -7,8 +7,8 @@ contributor:
   email: eirini_skourtanioti@eva.mpg.de
 - name: Xiaowen Jia
   email: xiaowen_jia@eva.mpg.de
-packageVersion: 1.0.0
-lastModified: 2025-08-05
+packageVersion: 1.0.1
+lastModified: 2026-08-14
 genotypeData:
   format: PLINK
   genoFile: 2025_SkourtaniotiJia_SCaucasus.bed
@@ -21,4 +21,5 @@ genotypeData:
 jannoFile: 2025_SkourtaniotiJia_SCaucasus.janno
 jannoFileChkSum: f5e1d628160c38fa4ba3d4e1336044aa
 bibFile: 2025_SkourtaniotiJia_SCaucasus.bib
-bibFileChkSum: fcaa3d516e4ff3a553c22a424298592a
+bibFileChkSum: f4e429bf43ea177b5b77222b2378113b
+changelogFile: CHANGELOG.md

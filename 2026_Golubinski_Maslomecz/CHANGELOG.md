@@ -1,1 +1,2 @@
+- V 1.0.2: small doi-related fix in .bib file
 - V 1.0.1: completed bibtex entry
