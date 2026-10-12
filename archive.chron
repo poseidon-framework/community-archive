@@ -1,6 +1,6 @@
 title: Poseidon community-archive chronicle
-chronicleVersion: 1.72.0
-lastModified: 2026-09-02
+chronicleVersion: 1.73.0
+lastModified: 2026-10-12
 packages:
 - title: 2010_RasmussenNature
   version: 2.1.1
@@ -1365,6 +1365,10 @@ packages:
 - title: 2026_Ghalichi_IAEliteNomads
   version: 1.0.0
   commit: 9072f89f7175348c97c6311942ac055b3dc4d671
+  path: 2026_Ghalichi_IAEliteNomads
+- title: 2026_Ghalichi_IAEliteNomads
+  version: 1.0.1
+  commit: ed17a4132030bcd470e3bd530e2e272438f67d96
   path: 2026_Ghalichi_IAEliteNomads
 - title: 2026_Golubinski_Maslomecz
   version: 1.0.0
