@@ -6,8 +6,8 @@ contributor:
 - name: Ayshin Ghalichi
   email: ayshin_ghalichi@eva.mpg.de
   orcid: 0000-0002-9104-0395
-packageVersion: 1.0.0
-lastModified: 2026-07-02
+packageVersion: 1.0.1
+lastModified: 2026-10-12
 genotypeData:
   format: PLINK
   genoFile: 2026_Ghalichi_IAEliteNomads.bed
@@ -20,5 +20,5 @@ genotypeData:
 jannoFile: 2026_Ghalichi_IAEliteNomads.janno
 jannoFileChkSum: e8e97df979ae7c20ac36478dbe73ce4e
 bibFile: 2026_Ghalichi_IAEliteNomads.bib
-bibFileChkSum: 38ef21f918d582304fc68d3dc92c0b77
+bibFileChkSum: cc1964d116b08287992f37ba40d422af
 changelogFile: CHANGELOG.md

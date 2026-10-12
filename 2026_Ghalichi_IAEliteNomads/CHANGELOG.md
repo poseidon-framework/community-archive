@@ -1,1 +1,2 @@
+- V 1.0.1: completed bibtex entry
 - V 1.0.0: Initial package submission
