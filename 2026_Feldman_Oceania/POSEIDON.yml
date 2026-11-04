@@ -17,10 +17,9 @@ genotypeData:
   indFileChkSum: 59d1f1c2848a6dd15e7979a3677db0a7
   snpSet: 1240K
 jannoFile: 2026_Feldman_Oceania.janno
-jannoFileChkSum: 426d8f6b87b14ffef16badaed13df097
+jannoFileChkSum: 726f3d8d002d2b522dc0566f4d67ab1d
 bibFile: 2026_Feldman_Oceania.bib
 bibFileChkSum: 8972bed51677b3e8be5711c5b2576499
 ssfFile: 2026_Feldman_Oceania.ssf
-ssfFileChkSum: 9043223fd0a4d9bafa8990cb9faa91c1
-
+ssfFileChkSum: b6b5336a0869c5f1ff8d996003407d95
 readmeFile: README.md
