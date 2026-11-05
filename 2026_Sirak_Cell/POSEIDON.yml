@@ -1,0 +1,17 @@
+poseidonVersion: 2.7.1
+title: 2026_Sirak_Cell
+description: 212 individuals described in the (Sirak et al. 2026).
+contributor:
+- name: Judith Ballesteros Villascan
+  email: judith_ballesteros@eva.mpg.de
+  orcid: 0000-0001-8501-1363
+packageVersion: 0.1.0
+lastModified: 2026-11-04
+genotypeData:
+  format: EIGENSTRAT
+  genoFile: 2026_Sirak_Cell.geno
+  snpFile: 2026_Sirak_Cell.snp
+  indFile: 2026_Sirak_Cell.ind
+  snpSet: Other
+jannoFile: 2026_Sirak_Cell.janno
+bibFile: 2026_Sirak_Cell.bib
