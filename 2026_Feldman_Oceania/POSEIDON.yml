@@ -18,8 +18,8 @@ genotypeData:
   snpSet: 1240K
 jannoFile: 2026_Feldman_Oceania.janno
 jannoFileChkSum: 544efc06578b2ddf05f3b6e425ce10a9
+sequencingSourceFile: 2026_Feldman_Oceania.ssf
+sequencingSourceFileChkSum: 40de58804b487dda0aa4c9cf79b512fa
 bibFile: 2026_Feldman_Oceania.bib
 bibFileChkSum: 8972bed51677b3e8be5711c5b2576499
-sequencingSourceFile: 2026_Feldman_Oceania.ssf
-sequencingSourceFileChkSum: b6b5336a0869c5f1ff8d996003407d95
 readmeFile: README.md
