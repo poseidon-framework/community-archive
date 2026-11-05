@@ -1,6 +1,6 @@
 title: Poseidon community-archive chronicle
-chronicleVersion: 1.73.0
-lastModified: 2026-10-12
+chronicleVersion: 1.74.0
+lastModified: 2026-11-05
 packages:
 - title: 2010_RasmussenNature
   version: 2.1.1
@@ -1362,6 +1362,10 @@ packages:
   version: 1.0.1
   commit: bf532aac615e3944ecd08b281f3ebd021dfc66c6
   path: 2025_Zeng_UralicYeniseian
+- title: 2026_Feldman_Oceania
+  version: 1.0.0
+  commit: 4c27b61d143cbe8990349c382a8536535a0433dd
+  path: 2026_Feldman_Oceania
 - title: 2026_Ghalichi_IAEliteNomads
   version: 1.0.0
   commit: 9072f89f7175348c97c6311942ac055b3dc4d671
