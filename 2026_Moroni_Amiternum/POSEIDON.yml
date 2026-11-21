@@ -1,0 +1,23 @@
+poseidonVersion: 3.0.0
+title: 2026_Moroni_Amiternum
+description: Reconstructing the genetic ancestry of the archaeological site in Amiternum,
+  From Roman Imperial to early medieval times in Central Italy
+contributor:
+- name: Tlkhi
+  email: jodyegrim@gmail.com
+packageVersion: 1.0.0
+lastModified: 2026-11-21
+genotypeData:
+  format: PLINK
+  genoFile: 2026_Moroni_Amiternum.bed
+  genoFileChkSum: 96030d4824fa552f8ac6aeb862c05448
+  snpFile: 2026_Moroni_Amiternum.bim
+  snpFileChkSum: 2a1ea7a46cec4b4f3cbca518197ab0a2
+  indFile: 2026_Moroni_Amiternum.fam
+  indFileChkSum: 3b2d11502c8e3601c6a7a2a764439c95
+  snpSet: Other
+jannoFile: 2026_Moroni_Amiternum.janno
+jannoFileChkSum: a67423b6543e0610e20bbdbc8dc708eb
+bibFile: 2026_Moroni_Amiternum.bib
+bibFileChkSum: f3a555a67de28cc0cc5f83764d1a06b1
+readmeFile: README.md
