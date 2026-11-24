@@ -5,8 +5,8 @@ description: A western route of prehistoric human migration from Africa into the
 contributor:
 - name: Ayshin Ghalichi
   email: ghalichi@shh.mpg.de
-packageVersion: 2.2.1
-lastModified: 2025-02-07
+packageVersion: 2.2.2
+lastModified: 2026-11-24
 genotypeData:
   format: PLINK
   genoFile: GonzalesFortes_Iberia.bed
@@ -17,7 +17,7 @@ genotypeData:
   indFileChkSum: d8f7e19d3430ba0ddeaee3b948f11eb6
   snpSet: 1240K
 jannoFile: GonzalesFortes_Iberia.janno
-jannoFileChkSum: 9e7b4fcaff5f283745fbb89b1d33f045
+jannoFileChkSum: 5f50e7487e98ac988fee43ed3ac9def0
 sequencingSourceFile: ENAtable.ssf
 sequencingSourceFileChkSum: e37e3f37bc87476183a42dc53ce58217
 bibFile: LITERATURE.bib
