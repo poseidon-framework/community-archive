@@ -1,3 +1,4 @@
+- V 2.1.2: Corrected swapped Date_BC_AD_Start and Date_BC_AD_Stop for BOO002.A0101 to BOO006.A0101 (community-archive issue #347)
 - V 2.1.1: added DOI
 - V 2.1.0: Update of references in the .bib file
 - V 2.0.2: Merged the two CHANGELOG files
