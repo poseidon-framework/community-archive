@@ -1,3 +1,4 @@
+- V 2.2.2: Corrected Longitude for I6470 (3.84239 to -3.84239; Virgazal, Burgos lies west of Greenwich, Olalde et al. 2018 Supplementary Table 1) and Date_BC_AD_Stop for I3983 (315 to 523) and I12879 (-671 to -401), which lay below Date_BC_AD_Median; recalibrated from the published dates (1660±25 BP, 2390±30 BP; Olalde et al. 2019 supplement) with IntCal20 as for the other rows (community-archive issue #347)
 - V 2.2.1: updated bib-file
 - V 2.2.0: Update of references in the .bib file
 - V 2.1.0: added a .ssf file
