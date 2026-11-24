@@ -1,3 +1,4 @@
+- V 1.1.2: Corrected the sign of Date_BC_AD_Start and Date_BC_AD_Stop for five CE-dated individuals (zrj003, BOG019, BOG020, BOG024, BOG028), which were entered as BC; values per Table 1 and Table S1 of the publication
 - V 1.1.1: added DOI
 - V 1.1.0: Fixed wrongly named .janno column: Date_BC_AD_Median_BC -> Date_BC_AD_Median
 - V 1.0.0: Initial submission
