@@ -1,0 +1,1 @@
+- V 1.0.1: Corrected Date_BC_AD_Median and Date_BC_AD_Stop for ERI002 to ERI009 (the two values were swapped), checked against Supplementary Table 2 of the publication
