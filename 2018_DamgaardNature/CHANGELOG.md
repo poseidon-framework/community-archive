@@ -1,3 +1,4 @@
+- V 2.1.2: Corrected Latitude and/or Longitude of 27 individuals to the values in Supplementary Table 2 of the publication (see community-archive issue #347)
 - V 2.1.1: Fixed attribution to a wrong AADR version
 - V 2.1.0: Update of references in the .bib file
 - V 2.0.1: Genetic_Source_Accession_IDs added
