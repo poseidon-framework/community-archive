@@ -1,0 +1,1 @@
+- V 1.0.1: Corrected the sign of Date_BC_AD_Start, Date_BC_AD_Median and Date_BC_AD_Stop for 11 Late Unai individuals from the Naton Beach Site, Guam (I16817.AG, I16818.AG, I16819.AG, I16820.AG, I16821.AG, I16822.AG, I18440.AG, I18445.AG, I18450.AG, I18958.AG, I18959_d.AG): the BCE dates had been entered as positive (CE) years. See community-archive issue #347.
