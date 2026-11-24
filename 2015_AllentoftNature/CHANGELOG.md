@@ -1,3 +1,4 @@
+- V 2.1.2: Corrected Genetic_Sex for RISE21.SG, RISE139.SG, RISE145.SG and RISE174.SG in the .janno and .fam files to the DNA-based sex in Allentoft et al. 2015, Supplementary Tables 1 and 8
 - V 2.1.1: Fixed attribution to a wrong AADR version
 - V 2.1.0: Update of references in the .bib file
 - V 2.0.1: Genetic_Source_Accession_IDs added
