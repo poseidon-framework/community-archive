@@ -1,0 +1,22 @@
+poseidonVersion: 3.0.0
+title: 2026_Aydogan_ChalcolithicAnatolia
+description: Paleogenomics illuminates mobility and changing lifeways in Chalcolithic Anatolia
+contributor:
+- name: Tlkhi
+  email: jodyegrim@gmail.com
+packageVersion: 1.0.0
+lastModified: 2026-11-20
+genotypeData:
+  format: PLINK
+  genoFile: 2026_Aydogan_ChalcolithicAnatolia.bed
+  genoFileChkSum: 6d2bce8979cb2e2c323662956649fafd
+  snpFile: 2026_Aydogan_ChalcolithicAnatolia.bim
+  snpFileChkSum: 3ffd14ba049bf002a9915875d9f6a967
+  indFile: 2026_Aydogan_ChalcolithicAnatolia.fam
+  indFileChkSum: 54551dc4ec992fb075c3cf5e34a8b68a
+  snpSet: 1240K
+jannoFile: 2026_Aydogan_ChalcolithicAnatolia.janno
+jannoFileChkSum: 68a0c162376a9431553907b8b4f2e582
+bibFile: 2026_Aydogan_ChalcolithicAnatolia.bib
+bibFileChkSum: 4e4e2b8c16c3d8a5c6abe45f6402d830
+readmeFile: README.md
