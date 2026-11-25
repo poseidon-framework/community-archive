@@ -1,6 +1,7 @@
-poseidonVersion: 2.7.1
+poseidonVersion: 3.0.0
 title: 2026_Sirak_Colombia
-description: 212 individuals described in the (Sirak et al. 2026).
+description: 212 individuals spaning 7,000 years in the eastern Colombian Andes described
+  in the (Sirak et al. 2026).
 contributor:
 - name: Judith Ballesteros Villascan
   email: judith_ballesteros@eva.mpg.de
@@ -17,6 +18,6 @@ genotypeData:
   indFileChkSum: 264cebc3fefaa7f88f019e3607dbc975
   snpSet: Other
 jannoFile: 2026_Sirak_Colombia.janno
-jannoFileChkSum: 67de1c1e11b470e2469a5a36c6f3d0f0
+jannoFileChkSum: 3c95c9c61bbe93a1753459a7db5a603e
 bibFile: 2026_Sirak_Colombia.bib
 bibFileChkSum: 52628a21aca0398a20b8e1c5d23b2ce6
