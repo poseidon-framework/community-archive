@@ -6,7 +6,7 @@ contributor:
 - name: Judith Ballesteros Villascan
   email: judith_ballesteros@eva.mpg.de
   orcid: 0000-0001-8501-1363
-packageVersion: 0.1.0
+packageVersion: 1.0.0
 lastModified: 2026-11-05
 genotypeData:
   format: PLINK
