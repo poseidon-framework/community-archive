@@ -1,0 +1,22 @@
+poseidonVersion: 3.0.0
+title: 2026_Blocher_RomanFrontier
+description: Demography and life histories across the Roman frontier in Germany 400–700 CE
+contributor:
+- name: Tlkhi
+  email: jodyegrim@gmail.com
+packageVersion: 1.0.0
+lastModified: 2026-11-17
+genotypeData:
+  format: PLINK
+  genoFile: 2026_Blocher_RomanFrontier.bed
+  genoFileChkSum: b4af4e68ffe70e59038091ca859bddb3
+  snpFile: 2026_Blocher_RomanFrontier.bim
+  snpFileChkSum: 433fa85a23f3123bade02348e4628b75
+  indFile: 2026_Blocher_RomanFrontier.fam
+  indFileChkSum: 67d3eb54760651789aba15ee5f3aaec1
+  snpSet: 1240K
+jannoFile: 2026_Blocher_RomanFrontier.janno
+jannoFileChkSum: c88ebda63be6352157d1eb89b8ccbccc
+bibFile: 2026_Blocher_RomanFrontier.bib
+bibFileChkSum: 2a0884d0c38fa3cffe94ec8c2ccaadcd
+readmeFile: README.md
