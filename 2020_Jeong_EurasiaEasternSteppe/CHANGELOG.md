@@ -1,3 +1,4 @@
+- V 1.2.2: corrected Date_BC_AD_Stop for CHN014, DEE001 and SKT002 (Stop was earlier than Median), checked against Jeong et al. 2020, Table S4
 - V 1.2.1: fixed some list delimiters in Source_Tissue
 - V 1.2.0: Update of references in the .bib file
 - V 1.1.0: added a .ssf file
