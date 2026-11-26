@@ -1,3 +1,4 @@
+- V 2.2.2: Corrected Date_BC_AD_Start, Date_BC_AD_Median and Date_BC_AD_Stop for all four samples: the cells held the cal BP ranges of Gonzalez-Fortes et al. 2019, Table S1, with a minus sign; converted to BC/AD as 1950 - cal BP. Corrected Date_C14_Uncal_BP for LD1174.SG from 3989 to 3980 (Table S1) (community-archive issue #347)
 - V 2.2.1: added DOI
 - V 2.2.0: Update of references in the .bib file
 - V 2.1.0: added a .ssf file
