@@ -4,8 +4,8 @@ description: Bronze Age samples from Europe. Originally AADR v42.4.
 contributor:
 - name: Ayshin Ghalichi
   email: ghalichi@shh.mpg.de
-packageVersion: 2.1.1
-lastModified: 2023-07-11
+packageVersion: 2.1.2
+lastModified: 2026-11-24
 genotypeData:
   format: PLINK
   genoFile: 2015_AllentoftNature.bed
@@ -13,10 +13,10 @@ genotypeData:
   snpFile: 2015_AllentoftNature.bim
   snpFileChkSum: 7a7ef4d4f9c78a0bba32a329b6162dbd
   indFile: 2015_AllentoftNature.fam
-  indFileChkSum: d59e66306cb1d98bf62d4c0bc0d2cc69
+  indFileChkSum: c1065ba6c24e9eb27499a8743e7f6bba
   snpSet: 1240K
 jannoFile: 2015_AllentoftNature.janno
-jannoFileChkSum: c199019e38c309ce6007000f39211668
+jannoFileChkSum: 387efc942884358dd0b3a956b37f71cc
 bibFile: 2015_AllentoftNature.bib
 bibFileChkSum: a1fe95e99966aec5216e6a5315cfadc2
 changelogFile: CHANGELOG.md
