@@ -5,8 +5,8 @@ description: This study explores the migratory origins and societal structures o
 contributor:
 - name: Beatriz Amorim
   email: beatriz_amorim@eva.mpg.de
-packageVersion: 1.0.0
-lastModified: 2025-02-24
+packageVersion: 1.0.1
+lastModified: 2026-11-24
 genotypeData:
   format: PLINK
   genoFile: 2022_Liu_Micronesia.bed
@@ -17,6 +17,7 @@ genotypeData:
   indFileChkSum: cf4f108c0c280a7fd2bc005241a3c83b
   snpSet: 1240K
 jannoFile: 2022_Liu_Micronesia.janno
-jannoFileChkSum: d40817610f8559973c54813d4ecadd6b
+jannoFileChkSum: 08f802a243492ab680a111d985c32ee7
 bibFile: 2022_Liu_Micronesia.bib
 bibFileChkSum: af9f674d94f6d1016c97b5785a2490fb
+changelogFile: CHANGELOG.md
